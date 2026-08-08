@@ -46,5 +46,5 @@ licenses; see the project `NOTICE`.
 
 The experiment index is `EXPERIMENT_MANIFEST.json`. It distinguishes
 `complete` full-test results from `partial` checkpoint directories. See
-`../docs/EXPERIMENTS_CN.md` for the method definitions and the author-baseline
+`../docs/EXPERIMENTS.md` for the method definitions and the author-baseline
 comparison table.

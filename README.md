@@ -80,8 +80,8 @@ evaluation annotations, and the selected research score archives. Partial
 checkpoint directories are marked in `results/EXPERIMENT_MANIFEST.json` and
 are not promoted as full-test results. It does not include model weights,
 dataset videos, extracted frames, or caches. See
-[docs/EXPERIMENTS_CN.md](docs/EXPERIMENTS_CN.md) for the complete experiment
-index and author-baseline comparison.
+[docs/EXPERIMENTS.md](docs/EXPERIMENTS.md) for the experiment index and
+author-baseline comparison.
 
 ## Installation
 
