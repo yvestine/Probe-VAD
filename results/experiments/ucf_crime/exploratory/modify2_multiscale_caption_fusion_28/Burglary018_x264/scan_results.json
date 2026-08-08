@@ -1,0 +1,2700 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs.",
+    "caption_5s": "The video shows a car parked in front of a house.",
+    "caption_10s": "A person walks down a set of stairs.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person walks down a set of stairs, with a car parked in front of a house in the background.",
+    "caption": "A person walks down a set of stairs, with a car parked in front of a house in the background."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "The video shows a car parked on the side of the road.",
+    "caption_5s": "The video shows a car parked in front of a house. The camera captures the scene from 20:11:05 to 20:11:08, and there is no significant movement or action during this time.",
+    "caption_10s": "A person walks up a set of stairs.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A car is parked in front of a house, with a person walking up a set of stairs in the background, captured from 20:11:05 to 20:11:08.",
+    "caption": "A car is parked in front of a house, with a person walking up a set of stairs in the background, captured from 20:11:05 to 20:11:08."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "The video shows a car parked on the side of a road.",
+    "caption_5s": "The video shows a car parked on the street.",
+    "caption_10s": "A person walks down the stairs and across a brick driveway.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person walks down the stairs and across a brick driveway, passing a car parked on the street.",
+    "caption": "A person walks down the stairs and across a brick driveway, passing a car parked on the street."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a dark, nighttime scene with a parked car on the left side and a building entrance on the right. There is no visible movement or action throughout the sequence of images.",
+    "caption_5s": "The video shows a car parked in front of a house. The car is stationary and there are no other objects or people visible in the scene.",
+    "caption_10s": "The video shows a person walking down the stairs and then running away.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person walks down the stairs and then runs away from a building entrance, with a parked car visible on the left side.",
+    "caption": "A person walks down the stairs and then runs away from a building entrance, with a parked car visible on the left side."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a black and white security camera footage of a driveway with a car parked on the left side. The camera remains stationary throughout the entire duration of the video, capturing the scene without any significant movement or action.",
+    "caption_5s": "The video shows a car parked in front of a house. The camera captures the scene from 20:10:59 to 20:11:07, with no significant movement or action taking place.",
+    "caption_10s": "A person walks down the stairs and across a brick driveway.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A person walks down the stairs and across a brick driveway, captured by a stationary security camera from 20:10:59 to 20:11:07, with a car parked in front of a house.",
+    "caption": "A person walks down the stairs and across a brick driveway, captured by a stationary security camera from 20:10:59 to 20:11:07, with a car parked in front of a house."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a static night-time scene captured by a security camera. The footage is in black and white, with the timestamp \"04/01/2017 21:07:06\" visible at the top of the frame. There is no movement or action within the video; it simply displays a parked car on the left side and a building entrance on the right.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The timestamp indicates it is early morning, around 01:21:06 AM. There are no visible people or moving objects throughout the duration of the video.",
+    "caption_10s": "A person walks down the stairs and into a garage.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A black and white security camera captures a static night-time scene with a parked car on the left and a building entrance on the right, displaying no movement or action, with a timestamp indicating it is 04/01/2017 21:07:06.",
+    "caption": "A black and white security camera captures a static night-time scene with a parked car on the left and a building entrance on the right, displaying no movement or action, with a timestamp indicating it is 04/01/2017 21:07:06."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a static night-time scene captured by a security camera. The footage is in black and white, depicting a parked car on the left side of the frame and a building entrance on the right. There are no visible actions or movements throughout the sequence of images.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car. The timestamp indicates the recording was made on April 2017. There are no visible people or moving objects in the footage.",
+    "caption_10s": "A person walks up a set of stairs and enters a building.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A black and white security camera footage shows a parked car on the left and a building entrance on the right, with no visible actions or movements, captured on a driveway in April 2017.",
+    "caption": "A black and white security camera footage shows a parked car on the left and a building entrance on the right, with no visible actions or movements, captured on a driveway in April 2017."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a static night-time scene captured by a security camera. The footage is in black and white, with the timestamp \"04/01/2017 21:07:06\" visible at the top of the frame. The camera angle is fixed, showing a driveway leading to a house entrance. There is no movement or action within the video; it remains still throughout its duration.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The area is dimly lit, and there are no visible people or moving objects throughout the sequence of images.",
+    "caption_10s": "A person walks up a set of stairs, followed by a dog.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A black and white security camera captures a static night-time scene of a driveway leading to a house entrance, with a parked car on the left side, dimly lit, and no visible people or movement, until a person walks up a set of stairs followed by a dog.",
+    "caption": "A black and white security camera captures a static night-time scene of a driveway leading to a house entrance, with a parked car on the left side, dimly lit, and no visible people or movement, until a person walks up a set of stairs followed by a dog."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video is a sequence of black and white images taken from a security camera. It shows a parked car on the left side of the frame, with a driveway leading up to a house entrance on the right. The images are taken at night, as indicated by the darkness and artificial lighting. There is no movement or action within the frames, suggesting a static scene without any significant events occurring.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The area is dimly lit, suggesting it's nighttime. There are no visible people or moving objects in the footage.",
+    "caption_10s": "A person walks up a flight of stairs and enters a building.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A black and white security camera footage shows a parked car on the left side of the frame, with a driveway leading up to a house entrance on the right, in a dimly lit area suggesting nighttime, with a person walking up a flight of stairs and entering the building in the background.",
+    "caption": "A black and white security camera footage shows a parked car on the left side of the frame, with a driveway leading up to a house entrance on the right, in a dimly lit area suggesting nighttime, with a person walking up a flight of stairs and entering the building in the background."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The area is dimly lit, suggesting it's nighttime. There are no visible people or moving objects in the footage.",
+    "caption_5s": "The video shows a dark outdoor scene with a parked car on the left and a building entrance on the right. The ground is paved with square tiles, and there is a small step leading up to the door. The footage is in black and white, suggesting it was taken at night or in low light conditions. No people or moving objects are visible throughout the sequence of images.",
+    "caption_10s": "A person is seen walking up a flight of stairs.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A black and white security camera footage shows a dimly lit driveway with a parked car on the left and a building entrance on the right, featuring a small step and paved ground. A person is seen walking up a flight of stairs.",
+    "caption": "A black and white security camera footage shows a dimly lit driveway with a parked car on the left and a building entrance on the right, featuring a small step and paved ground. A person is seen walking up a flight of stairs."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video is a black and white security camera recording. It shows a person walking towards the camera from a distance, approaching a parked car on the left side of the frame. The person appears to be carrying something in their right hand. The ground is paved with square tiles, and there is a small step or curb visible. The timestamp indicates the recording was made at 21:01:16 on 04/01/2017.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The timestamp indicates it's early morning, around 01:21:07. A person appears in the frame, walking towards the right side of the screen. They are wearing light-colored pants and dark shoes. The person's upper body is not visible in the frame. The individual walks at a steady pace and exits the frame to the right.",
+    "caption_10s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The timestamp indicates it is nighttime. A person wearing light-colored clothing enters the frame from the right, walks towards the car, opens the rear door, and appears to interact with something or someone inside the vehicle. The person then closes the door and exits the frame to the right.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person wearing light-colored clothing walks towards a parked car on a driveway with a paved surface of square tiles and a small step or curb, carrying something in their right hand, at 21:01:16 on 04/01/2017.",
+    "caption": "A person wearing light-colored clothing walks towards a parked car on a driveway with a paved surface of square tiles and a small step or curb, carrying something in their right hand, at 21:01:16 on 04/01/2017."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings are mostly dark, with only the outline of the stairs and the person visible.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The footage captures a person walking up the steps towards the entrance of a house. The person appears to be carrying something in their hand, but it is not clear what it is due to the low resolution and lack of color.",
+    "caption_10s": "The video shows a black and white security camera footage of a driveway with a parked car. The timestamp indicates it's nighttime. A person is seen walking up the steps towards the house, carrying an object that appears to be a bag or package. The person's actions are deliberate and focused on reaching the door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person walks up the steps towards a house at night, carrying a bag or package in their hand, with a parked car visible on the driveway.",
+    "caption": "A person walks up the steps towards a house at night, carrying a bag or package in their hand, with a parked car visible on the driveway."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a black and white security camera footage of a driveway with a car parked on the left side. The timestamp indicates it is early morning, around 01:21:00. A person appears in the frame, walking towards the right side of the screen. They are wearing light-colored clothing and appear to be carrying something in their hand. The person's pace is steady, and they seem to be heading towards a destination out of the frame.",
+    "caption_10s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The timestamp indicates it's nighttime, and there is no significant movement or action throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person in light-colored clothing walks down a set of stairs, then appears in a driveway at 01:21:00, walking towards the right side, carrying something, and heading towards a destination out of frame, in an area with a parked car, on a driveway with a car parked on the left side.",
+    "caption": "A person in light-colored clothing walks down a set of stairs, then appears in a driveway at 01:21:00, walking towards the right side, carrying something, and heading towards a destination out of frame, in an area with a parked car, on a driveway with a car parked on the left side."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings are not clearly visible due to the low lighting conditions.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They walk at a steady pace, and the camera angle remains fixed throughout the sequence.",
+    "caption_10s": "The video shows a black and white security camera footage of a driveway with a parked car on the left side. The footage captures a person walking up the steps towards the entrance of a house, carrying an object that appears to be a bag or a package. The person's actions are deliberate and focused as they ascend the steps.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person in light-colored clothing walks deliberately up a set of stairs in a dimly lit area, carrying a bag or package, with a parked car visible on the left side of the driveway.",
+    "caption": "A person in light-colored clothing walks deliberately up a set of stairs in a dimly lit area, carrying a bag or package, with a parked car visible on the left side of the driveway."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a dog walking down the stairs.",
+    "caption_5s": "A dog is seen walking up a flight of stairs in the video.",
+    "caption_10s": "The video shows a person walking down the stairs of a building at night. The person is wearing light-colored clothing and carrying a bag. They walk down the stairs in a steady pace, and there are no other people visible in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying a bag, walks down the stairs of a building at night in a steady pace.",
+    "caption": "A person, wearing light-colored clothing and carrying a bag, walks down the stairs of a building at night in a steady pace."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A dog is seen walking up a flight of stairs.",
+    "caption_5s": "The video shows a dog walking on two legs, resembling a human. The dog is seen walking down the street and then up a set of stairs.",
+    "caption_10s": "A person is seen walking down a set of stairs. They are carrying a bag and appear to be in a hurry.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A person, carrying a bag, walks down a set of stairs, then up a flight of stairs, and continues walking on two legs, resembling a human, down the street.",
+    "caption": "A person, carrying a bag, walks down a set of stairs, then up a flight of stairs, and continues walking on two legs, resembling a human, down the street."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a dog walking down the stairs.",
+    "caption_5s": "A dog is seen walking up a flight of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They walk at a steady pace, and the camera angle remains fixed throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying something, walks steadily down a dimly lit set of stairs, as a dog walks up a flight of stairs in the background.",
+    "caption": "A person, wearing light-colored clothing and carrying something, walks steadily down a dimly lit set of stairs, as a dog walks up a flight of stairs in the background."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs in the video.",
+    "caption_5s": "The video shows a dog walking down the stairs of a building. The dog is wearing a collar and appears to be alone.",
+    "caption_10s": "A person is seen walking down a set of stairs in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person walks down a set of stairs, wearing a collar and appearing to be alone, in a building.",
+    "caption": "A person walks down a set of stairs, wearing a collar and appearing to be alone, in a building."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand.",
+    "caption_5s": "A dog is seen walking up a flight of stairs in the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs in the dark. The person is wearing light-colored clothing and appears to be carrying something in their hand. They walk at a steady pace, and there are no other people visible in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with no other people visible.",
+    "caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with no other people visible."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "The video shows a dog walking down the stairs.",
+    "caption_5s": "The video shows a dog walking down the stairs of a building. The dog is wearing a collar and appears to be a medium-sized breed. The camera angle is from above, and the video is in black and white.",
+    "caption_10s": "A dog is seen walking up a flight of stairs. The dog is wearing a collar and is being followed by a person. The dog reaches the top of the stairs and then turns around to walk back down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A dog, wearing a collar, walks down the stairs of a building, a medium-sized breed, from an above camera angle in black and white, as it is followed by a person who is also walking down the stairs.",
+    "caption": "A dog, wearing a collar, walks down the stairs of a building, a medium-sized breed, from an above camera angle in black and white, as it is followed by a person who is also walking down the stairs."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing light-colored clothing. The camera angle is from above, looking down at the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door.",
+    "caption_10s": "The video shows a person walking down a set of stairs at night. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings are dimly lit, and the only visible object is the person.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person in light-colored clothing walks down a set of stairs at night, carrying something in their hand, in a dimly lit area with a parked car and a building in the background.",
+    "caption": "A person in light-colored clothing walks down a set of stairs at night, carrying something in their hand, in a dimly lit area with a parked car and a building in the background."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in the dark. The person is wearing light-colored clothing and appears to be carrying something in their hand. The camera angle is from above, looking down on the person as they descend the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a dog walking on two legs, resembling a human. The dog is seen walking down a set of stairs and then standing upright on the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying something, walks down a set of stairs in a dimly lit area, with the camera capturing their descent from above.",
+    "caption": "A person, wearing light-colored clothing and carrying something, walks down a set of stairs in a dimly lit area, with the camera capturing their descent from above."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground near a car, with no significant movement or change in position throughout the sequence.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The person is wearing light-colored pants and dark shoes. They are carrying a bag on their right shoulder. The video is in black and white, and the time stamp indicates it was recorded at 21:11:11.",
+    "caption_10s": "The video shows a person walking down a set of stairs at night. The person is wearing light-colored clothing and appears to be carrying something in their hand. They are walking slowly and carefully, taking each step one by one.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person in light-colored clothing, possibly carrying something, walks down a set of stairs at night, wearing dark shoes, with a bag on their right shoulder, as recorded at 21:11:11 in black and white.",
+    "caption": "A person in light-colored clothing, possibly carrying something, walks down a set of stairs at night, wearing dark shoes, with a bag on their right shoulder, as recorded at 21:11:11 in black and white."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a black and white security camera footage of a person walking down a set of stairs. The individual is wearing light-colored clothing, and the surroundings include a parked car to the left and a textured wall on the right. The timestamp indicates the recording occurred at 01:21:12 on April 04, 2017.",
+    "caption_5s": "The video shows a person in light-colored clothing walking down a set of stairs. The individual is carrying a bag and appears to be alone. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a series of black and white images from a security camera. The footage captures a person wearing light-colored clothing, possibly a jacket and pants, walking down a set of stairs. The individual appears to be carrying something in their right hand. The surroundings include a parked car on the left side of the frame and a textured ground surface. The time displayed on the camera is consistent throughout the sequence, indicating that the events occur within a short period.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person in light-colored clothing, possibly wearing a jacket and pants, walks down a set of stairs, carrying a bag in their right hand, in a dimly lit area with a parked car to the left and a textured ground surface, as recorded by a security camera at 01:21:12 on April 04, 2017.",
+    "caption": "A person in light-colored clothing, possibly wearing a jacket and pants, walks down a set of stairs, carrying a bag in their right hand, in a dimly lit area with a parked car to the left and a textured ground surface, as recorded by a security camera at 01:21:12 on April 04, 2017."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door. The video is in black and white, suggesting it might be night time or taken from a security camera.",
+    "caption_5s": "The video shows a dark outdoor setting with a parked car on the left side and a person walking down a set of stairs. The person is wearing light-colored clothing, and their pace appears steady as they descend. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a black and white surveillance footage of a dog walking on a paved surface. The dog appears to be medium-sized with a light-colored coat, possibly white or gray. It moves from the left side of the frame towards the right, passing by a parked car on the left. The dog's gait is steady, and it seems to be exploring its surroundings.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person, possibly carrying something, walks down a set of stairs in a dimly lit area with a parked car and a building nearby, captured in black and white footage, likely from a security camera.",
+    "caption": "A person, possibly carrying something, walks down a set of stairs in a dimly lit area with a parked car and a building nearby, captured in black and white footage, likely from a security camera."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a series of still images from a night-vision security camera. The images depict a person wearing light-colored clothing, possibly a jacket and pants, walking on a paved surface next to a parked car. The person's actions are not clearly visible due to the low resolution and monochrome nature of the footage.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The individual is wearing light-colored pants and dark shoes. They are carrying a bag or jacket over their shoulder. The surroundings include a parked car to the left and a building with a textured wall to the right. The lighting suggests it is nighttime, and the video appears to be recorded by a security camera.",
+    "caption_10s": "The video shows a series of black and white images taken from a security camera. The images depict a person wearing light-colored clothing walking down a set of stairs. The person appears to be carrying something in their right hand, which is not clearly identifiable due to the low resolution and monochrome nature of the footage. The surrounding area includes a parked car on the left side and a textured pavement. The time displayed on the camera reads \"04/01/2017 21:10:10\" and changes incrementally throughout the sequence, indicating the passage of time.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person wearing light-colored clothing, possibly a jacket and pants, walks down a set of stairs in a dimly lit area at night, carrying a bag or jacket over their shoulder and possibly something in their right hand, with a parked car to the left and a building with a textured wall to the right, as recorded by a security camera on April 1, 2017 at 21:10:10.",
+    "caption": "A person wearing light-colored clothing, possibly a jacket and pants, walks down a set of stairs in a dimly lit area at night, carrying a bag or jacket over their shoulder and possibly something in their right hand, with a parked car to the left and a building with a textured wall to the right, as recorded by a security camera on April 1, 2017 at 21:10:10."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They are walking at a steady pace and do not appear to be in any hurry.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with a parked car and a building nearby.",
+    "caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with a parked car and a building nearby."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They are walking at a steady pace and do not appear to be in any hurry.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing light-colored clothing. The camera angle is from above, looking down on the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with a parked car and a building with a visible door visible in the surroundings.",
+    "caption": "A person in light-colored clothing walks down a set of stairs in a dimly lit area, carrying something in their hand, at a steady pace, with a parked car and a building with a visible door visible in the surroundings."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing dark clothing and appears to be carrying something in their hand. The camera angle is from above, looking down the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The person is wearing light-colored clothing and appears to be carrying something in their hand. The video is taken from a security camera, and the timestamp indicates that it was recorded at night.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing light-colored clothing. The camera angle is from above, and the person's shadow is visible on the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A person, wearing light-colored clothing, walks down a set of stairs in a dimly lit area, carrying something in their hand, with their shadow visible on the ground, as seen from a security camera's overhead angle.",
+    "caption": "A person, wearing light-colored clothing, walks down a set of stairs in a dimly lit area, carrying something in their hand, with their shadow visible on the ground, as seen from a security camera's overhead angle."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "A person is seen walking down a set of stairs in the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person walks down a set of stairs.",
+    "caption": "A person walks down a set of stairs."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person walks down the stairs.",
+    "caption": "A person walks down the stairs."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking down the stairs.",
+    "caption_5s": "A person is seen walking down a set of stairs in the video.",
+    "caption_10s": "The video shows a person walking down the stairs in a parking lot. The person is wearing a white shirt and dark pants. They are carrying a bag in their right hand. The person walks down the stairs and then turns to the left.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person wearing a white shirt and dark pants, carrying a bag in their right hand, walks down the stairs in a parking lot, turns to the left, and continues.",
+    "caption": "A person wearing a white shirt and dark pants, carrying a bag in their right hand, walks down the stairs in a parking lot, turns to the left, and continues."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a flight of stairs in the video.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A person walks down the stairs.",
+    "caption": "A person walks down the stairs."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a flight of stairs.",
+    "caption_5s": "A person is seen walking down a set of stairs in the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They are walking at a steady pace, and there is no interaction with any other objects or people.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying something in their hand, walks steadily down a dimly lit set of stairs.",
+    "caption": "A person, wearing light-colored clothing and carrying something in their hand, walks steadily down a dimly lit set of stairs."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "The video shows a person walking down the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down the stairs.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "The video shows a person walking down the stairs.",
+    "caption": "The video shows a person walking down the stairs."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing light-colored clothing. The camera angle is from above, looking down on the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person wearing a white shirt and dark pants walking down a set of stairs. The person is carrying a bag in their right hand. The scene is captured by a black and white security camera, and the timestamp indicates that it was recorded at night.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person in a white shirt and dark pants, carrying a bag in their right hand, walks down a set of stairs at night, captured by a black and white security camera from an above angle.",
+    "caption": "A person in a white shirt and dark pants, carrying a bag in their right hand, walks down a set of stairs at night, captured by a black and white security camera from an above angle."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing dark clothing and appears to be carrying something in their hand.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing a hat.",
+    "caption_10s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They are walking at a steady pace, and there is no one else visible in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying something in their hand, walks down a set of stairs in a dimly lit area at a steady pace, wearing a hat, with no one else visible.",
+    "caption": "A person, wearing light-colored clothing and carrying something in their hand, walks down a set of stairs in a dimly lit area at a steady pace, wearing a hat, with no one else visible."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a white shirt and dark pants, walking down a set of stairs. The footage is in black and white and appears to be taken from a security camera.",
+    "caption_5s": "The video shows a person wearing a white shirt and dark pants walking down a set of stairs. The footage is in black and white, and the person appears to be alone.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing a hat and carrying something in their hand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person, wearing a white shirt and dark pants, walks down a set of stairs, alone, in black and white footage, possibly from a security camera, carrying something in their hand.",
+    "caption": "A person, wearing a white shirt and dark pants, walks down a set of stairs, alone, in black and white footage, possibly from a security camera, carrying something in their hand."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and reflective clothing, standing on a sidewalk next to a parked car. The individual appears to be engaged in an activity that involves bending over and reaching towards the ground, possibly picking up or placing something down. The surroundings are dimly lit, suggesting it is nighttime, and the footage is captured by a security camera with a timestamp visible in the upper left corner of the frame.",
+    "caption_5s": "The video shows a person wearing a white top and dark pants walking down a set of stairs. The person is carrying an object in their right hand, which they appear to be holding onto for balance as they descend. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a series of black and white images from a security camera. The images depict a person wearing light-colored clothing, possibly a jacket and pants, walking down a set of stairs. The person appears to be carrying something in their right hand, which could be a bag or an object. The surroundings include a parked car on the left side and a textured pavement. The timestamp on the footage indicates that it was recorded at night.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying an object in their right hand, walks down a set of stairs, possibly for balance, in dimly lit surroundings, with a parked car visible on the left side, as recorded by a security camera at night.",
+    "caption": "A person, wearing light-colored clothing and carrying an object in their right hand, walks down a set of stairs, possibly for balance, in dimly lit surroundings, with a parked car visible on the left side, as recorded by a security camera at night."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a mask and dark clothing, bending over near the rear of a parked car. The individual appears to be interacting with something on the ground, possibly picking up or placing an object. The scene is captured by a security camera in black and white, and the timestamp indicates it's nighttime.",
+    "caption_5s": "The video shows a person wearing a light-colored jacket and dark pants, walking up a set of stairs. The individual is carrying an object in their right hand, which they appear to be holding onto for support as they ascend the stairs. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a person wearing a white outfit and a helmet, walking down a set of stairs. The footage is in black and white, suggesting it was taken at night or in low light conditions. The person appears to be carrying something in their hand as they descend the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person, possibly wearing a mask, is seen interacting with something on the ground near a parked car at night. Later, a person in a light-colored jacket and dark pants is shown walking up stairs, carrying an object, in a dimly lit area. Finally, a person in a white outfit and helmet is seen walking down stairs, also carrying something, in black and white footage, likely taken at night.",
+    "caption": "A person, possibly wearing a mask, is seen interacting with something on the ground near a parked car at night. Later, a person in a light-colored jacket and dark pants is shown walking up stairs, carrying an object, in a dimly lit area. Finally, a person in a white outfit and helmet is seen walking down stairs, also carrying something, in black and white footage, likely taken at night."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and light-colored clothing, bending over and picking up an object from the ground. The individual is positioned near a parked car in a dimly lit area, possibly a driveway or parking lot. The surroundings are not well-lit, and the timestamp on the footage indicates it was recorded at night.",
+    "caption_5s": "The video shows a person wearing a light-colored top and dark pants, walking down a set of stairs. The person is carrying an object in their right hand, which they appear to be holding onto for balance as they descend. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a person wearing a light-colored jacket and dark pants, walking up a set of stairs. The individual is carrying an object in their right hand, which they appear to be holding onto for support as they ascend. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area. The person's pace seems steady, and there is no interaction with other individuals or objects aside from the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A person wearing light-colored clothing and a helmet is seen bending over to pick up an object in a dimly lit area, possibly a driveway or parking lot, at night. They are later shown walking down a set of stairs, carrying the object for balance, in a dimly lit area. The person then walks up a set of stairs, still carrying the object, with a steady pace in a dimly lit area.",
+    "caption": "A person wearing light-colored clothing and a helmet is seen bending over to pick up an object in a dimly lit area, possibly a driveway or parking lot, at night. They are later shown walking down a set of stairs, carrying the object for balance, in a dimly lit area. The person then walks up a set of stairs, still carrying the object, with a steady pace in a dimly lit area."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a mask and carrying a bag. They are seen walking towards a car parked on the side of the road. The person then proceeds to open the back door of the car and appears to be placing something inside.",
+    "caption_5s": "The video shows a person wearing a mask and carrying a bag, walking up a flight of stairs. The footage is in black and white and appears to be taken from a security camera.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person appears to be wearing a hat.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person wearing a mask and carrying a bag walks towards a car, opens the back door, and places something inside, then later walks up a flight of stairs in black and white footage from a security camera, and is later seen walking down a set of stairs wearing a hat.",
+    "caption": "A person wearing a mask and carrying a bag walks towards a car, opens the back door, and places something inside, then later walks up a flight of stairs in black and white footage from a security camera, and is later seen walking down a set of stairs wearing a hat."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and dark pants walking down a set of stairs. The person is carrying something in their right hand, which they appear to be holding onto tightly. The scene takes place at night, and the only light comes from a nearby streetlight.",
+    "caption_5s": "The video shows a person wearing a mask and carrying a bag, walking down a set of stairs. They appear to be in a hurry and are looking around as they descend.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The footage is in black and white, and the person is wearing a hat.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person, wearing a hooded jacket and dark pants, walks down a set of stairs at night, carrying something in their right hand, and appears to be in a hurry, looking around as they descend, wearing a mask and carrying a bag, in a scene illuminated by a nearby streetlight, captured in black and white footage.",
+    "caption": "A person, wearing a hooded jacket and dark pants, walks down a set of stairs at night, carrying something in their right hand, and appears to be in a hurry, looking around as they descend, wearing a mask and carrying a bag, in a scene illuminated by a nearby streetlight, captured in black and white footage."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and dark pants, bending over near the back of a car parked on a cobblestone driveway. The individual appears to be interacting with something on the ground, possibly picking up or placing an object. The scene is captured by a security camera at night, and the person's actions are deliberate and focused.",
+    "caption_5s": "The video shows a person walking down the stairs.",
+    "caption_10s": "The video shows a person wearing a white hooded jacket and dark pants, standing on a sidewalk next to a parked car. The individual is seen bending over and picking up an object from the ground. The scene takes place at night, as indicated by the darkness and the presence of a security camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants is seen bending over near a parked car on a cobblestone driveway at night, interacting with something on the ground, before standing up and walking down the stairs.",
+    "caption": "A person wearing a hooded jacket and dark pants is seen bending over near a parked car on a cobblestone driveway at night, interacting with something on the ground, before standing up and walking down the stairs."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "The video shows a person walking down the stairs.",
+    "caption_5s": "A person is seen walking up a flight of stairs while carrying something in their hand.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A person is walking down a set of stairs, carrying something in their hand.",
+    "caption": "A person is walking down a set of stairs, carrying something in their hand."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs in the video.",
+    "caption_5s": "The video shows a person wearing a mask and carrying a bag, who is seen walking down the stairs.",
+    "caption_10s": "A person is seen walking down a set of stairs while carrying something in their hand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A person, wearing a mask and carrying a bag, walks down a set of stairs.",
+    "caption": "A person, wearing a mask and carrying a bag, walks down a set of stairs."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking down the stairs.",
+    "caption_5s": "A person is seen walking down the stairs and then bending over to pick something up.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A person walks down the stairs, bends over to pick something up, and continues walking.",
+    "caption": "A person walks down the stairs, bends over to pick something up, and continues walking."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs in the video.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "A person is seen walking up a flight of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A person is walking down a set of stairs, initially descending, then reversing direction to ascend a flight of stairs.",
+    "caption": "A person is walking down a set of stairs, initially descending, then reversing direction to ascend a flight of stairs."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down the stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "The video shows a person walking down a set of stairs.",
+    "caption": "The video shows a person walking down a set of stairs."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "The video shows a person walking down the stairs.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a ramp. They then proceed to ride down the ramp, maintaining balance and control throughout the descent.",
+    "caption_10s": "A person is seen walking down a set of stairs in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person, wearing a helmet and dark clothing, stands on a skateboard at the top of a ramp, then rides down the ramp, maintaining balance and control, before eventually walking down a set of stairs.",
+    "caption": "A person, wearing a helmet and dark clothing, stands on a skateboard at the top of a ramp, then rides down the ramp, maintaining balance and control, before eventually walking down a set of stairs."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and protective gear, standing on a skateboard. They are riding down a ramp in a parking lot at night. The person maintains their balance and control while skating down the ramp.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are seen riding the skateboard down a set of stairs in a dimly lit outdoor area at night. The surroundings include a parked car and a building with a visible door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing rides a skateboard down a set of stairs in a dimly lit outdoor area at night, maintaining balance and control, with a parked car and a building visible in the surroundings.",
+    "caption": "A person wearing a helmet and dark clothing rides a skateboard down a set of stairs in a dimly lit outdoor area at night, maintaining balance and control, with a parked car and a building visible in the surroundings."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a ramp. They then proceed to ride down the ramp, maintaining balance and control throughout the descent.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned on a sidewalk next to a parked car, with a building in the background. The person remains stationary throughout the video, with no significant movement or action taking place.",
+    "caption_10s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing dark clothing and appears to be carrying something in their hand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing is standing on a skateboard at the top of a ramp, then rides down the ramp, maintaining balance and control, before walking down a set of stairs in a dimly lit area, carrying something in their hand, with a building in the background.",
+    "caption": "A person wearing a helmet and dark clothing is standing on a skateboard at the top of a ramp, then rides down the ramp, maintaining balance and control, before walking down a set of stairs in a dimly lit area, carrying something in their hand, with a building in the background."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a set of stairs. The individual then proceeds to ride down the stairs, maintaining balance and control throughout the descent.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are seen riding the skateboard down a set of stairs in a dimly lit area, possibly at night. The person maintains balance and control while descending the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing rides a skateboard down a set of stairs, maintaining balance and control throughout the descent in a dimly lit area.",
+    "caption": "A person wearing a helmet and dark clothing rides a skateboard down a set of stairs, maintaining balance and control throughout the descent in a dimly lit area."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a set of stairs. The individual appears to be preparing to descend the stairs while skateboarding. The surroundings are dimly lit, suggesting it is nighttime or in a poorly lit area. The skateboarder's actions are cautious and deliberate, indicating an awareness of the potential risks involved in this activity.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a sidewalk, with a parked car visible in the background. The individual appears to be stationary throughout the sequence, with no significant movement or action taking place.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned on a paved surface with a car parked to the left. The individual appears to be stationary throughout the sequence of images.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing stands on a skateboard near a parked car on a paved surface, appearing stationary with no significant movement.",
+    "caption": "A person wearing a helmet and dark clothing stands on a skateboard near a parked car on a paved surface, appearing stationary with no significant movement."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a set of stairs. The individual appears to be preparing to descend the stairs while skateboarding.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a staircase, with one foot on the ground and the other on the skateboard. The person appears to be preparing to descend the stairs. The surroundings include a parked car and a paved area.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned on a paved surface with a parked car to their left. The individual is seen performing a trick or maneuver on the skateboard, which involves lifting the front wheels off the ground and balancing on the back wheels. The action takes place at night, as indicated by the darkness and artificial lighting in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing stands on a skateboard near the edge of a staircase, with one foot on the ground and the other on the skateboard, positioned on a paved surface with a parked car to their left, at night, as they prepare to descend the stairs or perform a trick, lifting the front wheels off the ground and balancing on the back wheels.",
+    "caption": "A person wearing a helmet and dark clothing stands on a skateboard near the edge of a staircase, with one foot on the ground and the other on the skateboard, positioned on a paved surface with a parked car to their left, at night, as they prepare to descend the stairs or perform a trick, lifting the front wheels off the ground and balancing on the back wheels."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a set of stairs. The individual appears to be preparing to descend the stairs while skateboarding. The surroundings are dimly lit, suggesting it is nighttime or in a poorly lit area. The skateboarder's actions are cautious and deliberate, indicating they are likely assessing the situation before proceeding.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a staircase, with a car parked to their left. The individual appears to be preparing to descend the stairs on the skateboard.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned at the top of a set of stairs with a car parked to the left. The individual appears to be preparing to descend the stairs on the skateboard.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing stands on a skateboard at the top of a set of stairs near a car, preparing to descend the stairs with cautious and deliberate actions in a dimly lit area.",
+    "caption": "A person wearing a helmet and dark clothing stands on a skateboard at the top of a set of stairs near a car, preparing to descend the stairs with cautious and deliberate actions in a dimly lit area."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a dog standing on its hind legs, leaning against a wall. The dog appears to be looking at something off-camera. There is no significant movement or action in the video.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a staircase, with their back facing the camera. The person remains stationary throughout the video, with no significant movement or action taking place.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing stands stationary on a skateboard near the edge of a staircase, looking down the stairs, while a dog stands on its hind legs, leaning against a wall nearby, with a person walking down the stairs in the background.",
+    "caption": "A person wearing a helmet and dark clothing stands stationary on a skateboard near the edge of a staircase, looking down the stairs, while a dog stands on its hind legs, leaning against a wall nearby, with a person walking down the stairs in the background."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned at the top of a set of stairs, with a car parked nearby. The person appears to be preparing to descend the stairs on the skateboard.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a staircase, with their back facing the camera. The person appears to be preparing to descend the stairs on the skateboard.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing walks down a set of stairs, with a car parked nearby.",
+    "caption": "A person wearing a helmet and dark clothing walks down a set of stairs, with a car parked nearby."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard at the top of a staircase. The individual then proceeds to ride down the stairs, maintaining balance throughout the descent.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned near the edge of a staircase, with their back facing the camera. The person remains stationary throughout the video, with no significant movement or change in position.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, who is seen walking down a set of stairs. They then proceed to walk towards a car parked nearby.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing is seen standing on a skateboard at the top of a staircase, then remains stationary for a brief moment before walking down the stairs and approaching a car parked nearby.",
+    "caption": "A person wearing a helmet and dark clothing is seen standing on a skateboard at the top of a staircase, then remains stationary for a brief moment before walking down the stairs and approaching a car parked nearby."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and riding a skateboard down a set of stairs. The person is seen from a surveillance camera, and the video is in black and white.",
+    "caption_5s": "A person is seen walking down a set of stairs in the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A person wearing a helmet is seen from a surveillance camera, riding a skateboard down a set of stairs in black and white.",
+    "caption": "A person wearing a helmet is seen from a surveillance camera, riding a skateboard down a set of stairs in black and white."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 37.0
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and riding a skateboard down a set of stairs.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, who is seen walking up a flight of stairs. The person appears to be carrying something in their hand.",
+    "caption_10s": "A person is seen walking down a set of stairs in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing walks up a flight of stairs, then appears to be carrying something in their hand, before walking down the stairs.",
+    "caption": "A person wearing a helmet and dark clothing walks up a flight of stairs, then appears to be carrying something in their hand, before walking down the stairs."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person wearing a helmet and dark clothing, who is seen walking up a flight of stairs. The footage is in black and white and appears to be taken from a security camera.",
+    "caption_5s": "A person is seen walking down the stairs and then running away.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A person in dark clothing, wearing a helmet, is seen walking down a set of stairs in black and white footage, likely from a security camera.",
+    "caption": "A person in dark clothing, wearing a helmet, is seen walking down a set of stairs in black and white footage, likely from a security camera."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, who is seen climbing up a set of stairs. The individual appears to be struggling and takes several attempts before successfully reaching the top.",
+    "caption_10s": "The video shows a person walking down the stairs and then running away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A person, wearing a helmet and dark clothing, is seen climbing up a set of stairs, struggling and taking several attempts before reaching the top, then walks down the stairs and runs away.",
+    "caption": "A person, wearing a helmet and dark clothing, is seen climbing up a set of stairs, struggling and taking several attempts before reaching the top, then walks down the stairs and runs away."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs at night. The footage is in black and white, and the person appears to be wearing light-colored clothing.",
+    "caption_5s": "The video shows a person walking down the stairs and then turning around to walk back up.",
+    "caption_10s": "The video shows a person walking down a set of stairs at night. They are wearing dark clothing and carrying a bag. The person walks down the stairs and disappears from view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A person in dark clothing, carrying a bag, walks down a set of stairs at night, disappears from view, then reappears walking back up the stairs.",
+    "caption": "A person in dark clothing, carrying a bag, walks down a set of stairs at night, disappears from view, then reappears walking back up the stairs."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person wearing a helmet and dark clothing, who is seen walking up a flight of stairs. The individual appears to be carrying something in their hand. Upon reaching the top of the stairs, they turn around and walk back down.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A person wearing a helmet and dark clothing walks up a flight of stairs, carrying something in their hand, turns around, and walks back down.",
+    "caption": "A person wearing a helmet and dark clothing walks up a flight of stairs, carrying something in their hand, turns around, and walks back down."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 37.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They walk down the stairs at a steady pace, and there is no interaction with any other objects or people.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, who is seen walking up a set of stairs. The individual appears to be carrying something in their hand. After reaching the top of the stairs, they turn around and walk back down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A person, wearing light-colored clothing and carrying something in their hand, walks down a set of stairs in a dimly lit area with a parked car and a building nearby, then turns around and walks back up, before descending again.",
+    "caption": "A person, wearing light-colored clothing and carrying something in their hand, walks down a set of stairs in a dimly lit area with a parked car and a building nearby, then turns around and walks back up, before descending again."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 37.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored pants and dark shoes. They walk from the top of the stairs to the bottom, taking each step carefully.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing light-colored clothing and appears to be carrying something in their hand. They walk down the stairs at a steady pace, and there is no interaction with any other objects or people.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, who is seen walking down a set of stairs. The individual appears to be carrying something in their hand as they descend the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A person, wearing light-colored clothing and dark shoes, walks down a set of stairs in a dimly lit area, taking each step carefully, and appears to be carrying something in their hand.",
+    "caption": "A person, wearing light-colored clothing and dark shoes, walks down a set of stairs in a dimly lit area, taking each step carefully, and appears to be carrying something in their hand."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 37.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs in a dimly lit area. The person is wearing dark clothing and appears to be carrying something in their hand.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The individual is wearing light-colored clothing and appears to be carrying something in their hand. They descend the stairs at a steady pace, with no other people or significant objects visible in the frame.",
+    "caption_10s": "The video shows a person wearing a helmet and dark clothing, who is seen walking up a set of stairs. The individual appears to be carrying something in their hand. Upon reaching the top of the stairs, they turn around and walk back down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A person, wearing dark clothing and a helmet, walks up a set of stairs, turns around, and walks back down, carrying something in their hand, in a dimly lit area.",
+    "caption": "A person, wearing dark clothing and a helmet, walks up a set of stairs, turns around, and walks back down, carrying something in their hand, in a dimly lit area."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 37.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 37.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a dark outdoor setting with a parked car on the left and a building entrance on the right. The ground is paved with square tiles, and there is a small step leading up to the entrance. No people or moving objects are visible in the sequence of images.",
+    "caption_5s": "The video shows a person walking down a set of stairs in a dimly lit area. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car and a building with a visible door. The sequence of images suggests movement from one frame to the next, indicating the person's descent down the stairs.",
+    "caption_10s": "The video shows a person wearing dark clothing and a helmet, descending a set of stairs. The individual appears to be carrying something in their right hand. The surroundings are dimly lit, suggesting it is nighttime or in a poorly lit area. The person's actions are deliberate and cautious as they navigate the steps.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 37.2667
+    },
+    "fused_caption": "A person in dark clothing and a helmet descends a set of stairs, carrying something in their right hand, in a dimly lit area with a parked car and a building entrance nearby.",
+    "caption": "A person in dark clothing and a helmet descends a set of stairs, carrying something in their right hand, in a dimly lit area with a parked car and a building entrance nearby."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 37.5
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 37.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a stationary night-time scene with a car parked on the left side of the frame and a set of stairs leading up to a building entrance. The ground is paved with square tiles, and there is no visible movement or action throughout the sequence.",
+    "caption_5s": "The video shows a sequence of black and white images captured by a security camera. The images depict a person walking down a set of stairs, with the camera angle fixed on the staircase and the surrounding area. The person is wearing light-colored pants and dark shoes. The images are taken at night, as indicated by the darkness and artificial lighting. No other significant actions or objects are visible in the frames provided.",
+    "caption_10s": "The video shows a person wearing dark clothing and a hat, walking down a set of stairs. The individual appears to be carrying something in their right hand. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 37.5
+    },
+    "fused_caption": "A person, wearing light-colored pants and dark shoes, walks down a set of stairs, carrying something in their right hand, in a dimly lit area, with a car parked on the left side of the frame and a building entrance visible above the stairs.",
+    "caption": "A person, wearing light-colored pants and dark shoes, walks down a set of stairs, carrying something in their right hand, in a dimly lit area, with a car parked on the left side of the frame and a building entrance visible above the stairs."
+  },
+  "1120": {
+    "center_frame": 1120,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.3333,
+        "actual_end_seconds": 37.5
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.8333,
+        "actual_end_seconds": 37.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.3333,
+        "actual_end_seconds": 37.5
+      }
+    },
+    "caption_2s": "The video shows a black and white surveillance camera view of a driveway with a car parked on the left side. The ground is made up of square tiles, and there is a ramp leading to a door on the right. No movement or actions are observed in the video.",
+    "caption_5s": "The video shows a series of still images from a security camera. The images depict a person walking on a brick pathway towards a parked car. The person appears to be carrying something in their hand, but the details are not clear due to the low resolution and nighttime setting. The images do not show any other significant actions or events.",
+    "caption_10s": "The video shows a person wearing light-colored clothing and dark pants, carrying an object in their right hand. They are walking on a paved surface towards the camera, then turn left and walk away from the camera's view. The surroundings include a parked car to the left and a building with a textured wall to the right.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.3333,
+      "actual_end_seconds": 37.5
+    },
+    "fused_caption": "A person in light-colored clothing and dark pants walks on a paved surface towards a parked car, turns left, and walks out of view, carrying an object in their right hand, in a nighttime setting with a brick pathway and a building with a textured wall in the background.",
+    "caption": "A person in light-colored clothing and dark pants walks on a paved surface towards a parked car, turns left, and walks out of view, carrying an object in their right hand, in a nighttime setting with a brick pathway and a building with a textured wall in the background."
+  }
+}

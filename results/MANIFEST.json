@@ -1,0 +1,40 @@
+{
+  "method": "COVAS-VAD E0",
+  "generated_at": "2026-07-31",
+  "frame_interval": 16,
+  "window_seconds": 10.0,
+  "sample_fps": 2.0,
+  "max_frames": 10,
+  "datasets": {
+    "ucf_crime": {
+      "videos": 290,
+      "clips": 69634,
+      "score_json_files": 290,
+      "threshold_detail_json_files": 0,
+      "normal_label": 7,
+      "roc_auc": 0.8626926692200534,
+      "pr_auc": 0.39470614750146876,
+      "max_f1": 0.45215268306927225
+    },
+    "msad": {
+      "videos": 240,
+      "clips": 9250,
+      "score_json_files": 240,
+      "threshold_detail_json_files": 0,
+      "normal_label": 0,
+      "roc_auc": 0.943630305718366,
+      "pr_auc": 0.8120263917902171,
+      "max_f1": 0.7626547811531175
+    },
+    "xd_violence": {
+      "videos": 800,
+      "clips": 146449,
+      "score_json_files": 800,
+      "threshold_detail_json_files": 0,
+      "normal_label": 4,
+      "roc_auc": 0.9210985417804276,
+      "pr_auc": 0.7535900275264515,
+      "max_f1": 0.7313369870796111
+    }
+  }
+}

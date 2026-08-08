@@ -1,0 +1,1104 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person in a red shirt walks towards the counter and places an item on it.",
+    "caption_5s": "A man is sitting at a desk in an office. He is looking at a computer screen. A woman walks into the room and talks to him. The man gets up from his chair and walks towards the woman.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person in a red shirt walks towards a counter and places an item on it. A man is sitting at a desk in an office, looking at a computer screen, when a woman enters and they converse. The man stands up and walks towards her, then joins two other people standing nearby, and together they move towards the man's original position.",
+    "caption": "A person in a red shirt walks towards a counter and places an item on it. A man is sitting at a desk in an office, looking at a computer screen, when a woman enters and they converse. The man stands up and walks towards her, then joins two other people standing nearby, and together they move towards the man's original position."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person is seen walking into a store and approaching the counter. They then proceed to grab something from the counter and run away.",
+    "caption_5s": "A man is sitting at a desk in an office, while a woman is standing in front of him. The man gets up from his chair and walks towards the woman.",
+    "caption_10s": "A man in a blue shirt is sitting at a desk, while another man in a red shirt walks by. The man in the blue shirt then stands up and walks away from the desk.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A person approaches a counter, grabs something, and runs away. A man gets up from a chair and walks towards a woman. A man in a blue shirt stands up from a desk and walks away, as another man in a red shirt walks by.",
+    "caption": "A person approaches a counter, grabs something, and runs away. A man gets up from a chair and walks towards a woman. A man in a blue shirt stands up from a desk and walks away, as another man in a red shirt walks by."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "The video shows a person sitting at a desk in an office. The camera is positioned above the desk, providing a bird's eye view of the scene. The person remains seated throughout the video, and there are no significant changes or movements.",
+    "caption_5s": "A man in a blue shirt is sitting at a desk, while another man in a red shirt walks towards the counter. The man in the blue shirt then stands up and walks away from the desk.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A man in a blue shirt sits at a desk in an office, then stands up and walks away, while another man in a red shirt walks towards the desk, and two people stand in front of the desk.",
+    "caption": "A man in a blue shirt sits at a desk in an office, then stands up and walks away, while another man in a red shirt walks towards the desk, and two people stand in front of the desk."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a person sitting at a desk in an office setting. The individual is wearing a blue shirt and a hat. They are seen typing on a keyboard and using a mouse. The camera angle is from above, providing a bird's eye view of the workspace.",
+    "caption_5s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person sits at a desk in an office, wearing a blue shirt and a hat, typing on a keyboard and using a mouse from a bird's eye view. The individual gets up and walks towards two people standing in front of them in the same office.",
+    "caption": "A person sits at a desk in an office, wearing a blue shirt and a hat, typing on a keyboard and using a mouse from a bird's eye view. The individual gets up and walks towards two people standing in front of them in the same office."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt sitting at a desk, while another person in a red shirt stands nearby. The person in the blue shirt leans forward and reaches for something on the desk.",
+    "caption_5s": "A man in a blue shirt is sitting at a desk, while a woman in a red shirt walks towards the counter. The man stands up and walks towards the woman.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A man in a blue shirt sits at a desk, then stands up and walks towards two people, a woman in a red shirt and another person, who are standing nearby.",
+    "caption": "A man in a blue shirt sits at a desk, then stands up and walks towards two people, a woman in a red shirt and another person, who are standing nearby."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store. A person wearing a blue shirt and a cap is seen standing at the counter, facing away from the camera. Another individual, dressed in red, approaches the counter from the left side of the frame. The person in red appears to be interacting with the person in blue, possibly making a purchase or asking for assistance. The environment includes shelves stocked with various items, a cash register, and other typical retail store fixtures.",
+    "caption_5s": "The video shows a person in a blue shirt and checkered hat standing at a counter, facing away from the camera. They appear to be interacting with someone or something on the counter. The environment suggests an indoor setting, possibly a store or office, with shelves stocked with various items in the background.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person in a blue shirt and cap stands at a counter, facing away from the camera, while another individual, dressed in red, approaches from the left and interacts with them. The scene is set in an indoor retail store environment with shelves stocked with items and a cash register.",
+    "caption": "A person in a blue shirt and cap stands at a counter, facing away from the camera, while another individual, dressed in red, approaches from the left and interacts with them. The scene is set in an indoor retail store environment with shelves stocked with items and a cash register."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a store interior. A person wearing a blue shirt and jeans is seen standing at the counter, facing away from the camera. Another individual, dressed in red, approaches the counter from the right side of the frame. The person in red appears to be interacting with the person behind the counter, possibly making a purchase or asking for assistance. The person in blue remains stationary throughout the interaction.",
+    "caption_5s": "The video shows a person in a blue shirt and checkered hat standing at a counter, facing away from the camera. They appear to be interacting with someone or something on the counter. The environment suggests an indoor setting, possibly a store or office, with shelves stocked with various items in the background.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person in a blue shirt and jeans stands at a counter, facing away from the camera, while another individual in red approaches and interacts with someone behind the counter. The scene is set in an indoor environment, possibly a store or office, with shelves stocked with items in the background. A man sits at a desk, then gets up and walks towards two people standing in front of him.",
+    "caption": "A person in a blue shirt and jeans stands at a counter, facing away from the camera, while another individual in red approaches and interacts with someone behind the counter. The scene is set in an indoor environment, possibly a store or office, with shelves stocked with items in the background. A man sits at a desk, then gets up and walks towards two people standing in front of him."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a store interior. A person wearing a blue shirt and checkered hat is standing at the counter, facing away from the camera. Another individual, dressed in a red top and dark pants, is seen walking towards the back of the store. The store has shelves stocked with various items, and there are other customers visible in the background.",
+    "caption_5s": "The video shows a person in a blue shirt and cap standing behind a counter, facing away from the camera. Another individual, wearing a red top, approaches the counter from the right side of the frame. The person in red appears to be interacting with the person behind the counter, possibly making a purchase or asking for assistance. The setting seems to be a retail environment, indicated by shelves stocked with various items in the background.",
+    "caption_10s": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person in a blue shirt and cap stands behind a counter, facing away from the camera, in a retail environment with shelves stocked with various items. A person in a red top approaches the counter from the right, interacting with the person behind the counter. In the background, other customers are visible, and a man in an office setting gets up from his chair and walks towards two people standing in front of him.",
+    "caption": "A person in a blue shirt and cap stands behind a counter, facing away from the camera, in a retail environment with shelves stocked with various items. A person in a red top approaches the counter from the right, interacting with the person behind the counter. In the background, other customers are visible, and a man in an office setting gets up from his chair and walks towards two people standing in front of him."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store interior. The footage captures a person in a blue shirt and checkered hat standing behind a counter, facing away from the camera. Another individual, wearing a red top, is seen approaching the counter from the right side of the frame. The store has shelves stocked with various items in the background, and there are office chairs and a desk with computer monitors in the foreground. The timestamp on the footage indicates it was recorded in 2013.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store. A person wearing a blue shirt and a cap is standing behind the counter, facing away from the camera. Another individual, dressed in red, approaches the counter from the right side of the frame. The person in red appears to be interacting with the person behind the counter, possibly making a purchase or asking for assistance. The store has shelves stocked with various items in the background, and there are multiple computer monitors on the counter.",
+    "caption_10s": "A man is sitting at a desk in an office. He stands up and walks away from the desk.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A person in a blue shirt and checkered hat stands behind a counter, facing away from the camera, in a retail store with shelves and office furniture. A person in a red top approaches the counter from the right, interacting with the person behind the counter. The store has computer monitors on the counter and was recorded in 2013.",
+    "caption": "A person in a blue shirt and checkered hat stands behind a counter, facing away from the camera, in a retail store with shelves and office furniture. A person in a red top approaches the counter from the right, interacting with the person behind the counter. The store has computer monitors on the counter and was recorded in 2013."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store. A person wearing a blue shirt and a checkered hat is standing behind the counter, facing away from the camera. Another individual, dressed in a red top and dark pants, approaches the counter from the right side of the frame. The person at the counter appears to be interacting with the customer, possibly scanning items or processing a transaction. The customer stands still for a moment before moving out of the frame to the left.",
+    "caption_5s": "The video shows a retail store with shelves stocked with various items. A person wearing a blue shirt and a hat is seen at the counter, interacting with another individual who appears to be a customer. The customer is wearing a red top and seems to be handing over an item to the person behind the counter. The timestamp on the footage indicates that it was recorded in the evening.",
+    "caption_10s": "The video shows a man sitting at a desk in an office, while two people are standing behind him. The man stands up and walks away from the desk, leaving the two individuals behind.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person wearing a blue shirt and a checkered hat is standing behind a counter, interacting with a customer dressed in a red top and dark pants. The customer hands over an item, possibly for scanning or processing, before moving out of the frame to the left. The scene is set in a retail store with shelves stocked with various items, recorded in the evening.",
+    "caption": "A person wearing a blue shirt and a checkered hat is standing behind a counter, interacting with a customer dressed in a red top and dark pants. The customer hands over an item, possibly for scanning or processing, before moving out of the frame to the left. The scene is set in a retail store with shelves stocked with various items, recorded in the evening."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a retail store with a customer in a red top and black pants walking towards the counter. The cashier, wearing a blue shirt and a cap, is standing behind the counter. There are various items on display and shelves stocked with products. The timestamp indicates the footage was captured on May 13, 2019, at 11:39:28 AM.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store. A person wearing a blue shirt and a checkered hat is standing at the counter, facing away from the camera. Another individual, dressed in a red top, is seen walking through the store. The store has shelves stocked with various items, and there are multiple computer monitors on the counter. The timestamp indicates the footage was recorded in 2019.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store. The footage captures a person in a blue shirt and cap standing behind the counter, facing away from the camera. Another individual, wearing a red top, is seen approaching the counter from the right side of the frame. The store has shelves stocked with various items in the background. The timestamp on the footage indicates it was recorded in 2013.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A retail store is shown from a surveillance camera's perspective. A person in a blue shirt and cap stands behind the counter, facing away from the camera. A customer, wearing a red top, walks towards the counter from the right side of the frame, passing through a store with shelves stocked with various items and multiple computer monitors on the counter. The footage was recorded in 2013, but the exact date and time are not specified.",
+    "caption": "A retail store is shown from a surveillance camera's perspective. A person in a blue shirt and cap stands behind the counter, facing away from the camera. A customer, wearing a red top, walks towards the counter from the right side of the frame, passing through a store with shelves stocked with various items and multiple computer monitors on the counter. The footage was recorded in 2013, but the exact date and time are not specified."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt and cap standing behind a counter, facing away from the camera. They are interacting with another individual who is partially visible and wearing a red top. The person in the blue shirt appears to be handling items on the counter, possibly serving the customer. The setting seems to be a retail environment, indicated by shelves stocked with products in the background.",
+    "caption_5s": "The video shows a person in a blue shirt and checkered hat standing at a counter, facing away from the camera. Another individual, wearing a red top, is seen walking away from the counter towards the back of the store. The environment appears to be a retail space with shelves stocked with various items.",
+    "caption_10s": "The video shows a person in a blue shirt and plaid hat standing at a counter, facing away from the camera. Another individual in a red top is seen walking behind the counter. The person in the blue shirt appears to be interacting with the person behind the counter, possibly making a transaction or asking for assistance. The environment suggests a retail setting with shelves stocked with various items in the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person in a blue shirt and plaid hat stands at a counter, facing away from the camera, interacting with another individual in a red top who walks behind the counter in a retail space with shelves stocked with various items.",
+    "caption": "A person in a blue shirt and plaid hat stands at a counter, facing away from the camera, interacting with another individual in a red top who walks behind the counter in a retail space with shelves stocked with various items."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt and cap standing at a counter, facing away from the camera. They are interacting with another individual who is partially visible and wearing a red top. The person in blue appears to be handling some items on the counter, possibly money or small objects. The setting seems to be an indoor space, likely a store or office, with shelves stocked with various items in the background.",
+    "caption_5s": "The video shows a store interior with shelves stocked with various items. A person wearing a blue shirt and a checkered hat is standing behind the counter, facing away from the camera. Another individual, dressed in a red top, approaches the counter from the right side of the frame. The person at the counter appears to be interacting with the customer, possibly scanning or bagging items. The customer then moves towards the left side of the frame, presumably exiting the store.",
+    "caption_10s": "The video shows a person in a blue shirt and cap standing behind a counter, facing away from the camera. They are interacting with another individual who is partially visible and wearing a red top. The person in blue appears to be handling items on the counter, possibly processing a transaction or preparing goods for sale. The environment suggests an indoor setting, likely a retail store, with shelves stocked with various products in the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person in a blue shirt and cap stands behind a counter, facing away from the camera, interacting with a partially visible individual in a red top. They handle items on the counter, possibly processing a transaction or preparing goods for sale, in an indoor setting with shelves stocked with various products in a retail store.",
+    "caption": "A person in a blue shirt and cap stands behind a counter, facing away from the camera, interacting with a partially visible individual in a red top. They handle items on the counter, possibly processing a transaction or preparing goods for sale, in an indoor setting with shelves stocked with various products in a retail store."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt and checkered hat standing at a counter, facing away from the camera. They appear to be interacting with someone or something on the counter. The environment suggests an indoor setting, possibly a store or office, with shelves stocked with various items in the background.",
+    "caption_5s": "The video shows a person in a blue shirt and cap standing at a counter, facing away from the camera. Another individual in a red top is seen walking towards the back of the store. The person in blue remains stationary throughout the video, while the person in red moves out of the frame.",
+    "caption_10s": "The video shows a store with a person behind the counter and another person approaching. The person at the counter appears to be serving the customer, who then leaves the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person in a blue shirt and cap stands at a counter, facing away from the camera, interacting with someone or something, in an indoor setting with shelves stocked with items in the background, while another individual in a red top walks towards the back of the store and then moves out of frame, as the person at the counter remains stationary.",
+    "caption": "A person in a blue shirt and cap stands at a counter, facing away from the camera, interacting with someone or something, in an indoor setting with shelves stocked with items in the background, while another individual in a red top walks towards the back of the store and then moves out of frame, as the person at the counter remains stationary."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a person walking into a store and approaching the counter. They then proceed to take something from the counter and run away.",
+    "caption_5s": "The video shows a man in a blue shirt and hat standing at a counter. He is seen looking at something on the counter, then he turns around and walks away.",
+    "caption_10s": "The video shows a person in a store, with another person approaching the counter. The person at the counter appears to be handling money or some form of transaction.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person in a store approaches the counter, handles something, and then walks away.",
+    "caption": "A person in a store approaches the counter, handles something, and then walks away."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "The video shows a person walking into a store and approaching the counter. They then proceed to take something from the counter and run away.",
+    "caption_5s": "The video shows a man in a hat and blue shirt standing at a counter. He appears to be interacting with someone off-camera. The camera angle is from above, providing a bird's eye view of the scene.",
+    "caption_10s": "The video shows a man in a blue shirt and hat standing at a counter. He is seen looking at something on the counter. The camera then pans to show a woman in a red shirt walking towards the counter. The man then turns around and walks away from the counter.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A man in a blue shirt and hat stands at a counter, looking at something, before a woman in a red shirt approaches. He turns around and walks away, then takes something from the counter and runs off.",
+    "caption": "A man in a blue shirt and hat stands at a counter, looking at something, before a woman in a red shirt approaches. He turns around and walks away, then takes something from the counter and runs off."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking through a store, passing by various items on display.",
+    "caption_5s": "The video shows a man in a hat walking into a store and approaching the counter. He then proceeds to take something from the counter and runs away.",
+    "caption_10s": "The video shows a person in a store, with a computer monitor and keyboard visible. The person is seen walking around the store, interacting with various items on display.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person walks through a store, passing by various items on display, and later interacts with them, using a computer monitor and keyboard, before walking around the store, eventually approaching the counter and taking something before running away.",
+    "caption": "A person walks through a store, passing by various items on display, and later interacts with them, using a computer monitor and keyboard, before walking around the store, eventually approaching the counter and taking something before running away."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking through a store.",
+    "caption_5s": "The video shows a person in a store, who is seen walking around and interacting with another person. The person appears to be browsing the store's shelves and picking up items.",
+    "caption_10s": "The video shows a man in a blue shirt and hat standing at a counter. He is seen looking at something on the counter, then he turns around and walks away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person in a store, wearing a blue shirt and hat, is seen browsing shelves, interacting with another person, and then standing at a counter before walking away.",
+    "caption": "A person in a store, wearing a blue shirt and hat, is seen browsing shelves, interacting with another person, and then standing at a counter before walking away."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a person in a store, standing at the counter and interacting with the cashier. The person appears to be making a purchase or asking for assistance.",
+    "caption_5s": "The video shows a man and a woman in a store. The man is standing at the counter while the woman walks around the store.",
+    "caption_10s": "The video shows a person in a store, with a computer and other items on the counter. The person is seen walking around the store, picking up items from the shelves, and placing them on the counter.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person in a store is interacting with a cashier at the counter, while a woman walks around the store, and the person is also browsing the shelves, picking up items and placing them on the counter, with a computer and other items already on the counter.",
+    "caption": "A person in a store is interacting with a cashier at the counter, while a woman walks around the store, and the person is also browsing the shelves, picking up items and placing them on the counter, with a computer and other items already on the counter."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "The video shows a person in a store, with the camera positioned above them. The person is seen walking around and interacting with various items on display.",
+    "caption_5s": "The video shows a person in a store, who is seen walking around and interacting with items on the shelves. The person appears to be browsing and examining various products.",
+    "caption_10s": "The video shows a man in a store, who is seen walking away from the counter. He then proceeds to grab something off-screen and returns to the counter.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person in a store walks around, browsing and examining items on the shelves, before walking away from the counter, grabbing something off-screen, and returning to the counter.",
+    "caption": "A person in a store walks around, browsing and examining items on the shelves, before walking away from the counter, grabbing something off-screen, and returning to the counter."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store, walking towards the counter, and then exiting the frame.",
+    "caption_5s": "The video shows a person in a store, who appears to be a customer. The individual is seen walking around the store, looking at items on the shelves. There is no clear indication of any specific actions or interactions with other people or objects.",
+    "caption_10s": "The video shows a store with shelves stocked with various items. A person is seen at the counter, possibly a cashier, interacting with another individual who appears to be a customer. The customer seems to be making a purchase or asking for assistance. The interaction is brief and non-confrontational.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person enters a store, walks towards the counter, and interacts briefly with a cashier, possibly making a purchase or asking for assistance, before exiting the frame.",
+    "caption": "A person enters a store, walks towards the counter, and interacts briefly with a cashier, possibly making a purchase or asking for assistance, before exiting the frame."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person in a store, who appears to be a customer or an employee. The individual is seen walking around the store, possibly browsing or looking for something.",
+    "caption_5s": "The video shows a person in a store, wearing a pink top and dark pants. They are seen walking towards the counter, interacting with the cashier, and then leaving the store. The footage is from a security camera, timestamped and labeled as \"CAM 1.\"",
+    "caption_10s": "The video shows a person in a store, who is seen walking around and interacting with items on the shelves. The person appears to be browsing and examining various products.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person in a store, wearing a pink top and dark pants, is seen walking around, browsing and examining products, interacting with the cashier, and then leaving the store, as captured by security camera CAM 1.",
+    "caption": "A person in a store, wearing a pink top and dark pants, is seen walking around, browsing and examining products, interacting with the cashier, and then leaving the store, as captured by security camera CAM 1."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person in a store, who is seen walking towards the counter and then turning around. The person appears to be interacting with someone behind the counter.",
+    "caption_5s": "The video shows a person in a store, interacting with another individual. The person is seen handling items on the counter and then walking away.",
+    "caption_10s": "The video shows a person in a store, wearing a hat and a jacket. The person is seen walking around the store, looking at items on the shelves. They pick up an item and examine it before placing it back. The person then walks towards the counter and appears to interact with someone there.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person in a store, wearing a hat and a jacket, walks around the store, examining items on the shelves, picks one up, and then walks towards the counter to interact with someone behind it.",
+    "caption": "A person in a store, wearing a hat and a jacket, walks around the store, examining items on the shelves, picks one up, and then walks towards the counter to interact with someone behind it."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of an office space. The camera is positioned above a desk with a computer monitor, keyboard, and various office supplies. Throughout the video, a person wearing a dark jacket and light-colored pants enters the frame from the right side, approaches the desk, and appears to interact with items on it. The individual then exits the frame towards the left side. The actions are repetitive, with the person entering, interacting, and leaving the scene multiple times.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a store interior. A person is seen walking through the store, passing by shelves stocked with various items. The individual appears to be browsing or selecting products.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store. The footage captures a person, likely a customer, walking through the aisles and browsing items on the shelves. The store is well-lit, with various products displayed on the shelves. The timestamp indicates that the recording took place in the evening.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person, wearing a dark jacket and light-colored pants, enters a store or office space from the right side, approaches a desk or shelves, and appears to interact with items on it, before exiting towards the left side, repeating the actions multiple times in a well-lit environment, possibly in the evening.",
+    "caption": "A person, wearing a dark jacket and light-colored pants, enters a store or office space from the right side, approaches a desk or shelves, and appears to interact with items on it, before exiting towards the left side, repeating the actions multiple times in a well-lit environment, possibly in the evening."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person in a store, wearing a dark top and light-colored pants. They are seen walking towards the counter, picking up an item, and then leaving the frame. The timestamp on the footage indicates it was recorded in 2013.",
+    "caption_5s": "The video shows a surveillance camera's perspective of an office environment. The camera is positioned above the desk area, capturing the entire workspace. Throughout the video, there are no visible people or significant movements, suggesting that the office is unoccupied or that the individuals present are not within the camera's field of view. The office is equipped with a computer, keyboard, mouse, and various office supplies. The walls are adorned with framed pictures, and there is a cabinet with drawers to the side. The lighting in the room is consistent, indicating indoor artificial lighting.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store. The footage captures a person in a red top and dark pants walking through the store, browsing items on the shelves. Another individual, wearing a light-colored shirt and dark pants, is seen behind the counter, possibly an employee or store owner. The customer interacts with the person behind the counter, potentially making a purchase or asking for assistance. The store has a variety of products on display, including what appears to be clothing and other merchandise.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person in a store, wearing a dark top and light-colored pants, walks towards the counter, picks up an item, and leaves the frame, recorded in 2013. The store has a variety of products on display, including clothing and merchandise, with a person in a red top and dark pants browsing the shelves and interacting with an employee or store owner behind the counter. The store is equipped with a computer, keyboard, mouse, and office supplies, with framed pictures on",
+    "caption": "A person in a store, wearing a dark top and light-colored pants, walks towards the counter, picks up an item, and leaves the frame, recorded in 2013. The store has a variety of products on display, including clothing and merchandise, with a person in a red top and dark pants browsing the shelves and interacting with an employee or store owner behind the counter. The store is equipped with a computer, keyboard, mouse, and office supplies, with framed pictures on"
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of an office space. The room is furnished with desks, chairs, and computers. There are shelves stocked with various items in the background. A person enters the frame from the left, carrying a black bag, and proceeds to place the bag on one of the desks. They then appear to be organizing or searching through the contents of the bag. The individual remains in the frame for the duration of the video, focused on their task.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a store interior. A person is seen walking towards the counter, interacting with the cashier, and then leaving the frame. The timestamp on the footage indicates that the events occur in the early morning hours.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store. The footage captures a person in a red top and dark pants walking through the store, passing by shelves stocked with various items. The individual appears to be browsing or shopping. The store has a tiled floor, and there are office chairs and desks visible in the foreground, suggesting that this area may serve as an office or stockroom within the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person enters a room from the left, carrying a black bag, and places it on a desk, then appears to be organizing or searching through its contents, remaining focused on the task for the duration. The room is furnished with desks, chairs, and computers, and has shelves stocked with items in the background. The same person is later seen walking towards a counter in a store, interacting with the cashier, and then leaving. In a different store, the same person is seen",
+    "caption": "A person enters a room from the left, carrying a black bag, and places it on a desk, then appears to be organizing or searching through its contents, remaining focused on the task for the duration. The room is furnished with desks, chairs, and computers, and has shelves stocked with items in the background. The same person is later seen walking towards a counter in a store, interacting with the cashier, and then leaving. In a different store, the same person is seen"
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 15.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person in a store, standing behind the counter. They are wearing a light-colored shirt and dark pants. The individual appears to be interacting with someone off-camera, possibly a customer. The person's actions include reaching out towards the counter, which suggests they might be handling items or preparing to assist the customer.",
+    "caption_5s": "The video shows a person in a store, who is seen walking around and picking up items from the shelves. The person then places the items on the counter and appears to be interacting with someone off-camera.",
+    "caption_10s": "The video shows a person in a store, interacting with another individual. The person appears to be handling items on the counter and then proceeds to walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person in a store, wearing a light-colored shirt and dark pants, is interacting with someone off-camera. They reach out towards the counter, handle items, and then walk away, placing items on the counter at some point.",
+    "caption": "A person in a store, wearing a light-colored shirt and dark pants, is interacting with someone off-camera. They reach out towards the counter, handle items, and then walk away, placing items on the counter at some point."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.2333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 15.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of an office space. The camera is positioned above a desk with a computer monitor, keyboard, and other office equipment. There are no people visible in the frame, but the camera captures movement as if someone were walking past the desk. The timestamp on the footage indicates it was recorded in 2013.",
+    "caption_5s": "The video shows a person in a store, wearing a dark jacket and light-colored pants. They are seen handling money at the counter, possibly making a transaction. The person then walks away from the counter towards the back of the store.",
+    "caption_10s": "The video shows a person entering a store, walking towards the counter, and then leaving.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.2333
+    },
+    "fused_caption": "A person enters a store, walks towards the counter, handles money, and then leaves, with a brief, unoccupied period visible on a surveillance camera above a desk in the same store, recorded in 2013.",
+    "caption": "A person enters a store, walks towards the counter, handles money, and then leaves, with a brief, unoccupied period visible on a surveillance camera above a desk in the same store, recorded in 2013."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.2333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 15.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 15.2333
+      }
+    },
+    "caption_2s": "The video shows a person walking through a store, passing by shelves stocked with various items. The camera angle is from above, and the footage is timestamped.",
+    "caption_5s": "The video shows a person wearing a dark jacket and light-colored pants walking through a store. They are carrying a bag and appear to be browsing the shelves. The camera angle is from above, providing a bird's-eye view of the store's interior.",
+    "caption_10s": "The video shows a person entering a store, walking towards the counter, and then leaving.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.2333
+    },
+    "fused_caption": "A person wearing a dark jacket and light-colored pants, carrying a bag, walks through a store from the entrance to the exit, browsing shelves stocked with various items from a bird's-eye view.",
+    "caption": "A person wearing a dark jacket and light-colored pants, carrying a bag, walks through a store from the entrance to the exit, browsing shelves stocked with various items from a bird's-eye view."
+  }
+}

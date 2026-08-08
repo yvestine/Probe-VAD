@@ -1,0 +1,578 @@
+{
+  "0": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.1,
+    "risk_5s_raw": 0.1,
+    "risk_10s_raw": 0.1,
+    "risk_2s": 0.065,
+    "risk_5s": 0.065,
+    "risk_10s": 0.065
+  },
+  "16": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.02275,
+    "risk_5s": 0.02275,
+    "risk_10s": 0.02275
+  },
+  "32": {
+    "current_abnormality": 0.5,
+    "risk_2s_raw": 0.7,
+    "risk_5s_raw": 0.8,
+    "risk_10s_raw": 0.9,
+    "risk_2s": 0.462962,
+    "risk_5s": 0.527963,
+    "risk_10s": 0.592963
+  },
+  "48": {
+    "current_abnormality": 0.5,
+    "risk_2s_raw": 0.7,
+    "risk_5s_raw": 0.8,
+    "risk_10s_raw": 0.9,
+    "risk_2s": 0.617037,
+    "risk_5s": 0.704787,
+    "risk_10s": 0.792537
+  },
+  "64": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.215963,
+    "risk_5s": 0.246675,
+    "risk_10s": 0.277388
+  },
+  "80": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.075587,
+    "risk_5s": 0.086336,
+    "risk_10s": 0.097086
+  },
+  "96": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.026455,
+    "risk_5s": 0.030218,
+    "risk_10s": 0.03398
+  },
+  "112": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.009259,
+    "risk_5s": 0.010576,
+    "risk_10s": 0.011893
+  },
+  "128": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.003241,
+    "risk_5s": 0.003702,
+    "risk_10s": 0.004163
+  },
+  "144": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.001134,
+    "risk_5s": 0.001296,
+    "risk_10s": 0.001457
+  },
+  "160": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.000397,
+    "risk_5s": 0.000453,
+    "risk_10s": 0.00051
+  },
+  "176": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.000139,
+    "risk_5s": 0.000159,
+    "risk_10s": 0.000178
+  },
+  "192": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 4.9e-05,
+    "risk_5s": 5.6e-05,
+    "risk_10s": 6.2e-05
+  },
+  "208": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 1.7e-05,
+    "risk_5s": 1.9e-05,
+    "risk_10s": 2.2e-05
+  },
+  "224": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 6e-06,
+    "risk_5s": 7e-06,
+    "risk_10s": 8e-06
+  },
+  "240": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 2e-06,
+    "risk_5s": 2e-06,
+    "risk_10s": 3e-06
+  },
+  "256": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 1e-06,
+    "risk_5s": 1e-06,
+    "risk_10s": 1e-06
+  },
+  "272": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "288": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "304": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "320": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "336": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "352": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "368": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "384": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "400": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "416": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "432": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "448": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "464": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "480": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "496": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "512": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "528": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "544": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "560": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "576": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "592": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "608": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "624": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "640": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "656": {
+    "current_abnormality": 0.5,
+    "risk_2s_raw": 0.2,
+    "risk_5s_raw": 0.2,
+    "risk_10s_raw": 0.2,
+    "risk_2s": 0.13,
+    "risk_5s": 0.13,
+    "risk_10s": 0.13
+  },
+  "672": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0455,
+    "risk_5s": 0.0455,
+    "risk_10s": 0.0455
+  },
+  "688": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.015925,
+    "risk_5s": 0.015925,
+    "risk_10s": 0.015925
+  },
+  "704": {
+    "current_abnormality": 0.5,
+    "risk_2s_raw": 0.7,
+    "risk_5s_raw": 0.8,
+    "risk_10s_raw": 0.9,
+    "risk_2s": 0.460574,
+    "risk_5s": 0.525574,
+    "risk_10s": 0.590574
+  },
+  "720": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.161201,
+    "risk_5s": 0.183951,
+    "risk_10s": 0.206701
+  },
+  "736": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.05642,
+    "risk_5s": 0.064383,
+    "risk_10s": 0.072345
+  },
+  "752": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.019747,
+    "risk_5s": 0.022534,
+    "risk_10s": 0.025321
+  },
+  "768": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.006911,
+    "risk_5s": 0.007887,
+    "risk_10s": 0.008862
+  },
+  "784": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.002419,
+    "risk_5s": 0.00276,
+    "risk_10s": 0.003102
+  },
+  "800": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.000847,
+    "risk_5s": 0.000966,
+    "risk_10s": 0.001086
+  },
+  "816": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.000296,
+    "risk_5s": 0.000338,
+    "risk_10s": 0.00038
+  },
+  "832": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.000104,
+    "risk_5s": 0.000118,
+    "risk_10s": 0.000133
+  },
+  "848": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 3.6e-05,
+    "risk_5s": 4.1e-05,
+    "risk_10s": 4.7e-05
+  },
+  "864": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 1.3e-05,
+    "risk_5s": 1.4e-05,
+    "risk_10s": 1.6e-05
+  },
+  "880": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 4e-06,
+    "risk_5s": 5e-06,
+    "risk_10s": 6e-06
+  },
+  "896": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 2e-06,
+    "risk_5s": 2e-06,
+    "risk_10s": 2e-06
+  },
+  "912": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 1e-06,
+    "risk_5s": 1e-06,
+    "risk_10s": 1e-06
+  },
+  "928": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.0,
+    "risk_5s": 0.0,
+    "risk_10s": 0.0
+  },
+  "944": {
+    "current_abnormality": 0.9,
+    "risk_2s_raw": 0.95,
+    "risk_5s_raw": 0.98,
+    "risk_10s_raw": 0.99,
+    "risk_2s": 0.6175,
+    "risk_5s": 0.637,
+    "risk_10s": 0.6435
+  },
+  "960": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.216125,
+    "risk_5s": 0.22295,
+    "risk_10s": 0.225225
+  },
+  "976": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.075644,
+    "risk_5s": 0.078033,
+    "risk_10s": 0.078829
+  },
+  "992": {
+    "current_abnormality": 1.0,
+    "risk_2s_raw": 1.0,
+    "risk_5s_raw": 1.0,
+    "risk_10s_raw": 1.0,
+    "risk_2s": 0.676475,
+    "risk_5s": 0.677311,
+    "risk_10s": 0.67759
+  },
+  "1008": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "risk_2s": 0.236766,
+    "risk_5s": 0.237059,
+    "risk_10s": 0.237157
+  }
+}

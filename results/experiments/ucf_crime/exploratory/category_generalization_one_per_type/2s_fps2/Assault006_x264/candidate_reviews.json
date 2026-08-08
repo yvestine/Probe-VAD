@@ -1,0 +1,288 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 1184,
+      "quality": 0.776744,
+      "support_scales": [
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 1168,
+          "end_frame": 1200,
+          "center_frame": 1184,
+          "quality": 0.776744
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 1152,
+          "end_frame": 1280,
+          "center_frame": 1216,
+          "quality": 0.768023
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 1120,
+      "focus_end_frame": 1248
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows two individuals in a room. One person is seen kicking the other, causing them to fall down.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.4667,
+        "actual_end_seconds": 40.4667
+      },
+      "6s": {
+        "caption": "The video shows a person entering a room and being attacked by another individual. The attacker hits the victim with a stick, causing them to fall to the ground.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.4667,
+        "actual_end_seconds": 42.4667
+      },
+      "10s": {
+        "caption": "The video shows a person entering a room and kicking over a TV. Another person then enters the room and kicks the first person out.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.4667,
+        "actual_end_seconds": 44.4667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 3632,
+      "quality": 0.753198,
+      "support_scales": [
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 3600,
+          "end_frame": 3664,
+          "center_frame": 3632,
+          "quality": 0.753198
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 3568,
+      "focus_end_frame": 3696
+    },
+    "scales": {
+      "2s": {
+        "caption": "A man is seen standing in a store, and another man approaches him. The first man then pushes the second man to the ground.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 120.0667,
+        "actual_end_seconds": 122.0667
+      },
+      "6s": {
+        "caption": "In the video, a man is seen standing in a store. Suddenly, he is attacked by a group of people who punch and kick him. The assault continues until the man falls to the ground.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 118.0667,
+        "actual_end_seconds": 124.0667
+      },
+      "10s": {
+        "caption": "A group of men are gathered in a room, and one man is being restrained by others.",
+        "direct_visual_score": 0.8,
+        "direct_visual_response": "[0.8]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 116.0667,
+        "actual_end_seconds": 126.0667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 1312,
+      "quality": 0.751802,
+      "support_scales": [
+        20,
+        16
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 1152,
+          "end_frame": 1472,
+          "center_frame": 1312,
+          "quality": 0.751802
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 1168,
+          "end_frame": 1424,
+          "center_frame": 1296,
+          "quality": 0.749491
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 1248,
+      "focus_end_frame": 1376
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a white shirt and black pants standing in a room with a table. He is seen pushing the table towards another man who is wearing a white jacket and black pants. The man in the white shirt then punches the other man in the face, causing him to fall to the ground.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.7333,
+        "actual_end_seconds": 44.7333
+      },
+      "6s": {
+        "caption": "The video shows a man in a white shirt and dark pants entering a room with a table. He is followed by another man wearing a black jacket and light-colored pants. The first man appears to be agitated and gestures aggressively towards the second man, who seems to be trying to calm him down. The situation escalates as the first man pushes the second man, causing him to fall onto the table.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.7333,
+        "actual_end_seconds": 46.7333
+      },
+      "10s": {
+        "caption": "The video shows a man in a white shirt and dark pants being attacked by another man wearing a black jacket. The attacker repeatedly punches the victim, who tries to defend himself. A third person intervenes, attempting to separate the two men.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.7333,
+        "actual_end_seconds": 48.7333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 1619,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 1555,
+      "focus_end_frame": 1683
+    },
+    "scales": {
+      "2s": {
+        "caption": "A group of people are gathered around a man who is standing on a counter. They are all cheering and waving their hands in the air. The man is wearing a white shirt and black pants. He is standing with his back to the camera. The people around him are wearing a variety of clothing, including t-shirts, tank tops, and shorts. The room they are in is small and has white walls. There is a table in the background with various objects on it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 52.9667,
+        "actual_end_seconds": 54.9667
+      },
+      "6s": {
+        "caption": "A group of people are gathered around a man who is being held up by others. They are hitting him with their hands and feet, while he tries to defend himself.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 50.9667,
+        "actual_end_seconds": 56.9667
+      },
+      "10s": {
+        "caption": "A group of people are gathered in a room, and they start hitting each other.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 48.9667,
+        "actual_end_seconds": 58.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 3238,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 3174,
+      "focus_end_frame": 3302
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a group of people gathered in a room, with one person being restrained by others. The scene appears to be chaotic, with individuals pushing and shoving each other.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 106.9333,
+        "actual_end_seconds": 108.9333
+      },
+      "6s": {
+        "caption": "In the video, a group of men are seen standing in a room. One man is lying on the floor while another man kicks him in the head. The other men watch as this happens.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 104.9333,
+        "actual_end_seconds": 110.9333
+      },
+      "10s": {
+        "caption": "In the video, a group of men are seen in a room. They are engaged in a physical altercation, with one man being pushed to the ground by another. The altercation continues as they struggle on the floor, with some men attempting to restrain others.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 102.9333,
+        "actual_end_seconds": 112.9333
+      }
+    }
+  }
+}

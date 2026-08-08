@@ -1,0 +1,22 @@
+{
+  "0": "A black car is driving down a street, followed by a truck.",
+  "16": "A car is driving down a street, followed by another car that pulls up alongside the first car and opens its door.",
+  "32": "A car drives down the street, followed by another car that pulls up beside it.",
+  "48": "A car drives down a street, followed by another car, with the second car pulling out in front of the first.",
+  "64": "A car drives down the street, followed by another car, and then a third car pulls up beside it, with the driver of the second car exiting and walking away.",
+  "80": "A black car is driving down a residential street with its headlights on, in the right lane, with no other vehicles or pedestrians in sight. The car is later parked on the side of the street, where it is struck from behind by another vehicle, causing damage to its rear end. A separate incident occurs where a car is driving down the street, and another car pulls up beside it, with the driver of the second car exiting and walking away.",
+  "96": "A black car is parked on the side of a street, its headlights on, with a person walking towards it, opening the door, and getting inside, while another car drives by, with a driver getting out and walking away.",
+  "112": "A black car is parked on the side of a street with its headlights on. A person walks away from the camera down the sidewalk. A blue car approaches from behind and collides with the rear of the black car, causing it to move slightly forward, before reversing back to its original position. The black car remains stationary again, and the person continues walking away.",
+  "128": "A car is parked on the side of the street, with another car approaching from behind and colliding with its rear, causing the parked car to move slightly forward and the van's driver's side door to open.",
+  "144": "A car is parked on the side of the street with its headlights on, and a van collides with its rear, causing it to move slightly forward, before coming to a stop.",
+  "160": "A black car is parked on the side of a street with its headlights on, near a blue van that is stopped behind it. A person walks towards the car, gets in, and drives away, with the van remaining stationary.",
+  "176": "A black car is parked on the side of a street when a blue van approaches from behind and collides with its rear, causing the car to move slightly forward. The van stops behind the car, then reverses back and drives away.",
+  "192": "A black car is parked on the side of a street. A person walks towards it from the right, opens the driver's side door, gets in, and closes it. The car remains stationary. A blue van approaches from behind and collides with the rear of the black car, causing it to move slightly forward. The van's driver exits and inspects the damage.",
+  "208": "A person is seen walking towards a black car parked on the side of the road, opening the back door of a blue van, and repeatedly entering and exiting the van, before walking towards the black car, opening the driver's side door, getting in, exiting, and walking away.",
+  "224": "A car stops on a street, and a person gets out and walks away.",
+  "240": "A car is driving down a street, followed by another car, with a person opening the back door of the first car and getting inside, as the two cars stop and pass each other on the street.",
+  "256": "A person walks towards a black car parked on the side of the road, opens the door, and gets inside, then the car drives away.",
+  "272": "A car is driving down the street, followed by another car, before stopping and the driver gets out to open the door of the second car.",
+  "288": "A black car is parked on the side of the road. A person gets out of the car, opens the back door of a blue van, and gets inside. The van drives away, leaving the black car behind.",
+  "304": "A car is driving down the street, then a black car is parked on the side of the street with its headlights on, remaining stationary, before a person opens the back door and climbs inside."
+}

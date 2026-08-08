@@ -1,0 +1,284 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 512,
+      "quality": 0.747635,
+      "support_scales": [
+        4,
+        8,
+        2,
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 480,
+          "end_frame": 544,
+          "center_frame": 512,
+          "quality": 0.747635
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 480,
+          "end_frame": 608,
+          "center_frame": 544,
+          "quality": 0.7375
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 496,
+          "end_frame": 528,
+          "center_frame": 512,
+          "quality": 0.722297
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 400,
+          "end_frame": 656,
+          "center_frame": 528,
+          "quality": 0.637416
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 336,
+          "end_frame": 656,
+          "center_frame": 496,
+          "quality": 0.612432
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 448,
+      "focus_end_frame": 576
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man pointing a gun at another man who is standing next to a car.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "6s": {
+        "caption": "A man on a motorcycle is stopped in the middle of the road. Another man approaches him and points at something, causing the man on the motorcycle to look in that direction.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0667,
+        "actual_end_seconds": 20.0667
+      },
+      "10s": {
+        "caption": "A man is seen riding a motorcycle in a parking lot. He then gets off the motorcycle and engages in a conversation with another person. After the conversation, he gets back on the motorcycle and rides away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 239,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 175,
+      "focus_end_frame": 303
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man standing in front of a car.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.9667,
+        "actual_end_seconds": 8.9667
+      },
+      "6s": {
+        "caption": "A man is standing in a parking lot, talking on his cell phone. He is wearing a white shirt and black pants. He is standing next to a red car. A motorcycle drives by in the background.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 10.9667
+      },
+      "10s": {
+        "caption": "A man is standing in a parking lot, talking on his cell phone. He then walks towards a car and gets in.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.9667,
+        "actual_end_seconds": 12.9667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 398,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 334,
+      "focus_end_frame": 462
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a sequence of events where a person on a scooter is stopped by another individual who appears to be trying to get their attention. The scooter rider seems to be in a defensive posture, possibly indicating a confrontation or an attempt to avoid the other person. The setting is a parking lot with several cars parked around, and the lighting suggests it might be daytime.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.2667,
+        "actual_end_seconds": 14.2667
+      },
+      "6s": {
+        "caption": "The video shows a sequence of events where a person on a scooter is stopped by another individual who appears to be in a confrontational stance. The scooter rider seems to be complying with the other person's actions, which include gesturing and possibly speaking to the scooter rider. The setting is an outdoor parking area with several cars parked along the side. The lighting suggests it might be daytime.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.2667,
+        "actual_end_seconds": 16.2667
+      },
+      "10s": {
+        "caption": "The video shows a sequence of events where a person wearing a white shirt and dark pants is seen walking in a parking area. The individual approaches a parked silver car, opens the driver's side door, and appears to interact with someone inside the vehicle. Shortly after, a person on a scooter arrives at the scene, and the two individuals engage in a conversation. The person on the scooter then departs, leaving the first person standing by the car.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.2667,
+        "actual_end_seconds": 18.2667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 718,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 654,
+      "focus_end_frame": 782
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person riding a motorcycle in a parking lot. The rider is seen maneuvering around parked cars, including a white car and a red car. The rider appears to be wearing a helmet and is the only person visible in the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.9333,
+        "actual_end_seconds": 24.9333
+      },
+      "6s": {
+        "caption": "The video shows a person riding a motorcycle in a parking lot. They are seen driving past parked cars and eventually exiting the frame.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9333,
+        "actual_end_seconds": 26.9333
+      },
+      "10s": {
+        "caption": "The video shows a man in a blue shirt and black pants walking towards a white car parked on the side of the road. He opens the door, gets inside, and then drives away. The car is parked next to a red car and a silver car. There are no other people visible in the video.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.9333,
+        "actual_end_seconds": 28.9333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 958,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 894,
+      "focus_end_frame": 1022
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a parking lot with several cars parked in a row. A person is seen walking towards the camera, and there is a motorcycle parked on the side. The scene appears to be static with no significant movement or action taking place.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.9333,
+        "actual_end_seconds": 32.9333
+      },
+      "6s": {
+        "caption": "The video shows a parking lot with several cars parked in a row. A person is seen walking towards the camera, passing by a white car and a red car. The person appears to be wearing dark clothing and is walking at a steady pace. There are no other significant actions or events in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9333,
+        "actual_end_seconds": 34.9333
+      },
+      "10s": {
+        "caption": "The video shows a parking lot with three cars parked in a row. A person walks towards the white car on the left, opens the door, and gets inside. Another person is seen walking towards the red car in the middle.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.9333,
+        "actual_end_seconds": 36.9333
+      }
+    }
+  }
+}

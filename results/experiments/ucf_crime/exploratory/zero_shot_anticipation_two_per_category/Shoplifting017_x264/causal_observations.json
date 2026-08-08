@@ -1,0 +1,292 @@
+{
+  "0": {
+    "caption": "At 2019.05.13 11:39:22, the video shows a surveillance camera labeled \"CAM 1\" capturing a room with multiple desks and computers. A person wearing a blue shirt and a checkered hat is seated at a desk, working on a computer. Another individual in a red shirt is standing near a counter, facing away from the camera. The room has several shelves with various items and a whiteboard on the wall. There are no visible actions or interactions between the individuals, and no motion changes or escalations can be observed.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera view of an indoor space, likely a store or office. There is a person seated at a desk with a computer, wearing a blue shirt and a hat. The individual appears to be focused on the computer screen. In the background, another person in a red top is walking by. The environment includes shelves stocked with various items, a counter, and a cash register. The timestamp indicates the footage was recorded on May 13, 2015, at 11:39:22.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person wearing a red shirt is walking through a store. They are carrying a black bag and appear to be browsing the shelves. Another person, wearing a blue shirt, is sitting at a desk in the foreground, facing away from the camera. The store has various items on display, including clothing and accessories.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A person wearing a red shirt is standing at the counter of a store, interacting with the cashier who is seated behind the counter. The cashier is wearing a blue shirt and a checkered hat. The person in the red shirt appears to be making a purchase or asking for assistance. There are various items on the shelves behind the counter.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store interior. A person wearing a blue shirt and a checkered hat is seated at a desk, facing away from the camera. The individual appears to be working on a computer. In the background, another person in a red top is walking past the counter. The store has shelves stocked with various items, and there are other objects like a cash register and a monitor on the desk. The timestamp indicates the footage was recorded on May 13, 2019, at 11:39:22 AM.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store interior. A person wearing a blue shirt and a checkered hat is seated at a desk, facing away from the camera. Another individual, dressed in red, is standing behind the counter, facing the seated person. The standing person appears to be interacting with the seated person, possibly in a transaction or conversation. The environment includes shelves stocked with various items, a cash register, and other typical retail store fixtures. No significant motion changes or escalations are observed within this segment of the video.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store interior. The timestamp indicates the footage was captured on May 13, 2019, at 11:39:28 AM. In the foreground, there is a person seated at a desk with a computer monitor and keyboard. This individual is wearing a blue shirt and appears to be focused on their work. Behind them, another person in a red top is standing near the counter, facing away from the camera. The background reveals shelves stocked with various items, presumably for sale. No significant motion or interaction between the individuals is observed during this segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store interior. The timestamp indicates the footage was recorded on May 13, 2019, at 11:39:24 AM. In the foreground, there is a person wearing a blue shirt and dark pants, standing behind a counter with a computer monitor and other office equipment. This individual appears to be working or handling tasks at the desk. In the background, another person in a red top and black pants is walking through the store, passing by shelves stocked with various items. There are no visible interactions between the two individuals, and the scene remains static without any significant motion changes or escalations.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The timestamp indicates the footage was captured on May 13, 2019, at 11:39:25. In the foreground, there is a desk with a computer monitor and other office equipment. A person wearing a blue shirt and dark pants is standing behind the desk, facing away from the camera. Another individual, dressed in red, is seen walking past the desk from right to left. The environment includes shelves stocked with various items, suggesting a retail or commercial space. No significant motion or interaction between the individuals is observed beyond the person in red passing by.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store interior. There are two individuals present: one person is standing behind the counter, wearing a blue shirt and a hat, while the other individual is facing away from the camera, wearing a red top. The person behind the counter appears to be handling items on the counter, possibly engaging in a transaction or organizing stock. The person in red seems to be waiting or observing. The environment includes shelves stocked with various products, a cash register, and other typical retail store fixtures. No significant motion or interaction between the individuals is observed beyond these actions.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a surveillance camera's perspective of a store interior. There is a person wearing a blue shirt and a checkered hat standing behind the counter, facing away from the camera. Another individual, dressed in a beige coat, approaches the counter from the right side of the frame. The person at the counter remains stationary throughout the sequence, while the individual in the beige coat moves closer to the counter. No physical interaction or exchange occurs between the two individuals during this segment.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. There are two individuals visible: one person is standing behind a counter, facing away from the camera, and appears to be working on a computer or handling paperwork. The other individual is standing across the counter, facing the first person, and seems to be engaged in a transaction or conversation. The environment includes shelves stocked with various items, a cash register, and office equipment. The timestamp indicates the footage was captured on May 13, 2019, at 11:39:28 AM.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There are two individuals standing at the counter, one facing away from the camera and the other facing towards it. The person facing away is wearing a blue shirt and a hat, while the other individual is wearing a red top. The person in the blue shirt appears to be handling some items on the counter. The environment is well-lit, and there are shelves stocked with various products in the background. No significant motion or interaction is observed between the individuals or any other objects in the scene.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A man in a blue shirt and plaid hat is standing at a counter, facing away from the camera. He appears to be interacting with someone behind the counter. There are shelves stocked with various items in the background. The scene is captured by a surveillance camera labeled \"CAM 1.\"",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a man is seen standing at a counter in a store. He appears to be interacting with a cashier. The man is wearing a hat and a blue shirt. The cashier is wearing a red shirt. The man is holding a bag in his hand. The man then walks away from the counter.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person wearing a plaid shirt and a hat is standing at a counter in a store. They are looking at a computer screen. There are shelves with products in the background. Another person is walking in the background.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a surveillance camera footage of a store interior. A person wearing a blue shirt and a checkered hat is seen walking towards the counter, carrying a black bag. Another individual, dressed in a red top, is standing near the shelves. The person with the bag places it on the counter and appears to be interacting with the cashier. The person in red seems to be browsing the shelves. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person wearing a red shirt is walking through a store. They are looking at the shelves as they walk. There are other people in the store, but they are not interacting with the person in the red shirt.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a surveillance camera view of an office space. There are two people visible in the frame, one wearing a red shirt and the other in a beige jacket. The person in the red shirt is standing near a desk with a computer monitor, while the person in the beige jacket is walking towards the back of the room. There is no significant motion or interaction between the individuals, and the scene remains static throughout the video.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's perspective of a store interior. There are two individuals, one wearing a pink top and the other in a beige coat, standing near the counter. The person in pink appears to be handling items on the counter, while the person in beige is facing away from the camera. The environment includes shelves stocked with products, a cash register, and various items on display. No significant motion or interaction between the individuals is observed during this segment.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera's perspective of a store interior. There are two individuals, one wearing a pink top and the other in a beige coat, standing near the counter. The person in pink appears to be handling items on the counter, while the person in beige is facing away from the camera. No significant motion or interaction is observed between the two individuals.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a surveillance camera's perspective of a store interior. There are shelves stocked with various items, and a counter with a computer monitor and cash register. A person wearing a pink shirt is seen walking from the left side of the frame towards the right, passing behind the counter. The person appears to be browsing or looking at items on the shelves. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The room is furnished with desks, computers, and office chairs. There are shelves stocked with various items in the background. A person wearing a light-colored shirt and dark pants enters the frame from the right side and walks towards the center of the room. Another individual, partially obscured, appears to be standing behind a counter or desk. The first person interacts with the second individual, possibly engaging in a transaction or conversation. The interaction seems to involve some movement of objects on the counter.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a surveillance camera's perspective of an office space. The room is furnished with desks, computers, chairs, and various office supplies. There are two individuals present in the room; one appears to be working at a desk while the other moves around the room. The person who is moving seems to be carrying items, possibly documents or office materials. The actions suggest a typical workday scenario with individuals engaged in their respective tasks.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a store interior. There are two individuals, one wearing a light-colored shirt and the other in darker clothing. The person in the light-colored shirt is standing behind the counter, while the other individual appears to be interacting with them. The person behind the counter seems to be handling items on the counter, possibly during a transaction or exchange. The environment includes shelves stocked with various products, a cash register, and office furniture. The timestamp indicates the footage was recorded at 11:39 on March 13, 2015.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a surveillance camera view of an office space. A person is seen walking across the room from left to right, carrying a black bag. The individual appears to be wearing a dark jacket and pants. The office has multiple desks with computers, chairs, and various office supplies. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera footage of a store interior. A person wearing a dark jacket and light-colored pants is seen walking through the store, passing by shelves stocked with various items. The individual appears to be browsing or looking at the products on display. There are no visible interactions with other people or objects, and the person's actions seem casual and unhurried.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a surveillance camera footage of an office space. The camera is positioned above a desk with a computer monitor, keyboard, and other office equipment. The footage captures a person wearing a dark jacket and light-colored pants entering the frame from the right side. They walk towards the desk, bend down, and appear to interact with something on the desk. After a few seconds, they stand up and walk out of the frame to the left. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person is standing at a counter in a store. They are looking at items on the shelves. The person then turns and walks away from the counter.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 224,
+      "quality": 0.775,
+      "support_scales": [
+        2,
+        4,
+        16,
+        8,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 208,
+          "end_frame": 240,
+          "center_frame": 224,
+          "quality": 0.775
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 176,
+          "end_frame": 240,
+          "center_frame": 208,
+          "quality": 0.675893
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 64,
+          "end_frame": 305,
+          "center_frame": 192,
+          "quality": 0.652455
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 128,
+          "end_frame": 256,
+          "center_frame": 192,
+          "quality": 0.651339
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 0,
+          "end_frame": 305,
+          "center_frame": 160,
+          "quality": 0.627679
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 160,
+      "focus_end_frame": 288
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is seen driving down a street, and then it stops.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is seen driving down a street, and then it stops.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4667,
+        "actual_end_seconds": 10.1667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is seen driving down a street, and then it stops.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 10.1667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 61,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 0,
+      "focus_end_frame": 125
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "A car is driving down the street, followed by a van. The van stops next to the car, and a person gets out of the van.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.0333,
+        "actual_end_seconds": 3.0333
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is driving down the street, followed by a van. The van stops next to the car, and a person gets out of the van.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0333
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is driving down the street, followed by a van. The van stops next to the car, and a person gets out of the van.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.0333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 101,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 37,
+      "focus_end_frame": 165
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3667,
+        "actual_end_seconds": 4.3667
+      },
+      "6s": {
+        "direct_visual_score": 0.4,
+        "direct_visual_response": "[0.4]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.3667,
+        "actual_end_seconds": 6.3667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.3667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 152,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 88,
+      "focus_end_frame": 216
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.4,
+        "direct_visual_response": "[0.4]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 6.0667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.0667,
+        "actual_end_seconds": 8.0667
+      },
+      "10s": {
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "caption": "A car is parked on the side of the road. Another car drives up and parks next to it. A person gets out of the second car and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 10.0667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 253,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 189,
+      "focus_end_frame": 305
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a black car parked on the side of the road. A person is seen opening the back door of the car and then closing it. The car remains stationary throughout the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a black car parked on the side of the road. A person is seen opening the back door of the car and then closing it. The car remains stationary throughout the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4333,
+        "actual_end_seconds": 10.1667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a black car parked on the side of the road. A person is seen opening the back door of the car and then closing it. The car remains stationary throughout the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.4333,
+        "actual_end_seconds": 10.1667
+      }
+    }
+  }
+}

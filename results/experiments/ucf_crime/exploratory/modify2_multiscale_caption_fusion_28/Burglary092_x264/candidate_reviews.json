@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 464,
+      "quality": 0.702273,
+      "support_scales": [
+        2,
+        4,
+        8,
+        16
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 448,
+          "end_frame": 480,
+          "center_frame": 464,
+          "quality": 0.702273
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 464,
+          "end_frame": 528,
+          "center_frame": 496,
+          "quality": 0.672727
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 416,
+          "end_frame": 544,
+          "center_frame": 480,
+          "quality": 0.663393
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 288,
+          "end_frame": 544,
+          "center_frame": 416,
+          "quality": 0.619964
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 400,
+      "focus_end_frame": 528
+    },
+    "scales": {
+      "2s": {
+        "caption": "A person is seen walking towards a table and chairs outside a restaurant. They then proceed to sit down at the table.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "6s": {
+        "caption": "The video shows a man in a blue shirt and black pants walking towards a table outside a restaurant. He then proceeds to sit down at the table, which has red chairs and a yellow umbrella. The man appears to be alone and there are no other people visible in the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4667,
+        "actual_end_seconds": 18.4667
+      },
+      "10s": {
+        "caption": "A man is seen walking towards a table and chairs outside a restaurant. He then proceeds to sit down at the table.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 384,
+      "quality": 0.609091,
+      "support_scales": [
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 224,
+          "end_frame": 544,
+          "center_frame": 384,
+          "quality": 0.609091
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 320,
+      "focus_end_frame": 448
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a nighttime scene outside a restaurant with red tables and chairs arranged on the sidewalk. A person wearing dark clothing is seen walking towards the entrance of the establishment, then entering and disappearing from view. The surroundings include parked cars and illuminated storefronts in the background.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "6s": {
+        "caption": "The video shows a nighttime scene outside a restaurant with red chairs and tables. A person is seen walking towards the entrance, then entering and disappearing from view. The surroundings include parked cars and a wet pavement, suggesting recent rain.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.8,
+        "actual_end_seconds": 15.8
+      },
+      "10s": {
+        "caption": "The video shows a person walking on a sidewalk at night. They are wearing dark clothing and carrying an object in their hand. The sidewalk is lined with red chairs and tables, and there are cars parked along the street. The person walks from left to right across the frame, passing by the tables and chairs.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 125,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 61,
+      "focus_end_frame": 189
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. A person is seen walking across the frame from left to right, passing by the tables. The surrounding area includes parked cars and a building with illuminated signage.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "6s": {
+        "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. The area is illuminated by streetlights and the glow of nearby buildings. A person wearing dark clothing walks from the left side of the frame towards the center, passing by the tables. There are no other significant actions or events in the video.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.1667,
+        "actual_end_seconds": 7.1667
+      },
+      "10s": {
+        "caption": "A man walks towards a table and sits down.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.1667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 250,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 186,
+      "focus_end_frame": 314
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a nighttime scene with a person walking on a sidewalk. The individual is wearing dark clothing and appears to be carrying something in their hand. The sidewalk is lined with red chairs and tables, likely belonging to an outdoor dining area of a nearby establishment. There are parked cars along the street, and the lighting suggests it's evening or night.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.3333,
+        "actual_end_seconds": 9.3333
+      },
+      "6s": {
+        "caption": "The video shows a nighttime scene outside a restaurant with red tables and chairs arranged on the sidewalk. A person is seen walking towards the entrance of the establishment, passing by the tables. The surroundings include parked cars and a wet pavement, suggesting recent rain. The lighting is artificial, likely from streetlights and the restaurant's own illumination.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.3333,
+        "actual_end_seconds": 11.3333
+      },
+      "10s": {
+        "caption": "The video shows a nighttime scene with a person wearing dark clothing walking towards a red table and chairs set on a sidewalk. The area is illuminated by streetlights and the glow of nearby buildings. There are parked cars in the background, and the person appears to be carrying something in their hand as they approach the table.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3333,
+        "actual_end_seconds": 13.3333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 312,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 248,
+      "focus_end_frame": 376
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person standing outside a building at night. They are wearing dark clothing and appear to be interacting with something on the ground, possibly a package or an object. The surroundings include parked cars and outdoor seating with red chairs and tables.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 11.4
+      },
+      "6s": {
+        "caption": "The video shows a man walking towards a yellow vending machine, interacting with it by pressing buttons or making a selection. He then retrieves an item from the machine and walks away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.4,
+        "actual_end_seconds": 13.4
+      },
+      "10s": {
+        "caption": "The video shows a man walking towards a table and chairs outside a restaurant. He then proceeds to sit down and order food from the waiter.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 15.4
+      }
+    }
+  }
+}

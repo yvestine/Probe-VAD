@@ -1,0 +1,318 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 1200,
+      "quality": 0.743939,
+      "support_scales": [
+        2,
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 1184,
+          "end_frame": 1216,
+          "center_frame": 1200,
+          "quality": 0.743939
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 1184,
+          "end_frame": 1248,
+          "center_frame": 1216,
+          "quality": 0.683712
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 1136,
+      "focus_end_frame": 1264
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "A man is seen walking away from a truck while another man stands next to it.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 1200,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.0,
+        "actual_end_seconds": 41.0
+      },
+      "6s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "A man is seen walking away from a truck while another man stands next to it.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 1200,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.0,
+        "actual_end_seconds": 43.0
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "A man is seen walking away from a truck while another man stands next to it.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 1200,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.0,
+        "actual_end_seconds": 45.0
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 288,
+      "quality": 0.60625,
+      "support_scales": [
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 224,
+          "end_frame": 352,
+          "center_frame": 288,
+          "quality": 0.60625
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 224,
+      "focus_end_frame": 352
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen walking towards the truck from the right side of the frame. Another individual is standing near the open back of the truck, facing away from the camera. The person who approached the truck then turns around and walks back towards the left side of the frame.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 288,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "6s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen walking towards the truck from the right side of the frame. Another individual is standing near the open back of the truck, facing away from the camera. The person who approached the truck then turns around and walks back towards the left side of the frame.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 288,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.6,
+        "actual_end_seconds": 12.6
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen walking towards the truck from the right side of the frame. Another individual is standing near the open back of the truck, facing away from the camera. The person who approached the truck then turns around and walks back towards the left side of the frame.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 288,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 592,
+      "quality": 0.599337,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 464,
+          "end_frame": 720,
+          "center_frame": 592,
+          "quality": 0.599337
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 416,
+          "end_frame": 736,
+          "center_frame": 576,
+          "quality": 0.565076
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 528,
+      "focus_end_frame": 656
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, and another person is standing nearby. The person at the back of the truck appears to be loading or unloading items from the truck bed.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 592,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, and another person is standing nearby. The person at the back of the truck appears to be loading or unloading items from the truck bed.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 592,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7333,
+        "actual_end_seconds": 22.7333
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, and another person is standing nearby. The person at the back of the truck appears to be loading or unloading items from the truck bed.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 592,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 779,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 715,
+      "focus_end_frame": 843
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing next to a truck, while another person is inside the truck. The man appears to be talking to someone off-camera.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 784,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.9667,
+        "actual_end_seconds": 26.9667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing next to a truck, while another person is inside the truck. The man appears to be talking to someone off-camera.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 784,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.9667,
+        "actual_end_seconds": 28.9667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing next to a truck, while another person is inside the truck. The man appears to be talking to someone off-camera.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 784,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 30.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 936,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 872,
+      "focus_end_frame": 1000
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white truck parked on the side of the road. A person in blue clothing is seen getting into the back of the truck, while another person in a white shirt and dark pants stands nearby. The person in blue clothing then exits the truck and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 928,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 32.2
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white truck parked on the side of the road. A person in blue clothing is seen getting into the back of the truck, while another person in a white shirt and dark pants stands nearby. The person in blue clothing then exits the truck and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 928,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.2,
+        "actual_end_seconds": 34.2
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a white truck parked on the side of the road. A person in blue clothing is seen getting into the back of the truck, while another person in a white shirt and dark pants stands nearby. The person in blue clothing then exits the truck and walks away.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 928,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 36.2
+      }
+    }
+  }
+}

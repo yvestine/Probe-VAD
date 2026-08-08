@@ -1,0 +1,21 @@
+{
+  "variant": "full_modify2_2s_fps5",
+  "base_caption_source": "regenerated from raw video",
+  "scan_window_seconds": 2,
+  "scan_sample_fps": 5.0,
+  "scan_max_frames": 10,
+  "review_sampling": {
+    "2s": {
+      "fps": 5.0,
+      "max_frames": 10
+    },
+    "6s": {
+      "fps": 2.0,
+      "max_frames": 10
+    },
+    "10s": {
+      "fps": 2.0,
+      "max_frames": 10
+    }
+  }
+}

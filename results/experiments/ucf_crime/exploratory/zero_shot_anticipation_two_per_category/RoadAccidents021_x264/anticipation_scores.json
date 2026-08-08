@@ -1,0 +1,102 @@
+{
+  "0": {
+    "current_abnormality": 0.3,
+    "risk_2s_raw": 0.4,
+    "risk_5s_raw": 0.5,
+    "risk_10s_raw": 0.6,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.26,
+    "risk_5s": 0.325,
+    "risk_10s": 0.39
+  },
+  "16": {
+    "current_abnormality": 0.3,
+    "risk_2s_raw": 0.2,
+    "risk_5s_raw": 0.2,
+    "risk_10s_raw": 0.2,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.221,
+    "risk_5s": 0.24375,
+    "risk_10s": 0.2665
+  },
+  "32": {
+    "current_abnormality": 0.3,
+    "risk_2s_raw": 0.4,
+    "risk_5s_raw": 0.5,
+    "risk_10s_raw": 0.6,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.33735,
+    "risk_5s": 0.410313,
+    "risk_10s": 0.483275
+  },
+  "48": {
+    "current_abnormality": 0.5,
+    "risk_2s_raw": 0.6,
+    "risk_5s_raw": 0.7,
+    "risk_10s_raw": 0.8,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.508073,
+    "risk_5s": 0.598609,
+    "risk_10s": 0.689146
+  },
+  "64": {
+    "current_abnormality": 0.3,
+    "risk_2s_raw": 0.4,
+    "risk_5s_raw": 0.5,
+    "risk_10s_raw": 0.6,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.437825,
+    "risk_5s": 0.534513,
+    "risk_10s": 0.631201
+  },
+  "80": {
+    "current_abnormality": 0.2,
+    "risk_2s_raw": 0.3,
+    "risk_5s_raw": 0.4,
+    "risk_10s_raw": 0.5,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.348239,
+    "risk_5s": 0.44708,
+    "risk_10s": 0.54592
+  },
+  "96": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.121884,
+    "risk_5s": 0.156478,
+    "risk_10s": 0.191072
+  },
+  "112": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.042659,
+    "risk_5s": 0.054767,
+    "risk_10s": 0.066875
+  },
+  "128": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.014931,
+    "risk_5s": 0.019169,
+    "risk_10s": 0.023406
+  },
+  "144": {
+    "current_abnormality": 0.0,
+    "risk_2s_raw": 0.0,
+    "risk_5s_raw": 0.0,
+    "risk_10s_raw": 0.0,
+    "parse_status": "bracket_list",
+    "risk_2s": 0.005226,
+    "risk_5s": 0.006709,
+    "risk_10s": 0.008192
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "center_frame": 896,
+    "quality": 0.706977,
+    "support_scales": [
+      2,
+      4,
+      8,
+      20
+    ],
+    "supporting_proposals": [
+      {
+        "source": "independent_scan",
+        "scale_clips": 2,
+        "start_frame": 880,
+        "end_frame": 912,
+        "center_frame": 896,
+        "quality": 0.706977
+      },
+      {
+        "source": "independent_scan",
+        "scale_clips": 4,
+        "start_frame": 864,
+        "end_frame": 928,
+        "center_frame": 896,
+        "quality": 0.696512
+      },
+      {
+        "source": "independent_scan",
+        "scale_clips": 8,
+        "start_frame": 800,
+        "end_frame": 928,
+        "center_frame": 864,
+        "quality": 0.693023
+      },
+      {
+        "source": "independent_scan",
+        "scale_clips": 20,
+        "start_frame": 688,
+        "end_frame": 1008,
+        "center_frame": 848,
+        "quality": 0.679593
+      }
+    ],
+    "source": "score",
+    "candidate_id": "candidate_1",
+    "focus_start_frame": 832,
+    "focus_end_frame": 960
+  },
+  {
+    "center_frame": 816,
+    "quality": 0.691279,
+    "support_scales": [
+      16
+    ],
+    "supporting_proposals": [
+      {
+        "source": "independent_scan",
+        "scale_clips": 16,
+        "start_frame": 688,
+        "end_frame": 944,
+        "center_frame": 816,
+        "quality": 0.691279
+      }
+    ],
+    "source": "score",
+    "candidate_id": "candidate_2",
+    "focus_start_frame": 752,
+    "focus_end_frame": 880
+  },
+  {
+    "center_frame": 447,
+    "quality": 0.0,
+    "support_scales": [],
+    "supporting_proposals": [],
+    "source": "coverage_exploration",
+    "candidate_id": "candidate_3",
+    "focus_start_frame": 383,
+    "focus_end_frame": 511
+  },
+  {
+    "center_frame": 1342,
+    "quality": 0.0,
+    "support_scales": [],
+    "supporting_proposals": [],
+    "source": "coverage_exploration",
+    "candidate_id": "candidate_4",
+    "focus_start_frame": 1278,
+    "focus_end_frame": 1406
+  },
+  {
+    "center_frame": 1790,
+    "quality": 0.0,
+    "support_scales": [],
+    "supporting_proposals": [],
+    "source": "coverage_exploration",
+    "candidate_id": "candidate_5",
+    "focus_start_frame": 1726,
+    "focus_end_frame": 1854
+  }
+]

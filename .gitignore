@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+/data/
+/outputs/
+/models/
+/checkpoints/
+/VADTree/
+
+# Local configuration and generated run artifacts.
+/configs/*.env
+/results/**/metrics_reproduced/
+/results/**/_errors/
+/results/**/_remaining_shards/
+/results/**/_threshold_details/
+*.log

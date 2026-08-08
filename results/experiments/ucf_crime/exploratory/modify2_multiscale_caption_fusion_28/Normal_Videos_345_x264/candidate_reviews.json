@@ -1,0 +1,266 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 112,
+      "quality": 0.94,
+      "support_scales": [
+        2,
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 96,
+          "end_frame": 128,
+          "center_frame": 112,
+          "quality": 0.94
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 80,
+          "end_frame": 144,
+          "center_frame": 112,
+          "quality": 0.728125
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 16,
+          "end_frame": 144,
+          "center_frame": 80,
+          "quality": 0.562188
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 48,
+      "focus_end_frame": 176
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other people in the background, one of whom appears to be walking away from the reception area. The room has a modern design with a couch, a coffee table, and a bookshelf.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "6s": {
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other people in the background, one of whom appears to be walking away from the scene. The setting includes a couch, a coffee table, and a bookshelf, suggesting a lobby or waiting area.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7333,
+        "actual_end_seconds": 6.7333
+      },
+      "10s": {
+        "caption": "The video shows a man in a black suit standing in front of a reception desk, while another man in a black suit stands nearby. The man at the desk is typing on a computer, and the other man is looking at something on the desk.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 34,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 0,
+      "focus_end_frame": 98
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a suit standing at a reception desk, talking to a woman behind the counter. Another man in a suit is standing nearby, observing the conversation. The scene takes place in a lobby or waiting area with comfortable seating and a coffee table.",
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1333,
+        "actual_end_seconds": 2.1333
+      },
+      "6s": {
+        "caption": "The video shows a man in a suit walking towards the camera.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1333
+      },
+      "10s": {
+        "caption": "The video shows a man in a black suit walking towards the camera. He is followed by another man in a suit who is walking behind him. The first man continues to walk towards the camera while the second man follows closely behind.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.1333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 69,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 5,
+      "focus_end_frame": 133
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows an indoor setting, likely a lobby or waiting area. There are two individuals in business attire standing near a reception desk with a person seated behind it. The room has modern furnishings, including sofas and a coffee table. The color palette is neutral with pops of color from decorative items. The individuals appear to be engaged in a conversation or transaction with the receptionist.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.3,
+        "actual_end_seconds": 3.3
+      },
+      "6s": {
+        "caption": "A man in a suit is standing at a reception desk, while another man in a suit is standing nearby. The man at the desk is looking at a computer screen, and the other man is looking at him. There are two other men standing in the background, one of whom is wearing a black jacket.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.3
+      },
+      "10s": {
+        "caption": "The video shows a man in a suit standing at a reception desk, while another man in a suit stands nearby. The man at the desk is seen typing on a computer, and the other man is looking at something on the desk.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 138,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 74,
+      "focus_end_frame": 202
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other people in the background, one of whom appears to be walking away from the reception area. The setting includes a couch and a coffee table, suggesting a waiting or lounge area.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.6,
+        "actual_end_seconds": 5.6
+      },
+      "6s": {
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other people in the background, one of whom appears to be walking away from the scene. The setting includes a couch, a coffee table, and a bookshelf, suggesting a waiting or lounge area.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.6,
+        "actual_end_seconds": 6.9667
+      },
+      "10s": {
+        "caption": "The video shows a man in a suit walking towards the camera, while another man in a suit stands behind him. The scene takes place in a lobby with a reception desk and a waiting area.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 173,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 109,
+      "focus_end_frame": 209
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows an indoor setting, likely a lobby or reception area. There are two people standing near a desk with a computer monitor and paperwork. One person appears to be working at the desk while the other is standing nearby, possibly waiting or conversing. The room has a modern design with comfortable seating, a coffee table, and decorative elements like plants and artwork.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "6s": {
+        "caption": "The video shows a reception area with a person seated at a desk, facing away from the camera. There are two individuals standing nearby, one of whom appears to be interacting with the seated person. The room has a modern design with a couch and a coffee table in the background. The colors are muted, with beige walls and furniture, and there is a red object on the coffee table.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.7667,
+        "actual_end_seconds": 6.9667
+      },
+      "10s": {
+        "caption": "The video shows an indoor setting, likely a lobby or waiting area, with a reception desk at the forefront. There are two individuals behind the desk, one of whom is interacting with a computer screen. In the background, there are two people standing and conversing. The room has a modern decor with comfortable seating, a coffee table, and a bookshelf. The color palette is neutral with pops of color from decorative items.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7667,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  }
+}

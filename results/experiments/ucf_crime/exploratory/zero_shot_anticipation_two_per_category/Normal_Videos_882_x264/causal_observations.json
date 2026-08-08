@@ -1,0 +1,1042 @@
+{
+  "0": {
+    "caption": "The video shows an empty classroom with rows of desks and chairs. The camera is positioned at a high angle, looking down on the room. There are no visible people or movement in the scene.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows an empty classroom with rows of desks and chairs. The camera is positioned at a high angle, looking down on the room. There are no visible people or movement in the scene.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows an empty classroom with rows of desks and chairs. A person wearing a red shirt is walking down the aisle between the desks. The camera angle is from above, looking down on the classroom. There are no other visible actions or interactions.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows an empty classroom with rows of desks and chairs. A person wearing a red shirt is walking along the back wall of the classroom. The camera angle remains static throughout the segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. The desks are arranged in a tiered fashion, ascending from the bottom to the top of the frame. The chairs are blue and uniformly placed at each desk. There is a person wearing red clothing walking across the back of the room. The person's movement is from right to left across the frame.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. The desks are arranged in a tiered fashion, ascending from the front to the back of the room. The chairs are blue and appear to be made of plastic. There is no visible movement or action taking place in the video.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. The desks are arranged in a tiered fashion, ascending from the front to the back of the room. The chairs are blue, and the desks appear to be made of wood. There is a person wearing a red shirt walking across the room. The walls are white, and there is a large window at the far end of the room. The floor is a light color.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are rectangular, light-colored, and have blue chairs. The walls are white, and there is a door visible in the background. Two individuals are present: one wearing a red shirt and dark pants, and another in a darker outfit. The person in red walks from the back of the room towards the front, passing by the other individual who remains stationary near the wall. There is no significant motion or interaction between the two people.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are rectangular, light-colored, and have blue chairs. The room has white walls and a dark floor. There are two individuals in the room; one is wearing a red shirt and the other is wearing a darker color. They appear to be engaged in some form of interaction or conversation. The person in the red shirt moves around the room while the other remains stationary. No other objects or actions are visible in the video.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are rectangular, light-colored, and have blue chairs. There are two individuals in the room; one is wearing a red shirt and the other is wearing a dark shirt. They appear to be engaged in a conversation while standing near the back of the room. The walls are white, and there is a door visible on the right side of the frame. The lighting is artificial, and the room appears to be empty except for the two people.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are light-colored, and the chairs have blue seats. There is a person wearing a red shirt walking across the room from one side to the other. Another person in a gray shirt is standing near the wall on the opposite side of the room. The room appears to be empty except for these two individuals.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are light-colored, and the chairs are blue. There are two individuals in the room; one is wearing a red shirt and the other is wearing a gray shirt. The person in the red shirt is walking towards the camera, while the person in the gray shirt is standing still. There is no visible interaction between the two individuals. The room appears to be empty except for the two people.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. Two individuals are present in the room. One person, wearing a red shirt, is walking towards the right side of the frame, while the other person, dressed in a gray shirt, is standing near the left side of the frame. The person in the red shirt appears to be moving at a steady pace, while the person in the gray shirt remains stationary. There is no visible interaction between the two individuals.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "In the video segment, there are two individuals in a room with multiple rows of tables and chairs. One person is wearing a red shirt and is walking towards the right side of the frame, while the other person is wearing a gray shirt and is walking towards the left side of the frame. The person in the red shirt appears to be carrying something in their hand. There is no visible interaction between the two individuals, and they continue walking in opposite directions without any noticeable change in motion or escalation.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, there is a room with tables and chairs. Two people are present in the room. One person is wearing a red shirt and the other person is wearing a gray shirt. The person in the red shirt is walking towards the person in the gray shirt.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "In the video segment, there is a room with multiple rows of tables and chairs. A person wearing a red shirt is seen walking towards the right side of the frame, passing by another person who is standing near the back of the room. The person in the red shirt then turns around and walks back towards the center of the room. The person who was initially standing remains stationary throughout the video. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. A person wearing a red shirt is seen walking across the room, pushing a cart with a blue object on it. Another individual in a gray shirt is standing near the front of the room, facing the person with the cart. The person with the cart appears to be moving towards the other individual.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A man is walking down the aisle of a classroom. He is wearing a gray shirt and black pants. The classroom has many desks and chairs. There is a projector screen at the front of the room.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, there is a man walking in an empty classroom. The room has rows of desks and chairs. The man walks from one end of the room to the other, passing by the desks and chairs. There are no other people or objects visible in the video.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. The desks are arranged in parallel lines, and the chairs are blue. There is a person walking across the room from one side to the other. The person appears to be wearing a light-colored shirt and dark pants. The room has white walls and a large window on one side. There is no visible interaction between objects or people, and there are no significant motion changes or escalations.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. A person is walking through the room, moving from one end to the other. The individual appears to be alone in the room, and there are no other visible actions or interactions taking place.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. A person is seen walking through the room, moving from one end to the other. The individual appears to be alone in the room. There are no visible interactions or escalations.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows an overhead view of a large, empty classroom with rows of desks and chairs. The walls are white, and there is a blue banner on the right side. A person wearing a light-colored shirt and dark pants walks across the room from one end to the other. There is no interaction with any objects or other people. The motion is steady and purposeful.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a room with multiple rows of desks and chairs. The desks are arranged in parallel lines, and the chairs are blue. A person is seen walking through the room, moving from one end to the other. The person appears to be alone, and there is no interaction with any other objects or individuals. The motion is steady and purposeful.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows an empty classroom with rows of desks and chairs. A person enters the frame from the bottom, walking across the room. The individual is wearing a light-colored shirt and dark pants. They walk past the desks, occasionally bending down to interact with something on the floor or the desks themselves. The person's actions are deliberate and focused, suggesting they may be setting up or cleaning the room.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a large room with multiple rows of desks and chairs. The desks are arranged in a tiered fashion, ascending from the front to the back of the room. A person is seen walking through the room, moving between the rows of desks. The individual appears to be inspecting or interacting with the desks as they walk by. There is no visible interaction with other people or objects that suggest any escalation or instability.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a person in a white shirt and dark pants walking through an empty classroom with rows of desks and chairs. The individual is seen pushing the chairs back into place, one by one, as they move down the aisle. The motion is methodical and deliberate, suggesting an intention to organize the space.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a person in a white shirt and dark pants walking through an empty classroom. The individual is seen pushing chairs back into place at the tables, which are arranged in rows. The room has blue chairs and white desks. There is no visible interaction with other people or objects, and the environment appears calm and orderly.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person in a white shirt is walking through an empty classroom. They are carrying a black bag and appear to be searching for something on the tables. The person moves from one table to another, looking underneath and around them.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a person in a white shirt and dark pants walking through an empty classroom. The individual is seen pushing chairs back into their designated spots at the tables. The camera angle is from above, providing a bird's-eye view of the room.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "The video shows a large, empty lecture hall with rows of desks and chairs. A person wearing a light-colored shirt and dark pants is walking through the hall. The person stops at one of the desks and bends down to pick something up from the floor.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a person walking through an empty classroom. The individual is wearing a white shirt and dark pants, and they are carrying a bag. They walk from one end of the room to the other, passing by rows of desks and chairs. There is no interaction with any other objects or people in the video.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person is walking down a long hallway lined with tables and chairs. The person is wearing a white shirt and black pants. They are carrying a white object in their right hand. The person walks at a steady pace, passing by several empty tables and chairs.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a person in a white shirt walking down the aisle of an empty classroom. The individual is carrying a book and appears to be searching for something on the tables. There are no other people visible in the room, and the person's actions seem deliberate and focused.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a person in a white shirt walking down the aisle of an empty classroom. The individual is carrying a book and appears to be looking at it as they walk. There are no other people visible in the classroom, and the person's actions do not seem to interact with any other objects or individuals.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a person in a white shirt and dark pants walking through an empty classroom. The individual is carrying a book and appears to be placing it on one of the desks. The classroom has multiple rows of desks with blue chairs, and the person moves from one desk to another, seemingly organizing or arranging items.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a person standing in the middle of an empty classroom. The individual is wearing a light-colored shirt and dark pants. They are holding a book or notebook and appear to be reading or writing on it. The classroom has multiple rows of desks with blue chairs, and the floor is a light color. There is no visible motion or interaction with other entities.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a bird's-eye view of an empty classroom with rows of blue chairs and wooden desks. A person wearing a light-colored shirt is standing in the middle of the room, facing away from the camera. The individual appears to be holding something in their hands, possibly a book or paper, and is moving slightly as if reading or examining it. There are no other visible actions or interactions, and the environment remains static throughout the video.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows an overhead view of a classroom with multiple rows of desks and chairs. The desks are arranged in a parallel fashion, and the chairs are uniformly blue. A person is standing in the aisle between the desks, facing the camera. The individual appears to be wearing a light-colored shirt and dark pants. The person's actions are limited to standing still and looking towards the camera. There is no visible interaction with other objects or individuals, and there are no significant motion changes throughout the video.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a bird's-eye view of an empty classroom with rows of blue chairs and wooden desks. A person wearing a light-colored shirt is seen walking down the aisle between the desks, holding what appears to be a book or notebook. The individual moves at a steady pace, pausing briefly at one point before continuing their walk. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a man standing in the middle of an empty classroom. He is wearing a light-colored shirt and dark pants. The classroom has multiple rows of desks with blue chairs. The man appears to be looking down at something in his hands, possibly a phone or a small object. There are no other people visible in the video.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "The video shows a man standing in the middle of an empty classroom. He is wearing a light-colored shirt and dark pants. The classroom has multiple rows of desks with blue chairs. The man appears to be looking down at something in his hands, possibly a phone or a small object. There are no other people visible in the video.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "The video shows a person sitting alone in an empty classroom. The individual is seated at a desk, facing forward, and appears to be reading or writing on a piece of paper. There are no other people visible in the room, and the camera angle remains static throughout the video.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A man is sitting alone at a table in an empty classroom. He is looking down at something on the table, possibly a book or a laptop. The camera angle is from above, providing a bird's-eye view of the scene. There are no other people visible in the video.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "The video shows a man sitting alone in an empty classroom. He is seated at a desk, reading a book. The camera angle is from above, providing a bird's eye view of the room. There are no other people visible in the video.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "In the video segment, a person is seated at a table in an empty room with multiple rows of tables and chairs. The individual is focused on reading a book or document. There are no visible interactions or motion changes, and the scene remains stable throughout the segment.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "The video shows a person sitting at a table in an empty room with multiple rows of tables and chairs. The individual is wearing a light-colored shirt and dark pants, and appears to be focused on something on the table. The room has a tiled floor and the lighting is artificial. There are no other people visible in the video.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "In the video, there is a man standing in an empty classroom. He is wearing a light-colored shirt and dark pants. The classroom has multiple rows of desks with blue chairs. The man appears to be looking at something on the desk in front of him. There are no other people visible in the video.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a person sitting at a table in an empty room with multiple rows of tables and chairs. The individual is wearing a light-colored shirt and dark pants, and they are holding what appears to be a book or notebook. They are looking down at the object in their hands and occasionally turning pages. The camera angle is from above, providing a bird's-eye view of the scene.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a person seated at a long table in what appears to be a lecture hall or classroom. The individual is wearing a light-colored shirt and dark pants, and they are holding a book or notebook. The room has multiple rows of tables with blue chairs, and the floor is a light color. The camera angle is from above, providing a bird's-eye view of the scene. There is no visible motion or interaction with other entities, and the environment seems stable without any noticeable escalation.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a person sitting at a table in a room with multiple tables and chairs. The individual is wearing a light-colored shirt and dark pants. They are seated alone, looking down at something on the table. The camera angle is from above, providing a bird's-eye view of the scene. The person remains seated throughout the video, with no significant movement or interaction with other objects or individuals.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a person walking through an empty classroom. The individual is wearing a light-colored shirt and dark pants. They are carrying a book or notebook in their hands. The classroom has multiple rows of desks with blue chairs, and the floor appears to be tiled. The person walks from one end of the room to the other, passing by the desks and chairs. There is no visible interaction with any other objects or people.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows an overhead view of a room with multiple rows of tables and chairs. The tables are rectangular, and the chairs have blue seats and backs. A person wearing a light-colored shirt is walking between the rows of tables, carrying what appears to be a book or folder. The person's pace is steady, and they seem to be moving purposefully. There is no visible interaction with other individuals or objects, and the environment remains static throughout the video.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows an indoor setting, presumably a cafeteria or dining hall, with long tables and blue chairs arranged in rows. The flooring is dark, possibly black, and the walls are light-colored. There is a person wearing a red shirt and dark pants walking across the frame from right to left. The individual appears to be carrying something in their hand. The lighting is artificial, and there are no visible windows. The camera angle is fixed, providing a bird's-eye view of the area.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows an indoor setting with a long table and multiple chairs arranged around it. The floor is dark, and the walls are light-colored. There is a person wearing a red shirt standing near the table. The person appears to be stationary throughout the video.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a person wearing a red shirt standing in a room with a counter and chairs. The individual appears to be stationary, with no visible motion or interaction with other entities. There is no escalation or instability observed in the scene.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a person wearing a red shirt and dark pants standing in a room with a black floor. The individual is positioned near a counter or reception desk, which has a light-colored surface. There are blue chairs lined up against the wall on the right side of the frame. The person appears to be stationary throughout the video segment.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a man wearing a red shirt standing in a lobby area. He is positioned near a counter with a black surface and a white base. The floor is tiled, and there are blue chairs lined up against the wall. The man appears to be stationary throughout the video.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A man in a red shirt is standing in a lobby. He is looking at his phone and appears to be waiting for someone. There are chairs and tables in the background.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, a man wearing a red shirt is seen standing in a lobby area. He appears to be waiting or observing something. The lobby has a modern design with a black counter and a row of chairs against the wall. There are no other people visible in the scene.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A man in a red shirt is standing in a lobby. He is leaning against a counter and looking at his phone. There are large windows behind him.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a man wearing a red shirt and black pants is standing in a room with a white counter. He appears to be waiting for something or someone. The room has large windows and a tiled floor. There are no other people visible in the video.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "A man in a red shirt is standing in a room with large windows. He is looking down at his phone and appears to be waiting for something. There is a black counter behind him and a white trash can to the right of the counter. The man does not move or interact with any other objects in the video.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "In the video, a man wearing a red shirt and black pants is standing in a lobby. He appears to be waiting for someone or something. The lobby has a modern design with a black floor and white walls. There is a large screen on the wall behind him. The man is standing still, but he occasionally shifts his weight from one foot to the other.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "In the video, a man wearing a red shirt and dark pants is standing in front of a counter. He appears to be waiting or observing something. The counter has a black surface and there is a white object on it. The floor is tiled with a pattern of light and dark squares. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "In the video, a man wearing a red shirt and dark pants is standing in a lobby area. He appears to be waiting for someone or something. The lobby has a modern design with a black counter and a white wall behind him. There are no other people visible in the frame.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a man wearing a red shirt and dark pants standing in a lobby area. He is leaning against a counter with his right arm, and he appears to be looking at something off-camera. The lobby has a modern design with a black floor and white walls. There are no other people visible in the frame.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a single individual, wearing a red shirt and dark pants, standing in a lobby area with a black floor. The person is leaning against a counter or reception desk, which has a white top and a black base. There are no other visible actions or interactions, and the environment appears to be static without any noticeable motion changes or escalations.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a person wearing a red shirt and dark pants standing in an indoor space with a black floor. The individual is leaning against a white counter or desk, which has a flat surface and a vertical edge. The person's posture changes slightly throughout the sequence of images, but they remain in the same general position. There are no other visible entities or actions taking place in the video.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a man wearing a red t-shirt and dark pants standing in front of a counter. He is seen leaning against the counter with his arms crossed, then he uncrosses them and places his hands on his hips. The man's actions are deliberate and slow, and there is no interaction with any other person or object. The environment appears to be an indoor setting with a tiled floor and a black counter.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "In the video, a man wearing a red shirt and dark pants is standing in front of a counter. He appears to be waiting or observing something. The camera angle is from above, providing a bird's eye view of the scene. There are no significant actions or interactions between entities, and the environment seems stable without any visible escalation.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, a man wearing a red shirt and black pants is standing in front of a counter with his arms crossed. He appears to be waiting for something or someone. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows a person wearing a red shirt standing with arms crossed in front of a counter. The individual remains stationary throughout the duration of the footage, and there are no visible interactions or changes in motion.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A young man in a red shirt and black pants is standing in front of a counter with his arms crossed. He is looking around the room and appears to be waiting for something. There are no other people visible in the video.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, a person wearing a red shirt is standing in front of a counter. The individual has their arms crossed and appears to be waiting or observing something. There are no significant actions or interactions taking place, and the scene remains static throughout the video.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A young man wearing a red shirt and jeans is standing in front of a counter with his arms crossed. He is looking around the room and appears to be waiting for something. There is no interaction with any other person or object, and there are no significant motion changes or escalations.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, a person wearing a red shirt and dark pants is standing with their arms crossed. They are positioned in front of a counter or desk with a white surface. The floor appears to be tiled, and there is a black object on the counter. The person remains stationary throughout the video segment.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "A man in a red shirt is standing with his arms crossed. He is leaning against a counter. There is no motion or interaction with other entities.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, a person wearing a red shirt and dark pants is standing with their arms crossed against a counter. The individual appears to be stationary throughout the sequence of images. There are no visible interactions or motion changes, and no escalation or instability can be observed in this segment.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "In the video, a person wearing a red shirt and dark pants is seen leaning against a counter in what appears to be a public space. The individual's posture changes slightly throughout the sequence, but they remain in the same general position. There are no other discernible actions or interactions with other entities. The environment is static, with no visible motion changes or escalations.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "In the video, a person wearing a red shirt and dark pants is seen leaning against a counter in a room with a tiled floor. The individual appears to be stationary throughout the sequence of images. There are no other visible actions or interactions between entities.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a person wearing a red shirt and dark pants leaning against a counter in a room with a dark floor. The person is standing still, with their arms crossed, facing the camera. There is a black object on the counter to the right of the person. The camera angle is from above, looking down at the person and the counter. The person remains stationary throughout the video, and there are no other visible actions or interactions.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a person wearing a red shirt and dark pants leaning against a counter in a room with large windows. The individual appears to be stationary, with their arms crossed, and is facing the camera. The room has a modern design with a black counter, blue chairs, and a white table. There are no visible interactions or motion changes throughout the segment.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a room with a dark floor and light-colored walls. There are several blue chairs arranged in rows, facing a long table that runs parallel to the wall. The camera pans across the room, revealing more chairs and tables, indicating a large space designed for gatherings or meetings. No people are visible in the footage.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. The tables are white, and the chairs are blue. The floor is dark-colored. There is a person walking across the room from left to right.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows an indoor setting, likely a classroom or conference room, with multiple rows of tables and chairs. The tables are rectangular and have a light wood finish, while the chairs are blue with metal frames. The floor is a dark color, possibly gray or black. There is a person walking across the room from right to left, wearing a light-colored shirt and dark pants. The person's pace appears steady and purposeful. No other significant actions or interactions are visible in the video segment provided.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. A person is walking through the room, carrying an object in their hand. The person appears to be moving from one end of the room to the other.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a person walking through an empty classroom. The individual is wearing a light-colored shirt and dark pants. They are carrying a book or notebook in their hand. The classroom has multiple rows of desks with blue chairs. The person walks from one end of the room to the other, passing by several empty desks. There is no interaction with any other objects or people in the video.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A man in a light-colored shirt walks through an empty classroom with rows of desks and blue chairs. He stops at one of the desks, picks up a book, and begins to read.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, a man is seen walking through a classroom. He is carrying a book and appears to be looking at it as he walks. The classroom has several empty desks and chairs arranged in rows.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A man is standing in a classroom with blue chairs and wooden desks. He is holding a white object in his hands and appears to be reading or examining it. There are no other people visible in the video.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, a man is seen standing in a room with multiple tables and chairs. He is holding a book and appears to be reading it. The room is empty except for him. There are no visible interactions or motion changes.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "In the video, a man is seen standing in a classroom. He is holding a book and appears to be reading it. The classroom has multiple rows of desks with blue chairs. There are no other people visible in the video.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "In the video, a man is seen standing in a classroom with blue chairs and wooden desks. He is holding a book and appears to be reading it. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "The video shows a person seated at a table in a room with multiple tables and chairs. The individual is holding a book and appears to be reading it. There are no significant actions or interactions between entities, and the motion of the person is limited to turning pages in the book. No escalation or instability is observed in this segment.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "The video shows a person walking through an empty classroom. The individual is wearing a light-colored shirt and dark pants. They are carrying a book in their hands. The classroom has multiple rows of desks with blue chairs. The person walks from one end of the room to the other, passing by the desks and chairs. There is no interaction with any other objects or people in the video.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a surveillance camera's perspective of a classroom with multiple rows of desks and chairs. The camera is positioned above the central aisle, providing an overhead view. A person wearing a light-colored shirt is seated at one of the desks, facing away from the camera. They are holding what appears to be a book or notebook and seem to be reading or writing. There is no significant motion or interaction with other objects or people in the visible area.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows a bird's-eye view of an empty classroom with rows of tables and chairs. A person is seated at one of the tables, facing away from the camera. The individual appears to be reading or writing on a piece of paper. There are no significant changes in motion or interaction throughout the video.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows a bird's-eye view of an empty classroom with rows of desks and chairs. The desks are light-colored, and the chairs are blue. A person wearing a white shirt is seated at one of the desks in the middle of the room. The individual appears to be writing or reading something on the desk. There is no significant motion or interaction between entities, and the scene remains static throughout the video.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1584": {
+    "caption": "The video shows a person seated at the end of a long row of tables in what appears to be a lecture hall or classroom. The individual is wearing a light-colored shirt and dark pants, and they are holding an object that resembles a book or notebook. The room is mostly empty, with blue chairs aligned neatly along the tables. The camera angle is from above, providing a bird's-eye view of the scene. There is no significant motion or interaction between entities, and the environment seems stable without any visible escalation.",
+    "anchor_frame": 1584,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.833333,
+    "observed_until_seconds": 52.833333,
+    "latest_available_frame": 1584,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1600": {
+    "caption": "The video shows a person sitting alone at a table in a large room with many empty tables and chairs. The individual is wearing a white shirt and appears to be focused on something on the table, possibly a laptop or paperwork. There are no other people visible in the room, and the person remains seated throughout the duration of the video.",
+    "anchor_frame": 1600,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.366667,
+    "observed_until_seconds": 53.366667,
+    "latest_available_frame": 1600,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1616": {
+    "caption": "In the video, there is a person sitting alone at a table in a large room with many empty tables and chairs. The person appears to be reading or writing on a piece of paper. There are no other people visible in the room.",
+    "anchor_frame": 1616,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.9,
+    "observed_until_seconds": 53.9,
+    "latest_available_frame": 1616,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1632": {
+    "caption": "The video shows a room with multiple rows of tables and chairs. A person is seated at one of the tables, facing away from the camera. The individual appears to be stationary throughout the duration of the video. There are no visible interactions or motion changes in the scene.",
+    "anchor_frame": 1632,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.433333,
+    "observed_until_seconds": 54.433333,
+    "latest_available_frame": 1632,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1648": {
+    "caption": "In the video segment, there is a single person seated at a table in a large room with multiple rows of tables and chairs. The individual appears to be engaged in an activity involving their hands, possibly writing or using a device. There are no significant actions, interactions, or motion changes observed. The scene remains static throughout the duration of the provided footage.",
+    "anchor_frame": 1648,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.966667,
+    "observed_until_seconds": 54.966667,
+    "latest_available_frame": 1648,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

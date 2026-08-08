@@ -1,0 +1,902 @@
+{
+  "0": {
+    "caption": "The video begins with a black screen displaying the text \"LiveLeak\" in white.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video starts with a black screen and the text \"LiveLeak\" in white. There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video begins with a black screen displaying the text \"LiveLeak\" in the top left corner. The scene transitions to a white background featuring the Greater Manchester Police logo, which includes the text \"GREATER MANCHESTER POLICE\" and a badge with the letters \"GMP\" and a crown symbol. The logo remains static on the screen for a few seconds before the video ends.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video begins with a black screen. Then, the Greater Manchester Police logo appears on a white background. The logo is in blue and red colors. There are no other visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video displays a static image with the logo of Greater Manchester Police. The logo consists of the words \"GREATER MANCHESTER POLICE\" in bold, capitalized blue letters on a white background. To the right of the text is a circular emblem with a red border and a blue interior. Inside the emblem, there is a silver crown at the top, a red shield with a silver outline in the middle, and the letters \"ER\" in gold at the bottom. The emblem also includes a blue ribbon with the words \"Greater Manchester Police\" written in white. There are no actions or interactions visible in this segment, and no motion changes or escalations can be described.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video displays a static image with the Greater Manchester Police logo. The logo consists of text and a crest with a crown on top. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video displays a static image of the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background. To the right of the text is a circular emblem with a red border and a blue interior, featuring a crown at the top and a shield with a red diagonal stripe and a white rose in the center. The emblem also includes the words \"GREATER MANCHESTER POLICE\" around the edge. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video displays a static image with the text \"GREATER MANCHESTER POLICE\" in bold blue letters on a white background. To the right of the text is the Greater Manchester Police emblem, which includes a crown and a shield with a red and blue design. The logo is centered and occupies a significant portion of the frame. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video begins with a black screen, followed by a series of images displaying the Greater Manchester Police logo. The logo consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters, accompanied by a red and blue crest featuring a crown and the letters \"GMP.\" The background is white, and the logo is centered in each frame. The sequence ends with a black screen.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video begins with a black screen, followed by the Greater Manchester Police logo on a white background. The logo consists of blue text and a red and blue crest with a crown at the top. The video then transitions to a black screen with the text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" in white font. There are no visible actions, interactions, or motion changes in the video.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video begins with a black screen, followed by the Greater Manchester Police logo. The logo is white and centered on a dark background. The text \"LiveLeak\" is visible in the top left corner. The scene then transitions to a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no other visible actions, interactions, or changes in motion.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video begins with a black screen displaying the text \"LiveLeak\" in white font. It then transitions to another black screen with the words \"Arson,\" \"Ashworth Street,\" \"Falngrove,\" \"Rochdale,\" and \"5th February 2014\" in white font. There are no visible actions, interactions, or motion changes in this segment.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video is a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no visible entities, actions, interactions, motion changes, or escalations in the video.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingrochdale 5th February 2014.\" There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video is a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no visible actions, interactions, or motion changes.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "The video starts with a black screen displaying white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014\". The scene then transitions to a black and white surveillance camera view of a street. A white van is seen driving down the street.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a surveillance camera capturing a street scene at night. A white van is seen driving down the street, passing by buildings with visible windows and doors. The timestamp on the footage indicates it was recorded at 05:49:46.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a street scene at night with a white van parked on the side of the road. The van is stationary throughout the sequence. There are no visible people or moving objects interacting with the van. The surroundings include buildings with windows and doors, but no specific details about the architecture can be discerned. The lighting is dim, typical of nighttime surveillance footage.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a white van parked on the side of a street lined with buildings. The van is stationary, and there are no visible people or moving objects in the immediate vicinity. The footage appears to be from a security camera, as indicated by the timestamp and \"Live\" label.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a white van parked on the side of a street lined with buildings. The van is stationary throughout the sequence. A person wearing dark clothing walks from the left side of the frame towards the van, passing by it without any interaction. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a street scene with a white van parked on the side. The van is stationary, and there are no visible actions or interactions between entities. There is no motion change or escalation noted in the video segment provided.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a street scene with a white van parked on the side. The van has a logo and text on its side, but the details are not clear. A person is walking away from the camera towards the van. The person appears to be wearing light-colored clothing. The street is lined with buildings that have multiple windows and doors. There is no visible interaction between the person and the van, and there are no other people or moving objects in the scene.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a street with a white van parked on the side. The van is stationary, and there are no visible people or moving objects in the immediate vicinity. The street appears to be quiet, with no significant activity occurring.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a white van parked on the side of a street. A person is walking away from the van, moving towards the left side of the frame. The surroundings include buildings with windows and doors, and the street appears to be quiet with no other visible activity.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame. The person appears to be wearing light-colored clothing and is walking at a steady pace. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, then bending down near the rear bumper. The person appears to be interacting with something on the ground near the vehicle. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A white van is parked on the side of a street. A person wearing dark clothing approaches the van from the left side of the frame and appears to interact with someone inside the vehicle. The person then walks away from the van towards the right side of the frame.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, facing it. The person appears to be interacting with someone inside the vehicle. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A white van is parked on a narrow street. A person wearing dark clothing approaches the driver's side of the van and appears to interact with someone inside. The person then steps back from the vehicle.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a white van parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the driver's side door of the van. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A white van is parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with someone inside the van.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, a white van is parked on the side of a street. A person wearing dark clothing is standing next to the van, facing it. The person appears to be interacting with someone inside the van, but the details of their interaction are unclear. There is no visible motion or escalation in the scene.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a white van parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the driver's side door of the van. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, facing it. The person appears to be interacting with the driver's side door of the van. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a white van parked on the side of a street. The van is stationary and there are no visible actions or interactions occurring. There are no entities in motion, and no escalation or instability can be observed.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a white van parked on the side of a street with buildings on both sides. The van is stationary, and there are no visible people or moving objects in the immediate vicinity. The timestamp indicates that the footage was recorded at 09:50:54 on 17th April 2014.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a white van parked on the side of a street lined with buildings. The van is stationary throughout the sequence. There are no visible people or moving objects in the immediate vicinity of the van. The timestamp indicates the footage was recorded at night.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a white van parked on the side of a street with residential buildings. The van is stationary, and there are no visible actions or interactions between entities. There is no motion change or escalation noted in this segment.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a white van parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the van's front door, possibly opening or closing it. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "A white van is parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the van's door or window. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A white van is parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the driver's side door of the van.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A white van is parked on the side of a street. A person is standing next to the van, facing it. The person appears to be interacting with the driver's side door of the van. After a few moments, the person walks away from the van and disappears from view.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a white van is seen driving down a narrow street lined with buildings. A person is standing on the sidewalk next to the van. The van then accelerates and hits the person, causing them to fall to the ground.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A white van is parked on the side of a street. A person walks towards the van and opens the door. The person gets into the van and drives away.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "A white van is driving down a narrow street lined with houses. The van is moving at a moderate speed and appears to be following the rules of the road. There are no other vehicles or pedestrians visible in the video.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a surveillance camera capturing a street scene. The footage is in black and white, with visible timestamp and watermark indicating the source as \"LiveLeak.\" The camera angle remains static throughout the video. There are no discernible actions or interactions between entities, and no motion changes are observed. The video does not show any escalation or instability.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a surveillance camera capturing a street scene at night. The footage is in black and white, with visible timestamp and watermark indicating the source as \"LiveLeak.\" The camera angle remains static throughout the video. There are no discernible actions or interactions between entities, and no motion changes or escalations can be observed.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a street scene at night with buildings on either side. The camera is stationary and there is no visible movement or interaction between entities. The lighting is consistent, and there are no changes in motion or escalation.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a surveillance camera capturing a street scene. The footage is grainy and low-resolution, with visible timestamp and watermark indicating the source as \"LiveLeak.\" The camera angle is fixed, providing a view of a row of parked cars on the right side of the frame. The street appears to be wet, suggesting recent rain. There are no discernible actions or interactions between entities, and no significant motion changes or escalations occur throughout the segment.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a surveillance camera capturing a street scene at night. The footage is grainy and low-resolution, with visible artifacts from the camera's sensor. The street is lined with parked cars on both sides, and there are buildings with lit windows in the background. The camera angle remains static throughout the video, focusing on the street and the parked cars. There is no significant motion or interaction between entities, and no escalation or instability is observed.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a surveillance camera's perspective of a street at night. The footage is grainy and low-resolution, with visible timestamp and watermark indicating the source as \"LiveLeak.\" The street is lined with parked cars on both sides, and there are no visible people or moving objects in the immediate vicinity. The camera angle remains static throughout the video, and there are no significant changes in lighting or motion.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and black and white, indicating it might be from a surveillance camera. There are no visible people or moving objects in the frames provided. The timestamp indicates the recording was made on \"02-2014\" at \"05:16:07\".",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a nighttime street scene with parked cars on both sides. The camera is positioned at an elevated angle, possibly from a window or overpass. A bright light source, likely from a vehicle's headlights, moves across the frame from right to left. The light source appears to be moving at a moderate speed and passes by several stationary vehicles. There are no visible interactions between the moving light source and other objects or people in the video.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a nighttime street scene with parked cars on the side. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the distance. The light source moves slightly, indicating motion, but no other significant actions or interactions are observed. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a street with parked cars on both sides. The timestamp indicates the footage was taken on May 05, 2014, at 04:51:08 AM. A person is seen walking across the street from right to left. There are no other significant actions or interactions visible in the video.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a street scene captured by a surveillance camera. There are multiple cars parked along the side of the road, and one car is seen driving away from the camera's viewpoint. The timestamp on the footage indicates it was recorded in the early morning hours of June 2nd, 2014. The lighting conditions suggest it is either dawn or dusk. No other significant actions or interactions are visible in the provided segment of the video.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person is seen walking down a street at night. They are wearing dark clothing and appear to be carrying something in their hand. The person walks past several parked cars, including a black car and a white van. The person continues walking down the street until they are out of frame.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A black car is driving down a street at night. The car is moving slowly and carefully. There are other cars parked on the side of the street. The street is wet and there is a lot of fog.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a street with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded at 04:51:10 on 02-06-2014. There are no visible actions or interactions between entities, and no motion changes or escalations can be observed.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. The scene is captured from a surveillance camera, and the timestamp indicates it was recorded at 04:51:10 on 02-05-2014. There is no escalation or instability observed in the video segment.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and appears to be taken from a surveillance camera. There are no visible actions or interactions between entities, and the motion of the vehicles is static. No escalation or instability is observed in this segment.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible movement or interaction between them. The scene is captured from a fixed camera angle, likely from a building window. There is no discernible change in the environment or any escalation of events.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a street scene captured by a surveillance camera. There are multiple parked cars on the side of the road, and the timestamp indicates it is early morning in 2014. The footage is in black and white, and there is no visible movement or interaction between objects or people.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and black and white, indicating it might be from an older security camera. There is no visible movement or action taking place in the video; it appears to be a static shot of the street.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a street scene captured by a surveillance camera. The timestamp indicates the footage was taken on Wednesday, 02/14/2014 at 05:11:13 AM. The street is lined with parked cars, mostly dark-colored sedans and SUVs. There is no visible movement of vehicles or people throughout the segment. The lighting suggests it is early morning, and the sky appears to be overcast.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a street scene at night with multiple parked cars. The cars are of various colors, including black, white, and silver. There is no visible movement or interaction between the cars or any other entities. The timestamp on the footage indicates it was recorded in 2014.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a street scene at night with multiple parked cars. The cars are stationary, and there is no visible movement or interaction between them. The lighting is dim, and the quality of the video is grainy. There is no discernible change in the environment or any escalation of events.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a street with parked cars on the side. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. There is a noticeable amount of smoke or mist in the air, obscuring some details. The cars are stationary, and there is no visible movement or interaction between them. The smoke appears to be relatively stable, without any significant changes in its motion or density.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A black car is driving down a street at night. The car is moving slowly and there are other cars parked on the side of the road. There is a lot of smoke in the air.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A black car is driving down a street at night. The car is moving slowly and there are other cars parked on the side of the road. There is a person walking on the sidewalk in front of the car.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "The video shows a street with parked cars on both sides. The timestamp indicates it is 04:51:17 on 02-2014. There is no visible movement or interaction between the objects, and no escalation or instability can be observed.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible movement or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The timestamp indicates the footage is from 2014. There is no visible movement or interaction between entities, and no escalation or instability can be observed in this segment.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "The video shows a street with parked cars on both sides. The cars are stationary, and there is no visible motion or interaction between them. There is no escalation or instability in the scene.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and low-resolution, making it difficult to discern finer details. There is no visible movement or interaction between objects or people. The lighting is dim, with the streetlights casting a yellowish hue over the scene. No significant changes or actions occur throughout the video segment.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded on February 5, 2014, at 01:51:19. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from an older security camera. There are no visible people or moving objects in the frames provided. The timestamp indicates the recording was made on May 4, 2014, at 01:51:21. The video ends abruptly with a transition to a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and low-resolution, making it difficult to discern finer details. There are no visible actions or interactions between entities, and the motion changes are minimal, primarily showing the stationary cars. The video ends abruptly with a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a black screen with the text \"LiveLeak\" and \"gmp.police.uk\" appearing in white. There are no visible entities, actions, interactions, motion changes, or escalations.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a black screen with the text \"LiveLeak\" and \"gmp.police.uk\" displayed in white. There are no visible entities, actions, interactions, motion changes, or escalations in this segment of the video.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a black screen with the text \"gmp.police.uk\" in white font. There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "The video segment shows a black screen with the text \"LiveLeak\" and \"gmp.police.uk\" displayed in white. There are no visible entities, actions, interactions, motion changes, or escalations in this segment.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "The video shows a black screen with the text \"gmp.police.uk\" displayed in white. There are no visible actions, interactions, or motion changes. The video ends without any escalation or instability.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

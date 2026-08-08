@@ -1,0 +1,2434 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A man enters a store through the glass doors.",
+    "caption_5s": "A man wearing a jacket and polka dot pants walks into a store through the glass doors.",
+    "caption_10s": "A man in pajamas is seen talking on a cell phone while standing outside the entrance of a store. He then walks towards the door and opens it, entering the store.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A man in pajamas, initially standing outside the store entrance, talks on a cell phone before walking towards the glass doors, opening them, and entering the store, wearing a jacket and polka dot pants.",
+    "caption": "A man in pajamas, initially standing outside the store entrance, talks on a cell phone before walking towards the glass doors, opening them, and entering the store, wearing a jacket and polka dot pants."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person walks into a store and then exits.",
+    "caption_5s": "A person walks into a store and then turns around to walk back out.",
+    "caption_10s": "A man in pajamas is dancing outside a store.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A person walks into a store, turns around, and exits, while a man in pajamas dances nearby.",
+    "caption": "A person walks into a store, turns around, and exits, while a man in pajamas dances nearby."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A person walks into a store and then turns around to walk back out.",
+    "caption_5s": "A person walks into a store and then stands in the doorway.",
+    "caption_10s": "A man wearing pajamas and a jacket walks into a store, then turns around and walks back out.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person, later identified as a man wearing pajamas and a jacket, walks into a store, pauses briefly in the doorway, and then exits.",
+    "caption": "A person, later identified as a man wearing pajamas and a jacket, walks into a store, pauses briefly in the doorway, and then exits."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A person walks into a store and then stands in the doorway.",
+    "caption_10s": "A man wearing pajamas walks into a store, talks on the phone, and then walks back out.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person in pajamas enters a store through the front door, stands in the doorway for a moment, then walks back out while still on the phone.",
+    "caption": "A person in pajamas enters a store through the front door, stands in the doorway for a moment, then walks back out while still on the phone."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A man wearing pajamas walks into a store and stops at the door.",
+    "caption_10s": "A man in pajamas and a jacket walks into a store, then turns around and walks back out.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A man in pajamas and a jacket enters a store through the front door, stops briefly, and then exits.",
+    "caption": "A man in pajamas and a jacket enters a store through the front door, stops briefly, and then exits."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a person standing outside a store's glass door at night. The individual is wearing a dark jacket and patterned pants, and appears to be waiting or looking inside the store. There are no significant actions or movements observed in the video.",
+    "caption_5s": "The video shows a person entering a store through the front door. They are wearing a patterned outfit and appear to be carrying something in their hand. The person walks towards the counter, pauses briefly, and then turns around to exit the store.",
+    "caption_10s": "A man wearing pajamas enters a store, walks to the counter, and then leaves.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person, wearing a dark jacket and patterned pants, stands outside a store's glass door at night, then enters through the front door, walks towards the counter, pauses briefly, turns around, and exits the store.",
+    "caption": "A person, wearing a dark jacket and patterned pants, stands outside a store's glass door at night, then enters through the front door, walks towards the counter, pauses briefly, turns around, and exits the store."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, waiting for the door to open. The individual is wearing a jacket and patterned pants. The store's interior is visible with shelves stocked with various items. The person appears to be stationary, occasionally shifting their weight or looking around.",
+    "caption_5s": "The video shows a person entering a store through a glass door. They are wearing a patterned outfit and appear to be looking around the store. The person then proceeds to walk further into the store, passing by shelves stocked with various items.",
+    "caption_10s": "A man in pajamas enters a store, walks to the counter, and then leaves.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person, initially standing at the entrance of a store, wearing a jacket and patterned pants, waits for the door to open before entering. They walk past shelves stocked with various items, then proceed to the counter, and eventually leave the store.",
+    "caption": "A person, initially standing at the entrance of a store, wearing a jacket and patterned pants, waits for the door to open before entering. They walk past shelves stocked with various items, then proceed to the counter, and eventually leave the store."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a person standing outside a store's glass door. They are wearing a light-colored jacket and dark pants with a pattern. The individual appears to be waiting or looking inside the store, occasionally shifting their stance and touching their face.",
+    "caption_5s": "The video shows a person wearing a patterned jacket and pants, standing at the entrance of a store. They appear to be waiting or looking around before eventually entering the store. The interior of the store is visible with shelves stocked with various items.",
+    "caption_10s": "A person walks up to a store door, opens it, and then closes it.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person wearing a light-colored jacket and dark patterned pants stands outside a store's glass door, occasionally shifting their stance and touching their face, before entering the store, where shelves are stocked with various items.",
+    "caption": "A person wearing a light-colored jacket and dark patterned pants stands outside a store's glass door, occasionally shifting their stance and touching their face, before entering the store, where shelves are stocked with various items."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light-colored jacket and dark pants with white polka dots entering a store through automatic sliding glass doors. The individual appears to be carrying a bag in their right hand. The interior of the store is visible, including a counter with various items on display. The lighting inside the store is bright, contrasting with the darker exterior environment.",
+    "caption_5s": "The video shows a person wearing a patterned outfit and a jacket standing at the entrance of a store. They appear to be waiting or looking around, then proceed to open the door and enter the store. The interior is dimly lit, with shelves stocked with various items visible in the background.",
+    "caption_10s": "A man in pajamas is seen walking back and forth outside a store. He appears to be talking on the phone while pacing.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A person in a light-colored jacket and dark pants with white polka dots enters a store through automatic sliding glass doors, carrying a bag in their right hand, as the bright interior contrasts with the darker exterior.",
+    "caption": "A person in a light-colored jacket and dark pants with white polka dots enters a store through automatic sliding glass doors, carrying a bag in their right hand, as the bright interior contrasts with the darker exterior."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a patterned shirt and pants entering a store through the automatic sliding doors. The individual appears to be carrying something in their hand, possibly a shopping list or a phone. They move from outside the store into the interior, passing by the counter area where various items are displayed.",
+    "caption_5s": "The video shows a person wearing a patterned jacket and pants, with a bag slung over their shoulder, entering a store through automatic sliding glass doors. The interior of the store is visible, featuring shelves stocked with various items. The individual appears to be alone and moves from outside to inside the store.",
+    "caption_10s": "A person walks into a store, looks around, and then walks back out.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person wearing a patterned jacket and pants, with a bag slung over their shoulder, enters a store through automatic sliding glass doors, moves from outside to inside, and then exits.",
+    "caption": "A person wearing a patterned jacket and pants, with a bag slung over their shoulder, enters a store through automatic sliding glass doors, moves from outside to inside, and then exits."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through automatic sliding glass doors. The individual is wearing a light-colored top and patterned pants. They appear to be carrying something in their hand as they enter the store. The interior of the store is visible, with shelves stocked with various items. The lighting inside the store is bright, contrasting with the darker exterior.",
+    "caption_5s": "The video shows a person wearing a patterned outfit and a jacket, standing outside a store's glass door. The individual appears to be attempting to open the door by pushing against it with their body weight. After several attempts, they manage to push the door open and enter the store.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The individual is wearing a patterned outfit and appears to be carrying a bag. The store's interior is visible, with shelves stocked with various items. The lighting inside the store is bright, contrasting with the darker exterior. The person moves from outside to inside, passing through the glass door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person wearing a patterned outfit and carrying a bag enters a store through automatic sliding glass doors, pushing against the door with their body weight before it opens, and then moves inside where shelves are stocked with various items under bright lighting.",
+    "caption": "A person wearing a patterned outfit and carrying a bag enters a store through automatic sliding glass doors, pushing against the door with their body weight before it opens, and then moves inside where shelves are stocked with various items under bright lighting."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "A person wearing a leopard print dress and polka dot pants enters a store through the automatic sliding doors. They walk towards the counter, then turn around and exit the store through the same door they entered.",
+    "caption_5s": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. After entering, the person briefly pauses before proceeding further into the store.",
+    "caption_10s": "The video shows a person entering a store through the front door. They are wearing a dark top and patterned pants. The individual walks inside, pauses briefly, and then exits the store through the same door they entered.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person wearing a patterned outfit, including a leopard print dress and polka dot pants, enters a store through automatic sliding doors, pauses briefly, and then exits the store through the same door.",
+    "caption": "A person wearing a patterned outfit, including a leopard print dress and polka dot pants, enters a store through automatic sliding doors, pauses briefly, and then exits the store through the same door."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person entering a store through the automatic sliding doors. They are wearing a patterned outfit and appear to be carrying something in their hand. The person then proceeds to exit the store, also using the sliding doors.",
+    "caption_10s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. They walk into the store, pause briefly, and then exit through the same door they entered.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person enters a store through automatic sliding doors, wearing a patterned outfit and carrying a bag, pauses briefly inside, and then exits through the same doors.",
+    "caption": "A person enters a store through automatic sliding doors, wearing a patterned outfit and carrying a bag, pauses briefly inside, and then exits through the same doors."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person entering a store through the automatic sliding doors. They then proceed to dance inside the store, moving their arms and legs in various directions.",
+    "caption_10s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. After entering, the person walks towards the interior of the store and disappears from view.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person enters a store through the automatic sliding doors, wearing a patterned outfit and carrying a bag, and then walks out of view as they move towards the interior of the store.",
+    "caption": "A person enters a store through the automatic sliding doors, wearing a patterned outfit and carrying a bag, and then walks out of view as they move towards the interior of the store."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A person wearing a leopard print outfit enters a store through the automatic doors.",
+    "caption_10s": "The video shows a person entering a store through a glass door. They then proceed to throw an object at the glass, causing it to crack.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person enters a store through the front door, wearing a leopard print outfit, and proceeds to throw an object at the glass door, causing it to crack.",
+    "caption": "A person enters a store through the front door, wearing a leopard print outfit, and proceeds to throw an object at the glass door, causing it to crack."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A person walks into a store and then exits.",
+    "caption_5s": "The video shows a person entering a store through the front door. They are wearing a hat and carrying a bag. The person walks towards the counter and appears to be looking at something on the shelves.",
+    "caption_10s": "A person enters a store, walks to the counter, and then exits.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A person enters a store through the front door, wearing a hat and carrying a bag, walks towards the counter, and then exits.",
+    "caption": "A person enters a store through the front door, wearing a hat and carrying a bag, walks towards the counter, and then exits."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "A person wearing a hat and polka dot pants walks into a store through the automatic doors.",
+    "caption_5s": "A person walks into a store and then walks back out.",
+    "caption_10s": "The video shows a person entering a store through a glass door. They then proceed to throw an object at the glass, causing it to crack.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person wearing a hat and polka dot pants enters a store through automatic doors, walks back out, and then re-enters through a glass door, throwing an object that cracks the glass.",
+    "caption": "A person wearing a hat and polka dot pants enters a store through automatic doors, walks back out, and then re-enters through a glass door, throwing an object that cracks the glass."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A man wearing a hat and polka dot pants walks into a store.",
+    "caption_5s": "The video shows a person entering a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "caption_10s": "A person enters a store through the front door, then exits and returns shortly after. They throw an object at the glass door, causing it to shatter.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A man wearing a hat and polka dot pants enters a store through the front door, then exits and returns shortly after, throwing an object at the glass door, causing it to shatter.",
+    "caption": "A man wearing a hat and polka dot pants enters a store through the front door, then exits and returns shortly after, throwing an object at the glass door, causing it to shatter."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door. The individual is wearing a hat and patterned pants.",
+    "caption_5s": "A person enters a store through the front door, walks towards the counter, and then exits the store.",
+    "caption_10s": "The video shows a person entering a store through a glass door. They then proceed to throw an object at the glass, causing it to shatter.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person enters a store through a glass door, wearing a hat and patterned pants, and then proceeds to throw an object at the glass, causing it to shatter, before exiting the store.",
+    "caption": "A person enters a store through a glass door, wearing a hat and patterned pants, and then proceeds to throw an object at the glass, causing it to shatter, before exiting the store."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A person wearing a hat and polka dot pants enters a store through the front door. They then proceed to shoot at the glass door, causing damage.",
+    "caption_5s": "A person wearing a hat and polka dot pants enters a store through the automatic sliding doors. They then proceed to kick the glass door, causing it to crack.",
+    "caption_10s": "A person wearing a hat and pajama pants enters a store, walks to the counter, and then exits. Later, the same person returns to the store, throws an object at the glass door, and then leaves.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person wearing a hat and polka dot pants enters a store through the front door, then causes damage to the glass door by shooting at it. They later return, throw an object at the door, causing it to crack, and then leave.",
+    "caption": "A person wearing a hat and polka dot pants enters a store through the front door, then causes damage to the glass door by shooting at it. They later return, throw an object at the door, causing it to crack, and then leave."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door. They are wearing a patterned outfit and appear to be carrying something in their hand. The person walks inside the store, and the camera follows them.",
+    "caption_5s": "The video shows a person entering a store through a glass door. They are wearing a hat, a patterned jacket, and pants. The person appears to be carrying something in their hand as they walk inside.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The individual is wearing a hat and patterned pants. As they enter, the glass door shatters, creating a large hole in the center. The person appears to be startled by the incident but continues walking into the store.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person wearing a hat and patterned pants enters a store through a glass door, which shatters as they pass through, and they continue walking inside, appearing to be carrying something in their hand.",
+    "caption": "A person wearing a hat and patterned pants enters a store through a glass door, which shatters as they pass through, and they continue walking inside, appearing to be carrying something in their hand."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "A person wearing a leopard print shirt and polka dot pants enters a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "caption_5s": "The video shows a person entering a store through a glass door. They are wearing a hat and patterned pants. The person then proceeds to kick the glass door, causing it to crack.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a hat and patterned pants. They walk into the store, and shortly after, a bullet strikes the glass door, causing a visible impact on the glass.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person wearing a hat and patterned pants enters a store through a glass door. They walk into the store, and shortly after, a bullet strikes the glass door, causing a visible impact on the glass.",
+    "caption": "A person wearing a hat and patterned pants enters a store through a glass door. They walk into the store, and shortly after, a bullet strikes the glass door, causing a visible impact on the glass."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "A person wearing a white shirt and black pants is seen walking through a glass door. They then proceed to throw an object at the glass, causing it to shatter.",
+    "caption_5s": "A person wearing a hat, jacket, and patterned pants enters a store through the automatic sliding doors. They then proceed to kick the glass of the door multiple times, causing visible damage.",
+    "caption_10s": "The video shows a person entering a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person wearing a hat, jacket, and patterned pants enters a store through the front door, then throws an object at the glass window, causing it to shatter, as seen in a brief, repeated incident.",
+    "caption": "A person wearing a hat, jacket, and patterned pants enters a store through the front door, then throws an object at the glass window, causing it to shatter, as seen in a brief, repeated incident."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting the aftermath of an incident where a bullet has struck the glass door of a store. The bullet hole is visible in the center of the glass, surrounded by a pattern of cracks. The interior of the store is dimly lit, and various items are visible on shelves and counters. The exterior is dark, indicating it is nighttime. No movement or people are observed in the sequence of images.",
+    "caption_5s": "The video shows a person entering a store through a glass door. The individual is wearing a patterned outfit and appears to be carrying something in their hand. As they enter, the glass door shatters into multiple pieces, indicating a forceful impact. The person seems to be unaware of the damage caused and continues walking inside the store.",
+    "caption_10s": "The video starts with a view of the inside of a store, showing shelves stocked with various items and a counter. The camera then focuses on the entrance, where a person wearing a hat and patterned pants enters through the sliding glass door. The individual appears to be carrying something in their hand as they walk into the store. After a brief moment, the person exits the frame, leaving the store empty.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person enters a store through a sliding glass door, carrying something in their hand, and the door shatters into multiple pieces upon impact. The interior is dimly lit, with shelves and counters visible, and the exterior is dark, indicating nighttime. The person appears to be unaware of the damage and continues walking inside before exiting the frame, leaving the store empty.",
+    "caption": "A person enters a store through a sliding glass door, carrying something in their hand, and the door shatters into multiple pieces upon impact. The interior is dimly lit, with shelves and counters visible, and the exterior is dark, indicating nighttime. The person appears to be unaware of the damage and continues walking inside before exiting the frame, leaving the store empty."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The damage is concentrated in the center of the door, with visible cracks and a large hole where the glass has been broken. The surrounding area includes a counter with various items on display, suggesting this is an interior shot of a retail space.",
+    "caption_5s": "The video shows a person wearing a light-colored jacket and dark pants entering a store through a glass door. The individual then proceeds to strike the glass with an object, causing visible damage to the window. The person exits the scene shortly after the incident.",
+    "caption_10s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a dark jacket, light-colored pants with a pattern, and a hat. They appear to be carrying something in their hand as they walk into the store. The interior of the store is visible, with shelves stocked with various items. The lighting inside the store is bright, contrasting with the darker exterior.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person enters a store through automatic sliding doors, wearing a dark jacket, light-colored pants with a pattern, and a hat, carrying something in their hand. They walk towards the entrance, strike the glass door with an object, causing visible damage, and then exit the scene shortly after. The surrounding area includes a counter with items on display, and the interior of the store is visible, with shelves stocked with various items, under bright lighting.",
+    "caption": "A person enters a store through automatic sliding doors, wearing a dark jacket, light-colored pants with a pattern, and a hat, carrying something in their hand. They walk towards the entrance, strike the glass door with an object, causing visible damage, and then exit the scene shortly after. The surrounding area includes a counter with items on display, and the interior of the store is visible, with shelves stocked with various items, under bright lighting."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a glass door with a large, star-shaped hole in the center. The door is part of a storefront with visible shelving and products inside. The surrounding area outside the door appears to be a parking lot at night. There are no people or moving objects present in the images.",
+    "caption_5s": "The video shows a person entering a store through the front door. The individual is wearing a patterned jacket and dark pants. They appear to be carrying something in their hand, possibly a bag or an item. The person walks past the counter area and exits through another door on the opposite side of the store.",
+    "caption_10s": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying something in their hand. As they enter, the person accidentally bumps into the glass door, causing it to crack. The person then exits the store, leaving the damaged door behind.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person enters a store through automatic sliding doors, wearing a patterned outfit and carrying something in their hand. They accidentally bump into a glass door with a star-shaped hole, causing it to crack, and then exit the store through another door on the opposite side. The store is a storefront with visible shelving and products, located in a parking lot at night.",
+    "caption": "A person enters a store through automatic sliding doors, wearing a patterned outfit and carrying something in their hand. They accidentally bump into a glass door with a star-shaped hole, causing it to crack, and then exit the store through another door on the opposite side. The store is a storefront with visible shelving and products, located in a parking lot at night."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The damage is concentrated in the center of the door, with visible cracks and a large hole where the glass has been broken. The surrounding area appears to be dimly lit, suggesting it might be nighttime or the interior lighting is not very bright. No people or other significant movements are observed in the video.",
+    "caption_5s": "A person wearing a hat and carrying a bag enters a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "caption_10s": "The video shows a person entering a store, throwing an object at the glass door, and then leaving.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person enters a store, throws an object at the glass door, causing it to shatter, and then leaves. The damage is concentrated in the center of the door, with visible cracks and a large hole, in a dimly lit area.",
+    "caption": "A person enters a store, throws an object at the glass door, causing it to shatter, and then leaves. The damage is concentrated in the center of the door, with visible cracks and a large hole, in a dimly lit area."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The door has multiple cracks and a large central hole, indicating significant damage. There is no movement or change in the scene throughout the video.",
+    "caption_5s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The door has multiple bullet holes, indicating that it was shot at. There is no movement or action within the video, only the static images of the damaged door.",
+    "caption_10s": "A person wearing a hat and patterned pants is seen walking towards the entrance of a store. They then proceed to throw an object at the glass door, causing it to shatter. Afterward, they walk away from the scene.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A person wearing a hat and patterned pants walks towards the entrance of a store, throws an object at the glass door, causing it to shatter with multiple cracks and a large central hole, and then walks away.",
+    "caption": "A person wearing a hat and patterned pants walks towards the entrance of a store, throws an object at the glass door, causing it to shatter with multiple cracks and a large central hole, and then walks away."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The damage is concentrated in the center of the door, with visible cracks radiating outward. There are no people or movement within the frame, and the surrounding area appears to be a parking lot illuminated by artificial lighting.",
+    "caption_5s": "The video shows a store's interior with a damaged glass door. The damage is visible as a large crack in the center of the door. There are no people or movement within the frame, and the focus remains on the damaged door throughout the video.",
+    "caption_10s": "The video shows a person entering a store, throwing an object at the glass door, and then leaving.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A person enters a store, throws an object at the glass door, causing a large crack in the center, and then leaves. The surrounding area is a parking lot illuminated by artificial lighting.",
+    "caption": "A person enters a store, throws an object at the glass door, causing a large crack in the center, and then leaves. The surrounding area is a parking lot illuminated by artificial lighting."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A person is seen throwing a rock at a store window, causing it to shatter.",
+    "caption_5s": "A person walks into a store and breaks the glass door.",
+    "caption_10s": "A person is seen walking into a store and then shooting the glass door. The person then walks away from the scene.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person walks into a store and breaks the glass door, causing it to shatter, then walks away from the scene.",
+    "caption": "A person walks into a store and breaks the glass door, causing it to shatter, then walks away from the scene."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person is seen walking through a store, and then the video shows a broken window.",
+    "caption_5s": "The video shows a person entering a store through a glass door. The person is wearing a hat and carrying a bag. The store has a counter with various items on it.",
+    "caption_10s": "A person breaks a glass door, then walks away.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person enters a store through a glass door, wearing a hat and carrying a bag, and then breaks the door, walking away.",
+    "caption": "A person enters a store through a glass door, wearing a hat and carrying a bag, and then breaks the door, walking away."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A person wearing a hat and carrying a bag enters a store through the front door.",
+    "caption_5s": "A person wearing a brown jacket and polka dot pants walks into a store through a broken glass door.",
+    "caption_10s": "A person wearing pajamas is seen walking through a store's automatic sliding doors. They then proceed to throw an object at the glass, causing it to shatter.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person wearing a hat and carrying a bag enters a store through the front door, later seen wearing a brown jacket and polka dot pants walking into a store through a broken glass door, which they had previously shattered with an object while wearing pajamas and entering through automatic sliding doors.",
+    "caption": "A person wearing a hat and carrying a bag enters a store through the front door, later seen wearing a brown jacket and polka dot pants walking into a store through a broken glass door, which they had previously shattered with an object while wearing pajamas and entering through automatic sliding doors."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A person walks into a store and breaks the glass door.",
+    "caption_5s": "The video shows a person entering a store through a glass door. The person is wearing a black top, patterned pants, and a jacket. They walk into the store and then exit through the same door.",
+    "caption_10s": "A person walks into a store and then exits through the front door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A person, wearing a black top, patterned pants, and a jacket, enters a store through a glass door, breaks it, and then exits through the same door.",
+    "caption": "A person, wearing a black top, patterned pants, and a jacket, enters a store through a glass door, breaks it, and then exits through the same door."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A person walks into a store and then exits through the front door.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a patterned outfit and appears to be carrying something in their hand. They walk into the store and then exit through the same door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person enters a store through a glass front door, wearing a patterned outfit and carrying something, and then exits through the same door.",
+    "caption": "A person enters a store through a glass front door, wearing a patterned outfit and carrying something, and then exits through the same door."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A person wearing a jacket and pants with polka dots enters a store through the automatic sliding doors.",
+    "caption_5s": "A person wearing a hat and polka dot pants enters a store through the front door.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a hat and carrying a bag. They walk towards the counter and then exit the store through the same door.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A person wearing a hat and polka dot pants enters a store through the front door, walks towards the counter, and then exits through the same glass door.",
+    "caption": "A person wearing a hat and polka dot pants enters a store through the front door, walks towards the counter, and then exits through the same glass door."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a jacket and patterned pants. The store's interior is visible, with shelves stocked with various items.",
+    "caption_5s": "The video shows a person entering a store through the front door. The person is wearing a jacket and pants with a distinctive pattern. They appear to be looking around the store before exiting through the same door they entered.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a patterned outfit and appears to be carrying something in their hand. They walk into the store, look around briefly, and then exit through the same door they entered.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person enters a store through a glass door, wearing a patterned outfit, looks around briefly, and then exits through the same door.",
+    "caption": "A person enters a store through a glass door, wearing a patterned outfit, looks around briefly, and then exits through the same door."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a person standing outside a store's glass door. They are wearing a jacket and patterned pants, and they appear to be waiting or observing something inside the store. The scene is captured from an interior perspective, with the store's counter visible in the background.",
+    "caption_5s": "The video shows a person entering a store through the front door. They then proceed to walk towards the back of the store and exit through another door.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a patterned outfit and appears to be carrying something in their hand. They walk towards the counter, then turn around and exit the store through the same door they entered.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person in a patterned outfit enters a store through a glass door, walks towards the counter, then exits through the same door, appearing to be carrying something in their hand.",
+    "caption": "A person in a patterned outfit enters a store through a glass door, walks towards the counter, then exits through the same door, appearing to be carrying something in their hand."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, which appears to be the entrance to a store. The individual is wearing a patterned outfit and seems to be waiting or observing something outside.",
+    "caption_5s": "The video shows a person entering a store through a glass door. They are wearing a patterned outfit and appear to be carrying something in their hand. The person then proceeds to walk inside the store, passing by a counter with various items on it.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The person is wearing a hat and carrying a bag. They walk towards the counter, then turn around and exit the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person wearing a patterned outfit and carrying a bag enters a store through a glass door, walks towards the counter, and then exits the store.",
+    "caption": "A person wearing a patterned outfit and carrying a bag enters a store through a glass door, walks towards the counter, and then exits the store."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a person standing outside a store's glass door at night. The individual is wearing a light-colored jacket and dark pants with a distinctive pattern. They appear to be waiting or looking inside the store, occasionally shifting their stance and touching their face. The interior of the store is dimly lit, with shelves stocked with various items visible in the background.",
+    "caption_5s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. After entering, they pause briefly before proceeding further into the store.",
+    "caption_10s": "The video shows a series of images from a security camera inside a store. Initially, the glass door is intact. Then, a person wearing a patterned jacket and pants enters the frame, approaches the door, and appears to strike it with their hand. The individual then steps back and seems to be looking at the door. After a moment, they return to the door and make contact with it again, this time with more force, causing visible damage to the glass. The person then steps back once more, observing the damage.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person wearing a light-colored jacket and dark patterned pants is seen outside a store's glass door at night, occasionally shifting their stance and touching their face. They appear to be waiting or looking inside the store. The interior is dimly lit with shelves stocked with items. The individual is later seen entering the store through automatic sliding doors, carrying a bag. Inside, they approach the glass door, striking it with their hand, then return to make contact again with more force,",
+    "caption": "A person wearing a light-colored jacket and dark patterned pants is seen outside a store's glass door at night, occasionally shifting their stance and touching their face. They appear to be waiting or looking inside the store. The interior is dimly lit with shelves stocked with items. The individual is later seen entering the store through automatic sliding doors, carrying a bag. Inside, they approach the glass door, striking it with their hand, then return to make contact again with more force,"
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door. They are wearing a patterned outfit and appear to be carrying something in their hand. The person then proceeds to walk towards the counter, where they seem to interact with someone off-camera.",
+    "caption_5s": "The video shows a person wearing a patterned jacket and pants entering a store through automatic sliding glass doors. The individual appears to be carrying something in their hand, possibly a shopping list or a phone. They move from the outside to the inside of the store, passing by the counter area with various items on display. The lighting is artificial, typical of indoor commercial spaces, and the floor has a reflective surface, likely polished tile or linoleum.",
+    "caption_10s": "The video shows a person entering a store through the automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. They walk inside, pause briefly, and then exit the store in the same manner they entered.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person wearing a patterned outfit and carrying a bag enters a store through automatic sliding glass doors, walks inside, pauses briefly, and then exits the store.",
+    "caption": "A person wearing a patterned outfit and carrying a bag enters a store through automatic sliding glass doors, walks inside, pauses briefly, and then exits the store."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light-colored jacket and dark pants with white polka dots entering a store through automatic sliding glass doors. The individual appears to be carrying a bag or package in their right hand. They pause briefly at the entrance, then proceed inside the store.",
+    "caption_5s": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a dark jacket and patterned pants. They appear to be carrying something in their hand, possibly a shopping bag or personal item. The store's interior is visible with shelves stocked with various items. The lighting inside the store is bright, contrasting with the darker exterior.",
+    "caption_10s": "The video shows a series of images from a security camera inside a store. The first image shows the entrance with a glass door and a person walking in. The second image captures the same person exiting the store. In the third image, the person is seen entering the store again. The fourth image shows the person leaving the store once more. The fifth image depicts the person re-entering the store. The sixth image shows the person standing at the entrance, looking inside. The seventh image captures the person walking into the store. The eighth image shows the person exiting the store. The ninth image depicts the person re-entering the store. The tenth image shows the person standing at the entrance, looking inside. The eleventh image captures the person walking into the store. The twelfth image shows the person exiting the store. The thirteenth image depicts the person re-entering the store. The fourteenth image shows the person standing at the entrance, looking inside. The fifteenth image captures the person walking into the store. The sixteenth image shows the person exiting the store. The seventeenth image depicts the person re-entering the store. The eighteenth image shows the person standing at the entrance, looking inside. The nineteenth image captures the person walking into the store. The",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A person enters a store through automatic sliding glass doors, wearing a light-colored jacket and dark pants with white polka dots, carrying a bag or package in their right hand. They pause briefly at the entrance, then proceed inside the store, which has bright interior lighting and shelves stocked with various items. The individual re-enters the store multiple times, exiting and re-entering through the sliding doors, with the person's clothing and the store's interior remaining consistent throughout.",
+    "caption": "A person enters a store through automatic sliding glass doors, wearing a light-colored jacket and dark pants with white polka dots, carrying a bag or package in their right hand. They pause briefly at the entrance, then proceed inside the store, which has bright interior lighting and shelves stocked with various items. The individual re-enters the store multiple times, exiting and re-entering through the sliding doors, with the person's clothing and the store's interior remaining consistent throughout."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "A person enters a store through the front door, walks towards the counter, and then exits the store.",
+    "caption_5s": "A person wearing a brown jacket and polka dot pants is seen standing in front of a store entrance. They are holding a phone to their ear and appear to be engaged in a conversation. After a brief moment, they hang up the phone and walk away from the entrance.",
+    "caption_10s": "The video shows a person entering a store through the automatic sliding doors. They then proceed to dance in front of the doors, performing various moves and gestures.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person wearing a brown jacket and polka dot pants stands in front of a store entrance, holding a phone to their ear, before hanging up and walking away. They then enter the store through automatic sliding doors, dance in front of them, and eventually exit the store through the front door.",
+    "caption": "A person wearing a brown jacket and polka dot pants stands in front of a store entrance, holding a phone to their ear, before hanging up and walking away. They then enter the store through automatic sliding doors, dance in front of them, and eventually exit the store through the front door."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "A person wearing a leopard print coat and polka dot pants enters a store through the automatic sliding doors. They then proceed to walk inside the store.",
+    "caption_5s": "A person wearing a brown jacket and polka dot pants enters a store through the automatic sliding doors. They then proceed to dance in front of the doors before exiting the store.",
+    "caption_10s": "The video shows a person entering a store through the front door. They then proceed to dance in front of the camera, displaying their moves.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person wearing a leopard print coat and polka dot pants enters a store through the automatic sliding doors, walks inside, and then dances in front of the camera, displaying their moves, before eventually exiting the store.",
+    "caption": "A person wearing a leopard print coat and polka dot pants enters a store through the automatic sliding doors, walks inside, and then dances in front of the camera, displaying their moves, before eventually exiting the store."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door. The person is wearing a dark-colored jacket and jeans. They walk towards the counter, which has various items on it, including what appears to be a cash register. The person then proceeds to interact with the cashier, presumably making a purchase.",
+    "caption_5s": "A person enters a store, walks to the counter, and then exits.",
+    "caption_10s": "The video shows a person entering a store through the front door. They then proceed to walk towards the back of the store, passing by various items on display.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person enters a store through a glass door, wearing a dark-colored jacket and jeans, and walks towards the counter with a cash register, interacting with the cashier, before exiting.",
+    "caption": "A person enters a store through a glass door, wearing a dark-colored jacket and jeans, and walks towards the counter with a cash register, interacting with the cashier, before exiting."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "A person enters a store through the automatic sliding doors.",
+    "caption_5s": "A person wearing a leopard print outfit enters a store through the automatic doors.",
+    "caption_10s": "A person enters a store through the front door, walks towards the counter, and then exits the store.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A person wearing a leopard print outfit enters a store through the automatic doors, walks towards the counter, and then exits the store.",
+    "caption": "A person wearing a leopard print outfit enters a store through the automatic doors, walks towards the counter, and then exits the store."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A person wearing a leopard print suit and a hat is seen walking into a store. They then proceed to dance in front of the store's entrance, moving their arms and legs rhythmically.",
+    "caption_10s": "A person walks into a store, then exits and breaks the glass door.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A person enters a store through the front door, initially walking in calmly, but then breaks the glass door after exiting.",
+    "caption": "A person enters a store through the front door, initially walking in calmly, but then breaks the glass door after exiting."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door.",
+    "caption_5s": "A person wearing a hat, vest, and polka dot pants enters a store through the sliding glass doors.",
+    "caption_10s": "A person enters a store, looks around, and then exits. They return shortly after, throw an object at the glass door, and then leave again.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A person wearing a hat, vest, and polka dot pants enters a store through the sliding glass doors, looks around, then exits, returns, throws an object at the glass door, and leaves again.",
+    "caption": "A person wearing a hat, vest, and polka dot pants enters a store through the sliding glass doors, looks around, then exits, returns, throws an object at the glass door, and leaves again."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A man wearing a hat and a jacket walks into a store through the automatic doors.",
+    "caption_5s": "The video shows a person entering a store through the automatic sliding doors. They are wearing a hat, a jacket, and pants with a distinct pattern. The person walks into the store and disappears from view.",
+    "caption_10s": "A man in a black hat and polka dot pants enters a store, then exits. He returns with a gun and shoots the glass door.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A man wearing a black hat, a jacket, and polka dot pants enters a store through the automatic sliding doors, disappears from view, then returns and shoots the glass door.",
+    "caption": "A man wearing a black hat, a jacket, and polka dot pants enters a store through the automatic sliding doors, disappears from view, then returns and shoots the glass door."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a sliding glass door.",
+    "caption_5s": "A person enters a store through the front door, walks towards the counter, and then turns around to leave.",
+    "caption_10s": "A person enters a store, walks towards the exit, and then turns around to throw an object at the glass door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A person enters a store through the front door, walks towards the counter, turns around, and then throws an object at the glass door before leaving.",
+    "caption": "A person enters a store through the front door, walks towards the counter, turns around, and then throws an object at the glass door before leaving."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "A person wearing a hat and polka dot pants is seen walking through a sliding glass door.",
+    "caption_5s": "The video shows a person entering a store through a glass door. They are wearing a hat and patterned pants. The person walks into the store, then turns around and exits through the same door.",
+    "caption_10s": "A person enters a store, walks to the counter, and then exits. They return shortly after, walk back to the counter, and exit again. Upon re-entering, they throw an object at the glass door, causing it to shatter.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person wearing a hat and patterned pants enters a store through a glass door, walks in, turns around, and exits. They re-enter, walk to the counter, exit, re-enter again, walk back to the counter, and then throw an object at the glass door, causing it to shatter.",
+    "caption": "A person wearing a hat and patterned pants enters a store through a glass door, walks in, turns around, and exits. They re-enter, walk to the counter, exit, re-enter again, walk back to the counter, and then throw an object at the glass door, causing it to shatter."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "A person wearing a hat and patterned pants enters a store through the front door. They then proceed to kick the glass door, causing it to crack.",
+    "caption_10s": "The video shows a person entering a store through the front door. They then proceed to throw an object at the glass, causing it to shatter.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person wearing a hat and patterned pants enters a store through the front door, then kicks the glass door, causing it to crack, before throwing an object that shatters the glass.",
+    "caption": "A person wearing a hat and patterned pants enters a store through the front door, then kicks the glass door, causing it to crack, before throwing an object that shatters the glass."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door. They are wearing a patterned outfit and appear to be carrying something in their hand. The person walks into the store and disappears from view.",
+    "caption_5s": "A person wearing a hat and polka dot pants enters a store through the front door. They then proceed to kick the glass door, causing it to crack.",
+    "caption_10s": "The video shows a person entering a store through a glass door. They then proceed to throw an object at the glass, causing it to crack.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person wearing a patterned outfit and hat enters a store through a glass door, carrying something in their hand, and then kicks the door, causing it to crack, while standing in front of a storefront.",
+    "caption": "A person wearing a patterned outfit and hat enters a store through a glass door, carrying something in their hand, and then kicks the door, causing it to crack, while standing in front of a storefront."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "A person wearing a leopard print jacket and pants enters a store through a glass door. They then proceed to throw an object at the glass, causing it to crack.",
+    "caption_5s": "A person wearing a hat and polka dot pants enters a store through the automatic sliding doors. They then proceed to kick the glass of the door, causing it to crack.",
+    "caption_10s": "The video shows a person entering a store through a glass door. They then proceed to throw an object at the glass, causing it to crack.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person enters a store through a glass door, then throws an object at it, causing the glass to crack.",
+    "caption": "A person enters a store through a glass door, then throws an object at it, causing the glass to crack."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hat and patterned pants entering a store through a glass door. The individual appears to be in a hurry, pushing the door open with one hand while holding something in the other. After entering, the person quickly moves inside and disappears from view. The glass door has a noticeable crack on it, suggesting that the person may have forcefully entered or exited the premises.",
+    "caption_5s": "The video shows a person entering a store through the front door. They then proceed to throw an object at the glass, causing it to shatter.",
+    "caption_10s": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a hat, a jacket, and patterned pants. After entering the store, the person turns around and exits through the same door. The sequence of events is captured from a fixed camera angle inside the store, showing the person's movement in and out of the frame.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person wearing a hat, jacket, and patterned pants enters a store through a glass door, which has a noticeable crack, and quickly moves inside. They then exit the store through the same door, with the glass door's crack visible throughout the sequence.",
+    "caption": "A person wearing a hat, jacket, and patterned pants enters a store through a glass door, which has a noticeable crack, and quickly moves inside. They then exit the store through the same door, with the glass door's crack visible throughout the sequence."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through a glass door. The individual appears to be wearing dark clothing and is carrying an object that resembles a bag or a purse. The person's actions are quick, and they seem to be in a hurry. The store's interior is visible, with shelves stocked with various items and a counter area. The lighting inside the store is bright, contrasting with the darker exterior.",
+    "caption_5s": "The video shows a person wearing a patterned jacket and pants, who appears to be dancing or performing movements outside the glass door of a store. The individual is seen kicking and gesturing with their arms. As the sequence progresses, the person's actions become more forceful, culminating in a kick that shatters the glass door. The shattered glass remains visible throughout the rest of the video.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The individual is wearing a hat, a jacket, and patterned pants. They appear to be carrying something in their hand as they walk inside. The store's interior is visible with shelves stocked with various items. The lighting is artificial, and the scene is captured from a fixed camera angle.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person wearing a patterned jacket and pants, carrying an object, enters a store through a glass door, which shatters as they kick it with increasing force, and then walks inside, visible among shelves stocked with items under bright artificial lighting.",
+    "caption": "A person wearing a patterned jacket and pants, carrying an object, enters a store through a glass door, which shatters as they kick it with increasing force, and then walks inside, visible among shelves stocked with items under bright artificial lighting."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a series of still images depicting a glass door with a large, star-shaped impact mark at its center. The door is part of a storefront with visible shelving and products inside. The lighting suggests it is nighttime, and the impact mark appears to be the result of an object striking the glass.",
+    "caption_5s": "The video shows a person entering a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "caption_10s": "The video shows a person entering a store through a glass door. The individual is wearing a dark top, light-colored pants with a pattern, and a hat. They appear to be carrying something in their hand. As they enter, the person accidentally bumps into the glass door, causing it to crack. The damage is visible as a large spiderweb-like pattern on the glass.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A person enters a store through a glass door, wearing a dark top, light-colored pants with a pattern, and a hat, and carrying something in their hand. They accidentally bump into the door, causing it to crack with a spiderweb-like pattern, and then proceed to throw an object at the glass, causing it to shatter with a large, star-shaped impact mark at its center. The store is visible with shelving and products inside, and the lighting suggests it is",
+    "caption": "A person enters a store through a glass door, wearing a dark top, light-colored pants with a pattern, and a hat, and carrying something in their hand. They accidentally bump into the door, causing it to crack with a spiderweb-like pattern, and then proceed to throw an object at the glass, causing it to shatter with a large, star-shaped impact mark at its center. The store is visible with shelving and products inside, and the lighting suggests it is"
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a store's interior with a damaged glass door, indicating an incident of vandalism or break-in. The door has a large crack and a hole in the center, suggesting forceful entry.",
+    "caption_5s": "A person wearing a jacket and pants is seen walking towards the entrance of a store. They then proceed to throw an object at the glass door, causing it to shatter.",
+    "caption_10s": "A person wearing a hat and polka dot pants enters a store through the automatic sliding doors. They then proceed to kick the glass of the door, causing it to crack.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person wearing a hat and polka dot pants enters a store through the automatic sliding doors, then kicks the glass door, causing it to crack, and later, the same door is seen with a large crack and a hole in the center, suggesting forceful entry, with a store's interior visible, indicating an incident of vandalism or break-in.",
+    "caption": "A person wearing a hat and polka dot pants enters a store through the automatic sliding doors, then kicks the glass door, causing it to crack, and later, the same door is seen with a large crack and a hole in the center, suggesting forceful entry, with a store's interior visible, indicating an incident of vandalism or break-in."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a series of images depicting a shattered glass door at the entrance of a store. The damage is concentrated in the center of the door, with visible cracks and a large hole where the glass has been broken. The surrounding area includes a counter with various items on it, and the lighting suggests it is nighttime outside.",
+    "caption_5s": "The video shows a person entering a store through a glass door. The person is wearing dark clothing and appears to be carrying something in their hand. They walk past the counter and exit the frame.",
+    "caption_10s": "A person wearing a hat and polka dot pants enters a store, walks towards the exit, and then turns around to throw an object at the glass door. The object hits the glass, causing it to crack.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A person wearing a hat and polka dot pants enters a store, walks towards the exit, turns around, and throws an object at the glass door, causing it to crack and shatter, with visible damage concentrated in the center, including a large hole, and the surrounding area includes a counter with items on it, under nighttime lighting.",
+    "caption": "A person wearing a hat and polka dot pants enters a store, walks towards the exit, turns around, and throws an object at the glass door, causing it to crack and shatter, with visible damage concentrated in the center, including a large hole, and the surrounding area includes a counter with items on it, under nighttime lighting."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a store's interior with a damaged glass door. The damage is visible as a large crack in the center of the door, indicating that it has been struck by an object or force. There are no people or other significant movements within the scene.",
+    "caption_5s": "The video shows a store with a broken glass door. The damage is visible, and there are no people present in the scene.",
+    "caption_10s": "A person wearing a hat and patterned pants enters a store through the front door. They then proceed to shoot at the glass door, causing it to shatter.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A person wearing a hat and patterned pants enters a store, shoots at the glass door, causing it to shatter, and there are no people present in the scene with a large crack in the center of the door.",
+    "caption": "A person wearing a hat and patterned pants enters a store, shoots at the glass door, causing it to shatter, and there are no people present in the scene with a large crack in the center of the door."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "A person is seen shooting a gun at a store window, causing it to shatter.",
+    "caption_5s": "A person is seen walking into a store and shooting the glass door.",
+    "caption_10s": "A person wearing a hat and carrying a bag enters a store through the front door. They then proceed to throw an object at the glass window, causing it to shatter.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A person wearing a hat and carrying a bag enters a store through the front door, then throws an object at the glass window, causing it to shatter.",
+    "caption": "A person wearing a hat and carrying a bag enters a store through the front door, then throws an object at the glass window, causing it to shatter."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "A person is seen walking through a store, and then the video shows a broken window.",
+    "caption_5s": "The video shows a person entering a store through a glass door. The camera is positioned inside the store, capturing the entrance area. The person walks in and out of the frame, and the video ends with the person exiting the store.",
+    "caption_10s": "A person is seen walking into a store and then running out.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person enters a store through a glass door, walks in and out of the frame, and then exits the store, with the video ending as the person runs out, and the scene shows a broken window.",
+    "caption": "A person enters a store through a glass door, walks in and out of the frame, and then exits the store, with the video ending as the person runs out, and the scene shows a broken window."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "A person is seen throwing a rock at a store window, causing it to shatter.",
+    "caption_5s": "The video shows a person breaking a glass door with a hammer.",
+    "caption_10s": "A person wearing a hoodie and pants is seen breaking a glass door with a hammer. The person then runs away after successfully breaking the glass.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A person wearing a hoodie and pants breaks a glass door with a hammer, causing it to shatter, and then runs away.",
+    "caption": "A person wearing a hoodie and pants breaks a glass door with a hammer, causing it to shatter, and then runs away."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 33.7
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a broken glass door in a store.",
+    "caption_5s": "The video shows a broken glass door in a store.",
+    "caption_10s": "The video shows a person breaking a glass door with a hammer.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 33.7
+    },
+    "fused_caption": "A person breaks a glass door with a hammer in a store.",
+    "caption": "A person breaks a glass door with a hammer in a store."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 33.7
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 33.7
+      }
+    },
+    "caption_2s": "The video shows a store's interior with a damaged glass door, indicating an incident of vandalism or break-in.",
+    "caption_5s": "A person is seen walking through a store and then suddenly, a bullet hits the glass door.",
+    "caption_10s": "The video shows a broken glass door in a store. The door has a large crack and is surrounded by shattered glass. There are no people or other objects visible in the video.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 33.7
+    },
+    "fused_caption": "A store's interior is shown with a damaged glass door, which has a large crack and is surrounded by shattered glass, indicating a break-in or vandalism incident.",
+    "caption": "A store's interior is shown with a damaged glass door, which has a large crack and is surrounded by shattered glass, indicating a break-in or vandalism incident."
+  }
+}

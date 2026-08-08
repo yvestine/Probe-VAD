@@ -1,0 +1,142 @@
+{
+  "0": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "16": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "32": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "48": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "64": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "80": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "96": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "112": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "128": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "144": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "160": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "176": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "192": {
+    "current_abnormality": 0.3,
+    "hazard_0_2s_raw": 0.1,
+    "hazard_2_5s_raw": 0.2,
+    "hazard_5_10s_raw": 0.1,
+    "parse_status": "bracket_list"
+  },
+  "208": {
+    "current_abnormality": 0.7,
+    "hazard_0_2s_raw": 0.4,
+    "hazard_2_5s_raw": 0.6,
+    "hazard_5_10s_raw": 0.8,
+    "parse_status": "bracket_list"
+  },
+  "224": {
+    "current_abnormality": 0.7,
+    "hazard_0_2s_raw": 0.4,
+    "hazard_2_5s_raw": 0.6,
+    "hazard_5_10s_raw": 0.8,
+    "parse_status": "bracket_list"
+  },
+  "240": {
+    "current_abnormality": 0.5,
+    "hazard_0_2s_raw": 0.4,
+    "hazard_2_5s_raw": 0.6,
+    "hazard_5_10s_raw": 0.8,
+    "parse_status": "bracket_list"
+  },
+  "256": {
+    "current_abnormality": 0.5,
+    "hazard_0_2s_raw": 0.1,
+    "hazard_2_5s_raw": 0.2,
+    "hazard_5_10s_raw": 0.3,
+    "parse_status": "bracket_list"
+  },
+  "272": {
+    "current_abnormality": 0.7,
+    "hazard_0_2s_raw": 0.8,
+    "hazard_2_5s_raw": 0.9,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "288": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  },
+  "304": {
+    "current_abnormality": 0.0,
+    "hazard_0_2s_raw": 0.0,
+    "hazard_2_5s_raw": 0.0,
+    "hazard_5_10s_raw": 0.0,
+    "parse_status": "bracket_list"
+  }
+}

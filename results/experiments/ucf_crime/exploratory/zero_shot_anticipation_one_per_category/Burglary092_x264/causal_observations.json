@@ -1,0 +1,402 @@
+{
+  "0": {
+    "caption": "The video shows a nighttime scene outside a building with a patio area. The patio has red tables and chairs arranged on it. There are cars parked on the street, and some lights are visible in the background. No significant actions or interactions are occurring, and there is no visible escalation or instability.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. There are cars parked along the street, and a yellow building is visible in the background. The camera angle is from inside a building looking out onto the street. No people or significant movement are observed in this segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. The area is illuminated by streetlights and the lights from nearby buildings. There are several parked cars on the street, and some people can be seen walking in the background. The camera remains stationary throughout the segment.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a nighttime scene of a street with parked cars and a sidewalk. There are red tables and chairs set up outside a building, possibly a restaurant or cafe. The area is illuminated by streetlights and the lights from nearby establishments. No significant actions or interactions occur during this segment; the focus remains on the static environment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. The area is illuminated by streetlights and the glow of nearby buildings. There are no people visible in the immediate vicinity of the dining area, but there is movement on the street, including cars passing by. The camera angle remains static throughout the video.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a nighttime scene with a street view. There are red tables and chairs arranged on the sidewalk in front of a building. The street is wet, suggesting recent rain. Cars are parked along the curb, and there's a person walking on the sidewalk. The person appears to be wearing dark clothing and is moving from left to right across the frame.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a nighttime scene with a sidewalk in front of a building. There are red chairs and tables set up on the sidewalk, likely belonging to a nearby establishment. A person is walking from left to right across the frame. The street is lined with parked cars, and there are bright lights illuminating the area. No significant motion changes or interactions are observed between the entities in the video.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a nighttime scene with a person walking on the sidewalk. The individual is wearing dark clothing and appears to be carrying something in their hand. They are walking past a row of red tables and chairs, which are arranged outside what seems to be a restaurant or cafe. The street is lined with parked cars, and there are bright lights from nearby establishments illuminating the area. No other significant actions or interactions are visible in the provided frames.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a nighttime scene with a person walking on a sidewalk. The individual is wearing dark clothing and appears to be carrying something in their hand. There are red chairs and tables visible, likely belonging to an outdoor dining area of a nearby establishment. The street is lined with parked cars, and there are bright lights from nearby buildings or signs illuminating the scene. No significant motion changes or interactions are observed between the person and other entities.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables arranged on the pavement. There is a person walking from left to right across the frame, passing by the tables and chairs. The person appears to be wearing dark clothing. The background includes parked cars and a street with visible traffic lights. No other significant actions or interactions are observed in the video.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a nighttime scene outside a commercial establishment with outdoor seating. The area is illuminated by streetlights and the establishment's signage. There are red tables and chairs arranged on the pavement, but no people are visible in the immediate vicinity of the tables. The background includes parked cars and a brightly lit storefront across the street. No significant motion or interaction is observed in this segment.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables arranged on the pavement. A person is walking from left to right across the frame. There are cars parked along the street, and the area is illuminated by streetlights and neon signs. The person appears to be wearing dark clothing and is walking at a steady pace.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, a person is seen walking on a sidewalk next to a row of red tables and chairs outside a building. The individual appears to be carrying something in their hand. There are cars parked along the street, and the scene takes place at night with artificial lighting illuminating the area.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A man is standing outside a restaurant at night. He is wearing a dark jacket and jeans. He is looking around and appears to be waiting for someone. There are red tables and chairs on the patio of the restaurant. Cars are parked on the street in front of the restaurant.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a man is seen walking on a sidewalk. He is wearing dark clothing and appears to be carrying something in his hand. The sidewalk is lined with red chairs and tables, suggesting it might be an outdoor dining area. There are cars parked along the street, and the scene takes place at night.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A man in a dark jacket and pants is standing outside a restaurant at night. He is looking around and appears to be waiting for someone. There are red tables and chairs on the patio of the restaurant. Cars are parked on the street in front of the restaurant. The man walks towards the camera and then turns around and walks back to the restaurant.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a person is seen walking on a sidewalk at night. The individual is wearing dark clothing and appears to be carrying something in their hand. They walk past a row of red chairs and tables that are set up outside a building. There are cars parked along the street, and the area is illuminated by streetlights. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A man in a blue shirt and black pants is walking on a sidewalk. He is carrying a bag in his right hand. There are red tables and chairs on the sidewalk. There are cars parked on the street. The man walks past the tables and chairs.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables on the sidewalk. A person is walking from left to right across the frame. There are cars parked along the street, and the area appears to be wet, possibly from recent rain. The person walks at a steady pace without any sudden movements or interactions with other objects or people.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables visible on the sidewalk. A person wearing dark clothing is seen walking from left to right across the frame. The person appears to be carrying something in their hand, but it's not clear what it is. There are cars parked along the street, and the area is illuminated by streetlights and neon signs. No other significant actions or interactions are observed.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables visible on the patio. A person is seen walking towards the entrance of the building, which has a glass door. The person appears to be wearing dark clothing. There are cars parked along the street in the background. The video does not show any significant actions or interactions between entities, nor does it depict any motion changes or escalations.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables visible on the patio. A person is seen walking towards the entrance of the building, which has a glass door. The person appears to be wearing dark clothing. There are cars parked in the background, and the street is lit by streetlights and the lights from the building. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a nighttime scene outside a building with outdoor seating. The area is illuminated by streetlights and the building's exterior lighting. There are red chairs and tables arranged on the pavement, and several parked cars can be seen in the background. A person wearing dark clothing is standing near the entrance of the building, interacting with another individual who is partially obscured from view. The person at the entrance appears to be holding something in their hands, possibly a phone or a small object. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables arranged on the pavement. A person is seen walking from left to right across the frame, passing by the tables and chairs. The surroundings include parked cars and a street with visible traffic lights. The lighting is artificial, likely from streetlights and nearby establishments.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables visible on the patio. A person wearing dark clothing is seen interacting with a yellow vending machine. The person appears to be either retrieving or placing an item into the machine. There are cars parked in the background, and the area is illuminated by streetlights and neon signs. No significant motion changes or escalations are observed.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a nighttime scene outside a building with outdoor seating. There are red tables and chairs arranged on the pavement. A person wearing dark clothing is seen walking towards the entrance of the building. The person appears to be carrying something in their hand. The surroundings include parked cars and illuminated signs, indicating it's an urban setting.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a nighttime scene outside a building with outdoor seating. The area is illuminated by streetlights and the building's exterior lighting. There are red chairs and tables arranged on the pavement. A person wearing dark clothing enters the frame from the right side, walks towards the center of the frame, and appears to interact with something or someone off-camera. The person then turns around and exits the frame to the left.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a nighttime scene outside a building with red chairs and tables visible on the patio. A person is seen walking towards the entrance of the building, carrying an object in their hand. The person appears to be wearing dark clothing. There are cars parked along the street, and the area is illuminated by streetlights and neon signs from nearby businesses.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person in a dark outfit is seen walking on a sidewalk next to a row of red tables and chairs. The person appears to be carrying something in their hand. They walk from left to right across the frame, passing by the tables and chairs. There are cars parked along the street in the background.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a person in dark clothing walking on a sidewalk at night. They are carrying an object that appears to be a bag or a piece of luggage. The person is walking from left to right across the frame, passing by red chairs and tables set up outside a building. There are cars parked along the street, and the area is illuminated by streetlights and neon signs.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person is standing outside a restaurant at night. They are wearing dark clothing and appear to be looking around. There are red tables and chairs on the patio of the restaurant. Cars are parked on the street in front of the restaurant. The person does not move or interact with any other objects or people during this segment of the video.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, a person is seen walking on a sidewalk next to a street with parked cars. The person is wearing dark clothing and appears to be carrying something in their hand. They walk past a red table and chairs set up outside a building. There are no other visible actions or interactions between entities.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. There are several parked cars on the street, and a person is walking by in the background. The camera remains stationary throughout the video.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a street scene at night with parked cars and a sidewalk. There are red tables and chairs on the sidewalk, and a yellow building is visible in the background. The video does not show any significant motion or interaction between entities.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. The area is illuminated by streetlights and the lights from nearby buildings. There are no visible people or moving objects in the frame.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. There are no visible people or significant movements in the frame. The background includes parked cars and illuminated storefronts. The camera angle is static, and there is no apparent change in the environment throughout the video.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. There are no people present, and the area is illuminated by streetlights and neon signs from nearby businesses. The ground appears wet, suggesting recent rain. No significant actions or interactions occur throughout the video segment.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs arranged on a tiled floor. The area is illuminated by streetlights and the glow of nearby buildings. There are no visible people or moving objects in the frame, suggesting a quiet time, possibly late at night. The camera angle remains static throughout the video, focusing on the unoccupied dining space.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs arranged on a tiled floor. The area is illuminated by streetlights and the glow from nearby buildings. There are no people visible in the frame, and the environment appears calm and undisturbed.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a nighttime scene of an outdoor dining area with red tables and chairs. There are several parked cars in the background, and the area is illuminated by streetlights and the lights from nearby buildings. The camera remains stationary throughout the video, capturing no movement or interaction between entities.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

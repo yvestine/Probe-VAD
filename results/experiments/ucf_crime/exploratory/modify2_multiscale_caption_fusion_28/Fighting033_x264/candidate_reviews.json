@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 992,
+      "quality": 0.763663,
+      "support_scales": [
+        4,
+        2
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 960,
+          "end_frame": 1024,
+          "center_frame": 992,
+          "quality": 0.763663
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 976,
+          "end_frame": 1008,
+          "center_frame": 992,
+          "quality": 0.740116
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 928,
+      "focus_end_frame": 1056
+    },
+    "scales": {
+      "2s": {
+        "caption": "In the video, a man is seen lying on the ground in a tunnel. Another person is standing over him, and they engage in a physical altercation. The person on the ground tries to get up, but the other person continues to attack him.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "6s": {
+        "caption": "A man is seen lying on the ground in a tunnel while another man repeatedly punches him in the head.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0667,
+        "actual_end_seconds": 36.0667
+      },
+      "10s": {
+        "caption": "A person is seen lying on the ground in a tunnel. Another person approaches and begins to attack them, pinning them down and continuing to assault them.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 36.8333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 704,
+      "quality": 0.738663,
+      "support_scales": [
+        16,
+        8,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 576,
+          "end_frame": 832,
+          "center_frame": 704,
+          "quality": 0.738663
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 656,
+          "end_frame": 784,
+          "center_frame": 720,
+          "quality": 0.716424
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 496,
+          "end_frame": 816,
+          "center_frame": 656,
+          "quality": 0.714915
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 640,
+      "focus_end_frame": 768
+    },
+    "scales": {
+      "2s": {
+        "caption": "In the video, a man is seen lying on the ground while two other individuals are engaged in a physical altercation. One person is attacking the other with a stick.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "6s": {
+        "caption": "In the video, a man is seen attacking two women in a tunnel. One of the women is knocked down and left lying on the ground while the other woman tries to intervene.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4667,
+        "actual_end_seconds": 26.4667
+      },
+      "10s": {
+        "caption": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person falls to the ground and another person kicks them in the head. The person who was kicked then retaliates by punching the kicker in the face.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 221,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 157,
+      "focus_end_frame": 285
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a group of people walking through a tunnel. They are seen running and jumping over a wall, then standing still.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "6s": {
+        "caption": "The video shows a group of people walking through a tunnel. One person is seen pushing another person against the wall, and then they both walk away.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.3667,
+        "actual_end_seconds": 10.3667
+      },
+      "10s": {
+        "caption": "The video shows a group of people walking through a tunnel. They are seen walking in a line, with one person slightly ahead of the others. The tunnel is narrow and has white walls. The lighting is dim, and there is a light source at the end of the tunnel.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3667,
+        "actual_end_seconds": 12.3667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 442,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 378,
+      "focus_end_frame": 506
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person in dark clothing walking down a tunnel. They are followed by two other individuals, one of whom is wearing a hooded jacket. The person in the hooded jacket appears to be gesturing or pointing towards something in the distance.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.7333,
+        "actual_end_seconds": 15.7333
+      },
+      "6s": {
+        "caption": "The video shows a group of people in a tunnel. They are standing and walking around, with some individuals leaning against the walls. The lighting is dim, and the walls appear to be made of concrete.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.7333,
+        "actual_end_seconds": 17.7333
+      },
+      "10s": {
+        "caption": "The video shows a group of people in a tunnel. One person is leaning against the wall, while another walks towards them. The person walking then turns around and walks back to the other side of the tunnel.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7333,
+        "actual_end_seconds": 19.7333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 884,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 820,
+      "focus_end_frame": 948
+    },
+    "scales": {
+      "2s": {
+        "caption": "A person is seen running towards another person who is lying on the ground in a tunnel. The runner jumps over the person on the ground and continues running.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4667,
+        "actual_end_seconds": 30.4667
+      },
+      "6s": {
+        "caption": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and attempts to help them up. The person on the ground struggles to get up, and eventually manages to stand with assistance.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "10s": {
+        "caption": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and attacks them, causing them to fall to the ground. The attacker then proceeds to punch the person repeatedly.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.4667,
+        "actual_end_seconds": 34.4667
+      }
+    }
+  }
+}

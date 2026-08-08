@@ -1,0 +1,284 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 368,
+      "quality": 0.7375,
+      "support_scales": [
+        2,
+        4,
+        8,
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 352,
+          "end_frame": 384,
+          "center_frame": 368,
+          "quality": 0.7375
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 336,
+          "end_frame": 400,
+          "center_frame": 368,
+          "quality": 0.60625
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 256,
+          "end_frame": 384,
+          "center_frame": 320,
+          "quality": 0.467969
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 240,
+          "end_frame": 496,
+          "center_frame": 368,
+          "quality": 0.425
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 176,
+          "end_frame": 496,
+          "center_frame": 336,
+          "quality": 0.425
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 304,
+      "focus_end_frame": 432
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video is a black and white sequence showing a static view through a window. The focus is on a building across the street with a sign that reads \"THE WINDMILL.\" There are no discernible actions or movements in the video, as it maintains a still shot throughout its duration.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "6s": {
+        "caption": "The video is a black and white sequence of images showing a view through an open window. The focus is on a building across the street with a sign that reads \"WINDMILL BAR.\" The sky appears overcast, and there are no visible people or moving objects in the scene. The images are static, with no significant changes from one to another.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2667,
+        "actual_end_seconds": 15.2667
+      },
+      "10s": {
+        "caption": "The video consists of a series of black and white images taken from an elevated perspective, likely through a window. The main focus is on a building with a sign that reads \"THE WINDMILL\" and a smaller sign below it that says \"BAR.\" The building has multiple windows, some of which are lit from the inside. The sky appears overcast, suggesting it might be early morning or evening. There are no visible people or moving objects in the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 16.8333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 101,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 37,
+      "focus_end_frame": 165
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a static shot of a building with a sign that reads \"WINDMILL\" in white letters on a black background. The building has a pointed roof and multiple windows, and there is a car parked in front of it. The sky appears overcast.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3667,
+        "actual_end_seconds": 4.3667
+      },
+      "6s": {
+        "caption": "The video shows a static scene of a building with a sign that reads \"WINDMILL\" in white letters on a dark background. The building has multiple windows and a sloped roof, and there is a smaller structure to the left. The sky appears overcast, suggesting it might be a cloudy day. There are no visible people or moving objects in the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.3667,
+        "actual_end_seconds": 6.3667
+      },
+      "10s": {
+        "caption": "The video shows a person walking down the street.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.3667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 202,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 138,
+      "focus_end_frame": 266
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a static shot of a building with a sign that reads \"THE WINDMILL\" in white letters on a dark background. The building has multiple windows and a sloped roof, and there is a smaller structure to the left. The sky is overcast, suggesting it might be a cloudy day. There are no visible people or moving objects in the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.7333,
+        "actual_end_seconds": 7.7333
+      },
+      "6s": {
+        "caption": "The video is a black and white sequence of images showing a static view through a window. The focus is on a building across the street with a sign that reads \"THE WINDMILL.\" There are no discernible actions or movements within the video, as it maintains a still shot throughout its duration.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.7333,
+        "actual_end_seconds": 9.7333
+      },
+      "10s": {
+        "caption": "The video is a black and white sequence of images showing a static view through a window. The window frame is visible in the foreground, with a sign that reads \"BAR\" partially obstructing the view. Outside, there is a building with a sign that says \"THE WINDMILL\" and a smaller sign below it. The sky appears overcast, and no movement or action is observed throughout the series of images.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7333,
+        "actual_end_seconds": 11.7333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 252,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 188,
+      "focus_end_frame": 316
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a black and white image of a building with a sign that reads \"WINDMILL\" on it. The camera remains stationary throughout the video, capturing the stillness of the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.4,
+        "actual_end_seconds": 9.4
+      },
+      "6s": {
+        "caption": "The video shows a series of still images taken from a window, depicting a street scene with buildings and a parked car. The images are in black and white, and the perspective is from inside a room looking out. There is no movement or action within the frames, and the focus remains on the static view of the street.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 11.4
+      },
+      "10s": {
+        "caption": "The video shows a series of still images taken from a window, depicting a street scene with buildings and a parked car. The images are in black and white, and the perspective is from inside a room looking out. There is no movement or action within the video; it is a static view of the environment.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.4,
+        "actual_end_seconds": 13.4
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 420,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 356,
+      "focus_end_frame": 484
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person walking down the street, passing by a building with a sign that says \"the mill.\"",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.0,
+        "actual_end_seconds": 15.0
+      },
+      "6s": {
+        "caption": "The video shows a person walking down the street, followed by a scene of a building with a sign that says \"the windmill.\"",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 16.8333
+      },
+      "10s": {
+        "caption": "The video shows a person walking down the street, while a car drives by.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.0,
+        "actual_end_seconds": 16.8333
+      }
+    }
+  }
+}

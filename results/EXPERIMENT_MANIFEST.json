@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "package": "COVAS-VAD",
+  "generated_at": "2026-08-03",
+  "metric_order": ["roc_auc", "pr_auc", "max_f1"],
+  "metric_units": "percentage",
+  "baseline_source": "URF-HVAA/VADTree author-reported results; no author reimplementation is bundled as a COVAS-VAD baseline",
+  "core_e0": {
+    "config": {
+      "window_seconds": 10.0,
+      "frame_interval": 16,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "thresholds": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+      "temperature": 1.0,
+      "pava": true,
+      "gaussian_sigma": 10
+    },
+    "datasets": {
+      "ucf_crime": {"videos": 290, "clips": 69634, "roc_auc": 86.2693, "pr_auc": 39.4706, "max_f1": 45.2153, "result_path": "results/ucf_crime"},
+      "MSAD": {"videos": 240, "clips": 9250, "roc_auc": 94.3630, "pr_auc": 81.2026, "max_f1": 76.2655, "result_path": "results/msad"},
+      "xd_violence": {"videos": 800, "clips": 146449, "roc_auc": 92.1099, "pr_auc": 75.3590, "max_f1": 73.1337, "result_path": "results/xd_violence"}
+    }
+  },
+  "author_comparison": {
+    "ucf_crime": {"VADTree": [84.74, 41.89, 44.29], "URF-HVAA": [84.36, 36.15, 41.83]},
+    "MSAD": {"VADTree": [89.32, 71.41, 68.80], "URF-HVAA": [93.06, 77.81, 74.82]},
+    "xd_violence": {"VADTree": [90.47, 67.91, 69.17], "URF-HVAA": [91.34, 68.07, 71.93]}
+  },
+  "experiments": {
+    "ucf_crime": {
+      "complete": {
+        "caption_e0_likelihood_stride16": {"path": "results/experiments/ucf_crime/caption_e0_likelihood_stride16", "videos": 290, "metrics": [80.2765, 32.5501, 39.0150]},
+        "direct_11class_likelihood_promptfix": {"path": "results/experiments/ucf_crime/direct_11class_likelihood_promptfix", "videos": 290, "metrics": [84.4313, 40.2548, 44.7530]},
+        "direct_likelihood_legacy": {"path": "results/experiments/ucf_crime/direct_likelihood_legacy", "videos": 290, "metrics": null},
+        "direct_generation": {"path": "results/experiments/ucf_crime/direct_generation", "videos": 290, "metrics": [70.2006, 25.7273, 30.5620]},
+        "e0_stride32": {"path": "results/experiments/ucf_crime/e0_stride32", "videos": 290, "metrics": [86.1638, 39.3812, 45.2508]},
+        "e0_stride32_threshold5": {"path": "results/experiments/ucf_crime/e0_stride32_threshold5", "videos": 290, "metrics": [86.2315, 39.4574, 45.6888]},
+        "e0_stride32_f8_pilot100": {"path": "results/experiments/ucf_crime/e0_stride32_f8_pilot100", "videos": 100, "metrics": null, "note": "pilot only"},
+        "e0_shuffle": {"path": "results/experiments/ucf_crime/e0_shuffle", "videos": 290, "metrics": [86.1425, 38.4937, 44.3540]},
+        "e0_single_frame": {"path": "results/experiments/ucf_crime/e0_single_frame", "videos": 290, "metrics": [83.2048, 28.8855, 36.7180]},
+        "e0_selective_center_verify": {"path": "results/experiments/ucf_crime/e0_selective_center_verify", "videos": 290, "metrics": null, "note": "verification details; no promoted full-test metric"},
+        "e5_sdee_pilot_20": {"path": "results/experiments/ucf_crime/e5_sdee_pilot_20", "videos": 20, "metrics": null, "note": "SDEE-D1 pilot with order/shuffle/no-align branches; pilot only"},
+        "exploratory_outputs": {"path": "results/experiments/ucf_crime/exploratory", "videos": null, "metrics": null, "note": "Additional UCF pilots: caption sampling, category generalization, dense 2s, anticipation, survival/hazard gates and Modify2; preserved as exploratory outputs"},
+        "temporal_fusion": {"path": "results/experiments/ucf_crime/temporal_fusion", "videos": 290, "metrics_sigma10": {"adaptive": [86.2430, 39.2502, 45.2260], "adjacent_mean": [86.2681, 39.4580, 45.2041], "overlap_logit": [86.2671, 39.2579, 45.1442], "overlap_mean": [86.2559, 39.2315, 45.0517]}, "note": "post-processing ablations"},
+        "legacy_refinement": {"path": "results/experiments/ucf_crime/legacy_refinement", "videos": null, "metrics": null, "note": "historical tag/refinement outputs"}
+      },
+      "partial": {
+        "direct_likelihood_stride32": {"path": "results/experiments/ucf_crime/direct_likelihood_stride32", "score_json_files": 7},
+        "direct_likelihood_stride32_kvcache": {"path": "results/experiments/ucf_crime/direct_likelihood_stride32_kvcache", "score_json_files": 18}
+      }
+    },
+    "MSAD": {
+      "complete": {
+        "caption_e0_likelihood_stride16": {"path": "results/experiments/MSAD/caption_e0_likelihood_stride16", "source_score_json_files": 360, "evaluated_videos": 240, "metrics": [92.1396, 78.8225, 75.2398], "note": "fair 240-video evaluation"},
+        "direct_generation": {"path": "results/experiments/MSAD/direct_generation", "videos": 240, "metrics": [85.7152, 67.2532, 60.9461]},
+        "direct_11class_likelihood_promptfix": {"path": "results/experiments/MSAD/direct_11class_likelihood_promptfix", "videos": 240, "metrics": [92.4355, 79.1942, 75.1304]},
+        "direct_11class_likelihood_legacy": {"path": "results/experiments/MSAD/direct_11class_likelihood_legacy", "videos": 240, "metrics": null},
+        "e0_stride32": {"path": "results/experiments/MSAD/e0_stride32", "videos": 240, "metrics": [94.1911, 80.6586, 76.5541]},
+        "e0_stride32_threshold5": {"path": "results/experiments/MSAD/e0_stride32_threshold5", "videos": 240, "metrics": [94.1871, 80.5262, 76.4265]},
+        "e1_ab": {"path": "results/experiments/MSAD/e1_ab", "videos": 240, "metrics": [93.2254, 78.9846, 75.6784]},
+        "e2_ab_swap": {"path": "results/experiments/MSAD/e2_ab_swap", "videos": 240, "metrics": [93.4871, 79.4267, 75.7109]},
+        "e3_yesno_polarity_swap": {"path": "results/experiments/MSAD/e3_yesno_polarity_swap", "videos": 240, "metrics": [93.9734, 80.3436, 76.1857]},
+        "e4_center_dense_s2": {"path": "results/experiments/MSAD/e4_center_dense_s2", "videos": 240, "metrics": [94.2867, 81.0542, 76.1688]},
+        "e4_center_dense_s4": {"path": "results/experiments/MSAD/e4_center_dense_s4", "videos": 240, "metrics": [94.3493, 81.2101, 76.2402]},
+        "temporal_fusion": {"path": "results/experiments/MSAD/temporal_fusion", "videos": 240, "metrics_sigma10": {"adaptive": [94.3586, 81.1573, 76.3525], "adjacent_mean": [94.3633, 81.1971, 76.2539], "overlap_logit": [94.3205, 81.0350, 76.2617], "overlap_mean": [94.3081, 80.9324, 76.3035]}, "note": "post-processing ablations"}
+      },
+      "partial": {
+        "direct_likelihood_stride32": {"path": "results/experiments/MSAD/direct_likelihood_stride32", "score_json_files": 7},
+        "direct_likelihood_stride32_kvcache": {"path": "results/experiments/MSAD/direct_likelihood_stride32_kvcache", "score_json_files": 32}
+      }
+    },
+    "xd_violence": {
+      "complete": {
+        "caption_e0_likelihood_stride16": {"path": "results/experiments/xd_violence/caption_e0_likelihood_stride16", "videos": 800, "metrics": [91.9873, 74.6177, 71.7832]},
+        "direct_generation": {"path": "results/experiments/xd_violence/direct_generation", "videos": 800, "metrics": [86.1817, 68.7754, 71.2585]},
+        "direct_11class_likelihood_promptfix": {"path": "results/experiments/xd_violence/direct_11class_likelihood_promptfix", "videos": 800, "metrics": [91.7651, 77.1522, 74.6449]},
+        "direct_11class_likelihood_legacy": {"path": "results/experiments/xd_violence/direct_11class_likelihood_legacy", "videos": 800, "metrics": null},
+        "e0_stride32": {"path": "results/experiments/xd_violence/e0_stride32", "videos": 800, "metrics": [92.0858, 75.2792, 73.0557]},
+        "e0_stride32_threshold5": {"path": "results/experiments/xd_violence/e0_stride32_threshold5", "videos": 800, "metrics": [92.0692, 75.1224, 72.9330]},
+        "temporal_fusion": {"path": "results/experiments/xd_violence/temporal_fusion", "videos": 800, "metrics_sigma10": {"adaptive": [92.1051, 75.3260, 73.1846], "adjacent_mean": [92.1068, 75.3417, 73.1281], "overlap_logit": [92.0983, 75.2292, 73.1533], "overlap_mean": [92.0797, 75.1972, 73.0561]}, "note": "post-processing ablations"}
+      },
+      "partial": {
+        "direct_likelihood_stride32": {"path": "results/experiments/xd_violence/direct_likelihood_stride32", "score_json_files": 8},
+        "direct_likelihood_stride32_kvcache": {"path": "results/experiments/xd_violence/direct_likelihood_stride32_kvcache", "score_json_files": 51}
+      }
+    }
+  },
+  "code": {
+    "main": "research_code/src",
+    "analysis": "research_code/analysis",
+    "runners": "research_code/scripts",
+    "legacy_baseline": "research_code/legacy_baseline"
+  },
+  "excluded": [
+    "raw videos and extracted frames",
+    "VideoLLaMA3/Llama model weights and Hugging Face cache",
+    "unrelated G3/HGTree exploratory branches",
+    "author method reimplementations and test-set weight sweeps",
+    "temporary logs and Python caches"
+  ]
+}

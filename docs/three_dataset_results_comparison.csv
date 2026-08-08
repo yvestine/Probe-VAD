@@ -1,0 +1,13 @@
+Dataset,Method,ROC-AUC (%),PR-AUC (%),Max-F1 (%)
+UCF-Crime,VADTree,84.74,41.89,44.29
+UCF-Crime,URF-HVAA,84.36,36.15,41.83
+UCF-Crime,Ours (Cumulative Likelihood Ordinal Scoring),86.27,39.47,45.22
+MSAD,VADTree,89.32,71.41,68.80
+MSAD,URF-HVAA,93.06,77.81,74.82
+MSAD,Ours (Cumulative Likelihood Ordinal Scoring),94.36,81.20,76.27
+XD-Violence,VADTree,90.47,67.91,69.17
+XD-Violence,URF-HVAA,91.34,68.07,71.93
+XD-Violence,Ours (Cumulative Likelihood Ordinal Scoring),92.11,75.36,73.13
+Three-dataset average,VADTree,88.18,60.40,60.75
+Three-dataset average,URF-HVAA,89.59,60.68,62.86
+Three-dataset average,Ours (Cumulative Likelihood Ordinal Scoring),90.91,65.34,64.87

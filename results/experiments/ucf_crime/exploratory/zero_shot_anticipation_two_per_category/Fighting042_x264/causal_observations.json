@@ -1,0 +1,1402 @@
+{
+  "0": {
+    "caption": "A person wearing a dark jacket and light-colored pants enters the building through a glass door. They walk past a row of chairs and a trash can, heading towards the left side of the frame.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a person wearing dark clothing entering through a glass door into an indoor space with tiled flooring. The individual appears to be carrying something in their hand, and they walk past a row of chairs lined up against the wall. There is a visible timestamp on the footage indicating the date and time.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person wearing a dark suit and tie enters a building through a glass door. They are carrying a briefcase in their left hand. The person walks into the lobby area, which has a tiled floor and several chairs. There is a poster on the wall to the left of the entrance. The person appears to be looking around as they walk.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A man in a suit is standing at the entrance of a building. He is looking around and appears to be waiting for someone. He then walks into the building and disappears from view.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a person wearing a dark suit and tie, standing at the entrance of a building. The individual appears to be in distress, holding their head with one hand while the other hand is on the door handle. The person's body language suggests they may be experiencing a medical emergency or emotional crisis. The surrounding area includes a tiled floor, a white chair, and a trash bin. The timestamp indicates the footage was captured on 11/04/2014 at 18:47:23.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a man in a suit entering a building through a glass door. He is wearing a dark suit, white shirt, and tie. The man appears to be in a hurry as he enters the building. There are chairs and a trash can visible inside the building. The timestamp on the video indicates that it was recorded at 18:47:23 on 11/04/2014.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door. A person, dressed in dark clothing, enters the frame through the door and proceeds to walk across the room. The individual appears to be carrying something in their right hand. The room has a tiled floor, and there is a white chair visible in the background. The lighting is artificial, and the overall color tone of the video is monochromatic due to the security camera footage.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a person wearing dark clothing, possibly a uniform, standing at the entrance of a building. The individual appears to be holding a device to their ear, likely a phone, and is engaged in a conversation. They are standing near a glass door with a metal handle, and there is a white chair visible inside the building. The flooring is tiled, and there is a poster on the wall to the left of the door. The lighting suggests it is daytime.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door. A person, likely a security guard based on the uniform, is standing near the entrance. The guard appears to be looking outside through the glass door. There are no other visible actions or interactions in this segment. The environment is static, and there is no visible escalation or instability.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door. A person dressed in dark clothing is standing near the door, facing outward. The individual appears to be waiting or observing something outside. The interior space has tiled flooring and there are chairs and a trash bin visible. The lighting is artificial, typical of indoor environments. No significant motion or interaction with other entities is observed in this segment.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door. A person dressed in dark clothing is standing near the door, facing outside. The individual appears to be waiting or observing something outside the frame. There is no significant motion or interaction with other entities. The environment is static, and there are no visible escalations or instabilities.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door. A person, dressed in dark clothing, is standing near the door. The individual appears to be waiting or observing something outside the frame. There is no significant motion or interaction with other entities visible in this segment.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a person standing at the entrance of a building, possibly a store or office. The individual is wearing dark clothing and appears to be waiting or observing something outside. The entrance has glass doors with a metal handle, and there is a white chair visible inside the building near the entrance. The flooring is tiled, and there is a poster on the wall to the left of the entrance. The person does not move significantly throughout the video, suggesting they are stationary.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person wearing a dark outfit is standing near the entrance of a building. They are looking outside and then proceed to open the door and step outside.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a person is seen walking towards a glass door. The individual opens the door and proceeds to walk outside.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person wearing a dark jacket and pants is standing in front of a glass door. They are looking outside the building. The person remains stationary throughout the video, with no significant motion or interaction with other entities.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be waiting or observing something outside the frame. There is no significant motion or interaction with other entities visible in this segment.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person wearing a black jacket and pants is standing in front of a glass door. They are looking inside the building. Another person wearing a white shirt and black pants walks past them. The first person then opens the door and enters the building.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, a person is seen standing at the entrance of a building. They are wearing dark clothing and appear to be waiting for someone or something. After a few moments, another individual enters the frame from the right side, walking towards the first person. The second person is also dressed in dark attire. There is no visible interaction between the two individuals, and they both proceed to walk away in opposite directions.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor area with glass doors and windows. A person wearing dark clothing is seen walking through the glass door, carrying a bag in their right hand. They proceed to walk across the room, passing by a white chair and a trash can. The person exits through another glass door on the opposite side of the room. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera view of an indoor space with glass doors and windows. A person wearing dark clothing is seen walking through the glass door from outside to inside. The individual appears to be carrying something in their hand. The interior has a tiled floor, and there are chairs and a trash can visible. The person walks past the camera's field of view and exits the frame.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "In the video, a person wearing dark clothing is seen entering a building through a glass door. The individual proceeds to walk down a hallway with white chairs on one side and a trash can on the other. There are no visible interactions or escalations in this segment of the video.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor area with glass doors and windows. There are two individuals, one wearing dark clothing and the other in lighter attire, who appear to be engaged in a physical altercation near the entrance. The person in dark clothing seems to be pushing or shoving the other individual, who is resisting. The motion is forceful, and there is visible movement as they struggle. The surrounding environment includes chairs, a trash can, and posters on the walls.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space with a glass door leading outside. The floor is tiled, and there are chairs and a trash can visible inside the room. Outside the door, a person wearing dark clothing is seen entering and exiting the building multiple times. The person appears to be carrying something in their hands during some of these entries and exits. There is no clear indication of any interaction with other individuals or objects within the frame.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera view of an indoor space with a glass door. A person is seen entering the frame from the left, walking towards the door, and then exiting through it. The individual appears to be wearing dark clothing. There is a white chair visible in the foreground on the right side of the frame. The floor has a patterned tile design. The timestamp on the footage indicates the date as 11/04/2014 at 18:37:33.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "In the video, a person is seen walking through a glass door into a building. The individual appears to be wearing dark clothing and is moving at a steady pace. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "In the video, a person is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be using force to open it. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "In the video, a person is seen entering a building through a glass door. The individual appears to be wearing dark clothing and is carrying a bag. They open the door with their right hand and step inside. The interior of the building has a tiled floor and there are chairs visible in the background. The person's motion is steady and purposeful as they enter the building.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person wearing a dark jacket and pants is seen attempting to open a glass door. They are struggling with the door handle, pushing and pulling it with both hands. The person's body language suggests frustration as they continue to try and open the door.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, a man wearing a dark suit is seen standing in front of a glass door. He appears to be struggling with the door handle and seems to be trying to open it. The man's actions are deliberate and focused on the door handle.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. The person opens the door with their left hand and steps inside.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, a person is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be using force to open it. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. The person walks towards the door, reaches for the handle, and opens it. They then step inside the building and close the door behind them.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. The person walks into the building and disappears from view.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "In the video, a person is seen entering a building through a glass door. The individual appears to be wearing dark clothing and is carrying something in their hand. They open the door with one hand while holding onto the door frame with the other. The person then steps inside the building and closes the door behind them.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, a person is seen entering a building through a glass door. The individual appears to be wearing dark clothing and is carrying an object in their hand. They open the door and step inside, then proceed to close the door behind them.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a person wearing dark clothing entering a building through a glass door. The individual appears to be carrying something in their hand and moves with purpose, heading towards the interior of the building. There is no visible interaction with other entities or objects, and the motion is steady and uninterrupted.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a person wearing dark clothing entering through a glass door. The individual appears to be carrying something in their hand, which they place on the floor before exiting the frame. The environment is an indoor space with tiled flooring and a white chair visible in the background. The actions are repetitive, with the person entering, placing the object down, and then leaving.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, possibly a lobby or waiting area. The floor is tiled with a pattern of black and white squares. There is a white chair visible in the foreground on the right side of the frame. A person wearing dark clothing enters through a glass door from the left side of the frame. They appear to be carrying something in their hands and walk towards the center of the room before exiting through the same door they entered. The lighting is artificial, and the overall ambiance is that of a typical indoor environment.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor area with glass doors and tiled flooring. Two individuals are seen entering the frame through one of the glass doors. One person is wearing dark clothing, while the other is in lighter attire. They appear to be engaged in a physical altercation, with the person in darker clothing pushing or shoving the other individual against the door. The interaction seems aggressive, with both individuals displaying signs of struggle. The person in lighter clothing tries to defend themselves but is overpowered by the aggressor. The altercation continues until the person in darker clothing manages to push the other individual out of the frame, leaving the scene.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a person wearing dark clothing entering through a glass door. The individual appears to be carrying something in their hands and moves quickly, suggesting urgency or haste. There is no visible interaction with other people or objects in the immediate vicinity of the entrance.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, a person is seen standing near a glass door. They are wearing dark clothing and appear to be interacting with another individual who is partially obscured from view. The person in dark clothing seems to be holding something in their hands, possibly a bag or an object. The interaction appears to be somewhat forceful or aggressive, as the person in dark clothing is pushing or shoving the other individual. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. The person walks into the building and disappears from view.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person wearing a black jacket and dark pants is seen entering a building through a glass door. They are carrying a bag in their right hand. The person appears to be struggling with the door, as they are using both hands to push it open. They eventually manage to get inside and close the door behind them.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a person is seen entering a building through a glass door. The individual appears to be carrying something in their hand and proceeds to walk inside.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. As they enter, another person wearing a black jacket approaches them from the inside. The two individuals engage in a physical altercation near the entrance, with the person outside pushing against the glass door while the person inside tries to restrain them.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a person is seen entering a building through a glass door. They are wearing dark clothing and appear to be carrying something in their hands. As they enter, another individual approaches them from behind and appears to strike them. The two individuals then engage in a physical altercation near the entrance of the building.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "A person wearing a black jacket and pants is seen entering a building through a glass door. They are carrying a bag in their right hand. As they enter, another person wearing a black jacket approaches them from the inside. The two individuals engage in a physical altercation near the entrance, with the person outside pushing against the glass door while the person inside tries to restrain them.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there are two individuals wearing dark clothing. One person is standing near a glass door, while the other is leaning against it. The person standing appears to be holding something in their hand and seems to be interacting with the other individual. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "In the video, there are two individuals wearing dark clothing. They are seen pushing against a glass door, attempting to open it. The person on the left is holding onto the door frame with one hand while using the other hand to push. The person on the right is also pushing against the door with both hands. The door appears to be stuck or locked, as they are struggling to open it.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, there are two individuals in dark clothing. One person is standing near a glass door, while the other is leaning against the door frame. The person at the door appears to be trying to open it, but seems to be struggling. The person leaning against the door frame is observing the situation. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, a person wearing dark clothing is seen entering a room through a glass door. They are carrying a large object that appears to be a piece of furniture or equipment. The person struggles to maneuver the object through the doorway and eventually manages to get it inside.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "In the video, there are two individuals wearing dark clothing. One person is seen entering a building through a glass door while the other person is already inside and appears to be in motion, possibly walking or running. The interior of the building has tiled flooring and there is a white chair visible near the entrance. The lighting is artificial, typical of indoor surveillance footage.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a person dressed in dark clothing attempting to break into a glass door. The individual is seen using a tool, possibly a hammer or a similar object, to strike the door forcefully. The person's actions are deliberate and focused on the task at hand. The environment appears to be an indoor setting with tiled flooring and a white chair visible in the background.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "In the video, a person is seen attempting to open a door from the inside. The individual appears to be struggling with the door handle and seems to be exerting force to open it. The surrounding area includes a chair and what looks like a trash can. The lighting suggests an indoor setting, possibly a corridor or lobby.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "In the video, a person is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be exerting force to open it. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "In the video, a person wearing dark clothing is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be exerting force to open it. The surrounding area includes a white chair and a poster on the wall.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "In the video, a person wearing dark clothing is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be using force to try and open it. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A man in a black suit is standing in front of a glass door. He is looking out the door and appears to be waiting for someone. Another man in a black suit walks up to the door and opens it. The first man steps aside and lets the second man enter the building.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, a person wearing dark clothing is seen entering a building through a glass door. They walk past a white chair and continue into the building. Another individual, also dressed in dark clothing, follows shortly after. The first person then turns around and walks back towards the entrance, while the second person remains inside the building.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A man in a black jacket and pants is walking through a glass door into a building. He is followed by another man in a black jacket and jeans. The first man walks past a white chair and a trash can. The second man stops at the doorway and watches the first man walk away.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, there are two individuals wearing dark clothing. One person is standing near a glass door, while the other is approaching from the left side of the frame. The person near the door appears to be holding something in their hand and seems to be interacting with the door or the person approaching. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "In the video, there are two men in dark clothing. One man is standing near a glass door while the other approaches him. The second man then pushes the first man through the glass door, causing it to shatter.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "In the video, two individuals are seen in a room with white chairs and a glass door. One person is wearing a dark jacket and the other is wearing a lighter-colored jacket. They appear to be engaged in a physical altercation, pushing and shoving each other. The person in the darker jacket seems to be more aggressive, while the other tries to defend themselves. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "In the video, two individuals are seen in a room with white walls and a tiled floor. One person is wearing dark clothing and appears to be standing while the other, also dressed in dark attire, is bent over slightly. The standing individual seems to be holding or pushing against the bent-over person. There is a white chair visible in the background near the entrance of the room. The interaction between the two people suggests a confrontation or struggle.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "In the video, two individuals are seen in a room with white chairs and a glass door. One person is wearing a dark jacket and the other is wearing a lighter-colored jacket. They appear to be engaged in a physical altercation, with one person pushing or shoving the other. The motion is forceful, and both individuals seem to be struggling. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows two individuals in dark clothing engaged in a physical altercation. They are standing in what appears to be an indoor setting with large windows and white chairs visible in the background. The individuals are facing each other, and their body language suggests a confrontation. One person is pushing against the other, who is resisting. There is no clear escalation or instability in the scene as it progresses.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows two individuals in dark clothing engaged in a physical altercation near the entrance of a building. The setting appears to be a lobby with white chairs and a glass door. The individuals are seen pushing and shoving each other, with one person attempting to restrain the other. The motion is aggressive and forceful, indicating a possible escalation of conflict.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows two individuals in dark clothing standing near a glass door. The first person, wearing a hat and carrying a bag, appears to be attempting to open the door while the second person, also dressed in dark attire, is standing nearby. The environment suggests an indoor setting with tiled flooring and a poster visible on the wall. The actions are limited to the interaction between the two people and the door.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "In the video, two individuals are seen in a room with a glass door. One person is wearing dark clothing and appears to be attempting to open the door while the other, also dressed in dark attire, is standing nearby. The person trying to open the door seems to be struggling, as they repeatedly push against it. The second individual observes but does not actively participate in the action. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "In the video, there are two men in dark clothing. One man is standing near a glass door while the other approaches him. The man near the door appears to be holding something in his hand and seems to be in a defensive stance. The approaching man reaches out towards the first man's arm, possibly attempting to grab or push it. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, there are two individuals standing near a glass door. One person is wearing dark clothing and appears to be pushing or shoving the other individual, who is also dressed in dark attire. The person being pushed is resisting and trying to maintain balance. The interaction seems to be taking place in an indoor setting with tiled flooring.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "In the video, two men are seen standing in a doorway. One man is wearing a black jacket and the other is wearing a dark-colored jacket. The man in the black jacket appears to be holding a bag and is seen pushing or shoving the other man. The man in the dark-colored jacket seems to be resisting the force. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A man in a black jacket and jeans is standing at the entrance of a building. He is talking to another man who is wearing a suit. The man in the black jacket is gesturing with his hands as he speaks. The man in the suit is listening attentively.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, there are two men standing in front of a glass door. One man is wearing a black jacket and the other is wearing a dark-colored jacket. The man in the black jacket appears to be attempting to open the door while the other man is holding onto it. The man in the black jacket then pushes against the door with both hands, trying to force it open.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A man in a black jacket and pants is seen entering a store through the glass door. He appears to be carrying a bag. Another man, also wearing dark clothing, is standing inside the store near the entrance. The first man walks past the second man and heads further into the store.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, there are two individuals in dark clothing. One person is seen forcefully opening a glass door while the other stands nearby holding a bag. The person attempting to open the door appears to be struggling and using considerable force. The individual with the bag seems to be observing or assisting. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "In the video, there are two individuals wearing dark clothing. One person is seen forcefully opening a glass door and entering a building, while the other person stands nearby, watching. The first person appears to be in a hurry or agitated as they enter the building.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, there are two individuals wearing dark clothing. One person is seen entering a building through a glass door while the other person is standing inside the building near the entrance. The person outside appears to be struggling with the door handle and eventually manages to open the door and enters the building. The person inside remains stationary throughout the sequence.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "In the video, a person is seen entering a building through a glass door. The individual appears to be wearing dark clothing and is carrying a bag. They open the door with their right hand and step inside. The interior of the building has white walls and tiled floors. There are chairs visible in the background. The person then closes the door behind them.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "In the video, a person wearing dark clothing is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be using force to try and open it. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "In the video, a person wearing dark clothing is seen attempting to open a glass door. The individual appears to be struggling with the door handle and seems to be using force to try and open it. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be attempting to open the door by pushing against it with their hands. The door seems to be resistant to opening, and the person's actions are forceful. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a person wearing dark clothing attempting to open a glass door. The individual appears to be struggling with the door handle, and their actions suggest they are trying to force it open. The surrounding area includes a tiled floor, white chairs, and a poster on the wall. The lighting is artificial, typical of indoor surveillance footage.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a person in dark clothing attempting to break into a building through a glass door. The individual is seen using force to push the door open, and there is visible resistance from the door's locking mechanism. The person's actions are deliberate and focused on gaining entry.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be wearing dark clothing and is holding something in their hand, which they bring up to their face. The person's actions are deliberate and focused on the object they are holding. There is no visible interaction with other entities or objects in the immediate vicinity. The motion is steady and controlled, suggesting that the person is engaged in a specific task.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be attempting to open the door by pushing against it with their hands. The person's actions are forceful and persistent, suggesting that the door may be locked or stuck.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "A man in a black jacket and pants is standing in front of a glass door. He is looking out the door and appears to be waiting for someone. He then opens the door and steps outside.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A man in a black suit is standing in the doorway of a building. He is looking around and appears to be waiting for someone. He then walks into the building and closes the door behind him.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "A man in a black jacket and pants is standing in the doorway of a building. He is looking out at the street. There are no other people visible in the video.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A man in a black jacket and pants is standing in the doorway of a building. He is looking around and appears to be waiting for someone. There is a white chair and a trash can in the background. The man is standing still and does not appear to be in any hurry.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, a man is seen standing in a doorway. He appears to be holding something in his hand and is looking around. There is a chair nearby and a poster on the wall. The man seems to be stationary and there are no other visible actions or interactions.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "A person is standing in a doorway, holding a gun and pointing it at someone inside the room. The person in the doorway appears to be wearing a dark-colored jacket and pants. They are standing still, aiming the gun at the person inside the room.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "A person is standing in a doorway, holding a gun and pointing it towards the camera. They are wearing dark clothing and appear to be in a room with large windows. The person remains stationary throughout the video.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "In the video, a person is seen standing in a doorway. They are holding an object that resembles a firearm and appear to be aiming it. The individual is wearing dark clothing and is positioned with their back against the door frame. The surrounding area includes a tiled floor and a white chair nearby. The person remains stationary throughout the sequence of images.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be holding an object and seems to be attempting to open the door. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "In the video, a person is seen standing in front of a glass door. They are holding an object in their hand and appear to be attempting to open the door. The person's actions suggest they may be trying to gain entry through the door.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "In the video, a person is seen standing in front of a glass door. The individual appears to be holding an object in their hand and seems to be interacting with the door, possibly attempting to open it or using the object to manipulate the door's mechanism. The person's actions are deliberate and focused on the door. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows a person dressed in dark clothing standing at the entrance of a building. The individual appears to be holding a device, possibly a phone or a camera, and is facing towards the outside. The entrance has glass doors, and there is a white chair visible inside the building near the entrance. The flooring is patterned with black and white tiles. The person remains stationary throughout the sequence of images.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1584": {
+    "caption": "In the video, a man wearing a black jacket and pants is seen standing in front of a glass door. He appears to be trying to open it but seems to be having difficulty. The man is standing still, and there are no other visible actions or interactions in the scene.",
+    "anchor_frame": 1584,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.833333,
+    "observed_until_seconds": 52.833333,
+    "latest_available_frame": 1584,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1600": {
+    "caption": "In the video, a man is seen standing in front of a glass door. He appears to be attempting to open the door by pushing against it with his hands. The man is wearing dark clothing and has short hair. The door seems to be locked or stuck, as the man is unable to push it open.",
+    "anchor_frame": 1600,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.366667,
+    "observed_until_seconds": 53.366667,
+    "latest_available_frame": 1600,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1616": {
+    "caption": "A man in a black jacket and pants is standing at the entrance of a building. He is looking outside through the glass doors. There is a white chair next to the door. The floor is tiled.",
+    "anchor_frame": 1616,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.9,
+    "observed_until_seconds": 53.9,
+    "latest_available_frame": 1616,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1632": {
+    "caption": "A man in a black jacket and pants is standing at the entrance of a building. He is holding a white object in his right hand and appears to be using it to unlock the door. The door is made of glass and has a metal handle. There is a white chair next to the door. The man is looking down at the object in his hand.",
+    "anchor_frame": 1632,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.433333,
+    "observed_until_seconds": 54.433333,
+    "latest_available_frame": 1632,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1648": {
+    "caption": "A man in a black suit is standing at the entrance of a building. He is holding a phone to his ear and appears to be engaged in a conversation. The man is standing still, but he occasionally shifts his weight from one foot to the other. There is a white chair and a trash can visible in the background.",
+    "anchor_frame": 1648,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.966667,
+    "observed_until_seconds": 54.966667,
+    "latest_available_frame": 1648,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1664": {
+    "caption": "In the video, a man is seen standing in front of a glass door. He appears to be attempting to open the door by pushing it with his hand. The man is wearing dark clothing and has short hair. The door seems to be locked or stuck, as the man struggles to push it open.",
+    "anchor_frame": 1664,
+    "video_fps": 30.0,
+    "observed_start_seconds": 53.5,
+    "observed_until_seconds": 55.5,
+    "latest_available_frame": 1664,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1680": {
+    "caption": "A man in a black suit is standing in the doorway of a building. He is looking down at his phone and appears to be waiting for someone. There are two chairs and a trash can in the room with him. The man does not move or interact with anyone else during the video.",
+    "anchor_frame": 1680,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.033333,
+    "observed_until_seconds": 56.033333,
+    "latest_available_frame": 1680,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1696": {
+    "caption": "A man in a suit is standing in the doorway of a building. He is looking down at his phone and appears to be waiting for someone. There are chairs and a trash can in the background.",
+    "anchor_frame": 1696,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.566667,
+    "observed_until_seconds": 56.566667,
+    "latest_available_frame": 1696,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1712": {
+    "caption": "A man in a suit is standing in front of a glass door. He is looking down at his phone and appears to be waiting for someone. He then walks through the door and disappears from view.",
+    "anchor_frame": 1712,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.1,
+    "observed_until_seconds": 57.1,
+    "latest_available_frame": 1712,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1728": {
+    "caption": "In the video, there is a man wearing a black suit standing in front of a glass door. He appears to be looking down at something on the floor. There is a white chair next to him and a trash can nearby. The man does not move or interact with any other objects or people in the scene.",
+    "anchor_frame": 1728,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.633333,
+    "observed_until_seconds": 57.633333,
+    "latest_available_frame": 1728,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1744": {
+    "caption": "In the video, there is a man wearing a black suit standing near a glass door. He appears to be looking down at something on the floor. There is a white chair next to him and a trash can nearby. The man does not move or interact with any other objects or people in the scene.",
+    "anchor_frame": 1744,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.166667,
+    "observed_until_seconds": 58.166667,
+    "latest_available_frame": 1744,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1760": {
+    "caption": "In the video, a man wearing a black suit is seen standing in front of a glass door. He appears to be looking down at something on the floor. There is a white chair next to him and a trash can nearby. The man remains stationary throughout the video, with no significant motion or interaction with other entities.",
+    "anchor_frame": 1760,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.7,
+    "observed_until_seconds": 58.7,
+    "latest_available_frame": 1760,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1776": {
+    "caption": "A man in a black suit is standing in front of a glass door. He appears to be looking down at something on the floor. The video then cuts to a blue screen.",
+    "anchor_frame": 1776,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.233333,
+    "observed_until_seconds": 59.233333,
+    "latest_available_frame": 1776,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1792": {
+    "caption": "The video shows a person dressed in dark clothing, possibly a suit, entering through a glass door. The individual appears to be carrying something in their hand and is moving with purpose. The environment suggests an indoor setting, likely a lobby or entrance hall, with tiled flooring and a white chair visible in the background. The lighting is artificial, typical of indoor surveillance footage.",
+    "anchor_frame": 1792,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.766667,
+    "observed_until_seconds": 59.766667,
+    "latest_available_frame": 1792,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1808": {
+    "caption": "The video starts with a blue screen, indicating the beginning of the footage. The timestamp on the screen reads \"11/04/2021 16:48:21\". The scene then transitions to an indoor setting where a person is seen walking through a glass door. The individual appears to be wearing dark clothing and is carrying a bag. The floor is tiled, and there are chairs visible in the background. The person's motion is steady as they walk towards the camera.",
+    "anchor_frame": 1808,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.3,
+    "observed_until_seconds": 60.3,
+    "latest_available_frame": 1808,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1824": {
+    "caption": "The video starts with a blue screen, then transitions to a surveillance camera view of an indoor space. A person wearing dark clothing is seen entering through a glass door and proceeds to push a chair towards the door. The individual appears to be struggling with the door handle, attempting to open it. After some effort, the person manages to open the door and exits the building.",
+    "anchor_frame": 1824,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.833333,
+    "observed_until_seconds": 60.833333,
+    "latest_available_frame": 1824,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1840": {
+    "caption": "A person wearing a dark jacket and pants is seen breaking a glass door with an object. The person then proceeds to walk away from the scene.",
+    "anchor_frame": 1840,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.366667,
+    "observed_until_seconds": 61.366667,
+    "latest_available_frame": 1840,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1856": {
+    "caption": "A person wearing a dark jacket and pants is seen walking through a glass door. They appear to be in a hurry and are looking down at the ground as they walk. The person then stops and looks around, as if searching for something. They continue walking and exit the building.",
+    "anchor_frame": 1856,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.9,
+    "observed_until_seconds": 61.9,
+    "latest_available_frame": 1856,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1872": {
+    "caption": "A person is standing in a doorway, looking down at their phone. They are wearing a black jacket and black pants. The person is standing still, with their feet planted on the ground. There is a white chair to the right of the person. The person is not moving, and there is no other activity in the video.",
+    "anchor_frame": 1872,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.433333,
+    "observed_until_seconds": 62.433333,
+    "latest_available_frame": 1872,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1888": {
+    "caption": "A person in a uniform is standing near the entrance of a building. They are looking down at something in their hands and appear to be interacting with it. There is a chair nearby, and the floor is tiled. The person remains stationary throughout the video segment.",
+    "anchor_frame": 1888,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.966667,
+    "observed_until_seconds": 62.966667,
+    "latest_available_frame": 1888,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1904": {
+    "caption": "In the video, a man is seen standing in front of a glass door. He appears to be wearing a uniform and is holding a device in his hand. The man seems to be focused on the device and is not interacting with anyone else. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 1904,
+    "video_fps": 30.0,
+    "observed_start_seconds": 61.5,
+    "observed_until_seconds": 63.5,
+    "latest_available_frame": 1904,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1920": {
+    "caption": "A man in a suit is standing in the doorway of a building. He is looking down at his phone and appears to be texting. He then puts his phone away and looks up.",
+    "anchor_frame": 1920,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.033333,
+    "observed_until_seconds": 64.033333,
+    "latest_available_frame": 1920,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1936": {
+    "caption": "In the video, a man wearing a dark suit is seen standing in front of a glass door. He appears to be adjusting his clothing, specifically his jacket and pants. The man's actions are deliberate and focused on his attire. There is no visible interaction with other entities or objects, and the environment remains static throughout the video.",
+    "anchor_frame": 1936,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.566667,
+    "observed_until_seconds": 64.566667,
+    "latest_available_frame": 1936,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1952": {
+    "caption": "A man in a suit is standing in the doorway of a building. He is looking down at his phone and appears to be texting. He then looks up and smiles.",
+    "anchor_frame": 1952,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.1,
+    "observed_until_seconds": 65.1,
+    "latest_available_frame": 1952,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1968": {
+    "caption": "In the video, a man is seen standing in front of a glass door. He appears to be wearing a suit and is holding his jacket open with both hands. The man seems to be struggling to keep his jacket open as he stands there. There is no visible interaction with other entities or any motion changes.",
+    "anchor_frame": 1968,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.633333,
+    "observed_until_seconds": 65.633333,
+    "latest_available_frame": 1968,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1984": {
+    "caption": "In the video, a man wearing a suit is seen standing in front of a glass door. He appears to be struggling with his jacket, repeatedly pulling and adjusting it. The man's actions are focused on the jacket, and there is no interaction with other objects or people. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1984,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.166667,
+    "observed_until_seconds": 66.166667,
+    "latest_available_frame": 1984,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2000": {
+    "caption": "In the video, a man wearing a suit is seen walking through a glass door. He appears to be in distress and is holding his stomach. The man then proceeds to walk out of the building, still clutching his stomach.",
+    "anchor_frame": 2000,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.7,
+    "observed_until_seconds": 66.7,
+    "latest_available_frame": 2000,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2016": {
+    "caption": "The video shows a person in dark clothing standing near a glass door. The individual appears to be holding their head with one hand, suggesting distress or discomfort. They are standing on a tiled floor with visible debris scattered around. The person's posture and the way they hold their head indicate that they might be experiencing pain or discomfort. There is no significant motion or interaction with other entities in this segment of the video.",
+    "anchor_frame": 2016,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.233333,
+    "observed_until_seconds": 67.233333,
+    "latest_available_frame": 2016,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2032": {
+    "caption": "In the video, a person is seen standing near a glass door. They are wearing dark clothing and appear to be in distress, holding their head with one hand. The floor around them is wet, suggesting that there might have been some liquid spilled. The person's actions are limited to standing and occasionally shifting their weight. There is no visible interaction with other entities or objects, and the environment remains static throughout the video.",
+    "anchor_frame": 2032,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.766667,
+    "observed_until_seconds": 67.766667,
+    "latest_available_frame": 2032,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2048": {
+    "caption": "The video shows a person wearing dark clothing, possibly a jacket and pants, walking through a glass door into a room with tiled flooring. The individual appears to be carrying something in their hand, which they bring up to their face, suggesting the action of drinking or using a mobile device. The person's motion is steady and purposeful as they enter the room. There are no other visible entities or significant interactions in the scene.",
+    "anchor_frame": 2048,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.3,
+    "observed_until_seconds": 68.3,
+    "latest_available_frame": 2048,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2064": {
+    "caption": "The video shows a person in dark clothing entering through a glass door. The individual appears to be carrying something and moves quickly, suggesting urgency or haste. The person's actions are deliberate, and they seem to be focused on reaching a specific destination. There is no visible interaction with other entities, and the environment remains static throughout the sequence.",
+    "anchor_frame": 2064,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.833333,
+    "observed_until_seconds": 68.833333,
+    "latest_available_frame": 2064,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2080": {
+    "caption": "The video shows a surveillance camera footage of a room with a glass door. The door is open, and there is a person lying on the floor near the door. The person appears to be motionless. There is no visible movement or interaction between any entities in the video. The scene remains static throughout the duration of the footage.",
+    "anchor_frame": 2080,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.366667,
+    "observed_until_seconds": 69.366667,
+    "latest_available_frame": 2080,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2096": {
+    "caption": "The video shows a surveillance camera view of an indoor area with large glass doors leading outside. The floor is tiled, and there are visible marks and debris scattered around the entrance. A person wearing dark clothing enters the frame from the left side, walks towards the door, and then exits through it. The person's actions are deliberate and unhurried.",
+    "anchor_frame": 2096,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.9,
+    "observed_until_seconds": 69.9,
+    "latest_available_frame": 2096,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2112": {
+    "caption": "The video shows a surveillance camera view of an indoor space with large glass doors leading outside. The floor is tiled, and there is a white chair near the entrance. The timestamp on the footage indicates it was recorded on April 2nd, 2014, at approximately 1:43 PM. There are no visible people or moving objects in the scene.",
+    "anchor_frame": 2112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.433333,
+    "observed_until_seconds": 70.433333,
+    "latest_available_frame": 2112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2128": {
+    "caption": "A person wearing a dark jacket and light pants is seen walking through a glass door into a building. They walk past a white chair and a trash can, then bend down to pick something up from the floor.",
+    "anchor_frame": 2128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.966667,
+    "observed_until_seconds": 70.966667,
+    "latest_available_frame": 2128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2144": {
+    "caption": "In the video, a person is seen sitting on the floor near a glass door. The individual appears to be wearing dark clothing and has gray hair. They are seated with their back against the door, and their head is turned slightly to the side. The floor around them is tiled, and there is a white chair nearby. The person remains stationary throughout the video segment.",
+    "anchor_frame": 2144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 69.5,
+    "observed_until_seconds": 71.5,
+    "latest_available_frame": 2144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2160": {
+    "caption": "A person is sitting on the floor near a glass door. They are wearing a dark jacket and have gray hair. The person appears to be in distress, holding their head with both hands. There is a white chair nearby, and the floor has some scattered debris. The person remains seated throughout the video segment.",
+    "anchor_frame": 2160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.033333,
+    "observed_until_seconds": 72.033333,
+    "latest_available_frame": 2160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2176": {
+    "caption": "In the video, a person is seen sitting on the floor near a glass door. They are wearing a dark jacket and have light-colored hair. The individual appears to be in distress, holding their head with both hands. The floor around them is covered with small debris or fragments. There is a white chair nearby, and the glass door has a poster attached to it. The person remains seated throughout the video, showing no significant movement or change in position.",
+    "anchor_frame": 2176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.566667,
+    "observed_until_seconds": 72.566667,
+    "latest_available_frame": 2176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2192": {
+    "caption": "A person is sitting on the floor in front of a glass door, covering their head with their hands. They remain in this position throughout the video.",
+    "anchor_frame": 2192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.1,
+    "observed_until_seconds": 73.1,
+    "latest_available_frame": 2192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2208": {
+    "caption": "In the video, a person is seen sitting on the floor near a glass door. They are wearing dark clothing and have their head down, appearing to be in distress or crying. The floor around them has scattered debris, possibly from a broken object. There is a white chair nearby, and the area appears to be a lobby or entrance of a building with tiled flooring.",
+    "anchor_frame": 2208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.633333,
+    "observed_until_seconds": 73.633333,
+    "latest_available_frame": 2208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2224": {
+    "caption": "The video shows a person lying on the floor near a glass door, with their head resting against the door frame. The individual appears to be motionless. There is a chair nearby and some debris scattered on the floor. The person remains in this position throughout the video segment.",
+    "anchor_frame": 2224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.166667,
+    "observed_until_seconds": 74.166667,
+    "latest_available_frame": 2224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

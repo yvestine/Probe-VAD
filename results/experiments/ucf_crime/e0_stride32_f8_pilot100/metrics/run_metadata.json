@@ -1,0 +1,23 @@
+{
+  "videos_total": 100,
+  "videos_evaluated": 100,
+  "videos_missing": 0,
+  "scored_clips": 13758,
+  "output_clips_at_output_interval": 27466,
+  "scoring_interval": 32,
+  "output_interval": 16,
+  "window_seconds": 10.0,
+  "sample_fps": 2.0,
+  "max_frames": 10,
+  "smoothing_sigma": 10.0,
+  "smoothing_enabled": true,
+  "elapsed_seconds": 0.4170940110925585,
+  "roc_auc": 0.8576111648239959,
+  "pr_auc": 0.35311566408114703,
+  "max_f1": 0.46382749102201154,
+  "scoring_elapsed_seconds": 1781,
+  "total_elapsed_seconds": 1782,
+  "timed_videos": 100,
+  "mean_video_scoring_seconds": 73.73256710617454,
+  "total_scored_clips": 13758
+}

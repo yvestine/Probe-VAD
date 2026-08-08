@@ -1,0 +1,318 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 640,
+      "quality": 0.759615,
+      "support_scales": [
+        4,
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 608,
+          "end_frame": 672,
+          "center_frame": 640,
+          "quality": 0.759615
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 624,
+          "end_frame": 656,
+          "center_frame": 640,
+          "quality": 0.746154
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 608,
+          "end_frame": 736,
+          "center_frame": 672,
+          "quality": 0.608654
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 576,
+      "focus_end_frame": 704
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a parking lot with several parked cars, including a white car and a red car. There are two individuals present: one wearing a light-colored shirt and dark pants, and the other in a darker outfit with a backpack. The person in the lighter shirt is seen interacting with the individual in the darker outfit, who appears to be holding a motorcycle helmet. They seem to be discussing something, possibly related to the motorcycle, which is not visible in the frames provided. The interaction ends with the person in the lighter shirt walking away from the scene, leaving the other individual standing near the parked cars.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 640,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "6s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a parking lot with several parked cars, including a white car and a red car. There are two individuals present: one wearing a light-colored shirt and dark pants, and the other in a darker outfit with a backpack. The person in the lighter shirt is seen interacting with the individual in the darker outfit, who appears to be holding a motorcycle helmet. They seem to be discussing something, possibly related to the motorcycle, which is not visible in the frames provided. The interaction ends with the person in the lighter shirt walking away from the scene, leaving the other individual standing near the parked cars.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 640,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3333,
+        "actual_end_seconds": 24.3333
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a parking lot with several parked cars, including a white car and a red car. There are two individuals present: one wearing a light-colored shirt and dark pants, and the other in a darker outfit with a backpack. The person in the lighter shirt is seen interacting with the individual in the darker outfit, who appears to be holding a motorcycle helmet. They seem to be discussing something, possibly related to the motorcycle, which is not visible in the frames provided. The interaction ends with the person in the lighter shirt walking away from the scene, leaving the other individual standing near the parked cars.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 640,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 736,
+      "quality": 0.523317,
+      "support_scales": [
+        16
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 608,
+          "end_frame": 864,
+          "center_frame": 736,
+          "quality": 0.523317
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 672,
+      "focus_end_frame": 800
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man riding a motorcycle in a parking lot. He is seen driving past parked cars and eventually comes to a stop.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 736,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man riding a motorcycle in a parking lot. He is seen driving past parked cars and eventually comes to a stop.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 736,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5333,
+        "actual_end_seconds": 27.5333
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man riding a motorcycle in a parking lot. He is seen driving past parked cars and eventually comes to a stop.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 736,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 544,
+      "quality": 0.467115,
+      "support_scales": [
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 384,
+          "end_frame": 704,
+          "center_frame": 544,
+          "quality": 0.467115
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 480,
+      "focus_end_frame": 608
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man on a motorcycle attempting to park in a crowded parking lot. He is stopped by another man who appears to be the owner of the space. The two men engage in a conversation, and the man on the motorcycle eventually backs up and leaves.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man on a motorcycle attempting to park in a crowded parking lot. He is stopped by another man who appears to be the owner of the space. The two men engage in a conversation, and the man on the motorcycle eventually backs up and leaves.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1333,
+        "actual_end_seconds": 21.1333
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a man on a motorcycle attempting to park in a crowded parking lot. He is stopped by another man who appears to be the owner of the space. The two men engage in a conversation, and the man on the motorcycle eventually backs up and leaves.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 239,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 175,
+      "focus_end_frame": 303
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A man is standing in a parking lot, talking on his cell phone. A person on a scooter approaches him and they exchange words. The man then walks towards the camera, still talking on his phone.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 240,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.9667,
+        "actual_end_seconds": 8.9667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "A man is standing in a parking lot, talking on his cell phone. A person on a scooter approaches him and they exchange words. The man then walks towards the camera, still talking on his phone.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 240,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 10.9667
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "A man is standing in a parking lot, talking on his cell phone. A person on a scooter approaches him and they exchange words. The man then walks towards the camera, still talking on his phone.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 240,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.9667,
+        "actual_end_seconds": 12.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 958,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 894,
+      "focus_end_frame": 1022
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "A man and a woman are walking down the street. They stop at a car and the man gets in. The woman continues walking.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 960,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.9333,
+        "actual_end_seconds": 32.9333
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "A man and a woman are walking down the street. They stop at a car and the man gets in. The woman continues walking.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 960,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9333,
+        "actual_end_seconds": 34.9333
+      },
+      "10s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "A man and a woman are walking down the street. They stop at a car and the man gets in. The woman continues walking.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 960,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.9333,
+        "actual_end_seconds": 36.9333
+      }
+    }
+  }
+}

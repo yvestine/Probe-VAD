@@ -1,0 +1,682 @@
+{
+  "0": {
+    "caption": "A person wearing a hoodie is walking through a gated area. The gate is open, and the person walks past it without stopping.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "In the video, a person wearing a light-colored hoodie is seen walking down a set of stairs. The individual appears to be alone and is moving at a steady pace. There are no other visible entities or actions in the scene.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person wearing a hooded sweatshirt is walking down a set of stairs. They are carrying something in their right hand. The video is in black and white, but the lighting changes to color as the person descends the stairs.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A person wearing a hooded sweatshirt is walking down a set of stairs. The person is carrying a bag in their right hand. The person is walking at a steady pace.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a person wearing a hooded jacket and dark pants descending a staircase. The individual appears to be in motion, walking down the stairs with a steady pace. The lighting is dim, and the surroundings are not clearly visible.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a person wearing a light-colored hoodie and dark pants descending a staircase. The individual appears to be in motion, walking down the stairs with a steady pace. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. No other people or objects are visible in the immediate vicinity of the staircase.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is moving cautiously, with their hands raised to their head, possibly holding an object. The surroundings are dimly lit, and the staircase has brick walls on either side. There is no visible interaction with other entities or objects in the immediate vicinity.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a person wearing a light blue hoodie and dark pants, walking down a dimly lit stairwell. The individual is carrying a backpack and appears to be in motion, descending the stairs. The walls of the stairwell are made of brick, and there is a handrail on one side. The lighting is low, casting shadows on the walls and the person's figure.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is walking cautiously, with their hands raised to their face, possibly covering their eyes or shielding them from the light. The surroundings are dimly lit, with brick walls on either side of the staircase. There is no interaction with other entities or objects, and the motion is consistent throughout the frames.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a person wearing a blue hoodie and dark pants descending a staircase. The individual is moving quickly, with their arms swinging and legs in motion, suggesting a hurried pace. The staircase has brick walls on either side, and the lighting is dim, casting shadows on the steps. There are no other visible entities or interactions in the scene.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a person wearing a blue hoodie and dark pants. The individual is seen walking down a staircase with brick walls on either side. The lighting is dim, and the person's face is not visible. There are no other discernible objects or people in the immediate vicinity.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a person wearing a blue hoodie and dark pants walking down a staircase. The individual is moving at a steady pace, descending the stairs with no apparent haste or urgency. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area. There are no other visible entities or actions occurring in the video segment provided.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, a person wearing a blue hoodie is seen descending a staircase. The individual's pace appears hurried as they navigate the steps. Upon reaching the bottom, the person pauses momentarily before continuing to walk away from the camera. The surroundings are dimly lit, and the staircase is enclosed by walls on either side.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person wearing a blue hoodie is walking down a set of stairs. They are carrying something in their right hand. The person is walking at a steady pace and does not appear to be in any hurry.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "A person wearing a hooded sweatshirt is walking down a flight of stairs. They are carrying a backpack and appear to be alone. The person is walking at a steady pace and does not appear to be in any hurry.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person wearing a hooded jacket is walking down a set of stairs. They are carrying something in their hands. The person is walking slowly and carefully.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a person wearing a hooded jacket walking down a set of stairs. The individual is moving at a steady pace and appears to be alone. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person wearing a white hooded jacket is standing on a sidewalk at night. They are facing away from the camera and appear to be looking down at something in their hands. The person remains stationary throughout the video.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no visible motion or interaction with other entities. There is no escalation or instability observed in the scene.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person's face is not visible due to the hood covering their head.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary, with no discernible movement or interaction with other entities. The environment is dimly lit, suggesting nighttime or low-light conditions. No escalation or instability is observed in the scene.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person's face is not visible due to the hood covering their head.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a person wearing a hooded sweatshirt standing on a staircase. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person is the only visible subject in the frame.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person is the only visible subject in the frame.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person is the central focus of the footage.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing away from the camera, and their hands are placed on their hips. There is no visible motion or interaction with other entities in this segment of the video.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a person wearing a hooded sweatshirt standing on a porch. The individual is facing the camera and appears to be stationary. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no discernible movement or interaction with other entities. The surroundings are dimly lit, and the person's face is not visible due to the hood covering their head.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person wearing a hooded sweatshirt is standing on the steps of a building. They are looking down at their phone and appear to be texting or scrolling. The person is standing still and does not move for the duration of the video.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be looking around, possibly observing their surroundings. There is no visible interaction with other entities or objects in the video. The person's posture remains relatively static throughout the segment.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person wearing a hooded sweatshirt is standing on a porch. They are looking around and appear to be waiting for someone. The person does not move or interact with any other objects in the video.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, a person wearing a hoodie is standing on a porch. The individual appears to be stationary and not engaging in any significant actions or interactions. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person wearing a hooded sweatshirt is standing on the steps of a building. They are looking down at their phone and appear to be texting or browsing. The person is standing still and does not move for the duration of the video.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing away from the camera, and their back is turned towards the viewer. They appear to be stationary, with no visible motion or interaction with other entities. The surroundings are dimly lit, suggesting it might be nighttime.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is facing away from the camera, and their back is towards the viewer. The person appears to be stationary throughout the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, a person wearing a hooded jacket is standing on a porch. The individual appears to be looking around and shifting their weight from one foot to another. There is no visible interaction with any other entities or objects in the scene.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual appears to be stationary, with their hands in their pockets. The surroundings include a building with a railing and a lamppost. There is no visible motion or interaction with other entities.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual appears to be stationary, with their hands in their pockets. The surroundings include a building with a visible railing and a lamppost. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual is facing away from the camera, and their hands are placed on their hips. The surroundings include a building with a brick column and a metal railing. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. No other actions or interactions are visible in the provided frames.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual is facing away from the camera, and their hands are placed on their hips. The surroundings include a building with a column and a railing. The lighting suggests it's nighttime. There is no visible motion or interaction with other entities in this segment of the video.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a person standing on a sidewalk at night. The individual is wearing a hooded jacket and jeans, with their hands in their pockets. They are standing still, facing the camera. There is no visible motion or interaction with other entities.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "A person wearing a hooded jacket is standing on a porch. They are looking around and appear to be waiting for someone. There is no visible interaction with any other entities or objects in the video.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person wearing a hooded jacket is standing on a porch. They are looking around and appear to be waiting for someone.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person wearing a hooded jacket and jeans is standing on a porch. They are looking around and appear to be waiting for someone. The person does not move or interact with any other objects in the video.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a person wearing a hoodie is standing on a porch. The individual appears to be stationary and not engaging in any significant actions or interactions. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person wearing a hooded jacket and jeans is standing on a porch. They are looking around and appear to be waiting for someone. The person does not move or interact with any other objects in the video.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, there is a person wearing a hooded jacket standing on a porch. The person appears to be stationary and is facing the camera. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "A person wearing a hooded jacket is standing on a porch. They are looking around and appear to be waiting for someone. There is no visible interaction with any other entities or objects in the video.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera with their hands on their hips. There is no significant motion or interaction visible in the video.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, a person wearing a hooded jacket is standing on a porch. The individual appears to be looking around and shifting their weight from one foot to another. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera with their hands in their pockets. There is no visible motion or interaction with other entities. The scene remains static throughout the video.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a person wearing a hooded jacket and pants standing on a porch. The individual is facing the camera with their hands in their pockets. The porch has a railing, and there are steps leading up to it. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. No other actions or interactions are visible in the provided frames.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary. There are no visible interactions with other entities, and there is no discernible motion or escalation in the scene.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary. There are no visible actions or interactions with other entities. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary for most of the footage. In the final moments, the person extends their arm outward, possibly in a gesture or reaching motion.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a person wearing a hooded sweatshirt standing on a porch. The individual is facing the camera and appears to be adjusting their clothing or possibly putting on a jacket. There is no visible interaction with other entities, and the motion is limited to the person's upper body movements. No escalation or instability is observed in this segment.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person wearing a hoodie is standing on the sidewalk. They are holding a gun and pointing it at someone off-camera. The person in the hoodie then fires the gun and runs away.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, a person wearing a hoodie is seen walking down a set of stairs. They are holding an object in their hand and appear to be moving quickly. As they reach the bottom of the stairs, they turn and walk away from the camera.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person wearing a white hoodie is walking down a set of stairs. They are carrying a long object in their right hand. The person walks off the stairs and continues walking away from the camera.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a person wearing a white hoodie and dark pants walking down a set of stairs. The person appears to be in a hurry, as they are moving quickly and purposefully. As they reach the bottom of the stairs, they turn left and walk out of frame.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a person walking down a staircase. The person is wearing light-colored clothing and appears to be in motion as they descend the stairs. The lighting changes from dark to bright, indicating a transition from night to day or vice versa.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a surveillance camera view of a stairwell. The stairs are made of stone and have black metal railings. There is a person wearing dark clothing who appears to be running down the stairs. The lighting in the stairwell changes from dark to light as the person moves down the stairs.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a stationary surveillance camera view of a stairwell at night. The stairwell is illuminated by artificial lighting, and there are brick columns on either side. The stairs descend into darkness, and no people or moving objects are visible in the footage.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a stationary view of a stairwell with brick walls and a metal railing. The lighting is dim, and the area appears to be unoccupied. There are no visible actions or interactions between entities, and there is no motion or escalation in the scene.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a stationary surveillance camera view of a stairwell with brick walls and a metal railing. The lighting is dim, and the area appears to be empty. There are no visible actions or interactions, and no entities are present in the scene.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a stationary surveillance camera view of a stairwell. The stairwell is lit by artificial light, and there are brick columns on either side. The stairs are made of a light-colored material, possibly marble or a similar stone. There is no visible movement or action in the video; it remains static throughout the duration of the provided footage.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

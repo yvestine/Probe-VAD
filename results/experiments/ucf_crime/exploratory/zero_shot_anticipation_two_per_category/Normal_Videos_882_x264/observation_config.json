@@ -1,0 +1,13 @@
+{
+  "variant": "zero_shot_causal_anticipation",
+  "video_name": "Normal_Videos_882_x264",
+  "frame_interval": 16,
+  "window_semantics": "trailing window [t-window, t]; no future frames",
+  "window_seconds": 2.0,
+  "sample_fps": 2.0,
+  "observation_prompt": "You are observing a surveillance video online. Describe only facts visible in this video segment. Concisely state the entities, actions, interactions, motion changes, and any visible escalation or instability. Do not assume an event type, do not use future information, and do not predict what happens next.",
+  "inference_inputs": [
+    "raw video",
+    "VideoLLaMA3 model weights"
+  ]
+}

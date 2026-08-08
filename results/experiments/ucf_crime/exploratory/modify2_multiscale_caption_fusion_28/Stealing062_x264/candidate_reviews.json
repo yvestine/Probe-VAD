@@ -1,0 +1,288 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 1232,
+      "quality": 0.805882,
+      "support_scales": [
+        2,
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 1216,
+          "end_frame": 1248,
+          "center_frame": 1232,
+          "quality": 0.805882
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 1200,
+          "end_frame": 1264,
+          "center_frame": 1232,
+          "quality": 0.771691
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 1168,
+      "focus_end_frame": 1296
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white truck parked on the side of the road. A man is seen getting out of the truck and walking towards the back. Another person is standing nearby, possibly waiting for the man to get out of the truck. The scene appears to be taking place in a parking lot or a similar location.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.0667,
+        "actual_end_seconds": 42.0667
+      },
+      "6s": {
+        "caption": "The video shows a white truck parked on the side of the road. A person is seen walking towards the truck, while another person is standing near the back of the truck. The person walking appears to be carrying something in their hand.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.0667,
+        "actual_end_seconds": 44.0667
+      },
+      "10s": {
+        "caption": "In the video, a man is seen walking towards a parked truck. He then proceeds to open the back of the truck and retrieves something from it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.0667,
+        "actual_end_seconds": 46.0667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 464,
+      "quality": 0.680147,
+      "support_scales": [
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 400,
+          "end_frame": 528,
+          "center_frame": 464,
+          "quality": 0.680147
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 400,
+      "focus_end_frame": 528
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white truck parked on the side of the road. A person is seen getting into the back of the truck, while another person is standing nearby.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "6s": {
+        "caption": "The video shows a white truck parked on the side of the road. A man is seen getting into the back of the truck, while another person is standing nearby. The truck remains stationary throughout the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4667,
+        "actual_end_seconds": 18.4667
+      },
+      "10s": {
+        "caption": "The video shows a man in blue pants walking towards a white truck. He opens the back of the truck and appears to be looking for something.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 384,
+      "quality": 0.617555,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 256,
+          "end_frame": 512,
+          "center_frame": 384,
+          "quality": 0.617555
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 208,
+          "end_frame": 528,
+          "center_frame": 368,
+          "quality": 0.615842
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 320,
+      "focus_end_frame": 448
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals present: one person is standing next to the open back of the truck, another is walking away from the vehicle, and the third is approaching it. The person at the back of the truck appears to be interacting with the contents of the truck bed.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals present: one person is standing next to the open back of the truck, another is walking towards the vehicle, and the third is walking away from it. The person at the back of the truck appears to be interacting with the contents of the truck bed.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.8,
+        "actual_end_seconds": 15.8
+      },
+      "10s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, while another person walks away from the vehicle. The person at the back of the truck appears to be interacting with something or someone inside the truck bed.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 624,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 560,
+      "focus_end_frame": 688
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person wearing dark clothing is seen standing next to the open back of the truck, interacting with another individual who is partially obscured from view. The person in dark clothing appears to be handing something over to the other individual.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, and another individual is standing nearby. The person at the back of the truck appears to be loading or unloading items from the truck bed.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.8,
+        "actual_end_seconds": 23.8
+      },
+      "10s": {
+        "caption": "The video shows a white truck parked on the side of the road. A person is seen getting into the back of the truck, while another person stands nearby. The person in the back of the truck appears to be loading or unloading items from the truck bed.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 936,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 872,
+      "focus_end_frame": 1000
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person wearing blue overalls is seen standing next to the open back of the truck, interacting with another individual who is partially obscured from view. The person in blue overalls appears to be handing something to the other individual.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 32.2
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person wearing blue overalls is seen standing next to the open tailgate, interacting with another individual who is partially obscured from view. The person in blue overalls appears to be handing something to the other individual. The scene is captured by a security camera labeled \"CAM 16\" and dated \"31-10-2013 09:12:27\".",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.2,
+        "actual_end_seconds": 34.2
+      },
+      "10s": {
+        "caption": "The video shows a white truck parked on the side of the road. A man in blue clothing is seen standing next to the truck, while another person is inside the truck's cargo area. The man in blue appears to be interacting with the person inside the truck.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 36.2
+      }
+    }
+  }
+}

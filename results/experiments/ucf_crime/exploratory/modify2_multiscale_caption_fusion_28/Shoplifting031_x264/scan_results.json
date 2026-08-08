@@ -1,0 +1,1066 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A man is sitting at a desk in an office. He is looking at his computer screen and typing on the keyboard. A woman walks by in the background.",
+    "caption_5s": "A man is sitting at a desk in a store, working on a computer. A customer walks up to the counter and talks to the man. The customer then walks away.",
+    "caption_10s": "A man is sitting at a desk in a store, while a woman approaches him and hands him something.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A man sits at a desk in a store, working on a computer, as a customer approaches, talks to him, and then walks away, while a woman occasionally walks by in the background.",
+    "caption": "A man sits at a desk in a store, working on a computer, as a customer approaches, talks to him, and then walks away, while a woman occasionally walks by in the background."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "The video shows a person sitting at a desk in an office. They are working on a computer and occasionally looking at the screen. The camera angle is from above, providing a bird's eye view of the workspace.",
+    "caption_5s": "A man is sitting at a desk in a store, and a woman walks up to him.",
+    "caption_10s": "A man is sitting at a desk in an office, working on his computer. A woman walks up to the desk and hands him something. The man takes the object and puts it in his pocket. The woman then walks away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A man sits at a desk in an office, working on his computer, occasionally glancing at the screen from a bird's eye view. A woman walks up to the desk, hands him something, and he takes it, putting it in his pocket before she walks away.",
+    "caption": "A man sits at a desk in an office, working on his computer, occasionally glancing at the screen from a bird's eye view. A woman walks up to the desk, hands him something, and he takes it, putting it in his pocket before she walks away."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A man is sitting at a desk in an office, typing on a computer. He is wearing a blue shirt and has short brown hair. There are several other people in the background, some of whom are also working on computers. The man is the only one who is clearly visible.",
+    "caption_5s": "A man is sitting at a desk in a store, while a woman walks up to the counter and hands something to the cashier.",
+    "caption_10s": "A man is sitting at a desk in an office. He is looking at his computer screen and typing on the keyboard. A woman walks up to the desk and talks to him. The man gets up from his chair and walks away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A man sits at a desk, typing on a computer, wearing a blue shirt with short brown hair, in an office with several other people working in the background. He is later seen in a store, sitting at a desk, as a woman hands something to the cashier. In an office, he sits at a desk, typing, then gets up and walks away after a woman talks to him.",
+    "caption": "A man sits at a desk, typing on a computer, wearing a blue shirt with short brown hair, in an office with several other people working in the background. He is later seen in a store, sitting at a desk, as a woman hands something to the cashier. In an office, he sits at a desk, typing, then gets up and walks away after a woman talks to him."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a person sitting at a desk in an office setting. The individual is seen typing on a computer keyboard and occasionally looking at the screen. There are no significant changes or actions throughout the video.",
+    "caption_5s": "A man is sitting at a desk in a store, working on a computer. A woman walks up to the counter and talks to him. The man gets up from his desk and walks away with the woman.",
+    "caption_10s": "A man is sitting at a desk in a store, while a woman approaches him. The man appears to be working on something on his computer.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A man sits at a desk in a store, working on a computer, as a woman approaches and they interact, with the man eventually getting up and walking away with her.",
+    "caption": "A man sits at a desk in a store, working on a computer, as a woman approaches and they interact, with the man eventually getting up and walking away with her."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on his computer and appears to be focused on his work. There are other people in the office, but they are not interacting with him. The man is wearing a blue shirt and has short brown hair. He is sitting in a black chair and is typing on his keyboard. The desk is cluttered with papers and other office supplies.",
+    "caption_5s": "A man is sitting at a desk in a store, working on a computer. A woman walks up to the counter and talks to him. The man gets up from his desk and walks away with the woman.",
+    "caption_10s": "A man is sitting at a desk in an office, working on his computer. He is wearing a blue shirt and has short brown hair. There are several other people in the office, including a woman who is standing behind him and talking to him. The woman is wearing a white shirt and has long brown hair. There are also two other men in the office, one of whom is wearing a black shirt and the other is wearing a white shirt. The man in the blue shirt is typing on his keyboard and looking at the screen. The woman is gesturing with her hands as she talks to him. The other two men are standing behind them, listening to the conversation.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A man sits at a cluttered desk in an office, wearing a blue shirt and typing on his keyboard, as he works on his computer. He is surrounded by several other people, including a woman who stands behind him, talking and gesturing with her hands, while two other men listen in.",
+    "caption": "A man sits at a cluttered desk in an office, wearing a blue shirt and typing on his keyboard, as he works on his computer. He is surrounded by several other people, including a woman who stands behind him, talking and gesturing with her hands, while two other men listen in."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store. The timestamp indicates the footage was captured on October 28, 2014, at 38:36 PM. The scene includes a counter with various items and a person seated behind it, likely an employee. There are also customers present, one of whom is interacting with the employee. The environment appears to be a typical retail setting with shelves stocked with products in the background.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a store interior. A person is seated at a counter, seemingly working on a computer or similar device. Another individual approaches the counter from the left side of the frame and appears to interact with the seated person. The standing individual then moves away towards the right side of the frame.",
+    "caption_10s": "A man is sitting at a desk in an office, working on a computer. He is wearing a blue shirt and has short brown hair. There are several other people in the office, including a woman who is standing behind him and talking to him. The woman is wearing a white shirt and has long brown hair. There are also two other men in the office, one of whom is wearing a black shirt and the other is wearing a gray shirt. The man in the blue shirt is typing on the keyboard and looking at the screen. The woman is gesturing with her hands as she talks to him. The other two men are standing behind them, watching the conversation.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person is seated at a counter in a retail setting, likely an employee, with customers present, one of whom is interacting with them. The employee is likely working on a computer or similar device, and the customers are in a typical retail environment with shelves stocked with products in the background.",
+    "caption": "A person is seated at a counter in a retail setting, likely an employee, with customers present, one of whom is interacting with them. The employee is likely working on a computer or similar device, and the customers are in a typical retail environment with shelves stocked with products in the background."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a store interior. A person is seated at a counter, seemingly engaged in an activity that involves handling items on the counter. Another individual is standing nearby, possibly waiting or observing. The scene is static with no significant movement or interaction between the individuals.",
+    "caption_5s": "The video shows a man sitting at a desk in an office setting. He is working on a computer and appears to be focused on his task. There are other people in the background, but they are not interacting with him. The man remains seated throughout the video, and there are no significant changes in the scene.",
+    "caption_10s": "A man is sitting at a desk in an office, working on his computer. He is wearing a blue shirt and has short brown hair. There are several other people in the office, including a woman who is standing behind him and talking to him. The man is looking at the computer screen and typing on the keyboard. The woman is gesturing with her hands as she talks.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A man sits at a desk in an office, wearing a blue shirt and typing on a computer, with a woman standing behind him, gesturing as she talks, in a room with several other people present.",
+    "caption": "A man sits at a desk in an office, wearing a blue shirt and typing on a computer, with a woman standing behind him, gesturing as she talks, in a room with several other people present."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was captured on October 28, 2014, at 38:37 PM. The scene includes a counter with various items and a person seated behind it, likely an employee. Another individual is standing in front of the counter, possibly a customer. The environment appears to be a small shop or kiosk with tiled flooring and a variety of products displayed on shelves and counters.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was captured on October 28, 2014, at 38:35 PM. The scene includes a counter with various items and a person seated behind it, likely an employee. Another individual is standing at the counter, possibly a customer. There are no significant actions or movements observed in the provided frames.",
+    "caption_10s": "A man is sitting at a desk in an office, working on his computer. He is wearing a blue shirt and has short brown hair. There are several other people in the office, including a woman who is standing behind him and talking to him. The man is looking at the computer screen and typing on the keyboard. The woman is gesturing with her hands as she talks. There are several other people in the background, including a man who is sitting at a desk and talking on the phone.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A surveillance camera captures a retail store's interior on October 28, 2014, at 38:37 PM. A counter with items and a seated employee is visible, with a customer standing in front of it. The store has tiled flooring and displays products on shelves and counters. In the background, a man sits at a desk in an office, wearing a blue shirt and typing on his computer, while a woman stands behind him, gesturing as she talks.",
+    "caption": "A surveillance camera captures a retail store's interior on October 28, 2014, at 38:37 PM. A counter with items and a seated employee is visible, with a customer standing in front of it. The store has tiled flooring and displays products on shelves and counters. In the background, a man sits at a desk in an office, wearing a blue shirt and typing on his computer, while a woman stands behind him, gesturing as she talks."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was captured on October 28, 2014, at 38:37 PM. The scene includes a counter with various items and a person seated behind it, presumably an employee. There are also customers present, one of whom is interacting with the employee. The environment suggests a typical retail setting with shelves stocked with products in the background.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store. The footage captures a person seated at a counter, presumably a cashier, interacting with another individual who appears to be a customer. The customer is standing and facing the cashier, suggesting a transaction or conversation. The environment includes shelves stocked with various items, indicating that this is a retail setting. The timestamp on the footage indicates it was recorded in 2014.",
+    "caption_10s": "A man is sitting at a desk in a store, working on a computer. A woman walks up to the counter and talks to him. The man gets up from his desk and walks away with the woman.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A surveillance camera captures a retail store's interior on October 28, 2014, at 38:37 PM, showing a counter with items and an employee seated behind it, interacting with a customer who is standing and facing them, in a typical retail setting with shelves stocked with products in the background.",
+    "caption": "A surveillance camera captures a retail store's interior on October 28, 2014, at 38:37 PM, showing a counter with items and an employee seated behind it, interacting with a customer who is standing and facing them, in a typical retail setting with shelves stocked with products in the background."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was captured on October 28, 2014, at 38:38 PM. The scene includes a counter with various items and a person seated behind it, presumably an employee. There are also customers present, one of whom is standing close to the counter. The environment appears to be a typical retail space with shelves stocked with products in the background.",
+    "caption_5s": "The video shows a surveillance camera's perspective of an electronics store. The footage captures a person, presumably a customer, interacting with a store employee behind the counter. The customer appears to be examining items on the counter while the employee assists. The timestamp indicates that the recording took place in the evening of October 28, 2014.",
+    "caption_10s": "A man is sitting at a desk in a store, working on his laptop. He is wearing a blue shirt and has short brown hair. There are several other people in the store, including a woman who is standing behind the counter. The woman is wearing a white shirt and has long brown hair. She is looking at the man and talking to him. The man is looking at his laptop and typing. The woman is holding a piece of paper in her hand. The man gets up from his chair and walks over to the counter. He hands the woman the piece of paper and she takes it. The man then walks away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person, presumably a customer, interacts with a store employee behind a counter in a retail space with shelves stocked with products in the background, on the evening of October 28, 2014. The customer examines items on the counter while the employee assists, and a woman standing behind the counter looks at the customer and the man, who is wearing a blue shirt and has short brown hair, as he types on his laptop and hands her a piece of paper.",
+    "caption": "A person, presumably a customer, interacts with a store employee behind a counter in a retail space with shelves stocked with products in the background, on the evening of October 28, 2014. The customer examines items on the counter while the employee assists, and a woman standing behind the counter looks at the customer and the man, who is wearing a blue shirt and has short brown hair, as he types on his laptop and hands her a piece of paper."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of an electronics store. The timestamp indicates the footage was captured on October 28, 2014, at 38:37 PM. The store is well-lit and organized with various electronic items displayed on shelves and counters. There are several customers and staff members present. One customer is seen interacting with a staff member behind the counter, while others browse the products. The staff member appears to be assisting the customer with a purchase or inquiry.",
+    "caption_5s": "The video shows a surveillance camera's perspective of an electronics store. The timestamp indicates the footage was captured on October 28, 2014, at around 38:37 PM. The scene includes a counter with various electronic items and accessories displayed, a person seated behind the counter, and another individual standing in front of the counter. The person behind the counter appears to be interacting with the standing individual, possibly engaging in a transaction or conversation. The environment is well-lit, and the store seems to be moderately busy.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was captured on October 28, 2014, at approximately 38:34 PM. The scene includes a counter with various items and a person seated behind it, likely an employee. There are also customers present, one of whom is standing close to the counter, possibly engaging in a transaction or conversation with the employee. The environment appears to be a typical retail setting with tiled flooring and shelves stocked with products.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "On October 28, 2014, at approximately 38:34 PM, a surveillance camera captures a retail store's interior, showing a well-lit counter with various items and a seated employee, as well as customers browsing the products and one individual standing close to the counter, possibly engaging in a transaction or conversation with the employee.",
+    "caption": "On October 28, 2014, at approximately 38:34 PM, a surveillance camera captures a retail store's interior, showing a well-lit counter with various items and a seated employee, as well as customers browsing the products and one individual standing close to the counter, possibly engaging in a transaction or conversation with the employee."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, seemingly working on a computer or handling paperwork. The timestamp indicates the recording was made on October 28, 2014, at 38:39 PM.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store. A person is seen sitting at the counter, possibly a customer or an employee. The timestamp indicates the footage was captured on October 28, 2014, at around 38:37 PM. The scene remains static with no significant movement or action taking place throughout the video.",
+    "caption_10s": "The video shows a surveillance camera view of a store's interior. A person is seated at the counter, seemingly working on a computer or similar device. Another individual approaches the counter from the left side of the frame and appears to interact with the seated person. The standing individual then moves away towards the right side of the frame.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person sits at a store counter, possibly working on a computer or handling paperwork, on October 28, 2014, at 38:39 PM. The scene remains static until another individual approaches from the left, interacts with the seated person, and then moves away towards the right side of the frame.",
+    "caption": "A person sits at a store counter, possibly working on a computer or handling paperwork, on October 28, 2014, at 38:39 PM. The scene remains static until another individual approaches from the left, interacts with the seated person, and then moves away towards the right side of the frame."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. There are no other people visible in the video.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a store interior. A person is seated at a counter, interacting with another individual who appears to be a customer. The customer is standing and facing the seated person, suggesting a transaction or conversation. The environment includes shelves stocked with various items, indicating that this is a retail setting.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a store interior. A person is seated at a counter, facing away from the camera, and appears to be working on a computer or similar device. Another individual approaches the counter from the left side of the frame and engages in an interaction with the seated person. The standing person seems to be handing over an item to the seated person, who then processes it. This exchange is repeated several times throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person sits at a counter in a retail store, interacting with a customer who stands and faces them, with shelves stocked with items visible in the background.",
+    "caption": "A person sits at a counter in a retail store, interacting with a customer who stands and faces them, with shelves stocked with items visible in the background."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office setting. He is wearing a blue shirt and appears to be working on a computer. The camera angle is from above, providing a bird's eye view of the room. There are no significant movements or actions taking place throughout the video.",
+    "caption_5s": "The video shows a man sitting at a desk in an office setting. He is focused on his computer screen and appears to be working. There are no significant actions or events taking place in the video.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a store interior. A person is seated at a counter, seemingly occupied with paperwork or a computer screen. Another individual approaches the counter from the left side of the frame and engages in a brief interaction with the seated person. The standing individual then exits the frame to the right.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person sits at a desk in an office setting, wearing a blue shirt, focused on a computer screen, with a brief interaction occurring when another person approaches from the left and exits to the right.",
+    "caption": "A person sits at a desk in an office setting, wearing a blue shirt, focused on a computer screen, with a brief interaction occurring when another person approaches from the left and exits to the right."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on his computer and appears to be focused on his work. There are no other people visible in the video.",
+    "caption_5s": "The video shows a man sitting at a desk in a store. He is seen typing on a computer and occasionally looking at the screen. The camera angle is from above, providing a bird's eye view of the scene.",
+    "caption_10s": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and occasionally looking at the screen. There are no other significant actions or events in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A man sits at a desk, typing on a computer and occasionally looking at the screen, in a setting that appears to be an office, with a bird's eye view of the scene.",
+    "caption": "A man sits at a desk, typing on a computer and occasionally looking at the screen, in a setting that appears to be an office, with a bird's eye view of the scene."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. The camera angle is from above, providing a bird's eye view of the scene.",
+    "caption_5s": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and occasionally looking at the screen. There are no other significant actions or events in the video.",
+    "caption_10s": "A man is sitting at a desk in a store, looking at his phone. He then gets up and walks away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A man sits at a desk in an office, typing on a computer and occasionally looking at the screen, before getting up and walking away.",
+    "caption": "A man sits at a desk in an office, typing on a computer and occasionally looking at the screen, before getting up and walking away."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. There are no other people visible in the video.",
+    "caption_5s": "The video shows a man sitting at a desk in a store. He is seen typing on a computer and occasionally looking up. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. The camera angle is from above, providing a bird's eye view of the room.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A man sits at a desk in an office setting, typing on a computer and occasionally looking at the screen, with a bird's eye view of the room, showing no other people or significant actions.",
+    "caption": "A man sits at a desk in an office setting, typing on a computer and occasionally looking at the screen, with a bird's eye view of the room, showing no other people or significant actions."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on his computer and appears to be focused on his work. There are no other people visible in the video.",
+    "caption_5s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. There are no significant actions or events that occur throughout the video.",
+    "caption_10s": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and then standing up to walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A man sits at a desk in an office, typing on a computer, occasionally glancing at the screen, and then stands up to walk away.",
+    "caption": "A man sits at a desk in an office, typing on a computer, occasionally glancing at the screen, and then stands up to walk away."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. There are no other significant actions or events taking place in the video.",
+    "caption_5s": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and occasionally looking at the screen. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and then standing up to walk away from the desk.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A man sits at a desk in an office, typing on a computer, occasionally glancing at the screen, and then stands up to walk away.",
+    "caption": "A man sits at a desk in an office, typing on a computer, occasionally glancing at the screen, and then stands up to walk away."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and occasionally looking at the screen. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a man sitting at a desk in a store. He is seen typing on a computer and then standing up to grab something from the counter.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A man sits at a desk in an office, typing on a computer and occasionally looking at the screen, before standing up to grab something from the counter.",
+    "caption": "A man sits at a desk in an office, typing on a computer and occasionally looking at the screen, before standing up to grab something from the counter."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office environment. He is wearing a blue shirt and appears to be working on a computer. The camera angle is from above, providing a bird's-eye view of the scene. There are no significant movements or actions taking place throughout the video.",
+    "caption_5s": "The video shows a person seated at a desk in an office setting, with a timestamp indicating the date and time. The individual appears to be working on a computer, and there is another person standing nearby. The camera angle is from above, providing a bird's-eye view of the scene.",
+    "caption_10s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. There are other people in the background, but they are not interacting with the man. The camera angle is from above, providing a bird's eye view of the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person sits at a desk in an office setting, wearing a blue shirt, working on a computer, with others in the background, from a bird's-eye view.",
+    "caption": "A person sits at a desk in an office setting, wearing a blue shirt, working on a computer, with others in the background, from a bird's-eye view."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and occasionally looking at the screen. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a store with a counter and shelves stocked with various items. A person is seated behind the counter, while another individual approaches from the left side of the frame. The customer appears to be making a purchase or inquiry, as they interact with the person behind the counter.",
+    "caption_10s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. There are other people in the background, but they are not interacting with him. The man appears to be focused on his work.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person sits at a desk in an office, typing on a computer and occasionally glancing at the screen, while others are present in the background.",
+    "caption": "A person sits at a desk in an office, typing on a computer and occasionally glancing at the screen, while others are present in the background."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and then stands up to walk away.",
+    "caption_5s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and then stands up to walk away from the desk.",
+    "caption_10s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and then stands up to walk away from the desk. The camera angle is from above, providing a bird's-eye view of the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A man sits at a desk in an office, typing on a computer, before standing up and walking away from the desk, as seen from a bird's-eye view.",
+    "caption": "A man sits at a desk in an office, typing on a computer, before standing up and walking away from the desk, as seen from a bird's-eye view."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The timestamp indicates the footage was captured on October 28, 2014, at approximately 38:45 PM. There are two individuals present in the scene. One person is seated at a desk, facing away from the camera, and appears to be working on a computer. The other individual is standing nearby, facing the seated person, and seems to be engaged in conversation or interaction with them. The environment includes office furniture such as desks, chairs, and computers, as well as various items scattered across the desks, which could be office supplies or personal belongings.",
+    "caption_5s": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, seemingly working on a computer or handling paperwork. Another individual approaches the counter from the left side of the frame and appears to interact with the seated person. The standing person then moves away towards the right side of the frame.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was recorded on October 28, 2014, at approximately 3:38 PM. The store has tiled floors and is stocked with various items on shelves and counters. A person wearing a white shirt and dark pants is seen walking through the store, browsing items on the shelves. Another individual, dressed in a light-colored shirt and dark pants, is seated at a counter, possibly a cashier or an employee. The environment appears calm and typical of a retail setting during business hours.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "On October 28, 2014, at approximately 3:38 PM, a surveillance camera captured footage of a retail store's interior. A person in a white shirt and dark pants walked through the store, browsing items on the shelves, while another individual, dressed in a light-colored shirt and dark pants, was seated at a counter. The seated person was engaged in interaction with a third individual who approached from the left and then moved away towards the right. The store had",
+    "caption": "On October 28, 2014, at approximately 3:38 PM, a surveillance camera captured footage of a retail store's interior. A person in a white shirt and dark pants walked through the store, browsing items on the shelves, while another individual, dressed in a light-colored shirt and dark pants, was seated at a counter. The seated person was engaged in interaction with a third individual who approached from the left and then moved away towards the right. The store had"
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a store interior. A person is seen walking towards the counter, interacting with an employee, and then leaving the frame. The timestamp indicates the footage was captured on October 28, 2014, at 38:46 PM.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a retail store interior. The timestamp indicates the footage was captured on October 28, 2014, at 3:41 PM. The scene includes a counter with various items and a person seated behind it, likely an employee. Another individual, possibly a customer, is seen approaching the counter. The customer appears to be in conversation with the employee, gesturing with their hands. The customer then moves away from the counter, and the employee remains seated.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a store interior. The timestamp indicates the footage was recorded on October 28, 2014, at 38:42 PM. A person is seated behind a counter, presumably a cashier, while another individual approaches the counter from the left side of the frame. The customer appears to be interacting with the cashier, possibly making a purchase or inquiry. The store has a tiled floor and various items are visible on shelves in the background.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A surveillance camera captures a retail store interior on October 28, 2014, at 3:41 PM. A person, likely a customer, approaches a counter where an employee is seated, and they engage in conversation, gesturing with their hands. The customer then moves away from the counter, and the employee remains seated. The store has a tiled floor and shelves with various items in the background.",
+    "caption": "A surveillance camera captures a retail store interior on October 28, 2014, at 3:41 PM. A person, likely a customer, approaches a counter where an employee is seated, and they engage in conversation, gesturing with their hands. The customer then moves away from the counter, and the employee remains seated. The store has a tiled floor and shelves with various items in the background."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a store interior. A person wearing a red shirt and dark pants is seen walking towards the counter, interacting with an employee who is standing behind it. The customer appears to be making a purchase or asking for assistance. The store has various items on display, including what looks like electronics and other merchandise. The timestamp indicates the footage was captured in the evening of October 28, 2014.",
+    "caption_5s": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, seemingly working on something. Another individual approaches the counter and appears to interact with the seated person. The standing person then moves away from the counter, and the seated person continues their work.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a retail store's interior. The timestamp indicates the footage was recorded on October 28, 2014, at 3:42 PM. The store has a tiled floor and is stocked with various items on shelves and counters. A person wearing a white shirt is seen standing behind the counter, while another individual in a dark-colored top approaches the counter from the right side of the frame. The customer appears to be interacting with the staff member, possibly making a purchase or inquiry.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person in a dark-colored top approaches a counter in a retail store with various items on display, interacting with a staff member wearing a white shirt, on October 28, 2014, at 3:42 PM.",
+    "caption": "A person in a dark-colored top approaches a counter in a retail store with various items on display, interacting with a staff member wearing a white shirt, on October 28, 2014, at 3:42 PM."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a surveillance footage of a store interior. A person is seen walking towards the counter, then turns around and walks away. Another individual is standing behind the counter, seemingly engaged in an activity. The timestamp on the footage indicates it was recorded on October 28, 2014, at 38:47 PM.",
+    "caption_5s": "The video shows a man in a store, who is seen sitting on a stool and working on something. He then stands up and walks towards the back of the store. Another person enters the store and approaches the man. The man then turns around and appears to be talking to the other person.",
+    "caption_10s": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. There are various objects on the desk, including papers, a keyboard, and a mouse. The man appears to be focused on his work.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person is seen working at a desk in an office setting, typing on a computer and occasionally looking at the screen, with various objects on the desk, including papers, a keyboard, and a mouse. The timestamp on the footage indicates it was recorded on October 28, 2014, at 38:47 PM.",
+    "caption": "A person is seen working at a desk in an office setting, typing on a computer and occasionally looking at the screen, with various objects on the desk, including papers, a keyboard, and a mouse. The timestamp on the footage indicates it was recorded on October 28, 2014, at 38:47 PM."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 14.9
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 14.9
+      }
+    },
+    "caption_2s": "The video shows a surveillance footage of a store interior. A person is seen standing behind the counter, and another individual approaches the counter from the right side of the frame. The person at the counter appears to be handling items or money, while the other individual seems to be engaging in a transaction or conversation.",
+    "caption_5s": "The video shows a man in a store, who is seen handling money and interacting with another person. The man appears to be counting or organizing the money.",
+    "caption_10s": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and then standing up to walk away. Another person enters the room and sits down at the desk.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 14.9
+    },
+    "fused_caption": "A person is seen handling items or money at a counter, while another individual approaches and engages in a transaction or conversation. The person at the counter appears to be counting or organizing money, and then a second person enters the room and takes their place.",
+    "caption": "A person is seen handling items or money at a counter, while another individual approaches and engages in a transaction or conversation. The person at the counter appears to be counting or organizing money, and then a second person enters the room and takes their place."
+  }
+}

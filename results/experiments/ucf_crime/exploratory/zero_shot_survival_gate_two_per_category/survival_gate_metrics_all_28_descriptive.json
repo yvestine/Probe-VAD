@@ -1,0 +1,1744 @@
+{
+  "task": "training-free causal anomaly anticipation with current-state survival gate",
+  "formula": "S_h(t) = (1 - D_t) * R_h(t)",
+  "inference_inputs": [
+    "strictly causal direct-branch current and future predictions"
+  ],
+  "not_used": [
+    "author outputs",
+    "ground truth during score generation",
+    "future frames"
+  ],
+  "quality_checks": {
+    "prediction_anchors": 2658,
+    "source_parse_status_counts": {
+      "bracket_list": 2658
+    },
+    "invalid_source_predictions": 0,
+    "future_frame_violations": 0
+  },
+  "overall": {
+    "2s": {
+      "base": {
+        "samples": 1799,
+        "positive_samples": 105,
+        "mean_score": 0.17373,
+        "roc_auc": 0.580446,
+        "average_precision": 0.069643,
+        "events": 28,
+        "events_warned": 3,
+        "event_recall": 0.107143,
+        "mean_lead_seconds": 0.811111,
+        "median_lead_seconds": 0.4,
+        "false_alarm_episodes": 39,
+        "false_alarms_per_minute": 1.660517,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 1799,
+        "positive_samples": 105,
+        "mean_score": 0.088253,
+        "roc_auc": 0.590181,
+        "average_precision": 0.074026,
+        "events": 28,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 22,
+        "false_alarms_per_minute": 0.936702,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.009735,
+        "average_precision": 0.004383
+      }
+    },
+    "5s": {
+      "base": {
+        "samples": 1799,
+        "positive_samples": 250,
+        "mean_score": 0.189215,
+        "roc_auc": 0.534826,
+        "average_precision": 0.143945,
+        "events": 28,
+        "events_warned": 9,
+        "event_recall": 0.321429,
+        "mean_lead_seconds": 2.207407,
+        "median_lead_seconds": 2.4,
+        "false_alarm_episodes": 40,
+        "false_alarms_per_minute": 1.703094,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 1799,
+        "positive_samples": 250,
+        "mean_score": 0.096856,
+        "roc_auc": 0.548032,
+        "average_precision": 0.157117,
+        "events": 28,
+        "events_warned": 6,
+        "event_recall": 0.214286,
+        "mean_lead_seconds": 2.461111,
+        "median_lead_seconds": 2.3,
+        "false_alarm_episodes": 26,
+        "false_alarms_per_minute": 1.107011,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.013206,
+        "average_precision": 0.013172
+      }
+    },
+    "10s": {
+      "base": {
+        "samples": 1799,
+        "positive_samples": 465,
+        "mean_score": 0.202211,
+        "roc_auc": 0.520312,
+        "average_precision": 0.263065,
+        "events": 28,
+        "events_warned": 12,
+        "event_recall": 0.428571,
+        "mean_lead_seconds": 6.566667,
+        "median_lead_seconds": 7.466667,
+        "false_alarm_episodes": 43,
+        "false_alarms_per_minute": 1.830826,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 1799,
+        "positive_samples": 465,
+        "mean_score": 0.10455,
+        "roc_auc": 0.535616,
+        "average_precision": 0.28113,
+        "events": 28,
+        "events_warned": 10,
+        "event_recall": 0.357143,
+        "mean_lead_seconds": 5.703333,
+        "median_lead_seconds": 5.45,
+        "false_alarm_episodes": 29,
+        "false_alarms_per_minute": 1.234743,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.015304,
+        "average_precision": 0.018065
+      }
+    }
+  },
+  "macro_average": {
+    "2s": {
+      "videos_with_both_classes": 26,
+      "base": {
+        "roc_auc": 0.593433,
+        "average_precision": 0.240725
+      },
+      "survival_gate": {
+        "roc_auc": 0.619411,
+        "average_precision": 0.23299
+      },
+      "delta": {
+        "roc_auc": 0.025977,
+        "average_precision": -0.007735
+      }
+    },
+    "5s": {
+      "videos_with_both_classes": 26,
+      "base": {
+        "roc_auc": 0.522672,
+        "average_precision": 0.30296
+      },
+      "survival_gate": {
+        "roc_auc": 0.556104,
+        "average_precision": 0.326906
+      },
+      "delta": {
+        "roc_auc": 0.033432,
+        "average_precision": 0.023946
+      }
+    },
+    "10s": {
+      "videos_with_both_classes": 26,
+      "base": {
+        "roc_auc": 0.482814,
+        "average_precision": 0.434183
+      },
+      "survival_gate": {
+        "roc_auc": 0.516779,
+        "average_precision": 0.453408
+      },
+      "delta": {
+        "roc_auc": 0.033966,
+        "average_precision": 0.019224
+      }
+    }
+  },
+  "category_macro_average": {
+    "2s": {
+      "categories_with_both_classes": 13,
+      "base": {
+        "roc_auc": 0.593433,
+        "average_precision": 0.240725
+      },
+      "survival_gate": {
+        "roc_auc": 0.619411,
+        "average_precision": 0.23299
+      },
+      "delta": {
+        "roc_auc": 0.025977,
+        "average_precision": -0.007735
+      }
+    },
+    "5s": {
+      "categories_with_both_classes": 13,
+      "base": {
+        "roc_auc": 0.522672,
+        "average_precision": 0.30296
+      },
+      "survival_gate": {
+        "roc_auc": 0.556104,
+        "average_precision": 0.326906
+      },
+      "delta": {
+        "roc_auc": 0.033432,
+        "average_precision": 0.023946
+      }
+    },
+    "10s": {
+      "categories_with_both_classes": 13,
+      "base": {
+        "roc_auc": 0.482814,
+        "average_precision": 0.434183
+      },
+      "survival_gate": {
+        "roc_auc": 0.516779,
+        "average_precision": 0.453407
+      },
+      "delta": {
+        "roc_auc": 0.033966,
+        "average_precision": 0.019224
+      }
+    }
+  },
+  "per_video": [
+    {
+      "video_name": "Abuse028_x264",
+      "category": "Abuse",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 4,
+            "mean_score": 0.150361,
+            "roc_auc": 0.775,
+            "average_precision": 0.116427
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 4,
+            "mean_score": 0.074648,
+            "roc_auc": 0.8375,
+            "average_precision": 0.172751
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 10,
+            "mean_score": 0.164084,
+            "roc_auc": 0.519595,
+            "average_precision": 0.135319
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 10,
+            "mean_score": 0.081945,
+            "roc_auc": 0.541216,
+            "average_precision": 0.157894
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 11,
+            "mean_score": 0.174951,
+            "roc_auc": 0.475716,
+            "average_precision": 0.138687
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 11,
+            "mean_score": 0.088203,
+            "roc_auc": 0.491905,
+            "average_precision": 0.154201
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Abuse030_x264",
+      "category": "Abuse",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 91,
+            "positive_samples": 4,
+            "mean_score": 0.121886,
+            "roc_auc": 0.29023,
+            "average_precision": 0.037422
+          },
+          "survival_gate": {
+            "samples": 91,
+            "positive_samples": 4,
+            "mean_score": 0.07542,
+            "roc_auc": 0.29023,
+            "average_precision": 0.037422
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 91,
+            "positive_samples": 9,
+            "mean_score": 0.134907,
+            "roc_auc": 0.560976,
+            "average_precision": 0.191936
+          },
+          "survival_gate": {
+            "samples": 91,
+            "positive_samples": 9,
+            "mean_score": 0.083954,
+            "roc_auc": 0.575881,
+            "average_precision": 0.217017
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 91,
+            "positive_samples": 19,
+            "mean_score": 0.147708,
+            "roc_auc": 0.475146,
+            "average_precision": 0.271983
+          },
+          "survival_gate": {
+            "samples": 91,
+            "positive_samples": 19,
+            "mean_score": 0.092409,
+            "roc_auc": 0.480994,
+            "average_precision": 0.273607
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Arrest001_x264",
+      "category": "Arrest",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 131,
+            "positive_samples": 4,
+            "mean_score": 0.102191,
+            "roc_auc": 0.832677,
+            "average_precision": 0.148775
+          },
+          "survival_gate": {
+            "samples": 131,
+            "positive_samples": 4,
+            "mean_score": 0.065142,
+            "roc_auc": 0.834646,
+            "average_precision": 0.130096
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 131,
+            "positive_samples": 10,
+            "mean_score": 0.112804,
+            "roc_auc": 0.652893,
+            "average_precision": 0.142641
+          },
+          "survival_gate": {
+            "samples": 131,
+            "positive_samples": 10,
+            "mean_score": 0.072612,
+            "roc_auc": 0.657025,
+            "average_precision": 0.13895
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 131,
+            "positive_samples": 19,
+            "mean_score": 0.123245,
+            "roc_auc": 0.607143,
+            "average_precision": 0.18715
+          },
+          "survival_gate": {
+            "samples": 131,
+            "positive_samples": 19,
+            "mean_score": 0.080007,
+            "roc_auc": 0.620301,
+            "average_precision": 0.198149
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Arrest007_x264",
+      "category": "Arrest",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 157,
+            "positive_samples": 4,
+            "mean_score": 0.117454,
+            "roc_auc": 0.763072,
+            "average_precision": 0.061182
+          },
+          "survival_gate": {
+            "samples": 157,
+            "positive_samples": 4,
+            "mean_score": 0.070026,
+            "roc_auc": 0.79085,
+            "average_precision": 0.070794
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 157,
+            "positive_samples": 9,
+            "mean_score": 0.127961,
+            "roc_auc": 0.591592,
+            "average_precision": 0.077271
+          },
+          "survival_gate": {
+            "samples": 157,
+            "positive_samples": 9,
+            "mean_score": 0.076331,
+            "roc_auc": 0.598348,
+            "average_precision": 0.079682
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 157,
+            "positive_samples": 19,
+            "mean_score": 0.137704,
+            "roc_auc": 0.525934,
+            "average_precision": 0.122865
+          },
+          "survival_gate": {
+            "samples": 157,
+            "positive_samples": 19,
+            "mean_score": 0.082281,
+            "roc_auc": 0.53013,
+            "average_precision": 0.124277
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Arson009_x264",
+      "category": "Arson",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 41,
+            "positive_samples": 4,
+            "mean_score": 0.508982,
+            "roc_auc": 0.493243,
+            "average_precision": 0.112492
+          },
+          "survival_gate": {
+            "samples": 41,
+            "positive_samples": 4,
+            "mean_score": 0.224953,
+            "roc_auc": 0.587838,
+            "average_precision": 0.136864
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 41,
+            "positive_samples": 9,
+            "mean_score": 0.552384,
+            "roc_auc": 0.34375,
+            "average_precision": 0.17765
+          },
+          "survival_gate": {
+            "samples": 41,
+            "positive_samples": 9,
+            "mean_score": 0.243244,
+            "roc_auc": 0.458333,
+            "average_precision": 0.212487
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 41,
+            "positive_samples": 14,
+            "mean_score": 0.574453,
+            "roc_auc": 0.44709,
+            "average_precision": 0.366347
+          },
+          "survival_gate": {
+            "samples": 41,
+            "positive_samples": 14,
+            "mean_score": 0.253926,
+            "roc_auc": 0.534392,
+            "average_precision": 0.445506
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Arson035_x264",
+      "category": "Arson",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 71,
+            "positive_samples": 4,
+            "mean_score": 0.118122,
+            "roc_auc": 0.686567,
+            "average_precision": 0.105999
+          },
+          "survival_gate": {
+            "samples": 71,
+            "positive_samples": 4,
+            "mean_score": 0.072784,
+            "roc_auc": 0.720149,
+            "average_precision": 0.165523
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 71,
+            "positive_samples": 9,
+            "mean_score": 0.129378,
+            "roc_auc": 0.865591,
+            "average_precision": 0.505073
+          },
+          "survival_gate": {
+            "samples": 71,
+            "positive_samples": 9,
+            "mean_score": 0.079295,
+            "roc_auc": 0.901434,
+            "average_precision": 0.773576
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 71,
+            "positive_samples": 19,
+            "mean_score": 0.139226,
+            "roc_auc": 0.895749,
+            "average_precision": 0.76179
+          },
+          "survival_gate": {
+            "samples": 71,
+            "positive_samples": 19,
+            "mean_score": 0.085227,
+            "roc_auc": 0.903846,
+            "average_precision": 0.789249
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Assault011_x264",
+      "category": "Assault",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 106,
+            "positive_samples": 4,
+            "mean_score": 0.05283,
+            "roc_auc": 0.426471,
+            "average_precision": 0.036405
+          },
+          "survival_gate": {
+            "samples": 106,
+            "positive_samples": 4,
+            "mean_score": 0.033065,
+            "roc_auc": 0.426471,
+            "average_precision": 0.036405
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 106,
+            "positive_samples": 9,
+            "mean_score": 0.057076,
+            "roc_auc": 0.537228,
+            "average_precision": 0.09131
+          },
+          "survival_gate": {
+            "samples": 106,
+            "positive_samples": 9,
+            "mean_score": 0.036244,
+            "roc_auc": 0.537228,
+            "average_precision": 0.09131
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 106,
+            "positive_samples": 19,
+            "mean_score": 0.061132,
+            "roc_auc": 0.642166,
+            "average_precision": 0.229128
+          },
+          "survival_gate": {
+            "samples": 106,
+            "positive_samples": 19,
+            "mean_score": 0.039338,
+            "roc_auc": 0.642166,
+            "average_precision": 0.230302
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Assault006_x264",
+      "category": "Assault",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 75,
+            "positive_samples": 4,
+            "mean_score": 0.270044,
+            "roc_auc": 0.640845,
+            "average_precision": 0.14591
+          },
+          "survival_gate": {
+            "samples": 75,
+            "positive_samples": 4,
+            "mean_score": 0.122355,
+            "roc_auc": 0.450704,
+            "average_precision": 0.059319
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 75,
+            "positive_samples": 10,
+            "mean_score": 0.281729,
+            "roc_auc": 0.346154,
+            "average_precision": 0.129707
+          },
+          "survival_gate": {
+            "samples": 75,
+            "positive_samples": 10,
+            "mean_score": 0.127824,
+            "roc_auc": 0.264615,
+            "average_precision": 0.095202
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 75,
+            "positive_samples": 19,
+            "mean_score": 0.292473,
+            "roc_auc": 0.324248,
+            "average_precision": 0.200887
+          },
+          "survival_gate": {
+            "samples": 75,
+            "positive_samples": 19,
+            "mean_score": 0.133042,
+            "roc_auc": 0.279135,
+            "average_precision": 0.180357
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Burglary092_x264",
+      "category": "Burglary",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 28,
+            "positive_samples": 3,
+            "mean_score": 0.106156,
+            "roc_auc": 0.733333,
+            "average_precision": 0.304762
+          },
+          "survival_gate": {
+            "samples": 28,
+            "positive_samples": 3,
+            "mean_score": 0.07485,
+            "roc_auc": 0.706667,
+            "average_precision": 0.221429
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 28,
+            "positive_samples": 9,
+            "mean_score": 0.112486,
+            "roc_auc": 0.637427,
+            "average_precision": 0.412667
+          },
+          "survival_gate": {
+            "samples": 28,
+            "positive_samples": 9,
+            "mean_score": 0.078728,
+            "roc_auc": 0.625731,
+            "average_precision": 0.38489
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 28,
+            "positive_samples": 15,
+            "mean_score": 0.118816,
+            "roc_auc": 0.338462,
+            "average_precision": 0.475437
+          },
+          "survival_gate": {
+            "samples": 28,
+            "positive_samples": 15,
+            "mean_score": 0.082605,
+            "roc_auc": 0.333333,
+            "average_precision": 0.464326
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Burglary018_x264",
+      "category": "Burglary",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 50,
+            "positive_samples": 3,
+            "mean_score": 0.177336,
+            "roc_auc": 0.921986,
+            "average_precision": 0.386905
+          },
+          "survival_gate": {
+            "samples": 50,
+            "positive_samples": 3,
+            "mean_score": 0.105918,
+            "roc_auc": 0.900709,
+            "average_precision": 0.305556
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 50,
+            "positive_samples": 9,
+            "mean_score": 0.202232,
+            "roc_auc": 0.647696,
+            "average_precision": 0.296405
+          },
+          "survival_gate": {
+            "samples": 50,
+            "positive_samples": 9,
+            "mean_score": 0.121429,
+            "roc_auc": 0.658537,
+            "average_precision": 0.279965
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 50,
+            "positive_samples": 18,
+            "mean_score": 0.226728,
+            "roc_auc": 0.743056,
+            "average_precision": 0.60539
+          },
+          "survival_gate": {
+            "samples": 50,
+            "positive_samples": 18,
+            "mean_score": 0.1368,
+            "roc_auc": 0.763889,
+            "average_precision": 0.654607
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Explosion025_x264",
+      "category": "Explosion",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 22,
+            "positive_samples": 4,
+            "mean_score": 0.109816,
+            "roc_auc": 0.388889,
+            "average_precision": 0.181818
+          },
+          "survival_gate": {
+            "samples": 22,
+            "positive_samples": 4,
+            "mean_score": 0.037048,
+            "roc_auc": 0.388889,
+            "average_precision": 0.181818
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 22,
+            "positive_samples": 10,
+            "mean_score": 0.112054,
+            "roc_auc": 0.333333,
+            "average_precision": 0.454545
+          },
+          "survival_gate": {
+            "samples": 22,
+            "positive_samples": 10,
+            "mean_score": 0.037569,
+            "roc_auc": 0.333333,
+            "average_precision": 0.454545
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 22,
+            "positive_samples": 17,
+            "mean_score": 0.113397,
+            "roc_auc": 0.1,
+            "average_precision": 0.772727
+          },
+          "survival_gate": {
+            "samples": 22,
+            "positive_samples": 17,
+            "mean_score": 0.037881,
+            "roc_auc": 0.1,
+            "average_precision": 0.772727
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Explosion011_x264",
+      "category": "Explosion",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 89,
+            "positive_samples": 4,
+            "mean_score": 0.074991,
+            "roc_auc": 0.335294,
+            "average_precision": 0.044944
+          },
+          "survival_gate": {
+            "samples": 89,
+            "positive_samples": 4,
+            "mean_score": 0.040531,
+            "roc_auc": 0.335294,
+            "average_precision": 0.044944
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 89,
+            "positive_samples": 9,
+            "mean_score": 0.084166,
+            "roc_auc": 0.31875,
+            "average_precision": 0.101124
+          },
+          "survival_gate": {
+            "samples": 89,
+            "positive_samples": 9,
+            "mean_score": 0.045488,
+            "roc_auc": 0.31875,
+            "average_precision": 0.101124
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 89,
+            "positive_samples": 19,
+            "mean_score": 0.090956,
+            "roc_auc": 0.292857,
+            "average_precision": 0.213483
+          },
+          "survival_gate": {
+            "samples": 89,
+            "positive_samples": 19,
+            "mean_score": 0.049372,
+            "roc_auc": 0.292857,
+            "average_precision": 0.213483
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Fighting033_x264",
+      "category": "Fighting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 53,
+            "positive_samples": 4,
+            "mean_score": 0.3718,
+            "roc_auc": 0.52551,
+            "average_precision": 0.092945
+          },
+          "survival_gate": {
+            "samples": 53,
+            "positive_samples": 4,
+            "mean_score": 0.139195,
+            "roc_auc": 0.806122,
+            "average_precision": 0.197591
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 53,
+            "positive_samples": 9,
+            "mean_score": 0.407081,
+            "roc_auc": 0.388889,
+            "average_precision": 0.146267
+          },
+          "survival_gate": {
+            "samples": 53,
+            "positive_samples": 9,
+            "mean_score": 0.156316,
+            "roc_auc": 0.542929,
+            "average_precision": 0.202204
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 53,
+            "positive_samples": 19,
+            "mean_score": 0.433867,
+            "roc_auc": 0.181115,
+            "average_precision": 0.24153
+          },
+          "survival_gate": {
+            "samples": 53,
+            "positive_samples": 19,
+            "mean_score": 0.170636,
+            "roc_auc": 0.306502,
+            "average_precision": 0.278544
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Fighting042_x264",
+      "category": "Fighting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 83,
+            "positive_samples": 4,
+            "mean_score": 0.477691,
+            "roc_auc": 0.452532,
+            "average_precision": 0.052439
+          },
+          "survival_gate": {
+            "samples": 83,
+            "positive_samples": 4,
+            "mean_score": 0.197251,
+            "roc_auc": 0.721519,
+            "average_precision": 0.107551
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 83,
+            "positive_samples": 10,
+            "mean_score": 0.51589,
+            "roc_auc": 0.386301,
+            "average_precision": 0.101038
+          },
+          "survival_gate": {
+            "samples": 83,
+            "positive_samples": 10,
+            "mean_score": 0.214246,
+            "roc_auc": 0.624658,
+            "average_precision": 0.184077
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 83,
+            "positive_samples": 19,
+            "mean_score": 0.540371,
+            "roc_auc": 0.303454,
+            "average_precision": 0.16639
+          },
+          "survival_gate": {
+            "samples": 83,
+            "positive_samples": 19,
+            "mean_score": 0.226333,
+            "roc_auc": 0.515214,
+            "average_precision": 0.251981
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Normal_Videos_345_x264",
+      "category": "Normal",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 14,
+            "positive_samples": 0,
+            "mean_score": 0.007143,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Normal_Videos_882_x264",
+      "category": "Normal",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.065385,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.044964,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.072115,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.049433,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.078846,
+            "roc_auc": null,
+            "average_precision": null
+          },
+          "survival_gate": {
+            "samples": 104,
+            "positive_samples": 0,
+            "mean_score": 0.053903,
+            "roc_auc": null,
+            "average_precision": null
+          }
+        }
+      }
+    },
+    {
+      "video_name": "RoadAccidents021_x264",
+      "category": "RoadAccidents",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.11095,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          },
+          "survival_gate": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.0869,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.134312,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          },
+          "survival_gate": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.105875,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.157674,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          },
+          "survival_gate": {
+            "samples": 6,
+            "positive_samples": 2,
+            "mean_score": 0.124849,
+            "roc_auc": 0.875,
+            "average_precision": 0.833333
+          }
+        }
+      }
+    },
+    {
+      "video_name": "RoadAccidents122_x264",
+      "category": "RoadAccidents",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 37,
+            "positive_samples": 4,
+            "mean_score": 0.006001,
+            "roc_auc": 0.666667,
+            "average_precision": 0.554054
+          },
+          "survival_gate": {
+            "samples": 37,
+            "positive_samples": 4,
+            "mean_score": 0.005298,
+            "roc_auc": 0.666667,
+            "average_precision": 0.554054
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 37,
+            "positive_samples": 9,
+            "mean_score": 0.006001,
+            "roc_auc": 0.458333,
+            "average_precision": 0.411411
+          },
+          "survival_gate": {
+            "samples": 37,
+            "positive_samples": 9,
+            "mean_score": 0.005298,
+            "roc_auc": 0.458333,
+            "average_precision": 0.411411
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 37,
+            "positive_samples": 19,
+            "mean_score": 0.006001,
+            "roc_auc": 0.27924,
+            "average_precision": 0.564723
+          },
+          "survival_gate": {
+            "samples": 37,
+            "positive_samples": 19,
+            "mean_score": 0.005298,
+            "roc_auc": 0.27924,
+            "average_precision": 0.564723
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Robbery106_x264",
+      "category": "Robbery",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 67,
+            "positive_samples": 3,
+            "mean_score": 0.167927,
+            "roc_auc": 0.5,
+            "average_precision": 0.05756
+          },
+          "survival_gate": {
+            "samples": 67,
+            "positive_samples": 3,
+            "mean_score": 0.103041,
+            "roc_auc": 0.505208,
+            "average_precision": 0.058154
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 67,
+            "positive_samples": 9,
+            "mean_score": 0.187151,
+            "roc_auc": 0.47318,
+            "average_precision": 0.13013
+          },
+          "survival_gate": {
+            "samples": 67,
+            "positive_samples": 9,
+            "mean_score": 0.115014,
+            "roc_auc": 0.490421,
+            "average_precision": 0.134744
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 67,
+            "positive_samples": 18,
+            "mean_score": 0.204882,
+            "roc_auc": 0.536281,
+            "average_precision": 0.288064
+          },
+          "survival_gate": {
+            "samples": 67,
+            "positive_samples": 18,
+            "mean_score": 0.126389,
+            "roc_auc": 0.553288,
+            "average_precision": 0.330774
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Robbery048_x264",
+      "category": "Robbery",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 59,
+            "positive_samples": 4,
+            "mean_score": 0.188444,
+            "roc_auc": 0.804545,
+            "average_precision": 0.17912
+          },
+          "survival_gate": {
+            "samples": 59,
+            "positive_samples": 4,
+            "mean_score": 0.104425,
+            "roc_auc": 0.85,
+            "average_precision": 0.244048
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 59,
+            "positive_samples": 10,
+            "mean_score": 0.20222,
+            "roc_auc": 0.469388,
+            "average_precision": 0.172334
+          },
+          "survival_gate": {
+            "samples": 59,
+            "positive_samples": 10,
+            "mean_score": 0.112694,
+            "roc_auc": 0.479592,
+            "average_precision": 0.185082
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 59,
+            "positive_samples": 19,
+            "mean_score": 0.212606,
+            "roc_auc": 0.393421,
+            "average_precision": 0.27095
+          },
+          "survival_gate": {
+            "samples": 59,
+            "positive_samples": 19,
+            "mean_score": 0.119249,
+            "roc_auc": 0.409211,
+            "average_precision": 0.283051
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Shooting037_x264",
+      "category": "Shooting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 12,
+            "positive_samples": 4,
+            "mean_score": 0.056656,
+            "roc_auc": 0.3125,
+            "average_precision": 0.333333
+          },
+          "survival_gate": {
+            "samples": 12,
+            "positive_samples": 4,
+            "mean_score": 0.037418,
+            "roc_auc": 0.3125,
+            "average_precision": 0.333333
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 12,
+            "positive_samples": 9,
+            "mean_score": 0.066113,
+            "roc_auc": 0.0,
+            "average_precision": 0.75
+          },
+          "survival_gate": {
+            "samples": 12,
+            "positive_samples": 9,
+            "mean_score": 0.043664,
+            "roc_auc": 0.0,
+            "average_precision": 0.75
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 12,
+            "positive_samples": 9,
+            "mean_score": 0.07557,
+            "roc_auc": 0.0,
+            "average_precision": 0.75
+          },
+          "survival_gate": {
+            "samples": 12,
+            "positive_samples": 9,
+            "mean_score": 0.049909,
+            "roc_auc": 0.0,
+            "average_precision": 0.75
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Shooting013_x264",
+      "category": "Shooting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 62,
+            "positive_samples": 4,
+            "mean_score": 0.214511,
+            "roc_auc": 0.452586,
+            "average_precision": 0.075427
+          },
+          "survival_gate": {
+            "samples": 62,
+            "positive_samples": 4,
+            "mean_score": 0.131109,
+            "roc_auc": 0.431034,
+            "average_precision": 0.06763
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 62,
+            "positive_samples": 9,
+            "mean_score": 0.234621,
+            "roc_auc": 0.534591,
+            "average_precision": 0.158427
+          },
+          "survival_gate": {
+            "samples": 62,
+            "positive_samples": 9,
+            "mean_score": 0.143321,
+            "roc_auc": 0.545073,
+            "average_precision": 0.16172
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 62,
+            "positive_samples": 19,
+            "mean_score": 0.254411,
+            "roc_auc": 0.53978,
+            "average_precision": 0.309594
+          },
+          "survival_gate": {
+            "samples": 62,
+            "positive_samples": 19,
+            "mean_score": 0.155416,
+            "roc_auc": 0.549572,
+            "average_precision": 0.313426
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Shoplifting031_x264",
+      "category": "Shoplifting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 15,
+            "positive_samples": 4,
+            "mean_score": 0.0306,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          },
+          "survival_gate": {
+            "samples": 15,
+            "positive_samples": 4,
+            "mean_score": 0.0254,
+            "roc_auc": 1.0,
+            "average_precision": 1.0
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 15,
+            "positive_samples": 8,
+            "mean_score": 0.037166,
+            "roc_auc": 0.75,
+            "average_precision": 0.766667
+          },
+          "survival_gate": {
+            "samples": 15,
+            "positive_samples": 8,
+            "mean_score": 0.030666,
+            "roc_auc": 0.75,
+            "average_precision": 0.766667
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 15,
+            "positive_samples": 8,
+            "mean_score": 0.043733,
+            "roc_auc": 0.75,
+            "average_precision": 0.766667
+          },
+          "survival_gate": {
+            "samples": 15,
+            "positive_samples": 8,
+            "mean_score": 0.035933,
+            "roc_auc": 0.75,
+            "average_precision": 0.766667
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Shoplifting017_x264",
+      "category": "Shoplifting",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 25,
+            "positive_samples": 4,
+            "mean_score": 0.025092,
+            "roc_auc": 0.607143,
+            "average_precision": 0.4087
+          },
+          "survival_gate": {
+            "samples": 25,
+            "positive_samples": 4,
+            "mean_score": 0.018332,
+            "roc_auc": 0.607143,
+            "average_precision": 0.4087
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 25,
+            "positive_samples": 9,
+            "mean_score": 0.031711,
+            "roc_auc": 0.6875,
+            "average_precision": 0.530308
+          },
+          "survival_gate": {
+            "samples": 25,
+            "positive_samples": 9,
+            "mean_score": 0.023391,
+            "roc_auc": 0.6875,
+            "average_precision": 0.530308
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 25,
+            "positive_samples": 19,
+            "mean_score": 0.038329,
+            "roc_auc": 0.675439,
+            "average_precision": 0.86613
+          },
+          "survival_gate": {
+            "samples": 25,
+            "positive_samples": 19,
+            "mean_score": 0.028449,
+            "roc_auc": 0.675439,
+            "average_precision": 0.86613
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Stealing062_x264",
+      "category": "Stealing",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 55,
+            "positive_samples": 4,
+            "mean_score": 0.39221,
+            "roc_auc": 0.166667,
+            "average_precision": 0.053403
+          },
+          "survival_gate": {
+            "samples": 55,
+            "positive_samples": 4,
+            "mean_score": 0.21232,
+            "roc_auc": 0.156863,
+            "average_precision": 0.053478
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 55,
+            "positive_samples": 9,
+            "mean_score": 0.433366,
+            "roc_auc": 0.359903,
+            "average_precision": 0.137775
+          },
+          "survival_gate": {
+            "samples": 55,
+            "positive_samples": 9,
+            "mean_score": 0.233453,
+            "roc_auc": 0.347826,
+            "average_precision": 0.147962
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 55,
+            "positive_samples": 19,
+            "mean_score": 0.466499,
+            "roc_auc": 0.307018,
+            "average_precision": 0.260636
+          },
+          "survival_gate": {
+            "samples": 55,
+            "positive_samples": 19,
+            "mean_score": 0.251644,
+            "roc_auc": 0.368421,
+            "average_precision": 0.286872
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Stealing036_x264",
+      "category": "Stealing",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 136,
+            "positive_samples": 4,
+            "mean_score": 0.092821,
+            "roc_auc": 0.674242,
+            "average_precision": 0.519462
+          },
+          "survival_gate": {
+            "samples": 136,
+            "positive_samples": 4,
+            "mean_score": 0.059857,
+            "roc_auc": 0.57197,
+            "average_precision": 0.045087
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 136,
+            "positive_samples": 9,
+            "mean_score": 0.103851,
+            "roc_auc": 0.68154,
+            "average_precision": 0.254901
+          },
+          "survival_gate": {
+            "samples": 136,
+            "positive_samples": 9,
+            "mean_score": 0.067453,
+            "roc_auc": 0.637795,
+            "average_precision": 0.096716
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 136,
+            "positive_samples": 19,
+            "mean_score": 0.11488,
+            "roc_auc": 0.751237,
+            "average_precision": 0.330739
+          },
+          "survival_gate": {
+            "samples": 136,
+            "positive_samples": 19,
+            "mean_score": 0.075049,
+            "roc_auc": 0.735942,
+            "average_precision": 0.294204
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Vandalism017_x264",
+      "category": "Vandalism",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 56,
+            "positive_samples": 7,
+            "mean_score": 0.549865,
+            "roc_auc": 0.314869,
+            "average_precision": 0.099348
+          },
+          "survival_gate": {
+            "samples": 56,
+            "positive_samples": 7,
+            "mean_score": 0.172342,
+            "roc_auc": 0.527697,
+            "average_precision": 0.267314
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 56,
+            "positive_samples": 18,
+            "mean_score": 0.576827,
+            "roc_auc": 0.333333,
+            "average_precision": 0.248128
+          },
+          "survival_gate": {
+            "samples": 56,
+            "positive_samples": 18,
+            "mean_score": 0.183796,
+            "roc_auc": 0.694444,
+            "average_precision": 0.570509
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 56,
+            "positive_samples": 36,
+            "mean_score": 0.598847,
+            "roc_auc": 0.259722,
+            "average_precision": 0.571986
+          },
+          "survival_gate": {
+            "samples": 56,
+            "positive_samples": 36,
+            "mean_score": 0.193801,
+            "roc_auc": 0.711111,
+            "average_precision": 0.850521
+          }
+        }
+      }
+    },
+    {
+      "video_name": "Vandalism036_x264",
+      "category": "Vandalism",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 70,
+            "positive_samples": 7,
+            "mean_score": 0.162699,
+            "roc_auc": 0.664399,
+            "average_precision": 0.150016
+          },
+          "survival_gate": {
+            "samples": 70,
+            "positive_samples": 7,
+            "mean_score": 0.08607,
+            "roc_auc": 0.678005,
+            "average_precision": 0.157883
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 70,
+            "positive_samples": 18,
+            "mean_score": 0.182822,
+            "roc_auc": 0.711538,
+            "average_precision": 0.353915
+          },
+          "survival_gate": {
+            "samples": 70,
+            "positive_samples": 18,
+            "mean_score": 0.096949,
+            "roc_auc": 0.729701,
+            "average_precision": 0.371511
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 70,
+            "positive_samples": 32,
+            "mean_score": 0.20104,
+            "roc_auc": 0.708882,
+            "average_precision": 0.555475
+          },
+          "survival_gate": {
+            "samples": 70,
+            "positive_samples": 32,
+            "mean_score": 0.107264,
+            "roc_auc": 0.734375,
+            "average_precision": 0.617578
+          }
+        }
+      }
+    }
+  ]
+}

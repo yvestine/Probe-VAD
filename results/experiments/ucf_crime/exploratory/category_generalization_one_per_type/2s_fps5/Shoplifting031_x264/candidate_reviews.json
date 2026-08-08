@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 32,
+      "quality": 0.789474,
+      "support_scales": [
+        2,
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 16,
+          "end_frame": 48,
+          "center_frame": 32,
+          "quality": 0.789474
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 16,
+          "end_frame": 80,
+          "center_frame": 48,
+          "quality": 0.548816
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 0,
+          "end_frame": 128,
+          "center_frame": 64,
+          "quality": 0.474013
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 0,
+      "focus_end_frame": 96
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a surveillance camera's perspective of a retail store's interior. A person is seated at a counter, seemingly working on a computer or handling paperwork. The timestamp indicates the footage was captured in October 2014. There are no significant actions or movements throughout the video; it appears to be a static scene with minor changes in lighting and shadows.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "6s": {
+        "caption": "A man is sitting at a desk in a store, working on a computer. A woman approaches the counter and begins to interact with him. The man continues to work on his computer while the woman talks to him.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.0667
+      },
+      "10s": {
+        "caption": "A man is sitting at a desk in a store, looking at his phone. A woman approaches him and hands him something. He takes it and puts it in his pocket. The woman then walks away.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 128,
+      "quality": 0.40148,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 0,
+          "end_frame": 256,
+          "center_frame": 128,
+          "quality": 0.40148
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 0,
+          "end_frame": 320,
+          "center_frame": 160,
+          "quality": 0.388158
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 64,
+      "focus_end_frame": 192
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The timestamp indicates the footage was captured on October 28, 2014, at 38:37 PM. The scene includes a counter with various items and papers scattered across it. A person is seated behind the counter, facing away from the camera, and appears to be working on paperwork or using a computer. Another individual is standing in front of the counter, facing the seated person, and seems to be engaged in a transaction or conversation. The environment is well-lit, and the floor is tiled.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "6s": {
+        "caption": "The video shows a retail store with a tiled floor and a counter filled with various items. There are at least two individuals present, one behind the counter and another customer. The person behind the counter appears to be handling items, possibly organizing or restocking them. The customer is standing at the counter, facing the person behind it. The timestamp on the footage indicates that the events are occurring in the evening.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2667,
+        "actual_end_seconds": 7.2667
+      },
+      "10s": {
+        "caption": "A man is sitting at a desk in an office, working on a computer. He is wearing a blue shirt and has short brown hair. There are several other people in the office, including a woman who is standing behind him and talking to him. The man is typing on the keyboard and looking at the screen. The woman is gesturing with her hands as she speaks.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 223,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 159,
+      "focus_end_frame": 287
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is working on a computer and appears to be focused on his work. There are no other significant actions or events in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.4333,
+        "actual_end_seconds": 8.4333
+      },
+      "6s": {
+        "caption": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. There are no significant actions or events taking place in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 10.4333
+      },
+      "10s": {
+        "caption": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, seemingly working on a computer or similar device. The timestamp indicates the recording was made in 2014. There are no significant actions or movements observed throughout the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.4333,
+        "actual_end_seconds": 12.4333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 268,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 204,
+      "focus_end_frame": 332
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man sitting at a desk in an office environment. He is focused on his computer screen and appears to be working. There are no significant actions or events taking place in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.9333,
+        "actual_end_seconds": 9.9333
+      },
+      "6s": {
+        "caption": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. The camera angle is from above, providing a bird's eye view of the workspace.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 11.9333
+      },
+      "10s": {
+        "caption": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, interacting with another individual who is standing. The person at the counter appears to be handling items on the counter, possibly during a transaction or service provision. The standing individual seems to be waiting or observing. The environment includes shelves stocked with various items, and the timestamp indicates the recording was made in 2014.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9333,
+        "actual_end_seconds": 13.9333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 358,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 294,
+      "focus_end_frame": 422
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and occasionally looking at the screen. There are other people in the office, but they are not interacting with him. The man appears to be working alone.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.9333,
+        "actual_end_seconds": 12.9333
+      },
+      "6s": {
+        "caption": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, seemingly working on a computer or similar device. Another individual approaches the counter from the left side of the frame and appears to interact with the seated person. The standing person then moves away towards the right side of the frame.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.9333,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and occasionally looking at the screen. At one point, he stands up and walks away from the desk.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.9333,
+        "actual_end_seconds": 14.9
+      }
+    }
+  }
+}

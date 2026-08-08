@@ -1,0 +1,702 @@
+{
+  "0": {
+    "caption": "In the video segment, there are two individuals standing in a dimly lit tunnel. One person is wearing a dark jacket and jeans, while the other is dressed in a light-colored hoodie and dark pants. They appear to be engaged in a conversation. The tunnel has white walls and a concrete floor with visible cracks and debris. There is a bright light source at the far end of the tunnel, indicating an exit or opening. The individuals remain stationary throughout the segment, and no significant motion changes or interactions occur.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "In the video, there are two individuals in a tunnel. One person is wearing a dark jacket and pants, while the other is dressed in a light-colored hoodie and jeans. The person in the hoodie appears to be gesturing or pointing towards something on the ground. There is no visible interaction between the two, and they seem to be stationary.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "Two individuals are standing in a tunnel. One person is leaning against the wall, while the other is facing them. A third person walks into the frame from the left side.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "Two men are standing in a tunnel, talking to each other. One man is wearing a black jacket and the other is wearing a gray sweatshirt. A woman with a white purse walks past them.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a tunnel with white walls and a gray floor. Two individuals are standing in the middle of the tunnel, one wearing a dark jacket and the other in a light-colored hoodie. They appear to be engaged in a conversation. As the video progresses, two more people walk into the frame from the right side, one wearing a white cap and the other with long hair tied back. The new arrivals seem to be walking past the two individuals conversing without interacting with them.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a tunnel with white walls and a gray floor. There are two individuals standing in the middle of the tunnel, one wearing a dark jacket and the other in a light-colored hoodie. A third person, wearing a white coat, walks towards them from the camera's perspective. The person in the hoodie appears to be gesturing or pointing at something on the wall. The lighting is artificial, coming from overhead fixtures.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals visible: two appear to be in a confrontation, one wearing a dark jacket and the other in a light-colored hoodie. The other two individuals are walking away from the scene, one of whom is wearing a white coat and carrying a bag. The confrontation seems to involve physical pushing or shoving, as the person in the hoodie is seen leaning against the wall while the other individual appears to be pushing them. The two individuals who are walking away do not seem to be involved in the altercation.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a group of four individuals walking through a narrow, dimly lit tunnel. The walls are white, and the floor appears to be concrete. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in a dark outfit. They are walking away from the camera's viewpoint, and their pace seems steady. There is no visible interaction between the individuals or any other notable actions taking place.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a group of four individuals walking through a narrow, dimly lit tunnel. The walls are white and the floor appears to be concrete. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in dark attire. They are walking away from the camera's viewpoint towards a brighter exit at the end of the tunnel. There is no visible interaction between the individuals and the environment other than their movement through the space.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals visible: two men and two women. The men are standing close to each other, engaged in conversation, while the women walk past them. One of the women is wearing a light-colored coat and carrying a bag, while the other woman is dressed in dark clothing. The men are dressed casually, one in a dark jacket and the other in a lighter jacket. The video captures their movement as they navigate through the tunnel, with no significant changes in their actions or interactions.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a group of four individuals in a narrow, dimly lit tunnel. The walls are white, and the floor appears to be made of concrete. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in dark attire. They seem to be engaged in a conversation as they walk forward. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "In the video, there are four individuals walking through a narrow tunnel. The tunnel has white walls and a concrete floor. The lighting is artificial, coming from overhead fixtures. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in dark attire. They appear to be engaged in conversation as they walk. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, there are four individuals walking through a tunnel. The tunnel has white walls and a concrete floor. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in dark attire. They appear to be walking at a normal pace, and there is no visible interaction between them. The lighting in the tunnel is artificial, coming from overhead fixtures. There are no other objects or people visible in the scene.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person in a dark jacket is walking down a tunnel. They are following three other people who are walking ahead of them. The person in the dark jacket is walking at a normal pace.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a person is seen walking in a tunnel. The person is wearing a black jacket and blue jeans. They are walking towards the camera. There are other people in the background, but they are not clearly visible. The person in the foreground is walking at a normal pace.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person in a dark jacket and jeans is seen running towards a group of people walking in a tunnel. The person runs past the group, who continue walking without noticing him.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, there are four individuals walking through a tunnel. The tunnel has white walls and a concrete floor. The individuals are wearing casual clothing, with one person wearing a hoodie. They walk in a single file line, with two people in front and two behind. As they walk, they pass by several graffiti-covered walls. The lighting is dim, and the only source of light appears to be from the entrance of the tunnel.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "In the video, there are four individuals in a tunnel. Two of them are standing against the wall, while the other two are walking towards them. The individuals walking are wearing light-colored clothing, and one of them is carrying a bag. As they approach, the two individuals against the wall turn to face them. There is no visible interaction between the groups, and the video ends with all four individuals standing in the tunnel.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, there are four individuals in a tunnel. Two of them are standing against the wall, while the other two are walking towards them. The individuals walking appear to be engaged in a conversation as they approach the others. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "In the video, there are four individuals in a tunnel-like structure with white walls and a concrete floor. Two people are standing closer to the camera, while two others are further away. The individuals closer to the camera appear to be engaged in conversation or interaction, while the ones further away seem to be observing or waiting. There is no significant motion or interaction between the groups, and the scene remains static throughout the video.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "In the video, there are four individuals in a tunnel-like structure with white walls and a concrete floor. Two people are standing against the wall on the left side of the frame, while two others are positioned further back near the center. The individuals in the foreground appear to be stationary, leaning against the wall, while those in the background seem to be engaged in a conversation or interaction. There is no significant motion or escalation visible in this segment.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "In the video, there are four individuals in a tunnel-like corridor. Two of them are standing against the wall on the left side, while the other two are walking towards the camera from the far end of the corridor. The individuals walking appear to be engaged in conversation as they move. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals visible: two standing against the wall on the left side of the frame, one facing away from the camera, and another pair further down the tunnel, engaged in conversation. The individuals are dressed in casual clothing, with one person wearing a hoodie. The lighting is consistent throughout the tunnel, and there is no significant motion or interaction between the people.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals visible: two standing against the wall on the left side of the frame, one facing away from the camera, and another standing further down the tunnel, facing towards the camera. The individuals appear to be stationary throughout the sequence.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals present: two standing against the left wall, one leaning on the other, and another pair further down the tunnel facing each other. The individuals are dressed in casual clothing, with one person wearing a hoodie. The lighting is consistent throughout the video, and there is no significant motion or interaction between the people.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "In the video, there are four individuals standing in a tunnel. Two of them are leaning against the wall on the left side, while the other two are standing closer to the center of the tunnel. The individuals in the center appear to be engaged in a conversation or interaction, with one person gesturing towards the others. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "In the video, there are four individuals in a tunnel. Two of them are standing close to the wall on the left side, while the other two are further down the tunnel, closer to the light at the end. The individuals near the wall appear to be stationary, while the two further away seem to be engaged in a conversation or interaction. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "In the video, there are three individuals standing in a tunnel. Two of them are leaning against the wall while the third is facing them. The person facing the other two appears to be speaking or gesturing towards them. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person in a black jacket is walking down a hallway. They are followed by two people, one wearing a blue jacket and the other wearing a white jacket. The person in the black jacket stops and turns around to face the two people following them. The person in the blue jacket then walks away from the group.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, there are three individuals in a tunnel. Two of them are standing close to each other, while the third person is further away. The two individuals near each other appear to be engaged in a conversation or interaction, with one of them gesturing towards the other. The person further away seems to be observing the interaction. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is standing against the wall, while two others are facing each other. The person on the left side of the frame is wearing a dark jacket and jeans, and they appear to be gesturing with their hands. The person in the middle is wearing a light-colored hoodie and jeans, and they seem to be listening or reacting to the person on the left. The person on the right side of the frame is wearing a dark jacket and jeans, and they appear to be observing the interaction between the other two. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is wearing a black jacket and jeans, another is wearing a gray hoodie and jeans, and the third person is wearing a black jacket and pants. The person in the black jacket and jeans is walking towards the other two people. The person in the gray hoodie and jeans is standing still, facing the person in the black jacket and jeans. The person in the black jacket and pants is standing still, facing the person in the black jacket and jeans. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is standing against the wall, another is walking towards them, and the third person is standing further back in the tunnel. The person walking towards the first individual appears to be carrying something in their hand.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is leaning against the wall on the left side of the frame, wearing a hoodie and jeans. Another individual, dressed in dark clothing, is walking towards the camera from the far end of the tunnel. A third person, also in dark attire, is standing near the center of the frame, facing the person who is walking. The person walking appears to be approaching the other two individuals.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is leaning against the wall on the left side of the frame, wearing a light-colored hoodie and jeans. Another individual, dressed in dark clothing, is walking towards the camera from the far end of the tunnel. A third person, also in dark attire, is standing near the center of the frame, facing the person who is walking. The tunnel has white walls and a concrete floor, with visible markings on the walls. The lighting is artificial, coming from overhead fixtures. There is no apparent motion change or escalation in the scene.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is leaning against the wall on the left side of the frame, wearing a hooded sweatshirt and jeans. Another individual, dressed in dark clothing, is walking towards the camera from the far end of the tunnel. A third person, also in dark attire, is standing near the center of the frame, facing the person who is walking. The tunnel has white walls and a concrete floor, and the lighting is artificial. There is no visible motion or interaction between the individuals.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "In the video, there are four individuals in a tunnel. One person is leaning against the wall on the left side of the frame, wearing a gray hoodie and jeans. Another individual, dressed in dark clothing, is walking towards the camera. Two other people are standing further down the tunnel, one of whom appears to be wearing a white shirt. The tunnel has white walls and a concrete floor. There is no visible motion or interaction between the individuals.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are three individuals visible: one person is leaning against the wall on the left side, wearing a light-colored hoodie and jeans. Two other people are walking towards the camera from the far end of the tunnel; they appear to be engaged in a conversation. The person closest to the camera is wearing dark clothing, while the second person is slightly behind and also dressed in dark attire. No significant motion or interaction is observed between the individuals, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals present: one person is leaning against the wall on the left side, wearing a light-colored hoodie and jeans. Three other people are walking towards the camera from the far end of the tunnel. The first two individuals in this group are wearing dark jackets, while the third person is wearing a lighter jacket. As they approach, the person in the middle appears to be carrying something that looks like a bag or a backpack. The individuals do not interact with each other, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals present: one person is leaning against the wall, wearing a light-colored hoodie and jeans, while three others are standing in the middle of the tunnel. The three individuals are engaged in a physical altercation, with one person being pushed or shoved by another. The motion is dynamic, with the individuals moving around each other in a confrontational manner.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is standing against the wall while two others approach. The two individuals engage in a physical altercation with the person standing against the wall. They push and shove him, causing him to stumble backward.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is standing against the wall while two others are walking towards them. The two individuals start fighting with the person standing against the wall. During the fight, one of the attackers falls to the ground.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "In the video, two individuals are seen walking in a tunnel. One person is wearing a hoodie and the other is wearing a jacket. The person in the hoodie suddenly attacks the person in the jacket, causing them to fall to the ground. The attacker then proceeds to punch the person on the ground multiple times.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "In the video segment, there are three individuals in a narrow corridor. One person is lying on the ground, while two others are standing over them. The person on the ground appears to be motionless. The two standing individuals are engaged in a physical altercation, with one of them grabbing the other's arm and pulling them towards the person on the ground. The person being pulled is resisting and trying to break free. The situation seems tense and potentially dangerous.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, while two others are standing and appear to be engaged in a physical altercation. The person on the ground remains motionless throughout the video, while the two standing individuals move around each other, occasionally making contact. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "In the video segment, there are three individuals in a tunnel. One person is lying on the ground, seemingly unconscious or incapacitated. Two other people are standing nearby, one of them appears to be trying to help the person on the ground while the other is observing. The person attempting to help is bending over and reaching towards the person on the ground, possibly checking their condition or trying to provide assistance. The observer is standing slightly behind and to the side, watching the situation unfold. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, while two others are standing nearby. The standing individuals appear to be engaged in a physical altercation, with one of them pushing or shoving the other. The person on the ground remains motionless throughout the interaction.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, while two others are standing nearby. The standing individuals appear to be engaged in a physical altercation, with one of them pushing or shoving the other. The person on the ground remains motionless throughout the interaction.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, seemingly unconscious or incapacitated. Two other people are standing over them, one of whom appears to be restraining the person on the ground. The actions suggest a physical altercation or an arrest. The environment is dimly lit, and the walls of the tunnel are plain. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, seemingly unconscious or incapacitated. Two other people are standing over them, one of whom appears to be trying to help or check on the person on the ground. The actions suggest an emergency situation where someone has fallen or collapsed, and others are responding to the incident.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, while two others are standing nearby. The person on the ground appears to be motionless, and the two standing individuals seem to be engaged in some sort of interaction with each other. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, there are three individuals in a tunnel. One person is lying on the ground, another is sitting up against the wall, and the third is standing nearby. The person on the ground appears to be motionless, while the other two are engaged in some form of interaction. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a tunnel with white walls and a gray floor. There are three individuals visible: one person is lying on the ground, another is sitting up against the wall, and a third person is standing nearby. The standing individual appears to be interacting with the seated person, while the person on the ground remains motionless. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a tunnel with white walls and a concrete floor. There are two individuals on the ground, one lying face down and the other sitting up against the wall. A third person is standing nearby, facing the seated individual. The standing person appears to be in motion, possibly walking or turning towards the seated individual. The lighting is artificial, coming from overhead fixtures.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a tunnel with white walls and a concrete floor. There are three individuals visible: one person is lying on the ground, another is sitting against the wall, and a third person is walking away from the camera. The person on the ground appears to be motionless, while the seated individual is also not moving. The walking person is dressed in dark clothing and is moving towards the exit of the tunnel.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "In the video, there is a tunnel with white walls and a gray floor. A person in a blue shirt and dark pants is lying on the ground, seemingly motionless. Another individual, wearing a light-colored top and dark pants, is sitting against the wall, leaning forward with their hands on the ground. A third person, dressed in dark clothing, is walking away from the scene towards the tunnel's exit. The walking person appears to be moving at a normal pace. There are no visible signs of escalation or instability in the scene.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "In the video, there are two individuals on the ground in a tunnel. One person is lying down while the other is sitting up. A third person is walking away from them. The person who was sitting up gets up and starts running towards the camera.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "In the video, there are two individuals in a tunnel. One person is lying on the ground, while the other is standing over them. The standing individual appears to be trying to help or check on the person on the ground. There are no visible signs of aggression or violence.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person is seen running down a hallway. Another person is lying on the ground. The runner approaches the person on the ground and appears to be attacking them.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, a person is seen running down a tunnel. Another individual is lying on the ground. The runner then tackles the person on the ground and engages in a physical altercation with them.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person is lying on the ground in a tunnel. Another person is kneeling over them, appearing to be restraining or attacking them. In the background, two other individuals are walking away from the scene.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and begins to attack the person on the ground. The attacker continues to assault the person for an extended period of time.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "In the video, there are two individuals on the ground in a tunnel. One person is lying on their back while the other is on top of them, appearing to be restraining or pinning them down. The person on top is holding the other's arms and legs, preventing them from moving. There are no significant changes in motion or interaction throughout the video segment.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "In the video, there are two individuals on the ground in a tunnel. One person is lying on their back while the other is on top of them, appearing to be restraining or pinning them down. The person on the bottom is wearing a light-colored shirt and dark pants, while the person on top is wearing a dark-colored jacket and lighter pants. There are no visible signs of movement or interaction between the two individuals, and the surrounding area appears to be empty.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "In the video, there are two individuals on the ground in a tunnel. One person is lying on their back while the other is on top of them, appearing to be restraining or pinning them down. The person on the bottom is wearing a light-colored shirt and dark pants, while the person on top is wearing a dark-colored jacket and lighter pants. There are no significant changes in motion or interaction between the two individuals throughout the video.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "In the video, there are two individuals on the ground in a tunnel. One person is lying on their back while the other is on top of them, appearing to be restraining or pinning them down. The person on the bottom is wearing a light-colored shirt and dark pants, while the person on top is wearing a dark-colored jacket and lighter pants. There are no visible signs of movement or interaction between the two individuals, and the surrounding area appears to be empty with no other people or objects of interest.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a tunnel with white walls and a gray floor. There are two individuals on the ground, one wearing a light-colored shirt and dark pants, and the other in a darker outfit. The person in the lighter clothing is on top of the other, appearing to be restraining or subduing them. In the background, there are three people walking away from the camera's viewpoint. The timestamp on the video reads 17:18:58.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. Two individuals are visible in the foreground, one lying on their back while the other is on top of them, seemingly restraining or pinning them down. The person on the ground appears to be wearing a dark-colored jacket and pants, while the individual on top is dressed in lighter clothing. In the background, two more people can be seen walking away from the camera's viewpoint. The timestamp indicates that the footage was recorded at 17:18:59.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a dimly lit tunnel with white walls and a concrete floor. Two individuals are visible in the foreground, one lying on the ground while the other is kneeling over them. The person on the ground appears to be wearing dark clothing, while the kneeling individual is dressed in lighter attire. In the background, two more people can be seen walking away from the camera's viewpoint. The timestamp on the footage indicates it was recorded at 17:18:59.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a surveillance camera's perspective of a tunnel with white walls and a gray floor. In the foreground, there is a person lying on the ground, dressed in dark clothing, while another individual wearing a light-colored shirt and dark pants appears to be restraining or pinning them down. The person on the ground seems to be struggling, as indicated by their body movements. In the background, two other individuals are walking away from the scene, seemingly unaware of the altercation. The timestamp on the footage indicates that it was recorded at 17:19:00.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

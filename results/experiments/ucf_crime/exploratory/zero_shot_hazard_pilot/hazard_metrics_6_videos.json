@@ -1,0 +1,482 @@
+{
+  "task": "training-free causal multi-horizon hazard anticipation",
+  "reused_inputs": [
+    "causal observations generated from trailing raw-video windows"
+  ],
+  "not_reused": [
+    "direct cumulative-risk Llama outputs",
+    "author results",
+    "ground truth during inference"
+  ],
+  "quality_checks": {
+    "prediction_anchors": 309,
+    "parse_status_counts": {
+      "bracket_list": 308,
+      "hazard_only_list": 1
+    },
+    "invalid_predictions": 0,
+    "current_score_missing": 1,
+    "future_frame_violations": 0
+  },
+  "overall": {
+    "current_detection": {
+      "samples": 309,
+      "positive_samples": 35,
+      "mean_score": 0.257443,
+      "roc_auc": 0.530083,
+      "average_precision": 0.127896
+    },
+    "interval_hazards": {
+      "0_2s": {
+        "samples": 274,
+        "positive_samples": 22,
+        "mean_score": 0.152852,
+        "roc_auc": 0.582071,
+        "average_precision": 0.109229
+      },
+      "2_5s": {
+        "samples": 274,
+        "positive_samples": 33,
+        "mean_score": 0.197346,
+        "roc_auc": 0.464479,
+        "average_precision": 0.113833
+      },
+      "5_10s": {
+        "samples": 274,
+        "positive_samples": 33,
+        "mean_score": 0.141651,
+        "roc_auc": 0.518106,
+        "average_precision": 0.128943
+      }
+    },
+    "cumulative_anticipation": {
+      "2s": {
+        "samples": 274,
+        "positive_samples": 22,
+        "mean_score": 0.152852,
+        "roc_auc": 0.582071,
+        "average_precision": 0.109229,
+        "events": 6,
+        "events_warned": 1,
+        "event_recall": 0.166667,
+        "mean_lead_seconds": 0.466667,
+        "median_lead_seconds": 0.466667,
+        "false_alarm_episodes": 4,
+        "false_alarms_per_minute": 1.476317,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "5s": {
+        "samples": 274,
+        "positive_samples": 55,
+        "mean_score": 0.281184,
+        "roc_auc": 0.510502,
+        "average_precision": 0.204567,
+        "events": 6,
+        "events_warned": 2,
+        "event_recall": 0.333333,
+        "mean_lead_seconds": 1.766667,
+        "median_lead_seconds": 1.766667,
+        "false_alarm_episodes": 9,
+        "false_alarms_per_minute": 3.321714,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "10s": {
+        "samples": 274,
+        "positive_samples": 88,
+        "mean_score": 0.344922,
+        "roc_auc": 0.544263,
+        "average_precision": 0.345304,
+        "events": 6,
+        "events_warned": 3,
+        "event_recall": 0.5,
+        "mean_lead_seconds": 7.355556,
+        "median_lead_seconds": 6.333333,
+        "false_alarm_episodes": 8,
+        "false_alarms_per_minute": 2.952635,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      }
+    }
+  },
+  "per_video": [
+    {
+      "video_name": "Abuse028_x264",
+      "category": "Abuse",
+      "ground_truth_intervals": [
+        [
+          165,
+          240
+        ]
+      ],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 84,
+          "positive_samples": 4,
+          "mean_score": 0.097407,
+          "roc_auc": 0.74375,
+          "average_precision": 0.104873
+        },
+        "2_5s": {
+          "samples": 84,
+          "positive_samples": 6,
+          "mean_score": 0.115215,
+          "roc_auc": 0.330128,
+          "average_precision": 0.063121
+        },
+        "5_10s": {
+          "samples": 84,
+          "positive_samples": 1,
+          "mean_score": 0.081617,
+          "roc_auc": 0.090361,
+          "average_precision": 0.011905
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 84,
+          "positive_samples": 4,
+          "mean_score": 0.097407,
+          "roc_auc": 0.74375,
+          "average_precision": 0.104873
+        },
+        "5s": {
+          "samples": 84,
+          "positive_samples": 10,
+          "mean_score": 0.166856,
+          "roc_auc": 0.522297,
+          "average_precision": 0.13906
+        },
+        "10s": {
+          "samples": 84,
+          "positive_samples": 11,
+          "mean_score": 0.205044,
+          "roc_auc": 0.458281,
+          "average_precision": 0.13384
+        }
+      },
+      "current_detection": {
+        "samples": 89,
+        "positive_samples": 5,
+        "mean_score": 0.124719,
+        "roc_auc": 0.425,
+        "average_precision": 0.053639
+      }
+    },
+    {
+      "video_name": "Arson009_x264",
+      "category": "Arson",
+      "ground_truth_intervals": [
+        [
+          220,
+          315
+        ]
+      ],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 41,
+          "positive_samples": 4,
+          "mean_score": 0.234463,
+          "roc_auc": 0.621622,
+          "average_precision": 0.14899
+        },
+        "2_5s": {
+          "samples": 41,
+          "positive_samples": 5,
+          "mean_score": 0.344195,
+          "roc_auc": 0.344444,
+          "average_precision": 0.105952
+        },
+        "5_10s": {
+          "samples": 41,
+          "positive_samples": 5,
+          "mean_score": 0.299969,
+          "roc_auc": 0.405556,
+          "average_precision": 0.121662
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 41,
+          "positive_samples": 4,
+          "mean_score": 0.234463,
+          "roc_auc": 0.621622,
+          "average_precision": 0.14899
+        },
+        "5s": {
+          "samples": 41,
+          "positive_samples": 9,
+          "mean_score": 0.474301,
+          "roc_auc": 0.454861,
+          "average_precision": 0.209231
+        },
+        "10s": {
+          "samples": 41,
+          "positive_samples": 14,
+          "mean_score": 0.601502,
+          "roc_auc": 0.425926,
+          "average_precision": 0.30336
+        }
+      },
+      "current_detection": {
+        "samples": 47,
+        "positive_samples": 6,
+        "mean_score": 0.487234,
+        "roc_auc": 0.745935,
+        "average_precision": 0.237343
+      }
+    },
+    {
+      "video_name": "Normal_Videos_345_x264",
+      "category": "Normal",
+      "ground_truth_intervals": [],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.055836,
+          "roc_auc": null,
+          "average_precision": null
+        },
+        "2_5s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.073928,
+          "roc_auc": null,
+          "average_precision": null
+        },
+        "5_10s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.080868,
+          "roc_auc": null,
+          "average_precision": null
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.055836,
+          "roc_auc": null,
+          "average_precision": null
+        },
+        "5s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.124575,
+          "roc_auc": null,
+          "average_precision": null
+        },
+        "10s": {
+          "samples": 14,
+          "positive_samples": 0,
+          "mean_score": 0.192177,
+          "roc_auc": null,
+          "average_precision": null
+        }
+      },
+      "current_detection": {
+        "samples": 14,
+        "positive_samples": 0,
+        "mean_score": 0.046429,
+        "roc_auc": null,
+        "average_precision": null
+      }
+    },
+    {
+      "video_name": "Robbery106_x264",
+      "category": "Robbery",
+      "ground_truth_intervals": [
+        [
+          480,
+          600
+        ]
+      ],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 67,
+          "positive_samples": 3,
+          "mean_score": 0.071401,
+          "roc_auc": 0.473958,
+          "average_precision": 0.053959
+        },
+        "2_5s": {
+          "samples": 67,
+          "positive_samples": 6,
+          "mean_score": 0.107855,
+          "roc_auc": 0.622951,
+          "average_precision": 0.138625
+        },
+        "5_10s": {
+          "samples": 67,
+          "positive_samples": 9,
+          "mean_score": 0.079173,
+          "roc_auc": 0.630268,
+          "average_precision": 0.180674
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 67,
+          "positive_samples": 3,
+          "mean_score": 0.071401,
+          "roc_auc": 0.473958,
+          "average_precision": 0.053959
+        },
+        "5s": {
+          "samples": 67,
+          "positive_samples": 9,
+          "mean_score": 0.162625,
+          "roc_auc": 0.570881,
+          "average_precision": 0.158776
+        },
+        "10s": {
+          "samples": 67,
+          "positive_samples": 18,
+          "mean_score": 0.216351,
+          "roc_auc": 0.624717,
+          "average_precision": 0.320825
+        }
+      },
+      "current_detection": {
+        "samples": 75,
+        "positive_samples": 8,
+        "mean_score": 0.140667,
+        "roc_auc": 0.541978,
+        "average_precision": 0.143867
+      }
+    },
+    {
+      "video_name": "Shooting037_x264",
+      "category": "Shooting",
+      "ground_truth_intervals": [
+        [
+          140,
+          260
+        ]
+      ],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 12,
+          "positive_samples": 4,
+          "mean_score": 0.072397,
+          "roc_auc": 0.3125,
+          "average_precision": 0.333333
+        },
+        "2_5s": {
+          "samples": 12,
+          "positive_samples": 5,
+          "mean_score": 0.086084,
+          "roc_auc": 0.285714,
+          "average_precision": 0.416667
+        },
+        "5_10s": {
+          "samples": 12,
+          "positive_samples": 0,
+          "mean_score": 0.019927,
+          "roc_auc": null,
+          "average_precision": null
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 12,
+          "positive_samples": 4,
+          "mean_score": 0.072397,
+          "roc_auc": 0.3125,
+          "average_precision": 0.333333
+        },
+        "5s": {
+          "samples": 12,
+          "positive_samples": 9,
+          "mean_score": 0.119246,
+          "roc_auc": 0.0,
+          "average_precision": 0.75
+        },
+        "10s": {
+          "samples": 12,
+          "positive_samples": 9,
+          "mean_score": 0.125144,
+          "roc_auc": 0.0,
+          "average_precision": 0.75
+        }
+      },
+      "current_detection": {
+        "samples": 20,
+        "positive_samples": 8,
+        "mean_score": 0.17,
+        "roc_auc": 0.755208,
+        "average_precision": 0.620833
+      }
+    },
+    {
+      "video_name": "Vandalism017_x264",
+      "category": "Vandalism",
+      "ground_truth_intervals": [
+        [
+          270,
+          330
+        ],
+        [
+          780,
+          840
+        ]
+      ],
+      "interval_hazards": {
+        "0_2s": {
+          "samples": 56,
+          "positive_samples": 7,
+          "mean_score": 0.315214,
+          "roc_auc": 0.6793,
+          "average_precision": 0.197965
+        },
+        "2_5s": {
+          "samples": 56,
+          "positive_samples": 11,
+          "mean_score": 0.374797,
+          "roc_auc": 0.381818,
+          "average_precision": 0.1724
+        },
+        "5_10s": {
+          "samples": 56,
+          "positive_samples": 18,
+          "mean_score": 0.23182,
+          "roc_auc": 0.277778,
+          "average_precision": 0.2701
+        }
+      },
+      "cumulative_horizons": {
+        "2s": {
+          "samples": 56,
+          "positive_samples": 7,
+          "mean_score": 0.315214,
+          "roc_auc": 0.6793,
+          "average_precision": 0.197965
+        },
+        "5s": {
+          "samples": 56,
+          "positive_samples": 18,
+          "mean_score": 0.526986,
+          "roc_auc": 0.432749,
+          "average_precision": 0.285165
+        },
+        "10s": {
+          "samples": 56,
+          "positive_samples": 36,
+          "mean_score": 0.605993,
+          "roc_auc": 0.284722,
+          "average_precision": 0.572523
+        }
+      },
+      "current_detection": {
+        "samples": 64,
+        "positive_samples": 8,
+        "mean_score": 0.483594,
+        "roc_auc": 0.241071,
+        "average_precision": 0.103544
+      }
+    }
+  ]
+}

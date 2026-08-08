@@ -1,0 +1,982 @@
+{
+  "0": {
+    "caption": "A white pickup truck is parked on the side of a dirt road. A person wearing a yellow shirt and dark pants is standing next to the open back of the truck, facing away from the camera. The person appears to be interacting with something or someone inside the truck bed.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one of whom appears to be wearing a yellow vest. The truck's tailgate is open. The surroundings include a sidewalk and a grassy area.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A white pickup truck is parked on the side of a dirt road. Two individuals are standing next to the open back of the truck, which contains various items. One person appears to be wearing a yellow shirt and is bending over, possibly interacting with something in the truck bed. The other individual is standing upright. There is no visible motion or interaction between the two people.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A white pickup truck is parked on the side of a dirt road. A person wearing a yellow shirt and dark pants is standing next to the open back of the truck, facing away from the camera. The person appears to be interacting with something or someone inside the truck bed. The ground is uneven and covered with small rocks and debris.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's tailgate is open, and there are two individuals standing near the back of the vehicle. One person appears to be wearing a yellow shirt, while the other is in darker clothing. They seem to be engaged in some activity involving the contents of the truck bed. The surrounding area is a dirt lot with no visible vegetation. The timestamp indicates that the footage was captured on October 31, 2013, at 09:11:58.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's tailgate is open, and there are two individuals standing near the back of the vehicle. One person appears to be wearing a uniform, suggesting they might be a law enforcement officer or a worker in some capacity. The other individual is dressed in civilian clothing. There is no visible interaction between the two people, and their actions are limited to standing by the truck. The surroundings include a dirt area adjacent to the road, with no other vehicles or pedestrians in sight.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's rear door is open, and there are two individuals near the back of the vehicle. One person appears to be wearing a uniform, possibly indicating they are a law enforcement officer or a worker in some capacity. The other individual is dressed in civilian clothing. The environment looks like a construction site with dirt and debris scattered around. There is no visible interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's tailgate is open, and there are two individuals standing near the back of the vehicle. One person appears to be wearing a dark jacket and pants, while the other is in lighter clothing. There is a third individual walking away from the scene towards the right side of the frame. The ground is covered with dirt and small rocks, and there is a curb visible along the edge of the road. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:11.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a white pickup truck parked on the side of a road with its tailgate down. Two individuals are standing near the open tailgate, one of whom appears to be wearing a high-visibility vest. A third person is walking away from the vehicle towards the camera's viewpoint. The ground is covered in dirt and small rocks. There is no visible interaction between the individuals and the vehicle, and the person walking does not appear to be engaging with either.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's rear door is open, and there are two individuals standing near the back of the vehicle. One person appears to be wearing a light-colored shirt and dark pants, while the other is in darker clothing. A third individual, dressed in a blue jacket and dark pants, is walking away from the truck towards the right side of the frame. The ground is covered with gravel, and there is a sidewalk adjacent to the road. The timestamp indicates that the footage was recorded on October 31, 2013, at 09:12:02.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one of whom appears to be wearing a uniform. Another person is walking away from the vehicle towards the right side of the frame. The ground is covered with dirt and small rocks. The timestamp indicates that the footage was captured on October 31, 2013, at 09:12:03.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one of whom appears to be wearing a high-visibility vest. A third person is walking away from the vehicle towards the camera. The ground is covered with gravel and there is a curb visible in the foreground. The timestamp indicates that the footage was captured on October 31, 2013, at 09:12:43.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is walking away from the vehicle. Another individual is standing near the open back of the truck, seemingly engaged in an activity that involves handling items. The ground appears to be dirt or gravel, and there are no other visible vehicles or people in the immediate vicinity.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A man in a blue shirt and black pants is walking towards a white truck with its back door open. There are two other people standing near the truck, one of whom is wearing a yellow shirt. The man in the blue shirt walks past the truck and continues walking away.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, there is a white truck parked on the side of the road. A person wearing a blue shirt and black pants is walking towards the truck. Another person is standing next to the truck, facing away from the camera. The person in blue walks past the truck and continues walking away.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A man is walking in a parking lot. There are two men standing next to a white truck. The man walking is wearing a blue shirt and black pants. The two men standing next to the truck are wearing white shirts and black pants. One of the men standing next to the truck is holding a gun.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a dark jacket and pants is walking towards the back of the truck. Another person, dressed in a light-colored shirt and dark pants, is standing near the front of the truck. The person walking towards the truck appears to be carrying something in their hand. There are no other visible actions or interactions between the individuals or objects in the scene.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A white truck is parked on the side of a road. A person wearing a yellow shirt is standing next to the open back of the truck, facing away from the camera. Another person in dark clothing walks towards the truck from the right side of the frame. The person in dark clothing approaches the truck and stops near the person in the yellow shirt.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a dark jacket and pants is standing next to the open back of the truck. Another individual, dressed in a light-colored shirt and dark pants, is walking away from the truck towards the right side of the frame. There is also a third person, wearing a dark jacket and pants, who is walking towards the truck from the left side of the frame. The ground appears to be dirt or gravel, and there are no other vehicles or people visible in the scene.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing near the open back of the truck, another is walking away from the vehicle, and the third is approaching it. The ground appears to be dirt or gravel, and there is no significant motion or interaction between the people and the truck.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing next to the open back of the truck, another is walking towards the truck from the right side of the frame, and the third is walking away from the truck towards the left side of the frame. The person by the truck appears to be interacting with something in the back of the vehicle, while the other two individuals seem to be moving independently of each other. No significant motion changes or escalations are observed.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing next to the open back of the truck, another is walking towards the vehicle from the right side of the frame, and a third person is standing further away on the right side. The person by the truck appears to be interacting with the contents of the truck bed. The person approaching the truck is walking at a steady pace. The third individual is stationary. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing by the open back of the truck, another is walking towards the vehicle, and a third is walking away from it. The person by the truck appears to be interacting with the contents of the truck bed. The surroundings include a dirt area adjacent to the road, and there are no other vehicles or people in the immediate vicinity.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a white pickup truck parked on the side of a road with its tailgate down. There are at least three individuals visible, two standing near the back of the truck and one walking towards it from the right side of the frame. The ground is covered in dirt and small rocks. The timestamp indicates the footage was recorded on October 31, 2013, at 09:12:10.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing next to the open back of the truck, another is walking away from the vehicle towards the right side of the frame, and a third person is standing further back near the road's edge. The ground appears to be dry and dusty with some scattered debris. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:10.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a purple shirt and dark pants is seen walking towards the back of the truck. Another individual, dressed in a dark outfit, is standing near the front of the vehicle. The person in purple appears to be opening the tailgate of the truck. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are three individuals visible: one person is standing next to the open back of the truck, another is walking towards the vehicle from the right side of the frame, and a third person is walking away from the truck towards the left side of the frame. The person by the truck appears to be interacting with the contents of the truck bed. The surroundings include a dirt area and a paved road.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one of whom is wearing a dark jacket and jeans, while the other is in lighter clothing. The person in darker attire appears to be interacting with the open tailgate of the truck, possibly loading or unloading items. Another individual is walking away from the scene towards the right side of the frame. The ground is covered with dirt and small rocks, and there is a curb visible along the edge of the road.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A white pickup truck is parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open tailgate, facing the back of the truck. Another person in a light-colored shirt and dark pants is walking away from the truck towards the right side of the frame. The ground is covered with dirt and small rocks.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual in a light-colored shirt and dark pants is walking towards the truck from the right side of the frame. The ground appears to be dry and dusty, with no visible vegetation.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A white pickup truck is parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open tailgate, facing the back of the truck. Another person in a light-colored shirt and dark pants is standing near the front of the truck, facing the driver's side. The person at the tailgate appears to be interacting with something or someone inside the truck bed. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual in a light-colored shirt and dark pants is standing near the front of the truck, facing the person at the back. The person at the back appears to be loading or unloading items from the truck bed. There are no visible interactions between the two individuals, and the scene remains static throughout the video.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A white truck is parked on the side of a road. A person in a blue shirt is standing next to the truck, facing away from the camera. Another person in a white shirt is standing behind the truck, facing the person in the blue shirt. The person in the white shirt appears to be holding something in their hand. There are no other visible actions or interactions between the individuals or objects in the video.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, there is a white pickup truck parked on the side of the road. Two individuals are standing near the back of the truck, with one person appearing to be loading or unloading items from the open tailgate. The surrounding area is a dirt lot with some grass and rocks visible. There are no other vehicles or people in the immediate vicinity.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing near the open back of the truck. One person appears to be wearing a dark jacket and pants, while the other is in lighter clothing. The person in darker attire seems to be bending over, possibly interacting with something or someone inside the truck bed. The person in lighter clothing stands upright, facing the truck. There is no visible motion or interaction between the two individuals and the surroundings remain static throughout the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, partially obscured by the truck, appears to be handing something to the person in blue. The ground is covered with dirt and small rocks. There are no other visible actions or interactions between the individuals or objects.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck, which is filled with various items. One person appears to be wearing a dark jacket and pants, while the other is in lighter clothing. They seem to be engaged in an activity involving the contents of the truck bed. The surroundings include a dirt area adjacent to the road, and there's a timestamp visible in the upper right corner of the footage.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the open back of the truck, which appears to be empty. The ground is covered with dirt and small rocks. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:17. No significant motion or interaction between the individuals and the truck is observed throughout the video segment.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the open back of the truck, which is filled with various items. The ground appears to be dirt or gravel, and there is no significant motion or interaction between the individuals and their surroundings.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing next to the open back of the truck, which is filled with various items. One person appears to be wearing a blue shirt and dark pants, while the other is in a lighter-colored top and darker bottoms. The person in blue seems to be interacting with the contents of the truck bed, possibly organizing or retrieving items. The surrounding area is mostly barren with patches of grass and dirt. No significant motion or interaction between the individuals and their environment is observed beyond this.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck. One person appears to be wearing a blue shirt and dark pants, while the other is in a lighter-colored top and darker bottoms. The person in blue seems to be reaching into the back of the truck, possibly retrieving or placing an object. There is no visible interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, there is a white pickup truck parked on the side of the road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, partially obscured, appears to be interacting with the person at the truck. The ground is covered in dirt and gravel, and there are no other vehicles or people visible in the immediate vicinity.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "In the video, there is a white truck parked on the side of the road. Two individuals are standing next to the truck, and one of them is opening the back door of the truck. The person who opened the door then reaches inside the truck.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A white pickup truck is parked on the side of a road. Two individuals are standing near the open back of the truck, which appears to be filled with items. One person is wearing a blue shirt and is facing the truck, while the other person is partially obscured and their actions are unclear. The scene is static with no significant motion or interaction between the individuals.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, there is a white truck parked on the side of the road. Two individuals are standing next to the truck, one of them is wearing a blue shirt and the other is wearing a black shirt. The person in the blue shirt is opening the back door of the truck. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A white pickup truck is parked on the side of a road. Two individuals are standing near the open back of the truck, which contains various items. One person appears to be wearing a blue shirt and is bending over, possibly interacting with something in the truck bed. The other individual is standing upright and facing the person in blue. There is no significant motion or interaction between the two people.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck. One person appears to be wearing a blue shirt and dark pants, while the other is in a lighter-colored top and darker pants. The person in the blue shirt seems to be bending over and interacting with something inside the truck bed. There is no visible motion or interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "In the video, there is a white pickup truck parked on the side of the road. Two individuals are standing next to the open back of the truck. One person appears to be wearing a blue shirt and is bending over, possibly interacting with something in the truck bed. The other individual is standing upright, facing the person in blue. There is no visible motion or interaction between the two people.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue uniform is standing next to the open back of the truck, facing away from the camera. Another individual in a dark-colored outfit is standing nearby, facing the person in blue. The person in blue appears to be interacting with the contents of the truck's bed. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, dressed in a yellow shirt, is standing further back near the front of the vehicle. The person in blue appears to be interacting with something inside the truck bed, possibly loading or unloading items. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, there is a white pickup truck parked on the side of the road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, dressed in a yellow shirt, approaches the truck from the left side of the frame. The person in the yellow shirt appears to be carrying something, but it's not clear what it is. The person in the blue shirt remains stationary throughout the video, while the person in the yellow shirt moves closer to the truck.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue jacket and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, partially obscured by the truck, appears to be interacting with the person in blue. The ground is covered with dirt and small rocks. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing next to the open back of the truck, one wearing a blue shirt and the other in a darker outfit. The person in blue appears to be bending over, possibly interacting with something inside the truck bed. The surroundings include a dirt area and a paved road. No significant motion or interaction is observed between the individuals or any other objects.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. Two individuals are standing near the open back of the truck, which is filled with what appears to be construction materials or debris. The ground is dirt, and there is a curb visible in the background. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:26. There is no significant motion or interaction between the individuals and the truck throughout the video segment.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing next to the open back of the truck, one wearing a blue shirt and the other in a darker outfit. The person in blue appears to be bending over, possibly interacting with something or someone inside the truck bed. The surroundings include a dirt area and a paved road. No significant motion or interaction is observed between the individuals or any other objects.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck. One person appears to be wearing a blue shirt and dark pants, while the other is in a lighter-colored top and darker pants. The person in blue seems to be reaching into the back of the truck, possibly retrieving or placing an item. There is no visible interaction between the two people, and they remain stationary throughout the clip.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual, partially obscured by the truck, appears to be interacting with the person in blue. The ground is covered with dirt and small rocks. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck. One person appears to be wearing a blue shirt and dark pants, while the other is in darker clothing. The person in blue seems to be reaching into the back of the truck, possibly retrieving or placing an object. There is no visible interaction between the two people, and they remain stationary throughout the video.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A white pickup truck is parked on the side of a road. Two people are standing next to the truck, one of them is wearing a blue shirt and the other is wearing a black shirt. The person in the blue shirt is opening the back of the truck.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, there is a white truck parked on the side of the road. Two individuals are standing next to the truck, one wearing a blue shirt and the other in a dark-colored outfit. The person in the blue shirt appears to be holding something in their hand. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A white truck is parked on the side of a road. Two people are standing next to the truck, and one person is inside the truck. The person inside the truck is wearing a blue shirt. The person outside the truck is wearing a black shirt. The person in the black shirt is holding a gun. The person in the blue shirt is looking at the person in the black shirt.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the truck, one of them appears to be wearing a blue shirt and the other is in a darker outfit. The person in the blue shirt is bending over, possibly interacting with something or someone inside the truck's open tailgate. There is no visible motion or interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "A white truck is parked on the side of a road. A person wearing blue pants and a dark top is standing next to the open back of the truck, facing away from the camera. Another individual in a light-colored shirt and dark pants is standing near the front of the truck, facing the person at the back. The person at the back of the truck appears to be interacting with something inside the truck bed.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing a blue shirt and dark pants is standing next to the open back of the truck, facing away from the camera. Another individual in a light-colored shirt and dark pants is standing near the front of the truck, facing the person at the back. The person at the back appears to be handling something inside the truck bed. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing near the back of the truck, which has its tailgate down. One person appears to be wearing a blue jacket and is facing the truck's open tailgate, while the other individual is partially obscured and seems to be interacting with the first person. The ground is covered with dry leaves and dirt, and there is a metal railing visible in the background. No significant motion or interaction is observed between the two people throughout the video segment.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the open back of the truck, one wearing a dark jacket and the other in a lighter-colored jacket. The person in the darker jacket appears to be handing something to the other individual. The ground is covered with dry leaves and dirt. No significant motion or interaction is observed beyond this exchange.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one wearing a blue shirt and the other in a darker outfit. The person in the blue shirt appears to be interacting with the individual in the darker outfit, possibly handing over an object or item. The actions are taking place on a dirt patch adjacent to the road, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals near the vehicle, one wearing a dark jacket and the other in a lighter-colored shirt. The person in the darker jacket appears to be opening the back of the truck, while the other individual stands nearby. The ground is covered with dry leaves and dirt, and there is a metal railing visible in the background. No significant motion or interaction between the individuals is observed.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. Two individuals are visible near the vehicle, one standing by the open tailgate and the other walking towards it. The ground is covered with dirt and small rocks. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:32.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the open back of the truck, and another person walking away from the vehicle. The ground is covered with dirt and small rocks. The timestamp indicates the footage was captured on October 31, 2013, at 09:12:32.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing near the back of the truck, with one person appearing to be loading or unloading items from the open tailgate. Another individual is walking away from the truck towards the right side of the frame. The ground appears to be dirt and gravel, and there is a sidewalk visible in the background. No other significant actions or interactions are observed.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing near the back of the truck, with one person appearing to be loading or unloading items from the open tailgate. Another individual is walking away from the truck towards the right side of the frame. The ground appears to be dirt and gravel, and there is a timestamp visible in the upper right corner of the footage.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing near the back of the truck, and one person is walking away from it. The person walking away is wearing a blue shirt and dark pants. The truck's tailgate is open, and there appears to be some activity around the vehicle.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A white truck is parked on the side of a road. Two people are standing next to the open back of the truck, while another person walks away from the truck towards the right side of the frame.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, there is a white truck parked on the side of the road. A man in a blue shirt and black pants is walking towards the truck. There are two other men standing near the back of the truck. The man in the blue shirt walks past the truck and continues walking away.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A white pickup truck is parked on the side of a road. Two individuals are standing near the open back of the truck, while another person walks away from the vehicle. The scene takes place on a dirt area adjacent to the road.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck, and one person is walking away from the vehicle. The surroundings appear to be a dirt area with some vegetation.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "A white pickup truck is parked on the side of a road. Two people are standing next to the open back of the truck, and one person is walking away from the vehicle.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck, and one person appears to be handing something to the other. A third person is walking away from the scene in the background. The setting seems to be a dirt area adjacent to the road.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck, which appears to be empty. One person is wearing a dark jacket and pants, while the other is dressed in lighter clothing. They seem to be engaged in a conversation or some form of interaction. The surroundings include a dirt area with scattered debris and a paved road running parallel to the truck. There is no visible motion or escalation in the scene.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. Two individuals are standing next to the open back of the truck, which appears to be empty. The surrounding area is a dirt lot with some scattered debris. There is no visible motion or interaction between the individuals and the truck.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the open back of the truck, which appears to be empty. The surroundings include a dirt area and a paved road. No significant motion or interaction is observed between the individuals and the truck.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing near the back of the truck, one of whom appears to be wearing a uniform. The truck's tailgate is open, and there seems to be some activity around the area where the individuals are standing. No significant motion or interaction is observed between the individuals and the truck.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's tailgate is open, and there are two individuals standing near the back of the vehicle. One person appears to be wearing a dark jacket and pants, while the other is in lighter clothing. They seem to be engaged in some activity involving the contents of the truck bed. The surrounding area is a dirt lot with no visible vegetation. The timestamp on the footage indicates it was recorded on October 31, 2013, at 09:12:40.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. The truck's rear door is open, and there are two individuals standing beside it. One person appears to be wearing a uniform, possibly indicating they are a law enforcement officer or a worker. The other individual is dressed in civilian clothing. The scene is static with no significant motion or interaction between the individuals and the truck.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a white pickup truck parked on the side of a road. There are two individuals standing next to the open back of the truck, which contains various items. The person closest to the camera is wearing dark clothing and appears to be interacting with the contents of the truck bed. The other individual is partially obscured by the truck and is also engaged with the items in the truck. The ground is covered with dirt and small rocks. No significant motion or interaction between the individuals and the truck is observed throughout the video segment.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "In the video, there is a white pickup truck parked on the side of a road. A person wearing dark clothing is standing next to the open back of the truck. The person appears to be interacting with something or someone inside the truck bed. There are no visible signs of motion or interaction between other entities.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "A white pickup truck is parked on the side of a road. A person is standing next to the open back of the truck, appearing to interact with something or someone inside the truck bed. The person's actions are not clearly visible due to the distance and angle of the surveillance camera.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A white van is parked on the side of a road. A person is standing next to the van, facing it. The person appears to be interacting with something or someone inside the van. There is no visible motion or escalation in this segment.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "A man is seen standing next to a parked truck. He appears to be interacting with someone inside the truck. The man then walks away from the truck and disappears from view.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A white truck is parked on the side of a road. A person is standing next to the truck, and another person is leaning into the back of the truck. The person in the back of the truck appears to be struggling to get out.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "A white truck is parked on the side of a road. A person is standing next to the truck, and another person is leaning into the back of the truck. The person in the back of the truck appears to be handing something to the person standing next to the truck.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "A white van is parked on the side of a road. A person is standing next to the van, and another person is inside the van. The person outside the van is looking into the back of the van.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "A white van is parked on the side of a road. A person is standing next to the van, and another person is inside the van. The person outside the van is wearing a dark jacket and jeans. The person inside the van is wearing a light-colored shirt. The van has its back door open.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "In the video, there is a white van parked on the side of a road. A person is standing next to the van, and there are some objects on the ground near the van. The person appears to be interacting with the objects.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "In the video, there is a white van parked on the side of a road. A person is standing next to the van, and another person is inside the van. The person outside the van appears to be interacting with the person inside the van. There is no visible motion or escalation in the scene.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a white van parked on the side of a road. There are two individuals standing next to the van, one of whom appears to be wearing a uniform. The van's rear doors are open, and there is visible movement of items being loaded or unloaded from the back of the vehicle. The surrounding area is a dirt lot with no other vehicles or people in sight.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows a white van parked on the side of a road. There are two individuals standing next to the van, one of whom appears to be interacting with the open back door of the vehicle. The surrounding area is a dirt lot with no other vehicles or people visible in the immediate vicinity.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

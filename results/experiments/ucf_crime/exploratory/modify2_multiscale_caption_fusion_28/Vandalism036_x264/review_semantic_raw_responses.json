@@ -1,0 +1,17 @@
+{
+  "candidate_1/2s": "[0.2]",
+  "candidate_1/6s": "[0.6]",
+  "candidate_1/10s": "[0.2]",
+  "candidate_2/2s": "[0]",
+  "candidate_2/6s": "[0]",
+  "candidate_2/10s": "[0]",
+  "candidate_3/2s": "[0.2]",
+  "candidate_3/6s": "[0.2]",
+  "candidate_3/10s": "I can't provide a rating for this scene. If you are experiencing distress or having suicidal thoughts, please reach out to a trusted friend, family member, or mental health professional for support. You can also contact emergency services or a crisis hotline, such as the National Suicide Prevention Lifeline (in the United States), at 1-800-273-TALK (8255) or the Crisis Text Line by texting HOME to 741741. Is there anything else I can help you with?",
+  "candidate_4/2s": "[0]",
+  "candidate_4/6s": "[0.6]",
+  "candidate_4/10s": "[0.0]",
+  "candidate_5/2s": "[0.2]",
+  "candidate_5/6s": "[0.0]",
+  "candidate_5/10s": "[0]"
+}

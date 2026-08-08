@@ -1,0 +1,3422 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "The video begins with a black screen displaying the words \"LiveLeak\" and \"Greater Manchester Police.\"",
+    "caption_5s": "The video shows a police officer in uniform standing in front of a building.",
+    "caption_10s": "The video shows a white screen with the Greater Manchester Police logo. It then transitions to a black screen with white text that reads \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014.\"",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A black screen displays \"LiveLeak\" and \"Greater Manchester Police\" before showing a police officer in uniform standing in front of a building, then cuts to a white screen with the Greater Manchester Police logo and transitions to a black screen with text reading \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014.\"",
+    "caption": "A black screen displays \"LiveLeak\" and \"Greater Manchester Police\" before showing a police officer in uniform standing in front of a building, then cuts to a white screen with the Greater Manchester Police logo and transitions to a black screen with text reading \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014.\""
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "The video starts with a black screen displaying the words \"LiveLeak\" and \"Greater Manchester Police.\"",
+    "caption_5s": "The video shows a police logo flashing on the screen.",
+    "caption_10s": "The video starts with a black screen displaying the words \"LiveLeak\" and \"Greater Manchester Police.\" It then transitions to a white screen with the same text. The scene changes again to a black screen with the words \"Arson,\" \"Ashworth Street,\" \"Falingle, Rochdale,\" and \"5th February 2014.\"",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A black screen displays the words \"LiveLeak\" and \"Greater Manchester Police,\" transitioning to a white screen with the same text, then to a black screen with additional text: \"Arson,\" \"Ashworth Street,\" \"Falingle, Rochdale,\" and \"5th February 2014.\"",
+    "caption": "A black screen displays the words \"LiveLeak\" and \"Greater Manchester Police,\" transitioning to a white screen with the same text, then to a black screen with additional text: \"Arson,\" \"Ashworth Street,\" \"Falingle, Rochdale,\" and \"5th February 2014.\""
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "The video begins with a black screen displaying the words \"LiveLeak\" in the top left corner. It then transitions to a white background featuring the Greater Manchester Police logo, which includes a crown and the letters \"ER\" within a circular emblem. The logo remains static on the screen for the rest of the video.",
+    "caption_5s": "The video shows a police logo flashing on the screen.",
+    "caption_10s": "The video shows a series of title cards with the words \"Greater Manchester Police\" and \"LiveLeak.\"",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "The video begins with a black screen displaying \"LiveLeak\" in the top left corner, which transitions to a white background featuring the Greater Manchester Police logo, a static circular emblem with a crown and the letters \"ER,\" that remains on screen for the duration.",
+    "caption": "The video begins with a black screen displaying \"LiveLeak\" in the top left corner, which transitions to a white background featuring the Greater Manchester Police logo, a static circular emblem with a crown and the letters \"ER,\" that remains on screen for the duration."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video displays a static image of the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters and a red and blue emblem with a crown on top. The background is white, and there are no actions or movements within the video.",
+    "caption_5s": "The video shows a man in a suit and tie, who is seen running.",
+    "caption_10s": "The video shows a white screen with the Greater Manchester Police logo, followed by a black screen with white text.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A white screen displays the Greater Manchester Police logo in blue capital letters and a red and blue emblem with a crown, then transitions to a black screen with white text, followed by a man in a suit and tie running.",
+    "caption": "A white screen displays the Greater Manchester Police logo in blue capital letters and a red and blue emblem with a crown, then transitions to a black screen with white text, followed by a man in a suit and tie running."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video displays a static image of the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background. To the right of the text is a red and blue emblem with a crown at the top and the letters \"GMP\" in the center. The logo remains unchanged throughout the video.",
+    "caption_5s": "The video shows a Greater Manchester Police logo on a white background.",
+    "caption_10s": "The video shows a series of title cards with the words \"Greater Manchester Police\" and \"LiveLeak.\"",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "The video displays a static image of the Greater Manchester Police logo on a white background, consisting of blue capital letters and a red and blue emblem with a crown, which remains unchanged throughout.",
+    "caption": "The video displays a static image of the Greater Manchester Police logo on a white background, consisting of blue capital letters and a red and blue emblem with a crown, which remains unchanged throughout."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video displays a static image with the Greater Manchester Police logo, which includes a shield with a crown and the letters \"GMP\" in the center. The background is white, and the text \"GREATER MANCHESTER POLICE\" is written in blue capital letters above the logo. There are no actions or movements in this video.",
+    "caption_5s": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of a shield with a crown on top and the text \"Greater Manchester Police\" in blue. The logo is set against a white background. Following this, there are two black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\"",
+    "caption_10s": "The video shows a man in a black shirt and shorts standing on a sidewalk. He is holding a lighter and appears to be preparing to light something. The scene then cuts to a police logo, followed by a black screen with white text.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A static image of the Greater Manchester Police logo on a white background with blue text appears for 2 seconds, then a series of identical frames showing the logo are displayed for 3 seconds, followed by 2 black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" for 5 seconds, before cutting to a man in a black shirt and shorts holding a lighter on a sidewalk for 0 seconds.",
+    "caption": "A static image of the Greater Manchester Police logo on a white background with blue text appears for 2 seconds, then a series of identical frames showing the logo are displayed for 3 seconds, followed by 2 black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" for 5 seconds, before cutting to a man in a black shirt and shorts holding a lighter on a sidewalk for 0 seconds."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video starts with a black screen, followed by a series of identical frames showing the Greater Manchester Police logo on a white background. The logo consists of the words \"GREATER MANCHESTER POLICE\" in blue capital letters and a red and blue crest with a crown at the top. The final frame is a black screen with the text \"LiveLeak\" in white.",
+    "caption_5s": "The video begins with a static image of the Greater Manchester Police logo, which is predominantly blue and white with a red and blue crest. The logo remains unchanged for several frames. Following this, the screen transitions to a black background with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" This text also remains static throughout its duration.",
+    "caption_10s": "The video shows a series of title cards. The first card displays the Greater Manchester Police logo, followed by a black screen with white text that reads \"Arson Ashworth Street Falingrove, Rochdale 5th February 2014.\"",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "The video starts with a static image of the Greater Manchester Police logo, predominantly blue and white with a red and blue crest, on a white background. The logo remains unchanged for several frames before transitioning to a black background with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\"",
+    "caption": "The video starts with a static image of the Greater Manchester Police logo, predominantly blue and white with a red and blue crest, on a white background. The logo remains unchanged for several frames before transitioning to a black background with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\""
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video begins with a black screen, followed by the Greater Manchester Police logo on a white background. The logo consists of blue text and a red and blue crest with a crown on top. The scene then transitions to a black screen with the text \"LiveLeak\" in white at the top left corner. Subsequently, the video displays the word \"Arson\" in white text on a black background, followed by the address \"Ashworth Street, Falinge, Rochdale\" and the date \"5th February 2014.\"",
+    "caption_5s": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of the words \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background, accompanied by a red and blue crest featuring a crown and the letters \"GMP.\" The logo is centered in each frame. Following this, there are two black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014,\" indicating the subject matter of the video.",
+    "caption_10s": "The video starts with a black screen displaying the words \"LiveLeak\" and \"Greater Manchester Police.\" It then transitions to a white screen with the same text. The scene changes again to a black screen with the words \"Arson,\" \"Ashworth Street,\" \"Falingle, Rochdale,\" and \"5th February 2014.\"",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A black screen displays the Greater Manchester Police logo, then transitions to a black screen with the text \"LiveLeak\" at the top left corner, followed by a white screen with the logo, then a black screen with the words \"Arson\" and \"Ashworth Street, Falinge, Rochdale\" and the date \"5th February 2014.\"",
+    "caption": "A black screen displays the Greater Manchester Police logo, then transitions to a black screen with the text \"LiveLeak\" at the top left corner, followed by a white screen with the logo, then a black screen with the words \"Arson\" and \"Ashworth Street, Falinge, Rochdale\" and the date \"5th February 2014.\""
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video begins with a title screen displaying the Greater Manchester Police logo, which includes a shield with a crown and the text \"Greater Manchester Police\" in blue on a white background. The logo is followed by a black screen with the text \"LiveLeak\" in white at the top left corner. Subsequent frames show the same black screen with the text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" in white, indicating the subject of the video.",
+    "caption_5s": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of a shield with a crown on top and the text \"GREATER MANCHESTER POLICE\" in blue capital letters. The background is white, and the logo is centered in each frame. Following this, there are several black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The text is centered and appears to be a title or caption for the content that follows.",
+    "caption_10s": "The video starts with a black screen displaying the Greater Manchester Police logo. It then transitions to a black screen with white text that reads \"Arson Ashworth Street Falingro, Rochdale 5th February 2014.\" Finally, the video shows a street scene captured by a security camera, featuring a white van driving down the road.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A black screen displays the Greater Manchester Police logo, followed by a black screen with white text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\", then a street scene captured by a security camera shows a white van driving down the road.",
+    "caption": "A black screen displays the Greater Manchester Police logo, followed by a black screen with white text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\", then a street scene captured by a security camera shows a white van driving down the road."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video consists of a series of black screens with white text. The first screen displays the logo \"LiveLeak\" in the upper left corner. The subsequent screens show the word \"Arson\" followed by an address \"Ashworth Street, Falngrove, Rochdale,\" and a date \"5th February 2014.\" There are no actions or movements within the video, only static text on a black background.",
+    "caption_5s": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of a shield with a crown at the top and the text \"Greater Manchester Police\" in blue on a white background. The logo is centered in each frame. Following this, there are several black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The text is centered in the middle of the frame.",
+    "caption_10s": "The video shows a white van driving down a street.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A video showing a white van driving down a street, preceded by a series of static black screens with white text displaying the logo \"LiveLeak\" and information about an arson incident on Ashworth Street, Falingrove, Rochdale on February 5th, 2014, and then the Greater Manchester Police logo.",
+    "caption": "A video showing a white van driving down a street, preceded by a series of static black screens with white text displaying the logo \"LiveLeak\" and information about an arson incident on Ashworth Street, Falingrove, Rochdale on February 5th, 2014, and then the Greater Manchester Police logo."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video consists of a series of identical frames with a black background and white text. The text reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no actions or movements within the video as it is purely textual information presented on a static screen.",
+    "caption_5s": "The video begins with a white screen displaying the Greater Manchester Police logo, which includes a shield with a crown and the letters \"GMP\" in blue. The logo is centered on the screen. Following this, the screen transitions to black with the text \"LiveLeak\" in the upper left corner. Subsequently, the video shows a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" This text remains static throughout the rest of the video.",
+    "caption_10s": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background, accompanied by a red and blue crest featuring a crown and the letters \"GMP.\" The logo is followed by a black screen with the text \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014\" in white font. The final frames show a black and white surveillance camera view of a street with a white van parked on the side, timestamped \"04:50:46\" and \"04:50:47.\"",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background, accompanied by a red and blue crest featuring a crown and the letters \"GMP.\" The logo is followed by a black screen with the text \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014\" in white font. The video then",
+    "caption": "The video begins with a series of identical frames showing the Greater Manchester Police logo, which consists of the text \"GREATER MANCHESTER POLICE\" in blue capital letters on a white background, accompanied by a red and blue crest featuring a crown and the letters \"GMP.\" The logo is followed by a black screen with the text \"Arson Ashworth Street Falingthorpe, Rochdale 5th February 2014\" in white font. The video then"
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no other visible actions or events in the video.",
+    "caption_5s": "The video begins with a black screen, followed by the Greater Manchester Police logo. It then transitions to a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The text remains on the screen for several seconds before fading out to a black screen again.",
+    "caption_10s": "The video starts with a series of identical frames showing the Greater Manchester Police logo, followed by a transition to a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The video then cuts to a black and white surveillance camera view of a street where a white van is parked on the side. A person wearing dark clothing walks into the frame from the left side of the screen and approaches the van.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "The video shows the Greater Manchester Police logo, followed by a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The text fades out to a black screen, then cuts to a black and white surveillance camera view of a street where a white van is parked, with a person in dark clothing walking into the frame and approaching the van.",
+    "caption": "The video shows the Greater Manchester Police logo, followed by a black screen with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The text fades out to a black screen, then cuts to a black and white surveillance camera view of a street where a white van is parked, with a person in dark clothing walking into the frame and approaching the van."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingrochdale 5th February 2014.\"",
+    "caption_5s": "The video starts with a black screen displaying the text \"LiveLeak\" in white font. It then transitions to another black screen with the words \"Arson,\" \"Ashworth Street,\" \"Falinge, Rochdale,\" and \"5th February 2014\" in white font. The video ends with a black and white surveillance camera view of a street with a van parked on the side.",
+    "caption_10s": "The video starts with a series of identical frames showing the Greater Manchester Police logo, which consists of blue text and a red and blue emblem with a crown on top. The logo is set against a white background. Following this, there are several black frames with white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The final frames show a black and white surveillance camera view of a street with a white van parked on the side. A person wearing dark clothing walks past the van from right to left.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A black screen displays the text \"LiveLeak Arson Ashworth Street Falinge, Rochdale 5th February 2014\" before transitioning to a black and white surveillance camera view of a street with a van parked on the side, where a person in dark clothing walks past from right to left.",
+    "caption": "A black screen displays the text \"LiveLeak Arson Ashworth Street Falinge, Rochdale 5th February 2014\" before transitioning to a black and white surveillance camera view of a street with a van parked on the side, where a person in dark clothing walks past from right to left."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video displays a black screen with white text that reads \"LiveLeak Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" There are no actions or movements in the video.",
+    "caption_5s": "The video begins with a black screen displaying white text that reads \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014.\" The scene then transitions to a black and white security camera footage of a street with a white van parked on the side.",
+    "caption_10s": "The video starts with a static image of the Greater Manchester Police logo, followed by a black screen with white text that reads \"Arson Ashworth Street Falingthorpe Rochdale 5th February 2014.\" The scene then transitions to a black and white surveillance camera view of a street with a parked van. A person is seen walking towards the van from the left side of the frame.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A black screen with white text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" appears before transitioning to a black and white surveillance camera view of a street with a parked van, where a person walks towards it from the left.",
+    "caption": "A black screen with white text \"Arson Ashworth Street Falingworth, Rochdale 5th February 2014\" appears before transitioning to a black and white surveillance camera view of a street with a parked van, where a person walks towards it from the left."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a black screen with white text that reads \"Arson Ashworth Street Falingrochdale 5th February 2014.\"",
+    "caption_5s": "A white van is parked on the side of a street. A person walks by and throws something at the van.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person walks towards the van from the left side of the frame and appears to interact with someone inside the vehicle. The video is in black and white and has a timestamp in the upper right corner.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A white van is parked on the side of a street, with a person walking towards it from the left, interacting with someone inside, while a timestamp appears in the upper right corner.",
+    "caption": "A white van is parked on the side of a street, with a person walking towards it from the left, interacting with someone inside, while a timestamp appears in the upper right corner."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "The video shows a white van driving down a street.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person wearing a hooded jacket walks towards the van and appears to interact with someone inside it.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person walks towards the van, and another person runs past them.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards it, while another person runs past them.",
+    "caption": "A white van is parked on the side of a street. A person walks towards it, while another person runs past them."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. The van is stationary and not in motion.",
+    "caption_5s": "A white van is parked on the side of a street. A person walks towards the van and then turns around and walks away.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person wearing a light-colored jacket and dark pants walks towards the van from the left side of the frame. The person appears to be carrying something in their right hand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person wearing a light-colored jacket and dark pants walks towards the van from the left side of the frame, then turns around and walks away.",
+    "caption": "A white van is parked on the side of a street. A person wearing a light-colored jacket and dark pants walks towards the van from the left side of the frame, then turns around and walks away."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A white van is parked on the side of a street. A person walks towards the van and opens the door.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then another person approaches from the opposite direction. The video ends with the two individuals standing near the van.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person walks up to the van and opens the door, getting inside.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards the van, opens the door, and then another person approaches from the opposite direction, standing near the van.",
+    "caption": "A white van is parked on the side of a street. A person walks towards the van, opens the door, and then another person approaches from the opposite direction, standing near the van."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "A white van is parked on the side of a street. A person walks past the van from right to left.",
+    "caption_5s": "A man is seen walking down a street towards a parked van. He then proceeds to light a fire on the side of the van, causing it to catch fire.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then another person approaches from the opposite direction. The two individuals appear to be in conversation.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks past the van from right to left. A man walks down the street towards the van, lights a fire on its side, and it catches fire. The van is parked on the side of a street, where two individuals are seen walking towards each other in conversation.",
+    "caption": "A white van is parked on the side of a street. A person walks past the van from right to left. A man walks down the street towards the van, lights a fire on its side, and it catches fire. The van is parked on the side of a street, where two individuals are seen walking towards each other in conversation."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A man is seen walking down the street, passing by a parked van.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person walks towards the van, and then another person approaches from the opposite direction. The two individuals appear to be in conversation for a brief moment before walking away in opposite directions.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the back door of the van and appears to be searching for something inside.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A man walks down the street, passing by a parked white van, where he briefly converses with another person before walking away, then later returns to the van, opens the back door, and searches inside.",
+    "caption": "A man walks down the street, passing by a parked white van, where he briefly converses with another person before walking away, then later returns to the van, opens the back door, and searches inside."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street, with a person walking past it. The footage is in black and white and appears to be from a security camera.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, and then proceeds to open the driver's side door and get inside.",
+    "caption_10s": "The video starts with a black screen displaying white text that reads \"Arson Ashworth Street Falingthorpe Rochdale 5th February 2014.\" The scene then transitions to a black and white surveillance camera view of a street. A white van is parked on the side of the road, and a person wearing dark clothing walks towards the back of the van. The person appears to interact with something or someone inside the vehicle before walking away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A black and white surveillance camera view shows a white van parked on the side of a street. A person in dark clothing walks towards the back of the van, interacts with something or someone inside, and then walks away.",
+    "caption": "A black and white surveillance camera view shows a white van parked on the side of a street. A person in dark clothing walks towards the back of the van, interacts with something or someone inside, and then walks away."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a person walking down a street, passing by a parked van.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, approaching it and then exiting the frame to the right.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person approaches the van from the left side of the frame and appears to interact with someone inside the vehicle. The interaction seems to be brief, and the person then walks away towards the left side of the frame.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards the van from the left, interacts briefly with someone inside, and then exits the frame to the left.",
+    "caption": "A white van is parked on the side of a street. A person walks towards the van from the left, interacts briefly with someone inside, and then exits the frame to the left."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street, with a person walking away from it. The scene is captured by a security camera, and the timestamp indicates that it was recorded at 05:00:48.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, approaching it and then exiting the frame to the right.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van and then opening the driver's side door. The person appears to be getting into the van.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A white van is parked on the side of a street, with a person walking towards it from the left, approaching the driver's side door, and then getting into the van.",
+    "caption": "A white van is parked on the side of a street, with a person walking towards it from the left, approaching the driver's side door, and then getting into the van."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street with residential buildings. A person is seen walking away from the van, moving towards the left side of the frame. The video is in black and white, and the timestamp indicates it was recorded at 04:50:48.",
+    "caption_5s": "The video shows a white van parked on the side of a street with residential buildings. A person is seen walking towards the van, then opening the driver's door and getting inside. The person appears to be wearing light-colored clothing.",
+    "caption_10s": "The video begins with a black screen displaying white text that reads \"LiveLeak\" and \"Arson Ashworth Street Falingthorpe Rochdale 5th February 2014.\" The scene then transitions to a black and white surveillance camera view of a street at night. A white van is parked on the side of the road, and a person wearing dark clothing walks towards the van from the left side of the frame. The person appears to interact with the driver of the van before walking away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A black and white surveillance camera view of a street at night shows a white van parked on the side of the road. A person wearing dark clothing walks towards the van from the left side of the frame, interacts with the driver, and then walks away.",
+    "caption": "A black and white surveillance camera view of a street at night shows a white van parked on the side of the road. A person wearing dark clothing walks towards the van from the left side of the frame, interacts with the driver, and then walks away."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street with residential buildings. A person is seen walking towards the van from the left side of the frame, approaching it at a steady pace.",
+    "caption_5s": "The video shows a white van parked on the side of a street lined with buildings. A person is seen walking towards the van from the left side of the frame, approaching it, and then opening the driver's side door. The person appears to enter the vehicle and then closes the door.",
+    "caption_10s": "The video starts with a black screen displaying the text \"LiveLeak\" in white. It then transitions to a surveillance camera view of a street lined with buildings. A white van is parked on the side of the road, and a person wearing dark clothing walks towards it from the left side of the frame. The person appears to interact with the driver of the van, although the specifics of their interaction are unclear due to the low resolution and distance of the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A white van is parked on the side of a street lined with buildings. A person in dark clothing walks towards the van from the left, approaches it, opens the driver's side door, enters the vehicle, and closes the door.",
+    "caption": "A white van is parked on the side of a street lined with buildings. A person in dark clothing walks towards the van from the left, approaches it, opens the driver's side door, enters the vehicle, and closes the door."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street lined with buildings. The van's rear door is open, and a person appears to be loading or unloading items from the back of the vehicle. The actions are repetitive, suggesting a continuous process of loading or unloading.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, approaching it, and then opening the driver's side door. The person appears to be entering the vehicle.",
+    "caption_10s": "The video shows a white van parked on the side of a street with residential buildings. The footage is in black and white, suggesting it might be from an older security camera. There are no visible people or significant movement throughout the sequence of images.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A white van is parked on the side of a street with residential buildings, its rear door open, with a person loading or unloading items in a repetitive motion. The person then walks towards the van, opens the driver's side door, and enters the vehicle, while the surrounding area remains static and in black and white.",
+    "caption": "A white van is parked on the side of a street with residential buildings, its rear door open, with a person loading or unloading items in a repetitive motion. The person then walks towards the van, opens the driver's side door, and enters the vehicle, while the surrounding area remains static and in black and white."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, and then proceeds to open the driver's side door. The person appears to be entering the van.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then another person approaches from the opposite direction. The two individuals appear to be in conversation near the front of the van.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, then opening the driver's side door and getting inside. The van remains stationary throughout the sequence.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards the van, opens the driver's side door, and gets inside, while another person approaches from the opposite direction and joins the first person in conversation near the front of the van.",
+    "caption": "A white van is parked on the side of a street. A person walks towards the van, opens the driver's side door, and gets inside, while another person approaches from the opposite direction and joins the first person in conversation near the front of the van."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and there is no significant movement or action throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, then opening the driver's door and getting inside. The person then closes the door and drives away.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then they open the back door of the van. The person appears to be retrieving something from inside the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards the van, opens the driver's door, gets inside, closes the door, and drives away. The person then returns, opens the back door, and retrieves something from inside the van.",
+    "caption": "A white van is parked on the side of a street. A person walks towards the van, opens the driver's door, gets inside, closes the door, and drives away. The person then returns, opens the back door, and retrieves something from inside the van."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and there are no other significant actions or events taking place.",
+    "caption_5s": "A man is seen walking towards a white van parked on the side of a street. He opens the driver's door and gets inside the vehicle.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, then opening the driver's side door and getting inside. The van remains stationary throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards it, opens the driver's side door, and gets inside, with the van remaining stationary throughout.",
+    "caption": "A white van is parked on the side of a street. A person walks towards it, opens the driver's side door, and gets inside, with the van remaining stationary throughout."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A man is seen standing next to a parked van on the side of the road. He appears to be interacting with the van, possibly opening or closing the door.",
+    "caption_5s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the back door of the van and appears to be searching for something inside.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the driver's side door and gets inside the vehicle.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A man walks towards a parked van on the side of the road, opens the driver's side door, and gets inside.",
+    "caption": "A man walks towards a parked van on the side of the road, opens the driver's side door, and gets inside."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A man is seen standing next to a parked van on the side of the road. He appears to be engaged in some activity near the front of the vehicle.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and there is no significant movement or action throughout the video.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the back door of the van and begins loading packages into the back of the vehicle.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A man is seen walking towards a parked van on the side of the road, opening the back door, and loading packages into the vehicle.",
+    "caption": "A man is seen walking towards a parked van on the side of the road, opening the back door, and loading packages into the vehicle."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A man is seen standing next to a van on the side of the road. He appears to be interacting with someone inside the vehicle.",
+    "caption_5s": "A man is seen standing next to a parked van on the side of the road. He appears to be trying to open the back door of the van, but it seems to be locked. After several attempts, he eventually manages to open the door and gets inside.",
+    "caption_10s": "A man is seen walking towards a white van parked on the side of the road. He opens the back door and appears to be loading or unloading something from the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A man is seen standing next to a parked white van on the side of the road, initially interacting with someone inside, then attempting to open the back door, which he eventually manages to do, and finally loading or unloading something from the van.",
+    "caption": "A man is seen standing next to a parked white van on the side of the road, initially interacting with someone inside, then attempting to open the back door, which he eventually manages to do, and finally loading or unloading something from the van."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A man is seen standing next to a van, repeatedly punching it.",
+    "caption_5s": "A man is seen standing next to a parked van on the side of a street. He appears to be interacting with someone inside the vehicle, possibly handing over or receiving an item. The man then walks away from the van and disappears from view.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then opens the back door and appears to be searching for something inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A man is seen standing next to a parked van on the side of the road, initially interacting with someone inside, possibly handing over or receiving an item, before walking away and later returning to search the back of the vehicle.",
+    "caption": "A man is seen standing next to a parked van on the side of the road, initially interacting with someone inside, possibly handing over or receiving an item, before walking away and later returning to search the back of the vehicle."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, and then they open the back door and appear to be loading or unloading something from the van.",
+    "caption_5s": "A man is seen standing next to a van, repeatedly punching it.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen approaching the van from the left side of the frame and appears to be interacting with someone inside the vehicle. The person then walks away from the van, moving towards the right side of the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person approaches the van from the left, interacts with someone inside, then walks away towards the right, while a man is seen standing next to the van, punching it.",
+    "caption": "A white van is parked on the side of a street. A person approaches the van from the left, interacts with someone inside, then walks away towards the right, while a man is seen standing next to the van, punching it."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A man is seen walking towards a white van parked on the side of a street. He opens the back door and appears to be loading or unloading items from the van.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and there are no other significant actions or events taking place.",
+    "caption_10s": "A man is seen standing next to a van parked on the side of a street. He appears to be interacting with someone inside the van. After a brief moment, he walks away from the vehicle and disappears from view.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A man is seen standing next to a white van parked on the side of a street, interacting with someone inside, before walking away and disappearing from view.",
+    "caption": "A man is seen standing next to a white van parked on the side of a street, interacting with someone inside, before walking away and disappearing from view."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, opening the rear door, and then closing it. The person then walks away from the vehicle.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, opening the rear door, and then closing it again. The person then walks away from the van.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they open the back door of the van. The person appears to be loading or unloading items from the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person walks towards the back of the van, opens the rear door, and then closes it again, before loading or unloading items from the van and walking away.",
+    "caption": "A white van is parked on the side of a street. A person walks towards the back of the van, opens the rear door, and then closes it again, before loading or unloading items from the van and walking away."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, opening the rear door, and then closing it. The person appears to be wearing dark clothing.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, opening the rear door, and then closing it again. The person then walks away from the van.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they open the back door of the van. The person appears to be loading or unloading items from the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person, wearing dark clothing, walks towards the back of the van, opens the rear door, loads or unloads items, and then closes it before walking away.",
+    "caption": "A white van is parked on the side of a street. A person, wearing dark clothing, walks towards the back of the van, opens the rear door, loads or unloads items, and then closes it before walking away."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, and then they open the driver's side door and get inside.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking towards the back of the van, opening the rear door, and then closing it. The person appears to be wearing dark clothing.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they get into the van and drive away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A white van is parked on the side of a street. A person, wearing dark clothing, walks towards the van, opens the driver's side door, gets inside, and then drives away.",
+    "caption": "A white van is parked on the side of a street. A person, wearing dark clothing, walks towards the van, opens the driver's side door, gets inside, and then drives away."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street with a person standing next to it. The person appears to be interacting with the van, possibly opening or closing a door. The street is lined with buildings and there are no other vehicles or pedestrians visible in the footage.",
+    "caption_5s": "The video shows a white van parked on the side of a street with buildings on both sides. The van's rear door is open, and a person appears to be loading or unloading items from the back of the van. The actions are repetitive, suggesting the person is engaged in a task that involves moving objects in and out of the vehicle.",
+    "caption_10s": "The video shows a white van parked on the side of a street lined with buildings. The van's rear door is open, and an individual appears to be loading or unloading items from the back of the vehicle. The person is dressed in dark clothing and moves around the van, occasionally bending down near the open door. The street is quiet, with no other vehicles or pedestrians visible.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A white van is parked on the side of a street lined with buildings, with its rear door open. A person, dressed in dark clothing, is loading or unloading items from the back of the van, moving around the vehicle and occasionally bending down near the open door.",
+    "caption": "A white van is parked on the side of a street lined with buildings, with its rear door open. A person, dressed in dark clothing, is loading or unloading items from the back of the van, moving around the vehicle and occasionally bending down near the open door."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street with a person standing next to it. The person appears to be interacting with the van, possibly opening or closing the door.",
+    "caption_5s": "The video shows a white van parked on the side of a street lined with buildings. The van is stationary for most of the footage, and there are no visible people or significant movements. The timestamp indicates that the recording was made at night.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they open the back door of the van. The person appears to be loading or unloading items from the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A white van is parked on the side of a street, with a person standing next to it, possibly interacting with the van, and later opening the back door to load or unload items, all occurring at night in a street lined with buildings.",
+    "caption": "A white van is parked on the side of a street, with a person standing next to it, possibly interacting with the van, and later opening the back door to load or unload items, all occurring at night in a street lined with buildings."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street with residential buildings in the background. The van is stationary throughout the sequence, and there are no visible people or moving objects in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they walk away from it. The van remains stationary throughout the video.",
+    "caption_10s": "The video shows a white van parked on the side of a street with residential buildings. The van's rear door is open, and a person is seen repeatedly reaching into the back of the van. The person appears to be retrieving items from the van and placing them on the ground beside it. The actions are repetitive, suggesting that the person is either loading or unloading the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A white van is parked on the side of a street with residential buildings in the background. A person stands next to the van, then walks away, and later returns to repeatedly reach into the back of the van, retrieving items and placing them on the ground beside it.",
+    "caption": "A white van is parked on the side of a street with residential buildings in the background. A person stands next to the van, then walks away, and later returns to repeatedly reach into the back of the van, retrieving items and placing them on the ground beside it."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "A man is seen walking down a street, and then he gets into a van.",
+    "caption_5s": "A man is standing next to a parked van on the side of the road. Suddenly, an object hits the van, causing it to move forward and hit another parked vehicle.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then suddenly, an explosion occurs near the van, causing significant damage to the vehicle and surrounding area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A white van is parked on the side of a street, with a person standing next to it. An explosion occurs near the van, causing significant damage to the vehicle and surrounding area. The van is then hit by another vehicle, and it moves forward, hitting a third parked vehicle.",
+    "caption": "A white van is parked on the side of a street, with a person standing next to it. An explosion occurs near the van, causing significant damage to the vehicle and surrounding area. The van is then hit by another vehicle, and it moves forward, hitting a third parked vehicle."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "A man is seen walking down the street, and a van suddenly hits him.",
+    "caption_5s": "A man is standing next to a parked van on the side of the road. Suddenly, he is hit by an object and falls to the ground.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then suddenly, the van starts moving forward without the driver inside. The van continues to drive down the street until it disappears from view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A white van is parked on the side of a street, with a person standing next to it. The van then starts moving forward without the driver inside, hitting the person and continuing down the street until it disappears from view.",
+    "caption": "A white van is parked on the side of a street, with a person standing next to it. The van then starts moving forward without the driver inside, hitting the person and continuing down the street until it disappears from view."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "A white van is seen driving down a narrow street lined with buildings. The van makes a sharp turn, loses control, and crashes into the wall on the left side of the street.",
+    "caption_5s": "A man is seen standing next to a parked van on the side of the road. Suddenly, an explosion occurs, causing the van to be blown away and the man to be knocked down.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then suddenly, an explosion occurs near the van, causing significant damage and smoke. The camera angle changes to show the aftermath of the explosion, with debris scattered around and the van heavily damaged.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A white van is parked on the side of a narrow street lined with buildings. A person stands next to it, then an explosion occurs near the van, causing significant damage, smoke, and debris, with the van heavily damaged and the person knocked down.",
+    "caption": "A white van is parked on the side of a narrow street lined with buildings. A person stands next to it, then an explosion occurs near the van, causing significant damage, smoke, and debris, with the van heavily damaged and the person knocked down."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "A truck is seen driving down a street, and then it suddenly explodes.",
+    "caption_5s": "A man is standing next to a parked van when suddenly, an explosion occurs.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the back door of the van and throws something out onto the street.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A man is seen walking towards a parked van on the side of the road, opening the back door, and throwing something out onto the street. The object is then hit by a passing truck, which explodes shortly after impact.",
+    "caption": "A man is seen walking towards a parked van on the side of the road, opening the back door, and throwing something out onto the street. The object is then hit by a passing truck, which explodes shortly after impact."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a street at night. Suddenly, a car drives by and hits the person, causing them to fall to the ground.",
+    "caption_5s": "A man is seen walking down a street, and then he gets into a van. The van then drives away.",
+    "caption_10s": "A man is standing next to a parked van on the side of the road. Suddenly, the van starts moving forward without anyone driving it. It drives down the street, passing by parked cars and other vehicles.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A person is walking down a street at night when a van suddenly starts moving forward, driving down the street and passing by parked cars, before eventually disappearing from view.",
+    "caption": "A person is walking down a street at night when a van suddenly starts moving forward, driving down the street and passing by parked cars, before eventually disappearing from view."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a street with buildings on both sides. There is a bright light source in the middle of the street, and a person is seen walking towards it.",
+    "caption_5s": "A man is seen walking in front of a parked van. Suddenly, the van starts to move forward and hits the man, causing him to fall to the ground.",
+    "caption_10s": "A man is seen standing next to a parked van on the side of the road. Suddenly, the van starts moving forward without any visible driver, crashing into a wall and causing significant damage. The impact is captured from a surveillance camera, showing the van's movement and the subsequent collision.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A man stands next to a parked van on the side of the road, then the van moves forward without a visible driver, crashes into a wall, and causes significant damage, as seen from a surveillance camera.",
+    "caption": "A man stands next to a parked van on the side of the road, then the van moves forward without a visible driver, crashes into a wall, and causes significant damage, as seen from a surveillance camera."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a street while holding a lit flare. The flare emits a bright light and sparks, illuminating the surroundings.",
+    "caption_5s": "The video shows a white van driving down a street, followed by a car. The car then collides with the van, causing it to spin out of control.",
+    "caption_10s": "A man is standing next to a van on the side of the road. Suddenly, the van starts spraying water all over the street. The camera then pans to show a car driving down the street.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A person walks down a street while holding a lit flare, illuminating the surroundings with a bright light and sparks. A white van and a car drive down the street, with the car colliding with the van, causing it to spin out of control. The van is later seen on the side of the road, spraying water all over the street, as a car drives by.",
+    "caption": "A person walks down a street while holding a lit flare, illuminating the surroundings with a bright light and sparks. A white van and a car drive down the street, with the car colliding with the van, causing it to spin out of control. The van is later seen on the side of the road, spraying water all over the street, as a car drives by."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street, followed by a bus. The car is seen driving in the same direction as the bus.",
+    "caption_5s": "A person is seen walking down a street at night. They are carrying a bag and appear to be in a hurry. As they walk, they suddenly trip and fall to the ground. The person then gets up and continues walking.",
+    "caption_10s": "A man is seen standing next to a van on the side of the road. Suddenly, the van starts spraying water onto the street, creating a large puddle. The man then walks away from the van and disappears from view.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A person walks down a street at night, carrying a bag, and trips, falling to the ground, before getting up and continuing. A car drives past, followed by a bus, both traveling in the same direction. Nearby, a man stands next to a van, which then sprays water onto the street, creating a puddle, before the man walks away.",
+    "caption": "A person walks down a street at night, carrying a bag, and trips, falling to the ground, before getting up and continuing. A car drives past, followed by a bus, both traveling in the same direction. Nearby, a man stands next to a van, which then sprays water onto the street, creating a puddle, before the man walks away."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "A car is seen driving down a street and then crashes into a parked vehicle.",
+    "caption_5s": "The video shows a street scene at night with parked cars on the side. A bright light source appears in the distance and moves closer to the camera, eventually obscuring the view. The light source seems to be a vehicle with headlights on, possibly a motorcycle or scooter, given its speed and maneuverability.",
+    "caption_10s": "A man is seen walking towards a parked van on the side of the road. He then proceeds to open the back door of the van and begins to pull out packages from inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A vehicle with headlights on, possibly a motorcycle or scooter, drives down a street at night, eventually crashing into a parked vehicle, partially obscuring the view of parked cars on the side of the road.",
+    "caption": "A vehicle with headlights on, possibly a motorcycle or scooter, drives down a street at night, eventually crashing into a parked vehicle, partially obscuring the view of parked cars on the side of the road."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a street scene with parked cars. A bright light appears in the sky, followed by a loud explosion that causes significant damage to the surrounding area. The explosion is intense and creates a large fireball.",
+    "caption_5s": "The video shows a car driving down a street at night. The car is moving from left to right, and there are other cars parked on the side of the road. The footage appears to be taken from a security camera.",
+    "caption_10s": "The video shows a white van parked on the side of a street. Suddenly, a bright light appears and engulfs the van, causing it to move forward. The light then disappears, leaving the van in motion.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A car drives down a street at night, passing parked cars, when a bright light appears in the sky, followed by a loud explosion that causes significant damage and a large fireball. The explosion engulfs a nearby white van, causing it to move forward, and then the light disappears, leaving the van in motion.",
+    "caption": "A car drives down a street at night, passing parked cars, when a bright light appears in the sky, followed by a loud explosion that causes significant damage and a large fireball. The explosion engulfs a nearby white van, causing it to move forward, and then the light disappears, leaving the van in motion."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a street with parked cars on both sides. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the foreground and remains stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a car driving down a street at night. The car is seen from a distance, and the driver appears to be looking around. The car then turns onto another street and continues driving.",
+    "caption_10s": "The video shows a white van driving down a street lined with parked cars. The van is moving at a moderate speed and appears to be following the rules of the road. There are no other vehicles or pedestrians visible in the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A white van drives down a street lined with parked cars at night, following the rules of the road, with a stationary bright light source visible in the foreground.",
+    "caption": "A white van drives down a street lined with parked cars at night, following the rules of the road, with a stationary bright light source visible in the foreground."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night. The car is seen from a distance and appears to be moving at a moderate speed.",
+    "caption_5s": "The video shows a car driving down a street at night. The car is seen from a surveillance camera, and it appears to be driving erratically. The car then crashes into a parked vehicle, causing significant damage.",
+    "caption_10s": "The video shows a street scene with parked cars and a person walking on the sidewalk. The footage is in black and white, and there are no significant actions or events taking place.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A car is seen driving down a street at night, initially moving at a moderate speed, before driving erratically and crashing into a parked vehicle, causing significant damage, in a scene with a person walking on the sidewalk.",
+    "caption": "A car is seen driving down a street at night, initially moving at a moderate speed, before driving erratically and crashing into a parked vehicle, causing significant damage, in a scene with a person walking on the sidewalk."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars on both sides. The main action involves a vehicle driving down the street, its headlights illuminating the road ahead. The vehicle appears to be moving at a moderate speed and is the only moving object in the sequence of images.",
+    "caption_5s": "The video shows a street scene at night with parked cars on both sides. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the foreground. The light source moves slightly, suggesting movement of the light source or a change in its position relative to the camera. No other significant actions or events are observed in the video.",
+    "caption_10s": "The video shows a sequence of events captured by a surveillance camera. Initially, the camera focuses on a street with parked cars and buildings. A bright light source appears in the distance, moving towards the camera. As the light source gets closer, it becomes apparent that it is a vehicle with its headlights on. The vehicle passes by the camera, revealing more details such as the shape of the car and the motion blur caused by its speed. The timestamp on the footage indicates that the events occur at night.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A street scene at night with parked cars on both sides, captured by a surveillance camera, shows a vehicle with its headlights on moving towards the camera, passing by and revealing its shape, before continuing down the street.",
+    "caption": "A street scene at night with parked cars on both sides, captured by a surveillance camera, shows a vehicle with its headlights on moving towards the camera, passing by and revealing its shape, before continuing down the street."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars on both sides. A bright light source, possibly from a vehicle's headlights or a streetlight, moves across the frame from right to left. The light source is intermittently visible as it passes behind parked cars.",
+    "caption_5s": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and low-resolution, typical of security camera footage. There is no significant movement or action taking place throughout the series of images.",
+    "caption_10s": "The video shows a street scene at night with parked cars on the side. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the distance. The light source moves slightly, indicating motion, and there is a brief moment where the light source appears to be closer to the camera before it recedes again.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A street scene at night with parked cars on both sides, illuminated by a bright light source that moves across the frame from right to left, intermittently visible as it passes behind parked cars, with the light source visible in the distance, moving slightly and appearing closer to the camera before receding again.",
+    "caption": "A street scene at night with parked cars on both sides, illuminated by a bright light source that moves across the frame from right to left, intermittently visible as it passes behind parked cars, with the light source visible in the distance, moving slightly and appearing closer to the camera before receding again."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded on 02-05-2014 at 04:51:08. There is no significant movement or action taking place throughout the sequence of images.",
+    "caption_5s": "The video shows a street scene at night with parked cars on both sides. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the foreground. The light source moves slightly, indicating some form of motion, but no other significant actions or events are discernible.",
+    "caption_10s": "The video shows a nighttime street scene with parked cars on the side. A bright light source, possibly from a vehicle's headlights or a streetlight, is visible in the distance. The light source moves closer to the camera, illuminating the area more brightly. The timestamp indicates that the footage was recorded at 04:51:02 AM on 06-2014.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A black and white video shows a nighttime street scene with parked cars on both sides, recorded on 02-05-2014 at 04:51:08. A bright light source, possibly from a vehicle's headlights or a streetlight, moves closer to the camera, illuminating the area more brightly, as seen in footage recorded at 04:51:02 AM on an unspecified date in June 2014.",
+    "caption": "A black and white video shows a nighttime street scene with parked cars on both sides, recorded on 02-05-2014 at 04:51:08. A bright light source, possibly from a vehicle's headlights or a streetlight, moves closer to the camera, illuminating the area more brightly, as seen in footage recorded at 04:51:02 AM on an unspecified date in June 2014."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars and a person walking on the sidewalk. The person is wearing dark clothing and appears to be carrying something in their hand. There are no significant actions or events taking place, just a static view of the street.",
+    "caption_5s": "The video shows a nighttime scene on a street with parked cars. A person is seen walking across the street, and there is a bright light source that appears to be from a vehicle's headlights. The person walks from one side of the frame to the other, passing in front of the parked cars.",
+    "caption_10s": "The video shows a car driving down a street, followed by a motorcycle. The motorcycle then stops and the rider gets off.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A car drives down a street at night, passing parked cars, with a person walking on the sidewalk in the distance. The person, wearing dark clothing, is carrying something in their hand and appears to be walking towards the street. As the car approaches, a motorcycle follows, and the rider stops in front of the parked cars, getting off and remaining stationary.",
+    "caption": "A car drives down a street at night, passing parked cars, with a person walking on the sidewalk in the distance. The person, wearing dark clothing, is carrying something in their hand and appears to be walking towards the street. As the car approaches, a motorcycle follows, and the rider stops in front of the parked cars, getting off and remaining stationary."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars and a person walking on the sidewalk. The footage is in black and white, and there is no significant movement or action taking place.",
+    "caption_5s": "The video shows a street with parked cars on both sides. A person is seen walking across the street from right to left, passing in front of a car. The scene is captured by a surveillance camera, and the timestamp indicates it was recorded at night.",
+    "caption_10s": "The video shows a street with parked cars and a person walking on the sidewalk. The footage is captured by a security camera.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A street scene at night, captured by a security camera, shows parked cars and a person walking on the sidewalk, passing in front of a car.",
+    "caption": "A street scene at night, captured by a security camera, shows parked cars and a person walking on the sidewalk, passing in front of a car."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, and the timestamp indicates it was recorded on 02-14-2014 at 04:51:08 AM. The camera angle is from an elevated position, looking down onto a street lined with parked cars. There are no visible people or moving objects in the frame, suggesting a quiet time of day or a less busy area.",
+    "caption_5s": "The video shows a street with parked cars. A person is seen walking on the sidewalk, and there are no other significant actions or events taking place.",
+    "caption_10s": "The video shows a street scene with parked cars and a person walking. The person is seen throwing an object at one of the parked cars, causing a visible impact on the vehicle's side.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A street scene captured by a surveillance camera on 02-14-2014 at 04:51:08 AM, showing a person walking on the sidewalk, throwing an object at a parked car, causing a visible impact.",
+    "caption": "A street scene captured by a surveillance camera on 02-14-2014 at 04:51:08 AM, showing a person walking on the sidewalk, throwing an object at a parked car, causing a visible impact."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "A car is seen driving down a street at night.",
+    "caption_5s": "A car is driving down a street at night. Suddenly, a person jumps out of the car and runs away.",
+    "caption_10s": "A car is seen driving down a street at night. Suddenly, a bright light appears and the car crashes into a parked vehicle. The impact causes debris to scatter across the street.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A car is driving down a street at night, suddenly crashes into a parked vehicle, and debris scatters across the street, while a person jumps out of the car and runs away.",
+    "caption": "A car is driving down a street at night, suddenly crashes into a parked vehicle, and debris scatters across the street, while a person jumps out of the car and runs away."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 37.0
+      }
+    },
+    "caption_2s": "A car is seen driving down a street at night.",
+    "caption_5s": "The video shows a car driving down a street at night. The car is seen from a security camera, and it appears to be driving erratically.",
+    "caption_10s": "A car is seen driving down a street at night. Suddenly, a bright light appears and the car crashes into a parked vehicle. The impact causes debris to scatter across the street.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A car is seen driving down a street at night, initially moving steadily, but then driving erratically, before crashing into a parked vehicle, causing debris to scatter across the street.",
+    "caption": "A car is seen driving down a street at night, initially moving steadily, but then driving erratically, before crashing into a parked vehicle, causing debris to scatter across the street."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5333
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night. The car is moving from left to right, and there are other cars parked on the side of the road.",
+    "caption_5s": "A car is seen driving down a street at night. Suddenly, a person jumps out of the car and runs away.",
+    "caption_10s": "A car is seen driving down a street at night. The car is moving from right to left across the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A car drives down a street at night, moving from left to right, with other cars parked on the side. The car continues to move, crossing the frame from right to left, with a person jumping out and running away at some point.",
+    "caption": "A car drives down a street at night, moving from left to right, with other cars parked on the side. The car continues to move, crossing the frame from right to left, with a person jumping out and running away at some point."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 38.0667
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night. The car is seen from a distance, and it appears to be moving at a moderate speed. There are no other vehicles or pedestrians visible in the video.",
+    "caption_5s": "The video shows a street with parked cars. There is no significant action or movement in the scene.",
+    "caption_10s": "A car is seen driving down a street at night. The car is moving slowly and appears to be in control.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A car drives slowly down a street at night, appearing to be in control, with parked cars visible along the street.",
+    "caption": "A car drives slowly down a street at night, appearing to be in control, with parked cars visible along the street."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 38.6
+      }
+    },
+    "caption_2s": "The video shows a street with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded at 05:12:12 on 02-2014. There are no visible actions or movements in the video.",
+    "caption_5s": "A car is seen driving down a street at night. The car is moving slowly and appears to be in control.",
+    "caption_10s": "The video shows a street with parked cars. There is no significant action or movement in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A black and white video recorded at 05:12:12 on 02-2014 shows a street with parked cars on both sides, with a car driving slowly down the street at night, appearing to be in control, in a scene with no significant action or movement.",
+    "caption": "A black and white video recorded at 05:12:12 on 02-2014 shows a street with parked cars on both sides, with a car driving slowly down the street at night, appearing to be in control, in a scene with no significant action or movement."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 39.1333
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a security camera. The footage is dated 02-14-2014 at 05:51:12 AM. The camera angle is from an elevated position, looking down onto the street. There are several parked cars visible, and the street appears to be quiet with no significant movement or activity.",
+    "caption_5s": "The video shows a street with parked cars. There is no significant action or movement observed in the frames provided.",
+    "caption_10s": "A person is seen walking down a street at night. They are carrying something in their hand and appear to be walking with purpose.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A person walks down a quiet street at night, carrying something in their hand, with parked cars visible in the background, as captured by a security camera on February 14, 2014, at 5:51:12 AM.",
+    "caption": "A person walks down a quiet street at night, carrying something in their hand, with parked cars visible in the background, as captured by a security camera on February 14, 2014, at 5:51:12 AM."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 37.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 39.6667
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, with the timestamp \"02-14 Wed 05:11:13\" visible on the screen. The camera angle is from an elevated position, looking down onto the street. There are several parked cars along the side of the road, and the street appears to be quiet with no significant movement or activity.",
+    "caption_5s": "The video shows a street scene captured by a security camera. The footage is in black and white, and the timestamp indicates it was recorded on 02-05-2014 at 04:51:11 AM. The camera angle is from an elevated position, looking down onto the street. There are several parked cars visible, and the street appears to be quiet with no significant movement or activity.",
+    "caption_10s": "The video shows a street with parked cars and a person walking on the sidewalk. The footage is in black and white, and there are no significant actions or events taking place.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A black and white street scene captured by a surveillance camera from an elevated position, showing several parked cars and a quiet street with no significant movement or activity, recorded on 02-14 at 05:11:13, with a person walking on the sidewalk.",
+    "caption": "A black and white street scene captured by a surveillance camera from an elevated position, showing several parked cars and a quiet street with no significant movement or activity, recorded on 02-14 at 05:11:13, with a person walking on the sidewalk."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 37.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 40.2
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, and the timestamp indicates it was recorded on February 6, 2014, at 05:11:13 AM. The camera angle is from an elevated position, looking down onto a street lined with parked cars. There are no visible people or moving objects in the frame, suggesting a quiet time of day.",
+    "caption_5s": "The video shows a street with parked cars on both sides. The footage is in black and white, suggesting it might be from a security camera. There are no visible people or moving objects, indicating a quiet street scene.",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded on June 4, 2014, at 01:51:10 AM. There are no significant actions or movements observed in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A black and white street scene captured by a surveillance camera, recorded on February 6, 2014, at 05:11:13 AM, shows a quiet street with parked cars on both sides, with no visible people or moving objects.",
+    "caption": "A black and white street scene captured by a surveillance camera, recorded on February 6, 2014, at 05:11:13 AM, shows a quiet street with parked cars on both sides, with no visible people or moving objects."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 38.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 40.7333
+      }
+    },
+    "caption_2s": "The video shows a street scene with parked cars on the side of the road. There is no significant movement or action taking place in the video.",
+    "caption_5s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, with the timestamp \"04:51:12\" visible on the screen. There are multiple parked cars along the side of the road, and the camera angle remains static throughout the video. No significant actions or movements occur during the duration of the clip.",
+    "caption_10s": "The video shows a street with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded at 04:51:10 on 02-06-2014. There are no visible actions or movements in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A black and white surveillance video from 02-06-2014 shows a static street scene with parked cars on both sides of the road, captured at 04:51:10, with no visible actions or movements.",
+    "caption": "A black and white surveillance video from 02-06-2014 shows a static street scene with parked cars on both sides of the road, captured at 04:51:10, with no visible actions or movements."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 37.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 38.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 41.2667
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and in black and white, suggesting it might be from a security camera. There are no visible people or moving objects, indicating a quiet street.",
+    "caption_5s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, with the timestamp \"04:51:13\" visible on the screen. There are multiple parked cars along the side of the road, and the camera angle remains static throughout the sequence. No significant movement or actions occur within the frame.",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from a security camera. There are no visible people or moving objects, indicating a quiet street. The timestamp on the footage indicates it was recorded in 2014.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 37.2667
+    },
+    "fused_caption": "A black and white street scene at night, captured by a security camera, shows parked cars on both sides of the road with no visible people or moving objects, recorded in 2014.",
+    "caption": "A black and white street scene at night, captured by a security camera, shows parked cars on both sides of the road with no visible people or moving objects, recorded in 2014."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 37.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 39.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 41.8
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a surveillance camera. There are multiple cars parked along the side of the road, and the footage is timestamped with the date \"02-2014\" and the time \"04:51:14\". The cars appear to be stationary throughout the sequence.",
+    "caption_5s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded in 2014. There are no visible people or moving objects, suggesting a quiet time of day.",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded on June 4, 2014, at 04:51:10 AM. There is no significant movement or action taking place throughout the duration of the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 37.8
+    },
+    "fused_caption": "A black and white street scene at night, recorded on June 4, 2014, at 04:51:10 AM, shows parked cars on both sides of the road with no visible people or moving objects.",
+    "caption": "A black and white street scene at night, recorded on June 4, 2014, at 04:51:10 AM, shows parked cars on both sides of the road with no visible people or moving objects."
+  },
+  "1120": {
+    "center_frame": 1120,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.3333,
+        "actual_end_seconds": 38.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.8333,
+        "actual_end_seconds": 39.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.3333,
+        "actual_end_seconds": 42.3333
+      }
+    },
+    "caption_2s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, and the timestamp indicates it was recorded on April 1, 2014, at 04:51:14. The street is lined with parked cars on both sides, and there is a noticeable amount of smoke or fog present, which slightly obscures the view. No significant movement or actions are observed in the video.",
+    "caption_5s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from a security camera. There is no significant movement or action taking place throughout the sequence of images.",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from a security camera. There is no significant movement or action taking place throughout the sequence of images.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.3333,
+      "actual_end_seconds": 38.3333
+    },
+    "fused_caption": "A black and white street scene captured by a surveillance camera, recorded on April 1, 2014, at 04:51:14, shows parked cars on both sides of the street with smoke or fog slightly obscuring the view, and no significant movement or actions are observed.",
+    "caption": "A black and white street scene captured by a surveillance camera, recorded on April 1, 2014, at 04:51:14, shows parked cars on both sides of the street with smoke or fog slightly obscuring the view, and no significant movement or actions are observed."
+  },
+  "1136": {
+    "center_frame": 1136,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.8667,
+        "actual_end_seconds": 38.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.3667,
+        "actual_end_seconds": 40.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.8667,
+        "actual_end_seconds": 42.8667
+      }
+    },
+    "caption_2s": "The video shows a street with parked cars. There is no significant action or movement observed in the frames provided.",
+    "caption_5s": "The video shows a street with parked cars. There is no significant action or movement observed in the frames provided.",
+    "caption_10s": "The video shows a street with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded at night. There are no visible people or moving objects in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.8667,
+      "actual_end_seconds": 38.8667
+    },
+    "fused_caption": "A black and white video shows a quiet street at night with parked cars on both sides, no people or moving objects visible.",
+    "caption": "A black and white video shows a quiet street at night with parked cars on both sides, no people or moving objects visible."
+  },
+  "1152": {
+    "center_frame": 1152,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.4,
+        "actual_end_seconds": 39.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.9,
+        "actual_end_seconds": 40.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.4,
+        "actual_end_seconds": 43.4
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars and a person walking on the sidewalk.",
+    "caption_5s": "The video shows a street with parked cars. There is no significant action or movement observed in the frames provided.",
+    "caption_10s": "The video shows a street with parked cars on both sides. The footage is taken from an elevated position, possibly a window or a building. There are no visible people or moving vehicles in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.4,
+      "actual_end_seconds": 39.4
+    },
+    "fused_caption": "A street scene at night with parked cars on both sides, viewed from an elevated position, shows no visible people or moving vehicles.",
+    "caption": "A street scene at night with parked cars on both sides, viewed from an elevated position, shows no visible people or moving vehicles."
+  },
+  "1168": {
+    "center_frame": 1168,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.9333,
+        "actual_end_seconds": 39.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.4333,
+        "actual_end_seconds": 41.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.9333,
+        "actual_end_seconds": 43.9333
+      }
+    },
+    "caption_2s": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and in black and white, suggesting it might be from an older security camera. There are no visible people or moving objects, indicating a quiet street.",
+    "caption_5s": "A car is seen driving down a street at night. The car is moving slowly and appears to be in control.",
+    "caption_10s": "The video shows a street with parked cars on both sides. The footage is in black and white, and the timestamp indicates it was recorded at night. There are no visible people or moving objects in the scene.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.9333,
+      "actual_end_seconds": 39.9333
+    },
+    "fused_caption": "A street scene at night with parked cars on both sides, recorded in black and white, shows a quiet street with no visible people or moving objects.",
+    "caption": "A street scene at night with parked cars on both sides, recorded in black and white, shows a quiet street with no visible people or moving objects."
+  },
+  "1184": {
+    "center_frame": 1184,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 38.4667,
+        "actual_end_seconds": 40.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.9667,
+        "actual_end_seconds": 41.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 34.4667,
+        "actual_end_seconds": 44.4667
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night. The car is seen from a distance, and it appears to be moving slowly.",
+    "caption_5s": "A car is seen driving down a street at night.",
+    "caption_10s": "The video shows a car driving down a street, with a person standing on the sidewalk. The car then stops and the person gets out of the car.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 38.4667,
+      "actual_end_seconds": 40.4667
+    },
+    "fused_caption": "A car drives down a street at night, moving slowly, with a person standing on the sidewalk before getting out of the car.",
+    "caption": "A car drives down a street at night, moving slowly, with a person standing on the sidewalk before getting out of the car."
+  },
+  "1200": {
+    "center_frame": 1200,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.0,
+        "actual_end_seconds": 41.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.5,
+        "actual_end_seconds": 42.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.0,
+        "actual_end_seconds": 45.0
+      }
+    },
+    "caption_2s": "A car is seen driving down a street at night.",
+    "caption_5s": "A car is seen driving down a street at night. The car is moving slowly and appears to be in control.",
+    "caption_10s": "A car is seen driving down a street, and then it stops.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.0,
+      "actual_end_seconds": 41.0
+    },
+    "fused_caption": "A car is seen driving down a street at night, moving slowly and in control, before eventually stopping.",
+    "caption": "A car is seen driving down a street at night, moving slowly and in control, before eventually stopping."
+  },
+  "1216": {
+    "center_frame": 1216,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.5333,
+        "actual_end_seconds": 41.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.0333,
+        "actual_end_seconds": 43.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.5333,
+        "actual_end_seconds": 45.5333
+      }
+    },
+    "caption_2s": "A car is seen driving down a street at night.",
+    "caption_5s": "A car is seen driving down a street, and then it stops.",
+    "caption_10s": "The video shows a car driving down a street at night. The car is seen from a surveillance camera, and it appears to be driving erratically.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.5333,
+      "actual_end_seconds": 41.5333
+    },
+    "fused_caption": "A car is seen driving down a street at night, stopping briefly, and then continuing to drive erratically, as captured by a surveillance camera.",
+    "caption": "A car is seen driving down a street at night, stopping briefly, and then continuing to drive erratically, as captured by a surveillance camera."
+  },
+  "1232": {
+    "center_frame": 1232,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.0667,
+        "actual_end_seconds": 42.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.5667,
+        "actual_end_seconds": 43.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.0667,
+        "actual_end_seconds": 46.0667
+      }
+    },
+    "caption_2s": "A car is seen driving down a street, followed by another car.",
+    "caption_5s": "The video shows a street with parked cars on both sides. The footage is taken from an elevated position, possibly from a window or a security camera. There are no visible people or moving objects in the scene.",
+    "caption_10s": "A car is seen driving down a street and then crashing into a parked car.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.0667,
+      "actual_end_seconds": 42.0667
+    },
+    "fused_caption": "A car drives down a street, followed by another car, on a street with parked cars on both sides, before crashing into a parked car.",
+    "caption": "A car drives down a street, followed by another car, on a street with parked cars on both sides, before crashing into a parked car."
+  },
+  "1248": {
+    "center_frame": 1248,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.6,
+        "actual_end_seconds": 42.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.1,
+        "actual_end_seconds": 44.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.6,
+        "actual_end_seconds": 46.6
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night. The car is moving from left to right, and there are other cars parked on the side of the road.",
+    "caption_5s": "A car is seen driving down a street at night. The car is moving slowly and appears to be in control.",
+    "caption_10s": "The video shows a street with parked cars. A car is seen driving down the street, and then it stops. The video ends with a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.6,
+      "actual_end_seconds": 42.6
+    },
+    "fused_caption": "A car drives down a street at night, moving from left to right past parked cars, before stopping and displaying a black screen with the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "caption": "A car drives down a street at night, moving from left to right past parked cars, before stopping and displaying a black screen with the text \"LiveLeak\" and \"gmp.police.uk\"."
+  },
+  "1264": {
+    "center_frame": 1264,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.1333,
+        "actual_end_seconds": 43.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.6333,
+        "actual_end_seconds": 44.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.1333,
+        "actual_end_seconds": 47.1333
+      }
+    },
+    "caption_2s": "The video shows a car driving down a street at night.",
+    "caption_5s": "The video shows a street with parked cars. A car is seen driving down the street, and then it stops. The video ends with a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "caption_10s": "A car is seen driving down a street, and then it suddenly stops.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.1333,
+      "actual_end_seconds": 43.1333
+    },
+    "fused_caption": "A car drives down a street at night, stops, and the screen displays \"LiveLeak\" and \"gmp.police.uk\" before going black.",
+    "caption": "A car drives down a street at night, stops, and the screen displays \"LiveLeak\" and \"gmp.police.uk\" before going black."
+  },
+  "1280": {
+    "center_frame": 1280,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.6667,
+        "actual_end_seconds": 43.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.1667,
+        "actual_end_seconds": 45.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.6667,
+        "actual_end_seconds": 47.6667
+      }
+    },
+    "caption_2s": "The video shows a street with parked cars on both sides. The footage is taken from an elevated position, possibly from a window or a building. The timestamp indicates that the recording was made at 04:51:20 on 02-14-2014. There are no visible people or moving objects in the scene.",
+    "caption_5s": "The video shows a street scene at night with parked cars and a person walking on the sidewalk. The footage is grainy and low-resolution, making it difficult to discern details.",
+    "caption_10s": "The video shows a street scene at night with parked cars and a moving vehicle. The timestamp indicates the footage was recorded on June 5, 2014, at 01:51:16 AM. The video ends with a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.6667,
+      "actual_end_seconds": 43.6667
+    },
+    "fused_caption": "A grainy, low-resolution video from an elevated position shows a street at night with parked cars, a person walking on the sidewalk, and a moving vehicle, recorded on June 5, 2014, at 01:51:16 AM, with a black screen displaying \"LiveLeak\" and \"gmp.police.uk\" at the end.",
+    "caption": "A grainy, low-resolution video from an elevated position shows a street at night with parked cars, a person walking on the sidewalk, and a moving vehicle, recorded on June 5, 2014, at 01:51:16 AM, with a black screen displaying \"LiveLeak\" and \"gmp.police.uk\" at the end."
+  },
+  "1296": {
+    "center_frame": 1296,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.2,
+        "actual_end_seconds": 44.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.7,
+        "actual_end_seconds": 45.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.2,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a street with parked cars on both sides. A black car is seen driving down the street, passing by other stationary vehicles. The footage appears to be taken from an elevated position, possibly from a window or a security camera.",
+    "caption_5s": "The video shows a black car driving down a street at night. The car is seen from a surveillance camera, and it appears to be moving slowly. There are no other vehicles or pedestrians visible in the footage.",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is grainy and black and white, suggesting it might be from a security camera. There are no visible people or moving objects in the frames provided.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.2,
+      "actual_end_seconds": 44.2
+    },
+    "fused_caption": "A black car is seen driving slowly down a street at night, passing by parked cars on both sides, as captured from a grainy, black and white surveillance camera.",
+    "caption": "A black car is seen driving slowly down a street at night, passing by parked cars on both sides, as captured from a grainy, black and white surveillance camera."
+  },
+  "1312": {
+    "center_frame": 1312,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.7333,
+        "actual_end_seconds": 44.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.2333,
+        "actual_end_seconds": 46.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.7333,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a street scene with multiple cars parked along the side. The footage is in black and white, suggesting it might be from an older security camera. There are no visible people or significant movement, indicating a calm and static environment.",
+    "caption_5s": "The video shows a street scene at night with parked cars and a moving vehicle. The timestamp indicates the footage was recorded on 02-05-2014 at 04:51:20. The video ends with a black screen displaying \"LiveLeak\" and \"gmp.police.uk.\"",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is from a surveillance camera, and the timestamp indicates it was recorded in 2014. There are no visible people or moving objects in the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.7333,
+      "actual_end_seconds": 44.7333
+    },
+    "fused_caption": "A black and white street scene at night, recorded from a surveillance camera, shows parked cars on both sides of the road with no visible people or movement, captured on February 5, 2014, at 04:51:20, ending with a black screen displaying \"LiveLeak\" and \"gmp.police.uk.\"",
+    "caption": "A black and white street scene at night, recorded from a surveillance camera, shows parked cars on both sides of the road with no visible people or movement, captured on February 5, 2014, at 04:51:20, ending with a black screen displaying \"LiveLeak\" and \"gmp.police.uk.\""
+  },
+  "1328": {
+    "center_frame": 1328,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.2667,
+        "actual_end_seconds": 45.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.7667,
+        "actual_end_seconds": 46.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.2667,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video begins with a black screen, followed by a night-time scene of a street with multiple cars parked along the side. The footage is grainy and low-resolution, making it difficult to discern specific details. The cars are stationary, and there is no visible movement or activity. The video then transitions to a completely black screen with the text \"LiveLeak\" in white at the top left corner, followed by another black screen with the URL \"gmp.police.uk\" in white text. This sequence repeats several times, suggesting a transition or end card for the video.",
+    "caption_5s": "The video shows a street scene at night with parked cars and a moving vehicle. The timestamp indicates the footage was recorded on February 2014. The video ends with a black screen displaying \"LiveLeak\" and \"gmp.police.uk.\"",
+    "caption_10s": "The video shows a street scene at night with parked cars on both sides. The footage is taken from an elevated position, possibly a window or a security camera. The timestamp indicates the recording date and time. The video quality is grainy, suggesting it may be from an older security camera. There are no visible people or moving objects in the frames provided.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.2667,
+      "actual_end_seconds": 45.2667
+    },
+    "fused_caption": "A grainy, low-resolution video shows a night-time street scene with parked cars, possibly recorded from an elevated position, such as a security camera, on February 2014. The video transitions to a black screen displaying \"LiveLeak\" and \"gmp.police.uk\" before ending.",
+    "caption": "A grainy, low-resolution video shows a night-time street scene with parked cars, possibly recorded from an elevated position, such as a security camera, on February 2014. The video transitions to a black screen displaying \"LiveLeak\" and \"gmp.police.uk\" before ending."
+  },
+  "1344": {
+    "center_frame": 1344,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.8,
+        "actual_end_seconds": 45.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.3,
+        "actual_end_seconds": 47.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.8,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video consists of a series of identical frames showing a black background with the text \"LiveLeak\" in the upper left corner and \"gmp.police.uk\" centered on the screen. There are no actions or events to summarize as the content is static.",
+    "caption_5s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, with the timestamp \"05-04-2014 Wed 05:13:21\" visible on the screen. The camera angle is from an elevated position, looking down onto a street lined with parked cars. There are no people or moving vehicles visible in the footage. The video ends with a transition to a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "caption_10s": "The video shows a street with parked cars on both sides. The footage is taken from an elevated position, possibly a window or a building. The timestamp indicates the recording date and time. The video ends with a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.8,
+      "actual_end_seconds": 45.8
+    },
+    "fused_caption": "A black and white surveillance video from an elevated position shows a street with parked cars, captured on May 4, 2014 at 05:13:21. The footage is static, with no people or moving vehicles visible, before transitioning to a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "caption": "A black and white surveillance video from an elevated position shows a street with parked cars, captured on May 4, 2014 at 05:13:21. The footage is static, with no people or moving vehicles visible, before transitioning to a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\"."
+  },
+  "1360": {
+    "center_frame": 1360,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.3333,
+        "actual_end_seconds": 46.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.8333,
+        "actual_end_seconds": 47.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.3333,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video consists of a series of identical frames showing a black background with the text \"LiveLeak\" in the upper left corner and \"gmp.police.uk\" centered on the screen. There are no actions or movements within the video, and it appears to be a static display of this information.",
+    "caption_5s": "The video shows a street scene with parked cars and a moving vehicle. The footage is in black and white, suggesting it might be from an older camera or a stylistic choice. There are no visible people or significant actions taking place. The video ends with a series of black frames with the text \"LiveLeak\" and \"gmp.police.uk,\" indicating the source of the video and possibly a connection to law enforcement.",
+    "caption_10s": "The video shows a street scene captured by a surveillance camera. The footage is in black and white, with the timestamp \"04:51:18\" visible on the screen. The street is lined with parked cars on both sides, and there is a noticeable amount of smoke or fog present, obscuring parts of the view. The smoke appears to be stationary, suggesting it may be coming from a source off-camera. There are no discernible actions or movements within the frame, and the video ends abruptly with a transition to a black screen displaying the text \"LiveLeak\" and \"gmp.police.uk\".",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.3333,
+      "actual_end_seconds": 46.3333
+    },
+    "fused_caption": "A black and white video shows a street scene with parked cars and a stationary smoke or fog, captured by a surveillance camera, with a timestamp \"04:51:18\" visible on the screen, before abruptly transitioning to a static display of the text \"LiveLeak\" in the upper left corner and \"gmp.police.uk\" centered on the screen.",
+    "caption": "A black and white video shows a street scene with parked cars and a stationary smoke or fog, captured by a surveillance camera, with a timestamp \"04:51:18\" visible on the screen, before abruptly transitioning to a static display of the text \"LiveLeak\" in the upper left corner and \"gmp.police.uk\" centered on the screen."
+  },
+  "1376": {
+    "center_frame": 1376,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.8667,
+        "actual_end_seconds": 46.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.3667,
+        "actual_end_seconds": 47.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.8667,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a black screen with the text \"gmp.police.uk\" displayed in white.",
+    "caption_5s": "The video shows a series of black screens with the text \"LiveLeak\" and \"gmp.police.uk\" appearing intermittently.",
+    "caption_10s": "The video shows a street with parked cars. There is no significant action or movement observed in the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.8667,
+      "actual_end_seconds": 46.8667
+    },
+    "fused_caption": "A black screen with the text \"gmp.police.uk\" appears, followed by intermittent displays of \"LiveLeak\" and \"gmp.police.uk\", before showing a static street scene with parked cars.",
+    "caption": "A black screen with the text \"gmp.police.uk\" appears, followed by intermittent displays of \"LiveLeak\" and \"gmp.police.uk\", before showing a static street scene with parked cars."
+  },
+  "1392": {
+    "center_frame": 1392,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.4,
+        "actual_end_seconds": 47.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.9,
+        "actual_end_seconds": 47.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.4,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a black screen with the text \"gmp.police.uk\" displayed in white.",
+    "caption_5s": "The video shows a series of black screens with the text \"LiveLeak\" and \"gmp.police.uk\" displayed in white.",
+    "caption_10s": "The video shows a street with parked cars and a person walking on the sidewalk. The footage is in black and white, and there are no significant actions or events taking place.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.4,
+      "actual_end_seconds": 47.4
+    },
+    "fused_caption": "A black screen with the text \"gmp.police.uk\" displayed in white appears briefly, followed by a series of black screens with the text \"LiveLeak\" and \"gmp.police.uk\" displayed in white, before showing a street scene in black and white with a person walking on the sidewalk.",
+    "caption": "A black screen with the text \"gmp.police.uk\" displayed in white appears briefly, followed by a series of black screens with the text \"LiveLeak\" and \"gmp.police.uk\" displayed in white, before showing a street scene in black and white with a person walking on the sidewalk."
+  },
+  "1408": {
+    "center_frame": 1408,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.9333,
+        "actual_end_seconds": 47.9
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.4333,
+        "actual_end_seconds": 47.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.9333,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a black screen with the text \"LiveLeak\" and \"gmp.police.uk\" displayed.",
+    "caption_5s": "The video shows a black screen with the text \"gmp.police.uk\" displayed in white.",
+    "caption_10s": "The video shows a black car driving down a street at night. The footage is in black and white, and the car appears to be moving quickly.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.9333,
+      "actual_end_seconds": 47.9
+    },
+    "fused_caption": "A black screen with the text \"LiveLeak\" and \"gmp.police.uk\" displayed, followed by a black screen with the text \"gmp.police.uk\" in white, before showing a black car driving quickly down a street at night in black and white footage.",
+    "caption": "A black screen with the text \"LiveLeak\" and \"gmp.police.uk\" displayed, followed by a black screen with the text \"gmp.police.uk\" in white, before showing a black car driving quickly down a street at night in black and white footage."
+  },
+  "1424": {
+    "center_frame": 1424,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 46.4667,
+        "actual_end_seconds": 47.9
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.9667,
+        "actual_end_seconds": 47.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 42.4667,
+        "actual_end_seconds": 47.9
+      }
+    },
+    "caption_2s": "The video shows a man in a suit and tie, who appears to be in his 40s or 50s. He is seen walking down the street while looking at his phone. The video then cuts to a black screen with white text that reads \"LiveLeak\" and \"gmp.police.uk\".",
+    "caption_5s": "The video shows a black screen with the text \"gmp.police.uk\" displayed.",
+    "caption_10s": "A car is seen driving down a street, followed by another car. The second car then collides with the first car, causing it to spin out of control.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 46.4667,
+      "actual_end_seconds": 47.9
+    },
+    "fused_caption": "A car collides with another car on a street, causing the first car to spin out of control, while a man in a suit walks down the street nearby, looking at his phone, and the video displays a black screen with the text \"gmp.police.uk\" and \"LiveLeak\".",
+    "caption": "A car collides with another car on a street, causing the first car to spin out of control, while a man in a suit walks down the street nearby, looking at his phone, and the video displays a black screen with the text \"gmp.police.uk\" and \"LiveLeak\"."
+  }
+}

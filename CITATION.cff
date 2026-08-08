@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use COVAS-VAD, please cite this software and the upstream models."
+title: "COVAS-VAD: Cumulative Ordinal Visual Anomaly Scoring"
+type: software
+version: 1.0.2
+date-released: 2026-07-31
+authors:
+  - family-names: "COVAS-VAD Contributors"
+license: MIT
+repository-code: "https://github.com/Rathgrith/COVAS-VAD"

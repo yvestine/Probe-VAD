@@ -1,0 +1,992 @@
+{
+  "0": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. Vehicles, including cars, motorcycles, and rickshaws, are moving in both directions. Pedestrians are visible on the sidewalks and crossing the streets at designated crosswalks. Billboards and advertisements line the sides of the road. The scene is bustling with activity as people and vehicles navigate the area.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The environment is bustling with activity, and there are various billboards and signs visible along the roadside.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a normal pace. No significant actions or interactions are visible between the entities.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a busy urban street with multiple vehicles, including cars, buses, and rickshaws. Pedestrians are crossing the street at a designated crosswalk. The traffic is moving smoothly, and there are no visible signs of congestion or accidents. The scene is set during the daytime, and the weather appears to be clear.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and trucks moving in both directions. Pedestrians can be seen crossing the road at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions stand out, and there is no visible escalation or instability.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and trucks moving in both directions. Pedestrians can be seen crossing the road at designated crosswalks. The scene is set during daylight with clear visibility. No unusual activity or events are observed.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles including cars, buses, and trucks moving in both directions. Pedestrians can be seen crossing the street at designated crosswalks. The road is lined with billboards and signs, and there are trees and buildings in the background. The sky appears clear.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and trucks moving in both directions. Pedestrians can be seen crossing the road at designated crosswalks. The environment is lined with buildings, some of which have large billboards and advertisements. The sky appears clear, suggesting it might be daytime.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are various vehicles including cars, buses, and motorcycles. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with billboards and signs, and there are trees and buildings in the background. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with various billboards and signs, and there are trees and buildings visible in the background. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with various billboards and signs, and there are trees and buildings visible in the background. No specific actions or interactions between entities are discernible beyond the general movement of traffic and pedestrians.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions between entities are discernible beyond the general movement of traffic and pedestrians.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. Vehicles, including cars, buses, and motorcycles, are moving in both directions. Pedestrians can be seen on the sidewalks, and there are several billboards and signs along the roadside. The scene is dynamic, with constant motion of vehicles and people.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. Vehicles, including cars, buses, and motorcycles, are moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is bustling with activity, and there are various billboards and advertisements visible along the roadside.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, trucks, and motorcycles. The vehicles are moving in both directions on the road. There are also pedestrians walking on the sidewalks. The scene appears to be in an urban area with buildings and billboards visible in the background.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. Vehicles, including cars, trucks, and motorcycles, are moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. There are no visible signs of escalation or instability; the traffic flow appears to be orderly.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a moderate pace. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are billboards and signs visible along the roadside.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No unusual actions or interactions are observed, and there is no visible escalation or instability.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with various billboards and signs. The vehicles are moving at a moderate speed, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles, including cars and motorcycles, moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The scene is bustling with activity, and there are numerous billboards and signs visible along the roadside.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions stand out as the video captures a general view of daily traffic flow.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are cars, buses, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with various billboards and signs, some of which are in bright colors and others in more subdued tones. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are vehicles such as cars, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The environment appears to be urban with buildings lining the sides of the road. Billboards and signs are visible along the roadside. The weather seems clear and it is daytime.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions stand out as the video captures a general view of the street's activity.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are cars, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions stand out as the video captures a general view of daily traffic flow.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. No specific actions or interactions stand out as the video captures the general flow of traffic and people going about their day.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians on the sidewalks. The traffic is moving in both directions, and there are billboards and signs visible along the roadside.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions. The scene appears to be stable without any noticeable escalation or instability.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks. The scene is set during the day with clear visibility. No specific actions or interactions between entities can be discerned from this segment of the video.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks. The scene is captured from a stationary camera angle.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks. The scene is set during the day under clear skies.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks. The scene is set during daylight with clear visibility. No specific actions or interactions between entities can be discerned from this segment of the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks. The scene is set during the day under clear skies. No specific actions or interactions between entities are discernible, and there is no visible escalation or instability.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, motorcycles, and rickshaws moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The road is lined with various billboards and signs. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles, including cars and motorcycles, moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The road is lined with billboards and signs, and there are trees and buildings in the background. No significant motion changes or escalations are visible.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are vehicles, including cars and motorcycles, moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The street is lined with buildings that have various signs and billboards. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles, including cars and motorcycles, moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the road at designated crosswalks. The street is lined with buildings that have various signs and billboards. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks and crossing the street. The scene is set during daylight with clear visibility. No significant motion changes or escalations are observed.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks and crossing the street. The scene is set during the day under clear skies.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks and crossing the street. The scene is set during the day under clear skies.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A busy street with many people walking and riding bicycles. There are also cars and motorcycles driving on the road. The people are moving in different directions, some are crossing the street while others are riding their bikes. The cars and motorcycles are driving in both directions.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks and crossing the street. The scene is set during the day, and there are buildings and billboards visible along the street.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A busy street with multiple vehicles, including cars, motorcycles, and rickshaws, moving in both directions. Pedestrians are walking on the sidewalks. The scene is set during daytime with clear visibility.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and bicycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are several billboards and signs visible along the road.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, motorcycles, and rickshaws. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are billboards and signs visible along the roadside.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also several pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are no visible signs of congestion or accidents.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are several billboards and signs visible along the roadside. No specific actions or interactions between entities can be discerned from this still image.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a busy urban street with multiple lanes of traffic. There are vehicles such as buses, cars, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated areas. The road is lined with various billboards and signs, some of which are in bright colors. The sky appears clear, suggesting it might be a sunny day. No specific actions or interactions between objects are discernible beyond the general movement of traffic and pedestrians.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses, cars, and motorcycles. There are also pedestrians walking on the sidewalks. The scene is set during daylight with clear skies. The traffic appears to be moving at a moderate pace. No significant actions or interactions between entities are observed, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses, cars, and motorcycles. There are also pedestrians walking on the sidewalks. The scene is set during daylight with clear visibility. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a busy urban street with multiple vehicles, including buses, cars, and motorcycles. There are also pedestrians walking on the sidewalks. A bus is seen emitting a significant amount of white smoke from its exhaust pipe, which is visible in several frames. The smoke appears to be thick and billowing, suggesting that the vehicle may have a mechanical issue or is running on low-quality fuel. No other notable actions or interactions are observed between the entities in the video.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There is a significant amount of smoke or steam coming from the side of the road, possibly indicating an accident or mechanical issue. The traffic appears to be moving slowly, and some vehicles are seen swerving to avoid the smoke. No specific actions or interactions between individuals can be discerned due to the distance and quality of the footage.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A busy street with multiple vehicles, including cars, buses, and motorcycles, is visible. There is a significant amount of smoke or steam rising from the ground near the center of the road. The smoke appears to be stationary, suggesting it may be coming from a source on the ground rather than a moving vehicle. No other notable actions or interactions are observed in this segment.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There is a significant amount of smoke or steam rising from the ground near the center of the road. The smoke appears to be stationary, suggesting it may be coming from a source on the ground, such as a vehicle or a mechanical device. No other notable actions or interactions are visible in this segment.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A busy street with cars, buses, and motorcycles. Smoke is visible in the middle of the road.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and trucks, moving in both directions. There is a significant amount of smoke or steam rising from the ground near the center of the road. The smoke appears to be stationary, suggesting it may be coming from a source on the ground rather than a vehicle.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, trucks, and motorcycles. There is visible smoke or dust in the air, possibly from a vehicle's exhaust or an accident. The traffic appears to be moving at a normal pace. No significant interactions or motion changes are observed between the entities.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There is visible smoke or steam rising from the ground in the middle of the road. The traffic appears to be moving at a normal pace despite the presence of the smoke.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are vehicles, including cars and buses, moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The road is lined with various billboards and signs. Smoke or steam is visible rising from the ground near the center of the road.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There is visible smoke or steam rising from the ground, possibly indicating a mechanical issue or an accident. The traffic appears to be moving at a normal pace despite the presence of the smoke.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There is visible smoke or steam rising from the ground near the center of the road. The environment appears to be urban with buildings and billboards in the background. No significant motion changes or escalations are observed.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are vehicles, including buses and motorcycles, moving in both directions. Pedestrians can be seen on the sidewalks and crossing the road. The environment is urban with buildings lining the street and billboards visible. Smoke or steam is rising from the ground near the center of the frame, suggesting an incident or accident.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are vehicles, including buses and motorcycles, moving in both directions. The road is lined with billboards and signs, some of which are in red and white colors. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The sky appears clear, suggesting it might be a sunny day.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There is visible smoke or steam rising from the ground near the center of the road. The traffic appears to be moving at a normal pace, with no apparent disruptions. The environment suggests an urban setting with buildings and billboards in the background.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There is visible smoke or dust in the air, possibly from a vehicle's exhaust or an incident on the road. The traffic appears to be moving at a normal pace, with no apparent congestion or incidents.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and cars, moving in both directions. There are also several pedestrians walking on the sidewalks. The scene is captured from a stationary viewpoint, likely from a nearby building or overpass. No significant motion changes or escalations are visible in this segment of the video.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses, cars, and motorcycles. There are also pedestrians walking on the sidewalks. The scene is captured from a stationary viewpoint, likely from a nearby building or overpass. The traffic appears to be moving at a moderate pace, and there is no visible sign of any unusual activity or incident.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A busy street with multiple vehicles, including cars, buses, and motorcycles, is visible. There are also people walking on the sidewalks and some standing near the road. Smoke or dust is present in the air, possibly from a vehicle or construction work. The scene appears to be in an urban area with buildings and billboards lining the street.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and buses, moving in both directions. There are also several pedestrians walking on the sidewalks. The scene is captured from an elevated position, possibly from a nearby building or overpass. The traffic appears to be flowing smoothly without any apparent congestion.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A busy street with multiple vehicles, including cars, buses, and motorcycles, is visible. There are also people walking on the sidewalks. Smoke or steam is rising from a source in the middle of the road. The traffic appears to be moving at a normal pace.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic is moving in both directions, and there is a noticeable amount of smoke or dust in the air, possibly from a vehicle's exhaust or a nearby construction site. No specific actions or interactions between entities can be discerned from this segment.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a moderate pace. No significant actions or interactions between entities are observed. The scene remains stable throughout the video segment.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The vehicles are moving in both directions, and there is a lot of traffic congestion. The scene appears to be in an urban area with buildings and billboards visible in the background.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses, cars, and motorcycles. There are also pedestrians walking on the sidewalks. The scene is captured from an elevated perspective, possibly from a building or overpass. The traffic appears to be moving at a moderate pace, with no significant congestion visible. The weather seems clear, and there are no signs of rain or adverse conditions.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. The vehicles are moving in both directions. There are also pedestrians walking on the sidewalks. The scene is set during the day under clear skies.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. The buses are yellow and white, and the motorcycles are of various colors. There are also pedestrians on the sidewalks. The scene is set during the day under clear skies. No significant motion changes or escalations are visible in this segment.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There are also pedestrians on the sidewalks. The scene is set during daylight with clear visibility. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There are also pedestrians on the sidewalks. The scene is set during daylight with clear visibility. The buses are primarily yellow and white, while the motorcycles vary in color. The traffic appears to be moving at a moderate pace.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a busy urban street with multiple vehicles, including buses and motorcycles. There are also pedestrians on the sidewalks. The traffic appears to be moving at a moderate pace. No significant actions or interactions between entities are observed, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and motorcycles. There are also pedestrians on the sidewalks. The traffic appears to be moving at a normal pace. No significant actions or interactions between entities are observed.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and cars, moving in both directions. There are also several pedestrians walking on the sidewalks and crossing the streets. The scene is set during daylight with clear visibility. No specific actions or interactions between entities are discernible, and there is no visible escalation or instability.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a busy street with multiple vehicles, including buses and cars, moving in both directions. There are also several pedestrians walking on the sidewalks and crossing the road. The scene is set during daylight with clear visibility. No significant motion changes or escalations are observed.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A busy street with multiple vehicles, including buses and cars, moving in both directions. Pedestrians are walking on the sidewalks and crossing the street at designated crosswalks. The traffic appears to be flowing smoothly without any significant congestion or incidents.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, there is a busy street with multiple vehicles and people. A bus is seen driving down the road, while several motorcycles are also present. There are people walking on the sidewalk, and some are crossing the street. The scene appears to be in a city or urban area.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A busy street with vehicles and people.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars and motorcycles, moving in both directions. There are also pedestrians walking on the sidewalks and crossing the street. The scene is captured from a stationary camera angle, providing a wide view of the road and surrounding area.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a normal pace.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a normal pace. No significant interactions or motion changes are observed.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a normal pace. No significant actions or interactions between entities are observed. The scene remains stable throughout the video.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also pedestrians walking on the sidewalks. The traffic appears to be moving at a normal pace. No significant actions or interactions between entities are observed.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a busy street with multiple vehicles, including cars, buses, and motorcycles. There are also several pedestrians walking on the sidewalks. The traffic is moving in both directions, and there are some vehicles stopped at a red light. The scene appears to be in an urban area with buildings and billboards visible in the background.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the street at designated crosswalks. The vehicles are traveling at moderate speeds, and there is no visible sign of any unusual activity or incidents.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows a busy street with multiple lanes of traffic. There are cars, buses, and motorcycles moving in both directions. Pedestrians can be seen walking on the sidewalks and crossing the streets at designated crosswalks. The scene is set during daylight with clear skies. Billboards and advertisements are visible along the roadside.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

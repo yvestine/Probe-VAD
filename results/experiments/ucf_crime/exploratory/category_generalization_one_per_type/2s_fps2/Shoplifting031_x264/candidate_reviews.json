@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 432,
+      "quality": 0.761364,
+      "support_scales": [
+        2,
+        8,
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 416,
+          "end_frame": 447,
+          "center_frame": 432,
+          "quality": 0.761364
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 320,
+          "end_frame": 447,
+          "center_frame": 384,
+          "quality": 0.618182
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 384,
+          "end_frame": 447,
+          "center_frame": 416,
+          "quality": 0.580682
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 368,
+      "focus_end_frame": 447
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a surveillance camera footage of a store interior. A person is seen walking towards the counter, and another individual is standing behind the counter. The person at the counter appears to be interacting with the individual behind the counter, possibly making a purchase or asking for assistance.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 14.9
+      },
+      "6s": {
+        "caption": "The video shows a man in a store, who is seen sitting on a stool and writing something down. He then stands up and walks towards the back of the store. Another person enters the frame and appears to be interacting with the man.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.4,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and then stands up to walk away. Another person enters the room and sits down at the desk.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 14.9
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 320,
+      "quality": 0.515483,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 192,
+          "end_frame": 447,
+          "center_frame": 320,
+          "quality": 0.515483
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 128,
+          "end_frame": 447,
+          "center_frame": 288,
+          "quality": 0.457955
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 256,
+      "focus_end_frame": 384
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a surveillance camera footage of a store's interior. A person is seen sitting at a counter, and another individual approaches the counter from the left side of the frame. The person at the counter appears to be handling items on the counter, possibly engaging in a transaction or organizing products.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "6s": {
+        "caption": "The video shows a person sitting at a desk in an office setting. The individual is seen typing on a computer keyboard and occasionally looking at the screen. There are various objects on the desk, including papers, a monitor, and other office supplies. The person's actions suggest they are engaged in work-related tasks.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6667,
+        "actual_end_seconds": 13.6667
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a desk in an office setting. He is seen typing on a computer and then standing up to walk away from the desk.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 14.9
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 89,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 25,
+      "focus_end_frame": 153
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man sitting at a desk in a store. He is seen typing on a computer and occasionally looking at the screen. The camera angle is from above, providing a clear view of the man's actions.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.9667,
+        "actual_end_seconds": 3.9667
+      },
+      "6s": {
+        "caption": "A man is sitting at a desk in a store, working on a computer. A woman approaches him and hands him something. He takes it and continues working.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.9667
+      },
+      "10s": {
+        "caption": "A man is sitting at a desk in an office, working on his computer. A woman walks up to the desk and hands him something. The man takes the object and puts it in his pocket. The woman then walks away.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.9667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 179,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 115,
+      "focus_end_frame": 243
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man sitting at a desk in a store. He is seen typing on a computer and occasionally looking at the screen. The camera angle is from above, providing a clear view of the man's actions.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 6.9667
+      },
+      "6s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is working on his computer and appears to be focused on his work. There are no other people visible in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.9667,
+        "actual_end_seconds": 8.9667
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a desk in a store. He is seen writing on a piece of paper. A woman approaches him and hands him something, which he takes and puts on the counter. The man then continues to write on the paper.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.9667,
+        "actual_end_seconds": 10.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 371,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 307,
+      "focus_end_frame": 435
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a store, who is seen sitting on a stool and working on something. He then stands up and walks away from the counter.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 13.3667
+      },
+      "6s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is seen typing on a computer and then standing up to walk away. Another person enters the room and sits down at the desk.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.3667,
+        "actual_end_seconds": 14.9
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a desk in an office. He is seen typing on his computer and then stands up to walk away. Another person enters the room and sits down at the desk.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.3667,
+        "actual_end_seconds": 14.9
+      }
+    }
+  }
+}

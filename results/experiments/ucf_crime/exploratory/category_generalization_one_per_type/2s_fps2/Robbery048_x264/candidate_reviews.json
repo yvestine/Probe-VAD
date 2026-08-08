@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 608,
+      "quality": 0.78331,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 480,
+          "end_frame": 736,
+          "center_frame": 608,
+          "quality": 0.78331
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 448,
+          "end_frame": 768,
+          "center_frame": 608,
+          "quality": 0.76017
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 544,
+      "focus_end_frame": 672
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person wearing a striped shirt and dark pants standing inside a store with a checkered floor. The individual is facing the entrance, where another person is seen outside attempting to break in through the glass door. The person inside reacts by pushing against the door, trying to prevent the intruder from entering. The struggle continues as both individuals exert force on the door, with the person outside making several attempts to push through.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "6s": {
+        "caption": "The video shows a person inside a store, wearing a striped shirt and jeans, standing in front of the glass door. The individual appears to be holding an object in their right hand, which they point towards the door. The person's actions suggest they are either trying to open the door or are engaged in some form of interaction with someone outside. The store has a checkered black-and-white floor, and there is a blue bin visible on the right side of the frame.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2667,
+        "actual_end_seconds": 23.2667
+      },
+      "10s": {
+        "caption": "The video shows a person wearing a striped shirt and dark pants standing inside a store with checkered flooring. The individual is seen opening the glass door, stepping outside briefly, then returning to close the door. This sequence of actions is repeated several times.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 528,
+      "quality": 0.772017,
+      "support_scales": [
+        8,
+        2,
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 464,
+          "end_frame": 592,
+          "center_frame": 528,
+          "quality": 0.772017
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 480,
+          "end_frame": 512,
+          "center_frame": 496,
+          "quality": 0.764773
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 480,
+          "end_frame": 544,
+          "center_frame": 512,
+          "quality": 0.75625
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 464,
+      "focus_end_frame": 592
+    },
+    "scales": {
+      "2s": {
+        "caption": "A person is seen standing in front of a store, pointing at something outside. Another person approaches from the outside and engages in a physical altercation with the first person.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "6s": {
+        "caption": "The video shows a man standing in front of a store's glass door. He is holding a gun and pointing it at someone outside the door. The man appears to be threatening the person outside, who is trying to open the door.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.6,
+        "actual_end_seconds": 20.6
+      },
+      "10s": {
+        "caption": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something. As the video progresses, he opens the door and steps outside.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 282,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 218,
+      "focus_end_frame": 346
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man standing in front of a glass door, looking outside. He remains stationary throughout the duration of the footage.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.4,
+        "actual_end_seconds": 10.4
+      },
+      "6s": {
+        "caption": "The video shows a man standing in front of a glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still for a while.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.4,
+        "actual_end_seconds": 12.4
+      },
+      "10s": {
+        "caption": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still for a while. Eventually, he turns around and walks away from the entrance.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4,
+        "actual_end_seconds": 14.4
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 845,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 781,
+      "focus_end_frame": 909
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person standing in front of a glass door, pointing at something outside. The person is wearing a striped shirt and jeans. The floor has a checkered pattern, and there's a doormat in front of the door.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "6s": {
+        "caption": "The video shows a man standing in front of a store's glass door, pointing at something outside. He then opens the door and steps out, followed by another person who appears to be an employee. The employee seems to be engaged in a conversation with the first man.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.1667,
+        "actual_end_seconds": 31.1667
+      },
+      "10s": {
+        "caption": "The video shows a man standing at the entrance of a store, pointing a gun outside. Another person approaches him from behind and takes the gun away. The man then turns around and walks away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1667,
+        "actual_end_seconds": 33.1667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1127,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1063,
+      "focus_end_frame": 1191
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a striped shirt standing at the entrance of a store, holding a gun and pointing it at another man who is standing outside. The man with the gun appears to be demanding something from the other man.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.5667,
+        "actual_end_seconds": 38.5667
+      },
+      "6s": {
+        "caption": "In the video, a man is seen entering a store through a glass door. He then proceeds to push the door open and forcefully enters the store.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.5667,
+        "actual_end_seconds": 40.5667
+      },
+      "10s": {
+        "caption": "The video shows a man in a striped shirt entering a store, followed by two other men. The man in the striped shirt appears to be holding something in his hand and is looking at it. The other two men are standing behind him, watching.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.5667,
+        "actual_end_seconds": 42.5667
+      }
+    }
+  }
+}

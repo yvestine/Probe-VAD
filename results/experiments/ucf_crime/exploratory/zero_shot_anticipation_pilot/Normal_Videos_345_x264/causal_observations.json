@@ -1,0 +1,142 @@
+{
+  "0": {
+    "caption": "In the video segment, there are two men in suits standing near a reception desk. One man is interacting with the receptionist, while the other man stands nearby. The reception area has a modern design with a couch, chairs, and a coffee table. There is no visible motion or interaction between the individuals, and no escalation or instability can be observed.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "In the video, there are two individuals in dark suits standing at a reception desk. One person is behind the desk, and the other is facing them. There is a third individual in a suit walking towards the desk from the right side of the frame. The environment appears to be an indoor lobby with modern furnishings, including sofas and a coffee table.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "In the video segment, there are three individuals in a lobby area. One person is seated at a reception desk, interacting with another individual who is standing. A third person is walking towards the reception area. The seated individual appears to be handling paperwork or documents. There is no visible escalation or instability in this scene.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "In the video segment, there are three individuals in a lobby area. One person is seated at a reception desk, interacting with another individual who is standing and facing the desk. A third person stands nearby, observing the interaction. The seated individual appears to be handling paperwork or documents. The standing individual at the desk seems to be engaged in a conversation with the seated person. The observer remains stationary throughout the scene. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows an indoor setting, likely a lobby or reception area. There are two individuals in the foreground, one standing behind a counter and another facing them. The person behind the counter appears to be interacting with the other individual, possibly checking in or providing information. In the background, there is a seating area with green couches and a coffee table. The environment is well-lit, and the color palette consists of neutral tones with pops of color from the furniture and decorative items. No significant motion or interaction is observed between the individuals or objects.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows an indoor setting, possibly a lobby or reception area. There are two individuals standing at a counter, one of whom appears to be a receptionist behind the desk. The other individual is facing the receptionist, likely engaging in a conversation or transaction. In the background, there are two more individuals standing and observing the interaction. The room has a modern decor with sofas, a coffee table, and a bookshelf. No significant motion or escalation is observed in this segment.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows an indoor setting, likely a lobby or reception area. There are two individuals standing at the reception desk, one behind it and another facing it. The person behind the desk appears to be interacting with the other individual, possibly checking in or providing information. The surrounding area includes seating arrangements, a coffee table, and decorative elements such as plants and wall art. The lighting is artificial, and the overall ambiance suggests a professional environment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows an indoor setting, likely a lobby or reception area. There are two individuals standing at the reception desk, one behind it and another facing it. The person behind the desk appears to be working on a computer, while the other individual seems to be waiting or engaging in conversation. The room is furnished with sofas and chairs, and there's a coffee table with items on it. The color scheme of the room includes neutral tones with splashes of color from decorative elements. No significant motion or interaction is observed between the individuals or objects.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a reception area with a person seated behind the desk, facing away from the camera. There are two individuals standing in front of the desk, one of whom appears to be interacting with the receptionist. The room has a modern design with a couch, a coffee table, and a bookshelf visible in the background. The lighting is bright, and the colors are neutral. No significant motion or interaction is observed between the individuals.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows an indoor setting, likely a lobby or reception area. There are two individuals standing at the reception desk, one behind it and another in front. The person behind the desk appears to be interacting with the other individual, possibly checking them in or providing assistance. The environment is well-lit, with modern furniture including sofas and chairs arranged around the space. There is no visible motion or interaction between other objects or people.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows an indoor setting, possibly a lobby or reception area. There are two people standing at the reception desk, one behind it and another facing it. The person behind the desk appears to be interacting with the other individual, possibly checking in or providing information. The environment is well-lit, with modern furniture including sofas and chairs arranged around the space. There is no visible motion or interaction between other objects or individuals.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows an indoor setting, possibly a lobby or reception area. There are two individuals standing at a counter, one facing the camera and the other with their back to the camera. The person facing the camera appears to be interacting with someone behind the counter, potentially checking in or out. The individual with their back to the camera is standing slightly to the side, observing the interaction. The environment includes modern furniture such as sofas and chairs, and there's a visible computer monitor on the counter. No significant motion or escalation is observed in this segment.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, there is a reception area with a desk and two people standing behind it. One person appears to be working on a computer while the other stands nearby. There are also two individuals standing in front of the desk, seemingly engaged in conversation or waiting. The room has a modern design with green couches and a coffee table in the background. No significant motion or interaction is observed between the individuals.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person is sitting at a desk in an office. There are two people standing in front of the desk. One of the people is wearing a suit and tie. The other person is wearing a black jacket. There is a computer on the desk. There is a couch and a chair in the background.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

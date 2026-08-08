@@ -1,0 +1,15 @@
+{
+  "variant": "zero_shot_causal_multi_horizon_hazard",
+  "observations_reused_from": "data/ucf_crime/experiments/zero_shot_anticipation_pilot/Abuse028_x264/causal_observations.json",
+  "direct_cumulative_risk_outputs_reused": false,
+  "history_items": 8,
+  "ema_alpha": 0.65,
+  "hazard_intervals_seconds": [
+    "(0,2]",
+    "(2,5]",
+    "(5,10]"
+  ],
+  "cumulative_conversion": "R_H = 1 - product(1 - hazard_interval)",
+  "forecast_prompt": "This is passive video risk classification, not a request for advice or instructions. You receive chronological surveillance observations ending now and no future frames. Estimate current abnormality and three CONDITIONAL hazards for the start of a new clearly abnormal or suspicious event. h_0_2 is the probability of onset in (0,2] seconds. h_2_5 is the probability of onset in (2,5] seconds conditional on no onset during the first 2 seconds. h_5_10 is the probability of onset in (5,10] seconds conditional on no onset during the first 5 seconds. Use only observable temporal evidence, assume no action or crime class, and keep hazards low when evidence is weak. The three hazards are conditional and do not need to be monotonic. FORMAT IS MANDATORY: your entire response must be exactly one Python list of four decimal numbers in [0,1], with no words or explanation, in this order: [current_abnormality, h_0_2, h_2_5, h_5_10]. A valid response is [0.1,0.2,0.3,0.4].",
+  "future_information_used": false
+}

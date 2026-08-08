@@ -1,0 +1,2662 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "Two men are standing in a tunnel, and one of them is leaning against the wall.",
+    "caption_5s": "Two men are standing in a tunnel, and a couple walks past them.",
+    "caption_10s": "Two men are talking in a tunnel when a woman and another man walk up to them.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "Two men are standing in a tunnel, one leaning against the wall, when a couple walks past them, and a woman and another man approach to join the conversation.",
+    "caption": "Two men are standing in a tunnel, one leaning against the wall, when a couple walks past them, and a woman and another man approach to join the conversation."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "Two men are standing in a tunnel, talking to each other. A woman and another man walk past them.",
+    "caption_5s": "Two men are standing in a tunnel, and as they walk away, a couple walks past them.",
+    "caption_10s": "A man is leaning against a wall in a tunnel, and another man approaches him. A couple then walks past them.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "Two men stand in a tunnel, then walk away as a couple passes by, with a second man approaching the first man after they have moved.",
+    "caption": "Two men stand in a tunnel, then walk away as a couple passes by, with a second man approaching the first man after they have moved."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "Two men are standing in a tunnel, talking to each other. A woman and another man walk past them.",
+    "caption_5s": "Two men are standing in a tunnel, and as they walk away, a couple walks past them.",
+    "caption_10s": "A man and a woman are walking down a tunnel. They stop to talk to another man, then continue walking.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "Two men stand in a tunnel, then walk away as a couple passes by, stopping briefly to talk to one of the men before continuing down the tunnel.",
+    "caption": "Two men stand in a tunnel, then walk away as a couple passes by, stopping briefly to talk to one of the men before continuing down the tunnel."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. They are seen from behind, and their movement is steady and continuous. The tunnel appears to be well-lit, with artificial lighting on the walls.",
+    "caption_5s": "Two men are talking in a tunnel when a woman and man walk up to them.",
+    "caption_10s": "A man in a white hat is standing in a tunnel, talking to another man. A couple walks past them and continues down the tunnel.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A man in a white hat stands in a well-lit tunnel, talking to another man, while a couple walks past them and continues down the tunnel, where they are soon joined by two other men who are initially engaged in conversation.",
+    "caption": "A man in a white hat stands in a well-lit tunnel, talking to another man, while a couple walks past them and continues down the tunnel, where they are soon joined by two other men who are initially engaged in conversation."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. They are seen from behind, and the camera follows them as they move forward. The tunnel appears to be narrow, with walls on either side.",
+    "caption_5s": "Two men are standing in a tunnel, and as they walk away, a couple walks past them.",
+    "caption_10s": "A man in a white hat walks towards two men talking in a tunnel. He then turns around and walks away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A man in a white hat walks towards two men talking in a narrow tunnel, then turns around and walks away as a couple passes by, while a group of people can be seen walking through the tunnel in the distance.",
+    "caption": "A man in a white hat walks towards two men talking in a narrow tunnel, then turns around and walks away as a couple passes by, while a group of people can be seen walking through the tunnel in the distance."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. The tunnel has white walls and a light source at the end, indicating an exit or opening. The individuals are dressed in casual clothing, with one person wearing a white coat and another in a dark jacket. They appear to be moving at a steady pace, and there is no interaction between them that can be discerned from the images provided.",
+    "caption_5s": "The video shows a tunnel with two individuals standing and conversing. A third person approaches them, followed by another individual. The group then proceeds to walk away together through the tunnel.",
+    "caption_10s": "A man in a white hat is walking down a tunnel when another man suddenly attacks him.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A group of people, including one in a white coat and another in a dark jacket, walk through a tunnel towards a light source at the end, moving at a steady pace, before a man in a white hat is attacked by another man.",
+    "caption": "A group of people, including one in a white coat and another in a dark jacket, walk through a tunnel towards a light source at the end, moving at a steady pace, before a man in a white hat is attacked by another man."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. The tunnel has white walls and a light source at the end, indicating an exit or opening. The individuals are dressed in casual clothing, with some wearing hats. They appear to be walking at a normal pace, and there is no interaction between them that can be discerned from the video.",
+    "caption_5s": "The video shows a group of people walking through a tunnel. They are moving in a single file line, and the camera follows them from behind. The tunnel has white walls and a gray floor. The lighting is artificial, and there are no other visible objects or people in the scene.",
+    "caption_10s": "A man in a white hat walks towards two men standing in a tunnel. He then turns around and walks away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A group of people, dressed in casual clothing, walk through a tunnel with white walls and artificial lighting, moving in a single file line, with one individual, wearing a white hat, briefly interacting with two others before continuing on.",
+    "caption": "A group of people, dressed in casual clothing, walk through a tunnel with white walls and artificial lighting, moving in a single file line, with one individual, wearing a white hat, briefly interacting with two others before continuing on."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a group of four individuals walking through a narrow, dimly lit tunnel. The tunnel has white walls and a concrete floor. The individuals are casually dressed, with one person wearing a light-colored jacket and another in dark clothing. They appear to be engaged in conversation as they walk.",
+    "caption_5s": "The video shows a group of four people walking through a dimly lit tunnel. The tunnel has white walls and a concrete floor. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in a dark coat. They appear to be engaged in conversation as they walk. The lighting is consistent throughout the tunnel, and there are no significant changes in the environment or actions of the individuals.",
+    "caption_10s": "A man in a white hat walks towards two men talking in a tunnel. He stops and talks to them, then turns around and walks away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A man in a white hat walks towards two men talking in a dimly lit tunnel with white walls and a concrete floor. He stops and talks to them, then turns around and walks away, as the two men continue walking, one in a light-colored jacket and the other in a dark coat, through the tunnel.",
+    "caption": "A man in a white hat walks towards two men talking in a dimly lit tunnel with white walls and a concrete floor. He stops and talks to them, then turns around and walks away, as the two men continue walking, one in a light-colored jacket and the other in a dark coat, through the tunnel."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals present: two men and two women. The men are standing close to each other, engaged in conversation, while the women walk away from them. One of the women is wearing a light-colored coat and carrying a bag, while the other woman is dressed in dark clothing. The men are dressed casually, one in a dark jacket and the other in a lighter jacket. The tunnel appears to be empty except for these individuals.",
+    "caption_5s": "The video shows a group of four people walking through a narrow, dimly lit tunnel. The walls are white, and the floor appears to be made of concrete. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and another in dark attire. As they proceed, one individual suddenly turns around and starts running back towards the camera, displaying signs of distress or urgency.",
+    "caption_10s": "A man in a white hat walks into a tunnel and is followed by a woman. They are then joined by another couple. The man in the white hat points at something on the wall, and the group stops to look.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A dimly lit tunnel with white walls and a concrete floor is occupied by four individuals: two men and two women. The men, one in a dark jacket and the other in a lighter jacket, stand close to each other, while the women, one in a light-colored coat and the other in dark clothing, walk away from them. The group is later joined by another couple, and a man in a white hat points at something on the wall, causing them to stop and",
+    "caption": "A dimly lit tunnel with white walls and a concrete floor is occupied by four individuals: two men and two women. The men, one in a dark jacket and the other in a lighter jacket, stand close to each other, while the women, one in a light-colored coat and the other in dark clothing, walk away from them. The group is later joined by another couple, and a man in a white hat points at something on the wall, causing them to stop and"
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a group of four individuals walking through a dimly lit tunnel. The tunnel has white walls and a concrete floor, with light coming from the end of the tunnel. The people are dressed in casual clothing, with one person wearing a white coat and another in a dark jacket. They appear to be engaged in conversation as they walk.",
+    "caption_5s": "The video shows a sequence of events in a dimly lit tunnel with white walls and a concrete floor. Initially, two individuals are seen walking away from the camera. As the video progresses, two more people enter the frame, one wearing a dark jacket and the other in a light-colored coat. The group appears to be engaged in conversation as they walk. In the final frames, one individual raises their arm, possibly in a gesture of greeting or signaling.",
+    "caption_10s": "A man and a woman are walking down a tunnel when another man suddenly attacks them.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A group of four individuals, including one wearing a white coat and another in a dark jacket, walk through a dimly lit tunnel with white walls and a concrete floor, appearing to be engaged in conversation. As they approach the end of the tunnel, one individual raises their arm, possibly in a gesture of greeting or signaling.",
+    "caption": "A group of four individuals, including one wearing a white coat and another in a dark jacket, walk through a dimly lit tunnel with white walls and a concrete floor, appearing to be engaged in conversation. As they approach the end of the tunnel, one individual raises their arm, possibly in a gesture of greeting or signaling."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a sequence of events in a dimly lit tunnel with white walls and a concrete floor. Initially, two individuals are seen walking away from the camera. Shortly after, another person appears from the left side of the frame and confronts the first two individuals. The confrontation escalates as the newcomer gestures aggressively towards the others. The video ends with the aggressor standing alone in the tunnel, having seemingly driven the other individuals away.",
+    "caption_5s": "The video shows a sequence of events in a tunnel where individuals are present. Initially, two people are seen walking away from the camera. As the video progresses, more people enter the frame, and one person appears to be gesturing or pointing towards something on the wall. The lighting is artificial, and the walls are plain. The individuals are dressed in casual clothing, and their actions suggest a casual interaction or conversation.",
+    "caption_10s": "The video shows a sequence of events in a tunnel with white walls and a concrete floor. Initially, two individuals are seen standing close to each other, engaged in what appears to be a conversation. As the video progresses, more people enter the frame, walking through the tunnel. The lighting is artificial, and the timestamp on the footage indicates it was recorded in the evening.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "Individuals are seen walking in a dimly lit tunnel with white walls and a concrete floor. Two people initially walk away from the camera, then another person enters and gestures aggressively, causing the others to leave. The tunnel is lit artificially, and the individuals are dressed in casual clothing, walking through the space in the evening.",
+    "caption": "Individuals are seen walking in a dimly lit tunnel with white walls and a concrete floor. Two people initially walk away from the camera, then another person enters and gestures aggressively, causing the others to leave. The tunnel is lit artificially, and the individuals are dressed in casual clothing, walking through the space in the evening."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. One person is seen running towards the camera, while others are walking away from it.",
+    "caption_5s": "The video shows a group of people walking through a tunnel. They are casually dressed, and one person is wearing a white coat. The tunnel has white walls with some graffiti, and the lighting is artificial. The individuals appear to be in conversation as they walk.",
+    "caption_10s": "The video shows a group of people walking through a tunnel. They are seen from behind, and the camera follows them as they move forward. The tunnel has white walls and a gray floor, and there is a light source at the end of the tunnel.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A group of people, casually dressed with one wearing a white coat, walk through a tunnel with white walls and gray floor, illuminated by artificial lighting, with some graffiti visible, as they move forward in conversation.",
+    "caption": "A group of people, casually dressed with one wearing a white coat, walk through a tunnel with white walls and gray floor, illuminated by artificial lighting, with some graffiti visible, as they move forward in conversation."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. One person is seen running towards the camera, while another person is standing in the middle of the tunnel. The video ends with the person who was running now standing still.",
+    "caption_5s": "The video shows a group of four individuals walking through a tunnel. The tunnel has white walls and a concrete floor. The individuals are dressed in casual clothing, with one person wearing a light-colored jacket and the others in darker attire. They walk at a steady pace, and their movement is captured from a stationary camera angle.",
+    "caption_10s": "The video shows a group of people walking through a tunnel. They are casually dressed, and one person is wearing a white cap. The tunnel has white walls and a light source at the end. The individuals are walking in a single file line, and their pace appears to be steady.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A group of people, casually dressed, walk through a tunnel with white walls and a light source at the end. One person, wearing a light-colored jacket and a white cap, walks at the front of the group, followed by others in darker attire, and a person in the middle of the tunnel stands still, while another person runs towards the camera before stopping.",
+    "caption": "A group of people, casually dressed, walk through a tunnel with white walls and a light source at the end. One person, wearing a light-colored jacket and a white cap, walks at the front of the group, followed by others in darker attire, and a person in the middle of the tunnel stands still, while another person runs towards the camera before stopping."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. One person is seen running towards the camera, while others are walking away from it. The tunnel appears to be dimly lit and has white walls.",
+    "caption_5s": "The video shows a group of people walking through a tunnel. They are seen walking in a line, with some individuals stopping to look at something on the wall. The lighting is dim, and the walls appear to be made of concrete.",
+    "caption_10s": "The video shows a group of four individuals walking through a dimly lit tunnel. They are casually dressed, with one person wearing a white coat and another in a dark jacket. The group appears to be engaged in conversation as they walk. As they proceed, the person in the white coat stops and turns around, initiating a brief interaction with the others who continue walking. The tunnel walls are plain, and there is no significant change in lighting or environment throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A group of people, including one in a white coat and another in a dark jacket, walk through a dimly lit tunnel with plain white walls, occasionally stopping to look at something or interact with each other.",
+    "caption": "A group of people, including one in a white coat and another in a dark jacket, walk through a dimly lit tunnel with plain white walls, occasionally stopping to look at something or interact with each other."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "In the video, a person is seen running towards two individuals who are standing in a tunnel. The runner then stops and engages in a conversation with the two people.",
+    "caption_5s": "A group of people are walking down a tunnel, and one person suddenly attacks another.",
+    "caption_10s": "In the video, a group of people are seen walking through a tunnel. One person suddenly attacks another with an object, causing the victim to fall to the ground. The attacker then runs away while the others continue walking.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A group of people are walking through a tunnel when one person suddenly attacks another with an object, causing the victim to fall to the ground, and then the attacker runs away while the others continue walking.",
+    "caption": "A group of people are walking through a tunnel when one person suddenly attacks another with an object, causing the victim to fall to the ground, and then the attacker runs away while the others continue walking."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A group of people are walking down a hallway. One person is leaning against the wall while another person walks away.",
+    "caption_5s": "A group of people are walking down a tunnel. One person is being chased by another person. The person who is being chased runs into the wall and falls down.",
+    "caption_10s": "A group of people are walking down a tunnel. One person suddenly attacks another with an object, causing the victim to fall to the ground. The attacker then runs away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A group of people are walking down a tunnel. One person suddenly attacks another with an object, causing the victim to fall to the ground. The attacker then runs away, and the group continues walking, with one person falling to the ground after running into the wall and another person walking away from the group.",
+    "caption": "A group of people are walking down a tunnel. One person suddenly attacks another with an object, causing the victim to fall to the ground. The attacker then runs away, and the group continues walking, with one person falling to the ground after running into the wall and another person walking away from the group."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "In the video, a group of people are seen standing in a hallway. They are engaged in a game of rock-paper-scissors. One person wins and then proceeds to punch another individual in the face.",
+    "caption_5s": "A man in a black hoodie runs towards a group of people and pushes them against the wall.",
+    "caption_10s": "The video shows a group of people walking through a tunnel. They are seen walking in different directions, with some individuals stopping to talk to each other. The tunnel appears to be well-lit and has white walls.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A group of people are walking through a well-lit tunnel with white walls, some stopping to talk, when a man in a black hoodie runs towards them, pushes them against the wall, and then punches one individual in the face.",
+    "caption": "A group of people are walking through a well-lit tunnel with white walls, some stopping to talk, when a man in a black hoodie runs towards them, pushes them against the wall, and then punches one individual in the face."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not moving or interacting with each other.",
+    "caption_5s": "In the video, a group of people are seen walking through a tunnel. They stop and engage in conversation with each other.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another with an object, causing them to fall to the ground. The attacker then runs away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A group of people walk through a tunnel, stop to converse, and then one person attacks another, causing them to fall, before the attacker flees.",
+    "caption": "A group of people walk through a tunnel, stop to converse, and then one person attacks another, causing them to fall, before the attacker flees."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not engaged in any specific actions, but rather appear to be waiting or observing something.",
+    "caption_5s": "The video shows a group of people walking down a hallway. One person is seen leaning against the wall, while another person is standing nearby. The camera then focuses on a person in the background who is walking towards the camera.",
+    "caption_10s": "In the video, a group of people is seen walking through a tunnel. One person suddenly attacks another with an object, causing the victim to fall to the ground. The attacker then runs away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A group of people are standing in a tunnel, waiting or observing something. They then walk down a hallway, with one person leaning against the wall and another walking towards the camera. As they continue, a person in the group suddenly attacks another with an object, causing the victim to fall, and then runs away.",
+    "caption": "A group of people are standing in a tunnel, waiting or observing something. They then walk down a hallway, with one person leaning against the wall and another walking towards the camera. As they continue, a person in the group suddenly attacks another with an object, causing the victim to fall, and then runs away."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not engaged in any specific actions, but they are present in the scene.",
+    "caption_5s": "The video shows a group of people standing in a tunnel. They are engaged in conversation and appear to be waiting for something or someone.",
+    "caption_10s": "A group of people are walking down a tunnel, and one person suddenly attacks another.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A group of people are standing in a tunnel, initially present and still, then engaged in conversation and waiting, before one person suddenly attacks another while walking down the tunnel.",
+    "caption": "A group of people are standing in a tunnel, initially present and still, then engaged in conversation and waiting, before one person suddenly attacks another while walking down the tunnel."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not moving or interacting with each other.",
+    "caption_5s": "The video shows a group of four people standing in a tunnel. They are engaged in conversation and appear to be waiting for something or someone. The tunnel is narrow with white walls, and the floor is made of concrete. The lighting is dim, and there is no significant movement throughout the video.",
+    "caption_10s": "The video shows a group of people walking through a tunnel. One person is seen throwing an object at the wall, while others are standing and watching. The person who threw the object then walks away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A group of people stand or walk through a narrow tunnel with white walls and a concrete floor, the lighting is dim, and they appear to be waiting or interacting with each other.",
+    "caption": "A group of people stand or walk through a narrow tunnel with white walls and a concrete floor, the lighting is dim, and they appear to be waiting or interacting with each other."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not moving or interacting with each other.",
+    "caption_5s": "The video shows a group of people in a tunnel. They are standing and walking around, with some individuals leaning against the walls. The lighting is dim, and the walls appear to be made of concrete.",
+    "caption_10s": "In the video, a group of people are seen walking through a tunnel. One person is seen pushing another against the wall, and then they all continue walking.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A group of people are standing and walking in a dimly lit concrete tunnel, with some individuals leaning against the walls.",
+    "caption": "A group of people are standing and walking in a dimly lit concrete tunnel, with some individuals leaning against the walls."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are not moving or interacting with each other.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is leaning against the wall, while another person is standing nearby. A third person walks towards them from the far end of the tunnel.",
+    "caption_10s": "The video shows a group of people in a tunnel. They are standing and walking around, with some individuals leaning against the walls. The lighting is dim, and the walls appear to be made of concrete.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A group of people stand and walk in a dimly lit concrete tunnel, with some individuals leaning against the walls as others move around them.",
+    "caption": "A group of people stand and walk in a dimly lit concrete tunnel, with some individuals leaning against the walls as others move around them."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are four individuals present: two standing close to the camera, one facing away from the camera, and another further down the tunnel. The two individuals closest to the camera appear to be engaged in conversation or interaction, while the others seem to be observing or waiting. The lighting is consistent throughout the tunnel, and there is no significant movement or change in the scene.",
+    "caption_5s": "The video shows a group of individuals in a dimly lit tunnel. One person is leaning against the wall, while another stands nearby. A third person is seen walking away from the camera towards the end of the tunnel. The walls are plain and there are no visible signs or markings.",
+    "caption_10s": "The video shows a sequence of events in a dimly lit tunnel with white walls and a concrete floor. Initially, two individuals are seen standing against the wall on the left side of the frame. One is wearing a dark jacket and jeans, while the other is in a lighter-colored hoodie and jeans. They appear to be engaged in a conversation or interaction. Shortly after, another individual enters the frame from the right side, walking towards the two standing people. This new person is dressed in dark clothing and seems to approach the group with intent. The video ends before any further interaction occurs.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A dimly lit tunnel with white walls and a concrete floor shows four individuals: two standing close to the camera, one facing away, and another further down, with the two closest engaged in conversation or interaction. One person is leaning against the wall, another stands nearby, and a third walks away from the camera towards the end of the tunnel. Initially, two individuals stand against the wall, one in a dark jacket and jeans, the other in a lighter-colored hoodie and jeans,",
+    "caption": "A dimly lit tunnel with white walls and a concrete floor shows four individuals: two standing close to the camera, one facing away, and another further down, with the two closest engaged in conversation or interaction. One person is leaning against the wall, another stands nearby, and a third walks away from the camera towards the end of the tunnel. Initially, two individuals stand against the wall, one in a dark jacket and jeans, the other in a lighter-colored hoodie and jeans,"
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a group of people standing in a tunnel. They are engaged in conversation and appear to be waiting for something or someone. The tunnel is well-lit, and the walls are white. The individuals are dressed casually, with some wearing jackets. There is no significant movement or action throughout the video.",
+    "caption_5s": "The video shows a series of images from a surveillance camera in a dimly lit tunnel. There are four individuals present: two standing against the wall on the left side, one walking towards them from the right, and another standing further down the tunnel. The individuals are dressed in casual clothing, with one person wearing a hoodie. The tunnel has white walls and a concrete floor, and there is a light source at the far end.",
+    "caption_10s": "The video shows a series of images from a surveillance camera in a tunnel. There are four individuals present: two standing against the wall on the left, one walking towards them from the right, and another person standing further back in the tunnel. The individuals are dressed in casual clothing, with one wearing a hoodie. The lighting is artificial, typical of an underground setting. The sequence captures the movement of the person walking towards the group, who then engage in what appears to be a conversation or interaction.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A group of four people, dressed in casual clothing, stand in a dimly lit tunnel with white walls and a concrete floor. Two individuals are against the wall on the left, one walks towards them from the right, and another stands further back. The person walking towards the group engages in a conversation or interaction with the others after arriving.",
+    "caption": "A group of four people, dressed in casual clothing, stand in a dimly lit tunnel with white walls and a concrete floor. Two individuals are against the wall on the left, one walks towards them from the right, and another stands further back. The person walking towards the group engages in a conversation or interaction with the others after arriving."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a dimly lit tunnel with white walls and a concrete floor. There are three individuals present: two are standing close to the wall, one wearing a dark jacket and jeans, and the other in a lighter-colored hoodie and jeans. The third person is further down the tunnel, facing away from the camera, and appears to be walking towards the exit. The individuals near the wall seem to be engaged in a conversation or interaction, while the person walking away does not appear to be involved in their interaction.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is seen walking away from the camera, while another person is standing still. The remaining individuals are engaged in conversation.",
+    "caption_10s": "The video shows a series of images from a surveillance camera in a dimly lit tunnel. There are four individuals present: two standing against the wall on the left side, one walking towards them from the right, and another standing further back near the entrance of the tunnel. The individuals are dressed in casual clothing, with one person wearing a hoodie. The actions include walking, standing, and what appears to be a conversation or interaction between the individuals.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A dimly lit tunnel with white walls and a concrete floor shows four individuals: two standing against the wall, one walking towards them, and another standing further back near the entrance. The individuals are dressed in casual clothing, with one person wearing a hoodie, and appear to be engaged in a conversation or interaction while one person walks towards the exit.",
+    "caption": "A dimly lit tunnel with white walls and a concrete floor shows four individuals: two standing against the wall, one walking towards them, and another standing further back near the entrance. The individuals are dressed in casual clothing, with one person wearing a hoodie, and appear to be engaged in a conversation or interaction while one person walks towards the exit."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a group of people in a tunnel. They are standing and walking around, with some individuals appearing to be engaged in conversation. The lighting is dim, and the walls of the tunnel are white.",
+    "caption_5s": "In the video, a group of people are seen standing in a tunnel. One person is walking towards them, and another person is walking away from them.",
+    "caption_10s": "The video shows a group of people in a tunnel. One person is seen walking away from the camera, while another person is standing still. The rest of the group is engaged in conversation.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A group of people are standing and walking in a dimly lit white tunnel, with some individuals engaged in conversation and others moving towards or away from the group.",
+    "caption": "A group of people are standing and walking in a dimly lit white tunnel, with some individuals engaged in conversation and others moving towards or away from the group."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a person walking down a tunnel, passing by two individuals who are standing and talking. The person walking is wearing dark clothing and moves at a steady pace. The two individuals engaged in conversation are also dressed in dark attire. The tunnel has white walls and a concrete floor, with light coming from the end of the tunnel.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is seen walking away from the camera, while another person is standing still. The remaining individuals are engaged in conversation.",
+    "caption_10s": "In the video, a group of people are seen in a tunnel. They are standing and walking around, with some individuals leaning against the walls. The scene is captured from a surveillance camera, showing the movement of the people as they interact with each other.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A group of people in a tunnel, dressed in dark attire, are standing and walking around, with some leaning against the walls, while a person walks steadily away from the camera, passing by two individuals engaged in conversation near the entrance of the tunnel, where light from the end illuminates the white walls and concrete floor.",
+    "caption": "A group of people in a tunnel, dressed in dark attire, are standing and walking around, with some leaning against the walls, while a person walks steadily away from the camera, passing by two individuals engaged in conversation near the entrance of the tunnel, where light from the end illuminates the white walls and concrete floor."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a person in a dark jacket and jeans walking towards the camera in a tunnel. Another individual, wearing a light-colored hoodie, is seen further down the tunnel, facing away from the camera. The person in the dark jacket appears to be gesturing or pointing towards the other individual.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is standing still while another person walks towards them. The person who was walking then turns around and walks back to their original position.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. They then proceed to walk back and forth in the same area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A person in a dark jacket and jeans walks towards the camera in a tunnel, gesturing towards another individual in a light-colored hoodie facing away from the camera. The person in the dark jacket then turns around and walks back, joining a group of people walking back and forth in the same area.",
+    "caption": "A person in a dark jacket and jeans walks towards the camera in a tunnel, gesturing towards another individual in a light-colored hoodie facing away from the camera. The person in the dark jacket then turns around and walks back, joining a group of people walking back and forth in the same area."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "In the video, a person is seen walking down a tunnel. They encounter two individuals who are standing against the wall. The person in the tunnel then proceeds to kick one of the individuals.",
+    "caption_5s": "A person in a black jacket walks towards the camera, while another person in a white hoodie walks away from the camera.",
+    "caption_10s": "In the video, a group of people are seen standing in a tunnel. One person walks towards them and then turns around to walk back. Another person is seen walking away from the group.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person in a black jacket walks towards the camera, passing a group of people standing in a tunnel, while another person in a white hoodie walks away from the group, and then a person in the tunnel kicks one of two individuals standing against the wall.",
+    "caption": "A person in a black jacket walks towards the camera, passing a group of people standing in a tunnel, while another person in a white hoodie walks away from the group, and then a person in the tunnel kicks one of two individuals standing against the wall."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person in a hoodie walks towards the camera, while another person in a black jacket walks away from the camera.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is standing still while another person walks towards them. The person who was walking then turns around and walks back to their original position.",
+    "caption_10s": "A group of people are seen standing in a tunnel, and one person walks away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person in a hoodie walks towards the camera, while another person in a black jacket walks away from the camera. In a tunnel, a group of people stand still, and one person walks towards them, then turns around and walks back. A group of people are seen standing in a tunnel, and one person walks away.",
+    "caption": "A person in a hoodie walks towards the camera, while another person in a black jacket walks away from the camera. In a tunnel, a group of people stand still, and one person walks towards them, then turns around and walks back. A group of people are seen standing in a tunnel, and one person walks away."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "In the video, a person is seen walking down a hallway. Suddenly, they are attacked by another individual who hits them in the head with an object. The attacker then runs away while the victim remains on the ground.",
+    "caption_5s": "A person in a black jacket walks towards the camera, while another person in a blue jacket walks away from the camera.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person in a blue jacket walks away from the camera, while another person in a black jacket approaches. The person in the black jacket then attacks the person in the blue jacket, hitting them in the head with an object, causing them to fall to the ground. The attacker runs away, leaving the victim on the ground in a tunnel.",
+    "caption": "A person in a blue jacket walks away from the camera, while another person in a black jacket approaches. The person in the black jacket then attacks the person in the blue jacket, hitting them in the head with an object, causing them to fall to the ground. The attacker runs away, leaving the victim on the ground in a tunnel."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel.",
+    "caption_5s": "In the video, a person is seen walking down a tunnel. They are approached by another individual who appears to be holding something in their hand. The first person then turns around and walks back towards the camera.",
+    "caption_10s": "In the video, a group of people are seen standing in a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A group of people are walking through a tunnel, where one person is approached by another individual, causing them to turn around and walk back towards the camera, while a separate incident of a person attacking another occurs in the same tunnel, resulting in the latter falling to the ground.",
+    "caption": "A group of people are walking through a tunnel, where one person is approached by another individual, causing them to turn around and walk back towards the camera, while a separate incident of a person attacking another occurs in the same tunnel, resulting in the latter falling to the ground."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "In the video, a person is seen walking down a tunnel. They are followed by another person who appears to be chasing them. The person being chased is running away from the other person.",
+    "caption_5s": "A person is seen walking down a tunnel, followed by another person. The first person then turns around and walks back towards the camera.",
+    "caption_10s": "The video shows a group of people in a tunnel. One person is seen walking towards the camera, while another person is standing still. The person who was walking then turns around and starts to fight with the person who was standing still. The fight continues until one person falls to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person walks down a tunnel, followed by another person, who is then seen running away. The first person turns around and walks back, then turns around again and starts to fight with the person who was standing still, resulting in one person falling to the ground.",
+    "caption": "A person walks down a tunnel, followed by another person, who is then seen running away. The first person turns around and walks back, then turns around again and starts to fight with the person who was standing still, resulting in one person falling to the ground."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "The video shows a group of people walking down a hallway.",
+    "caption_5s": "In the video, a group of people are seen walking down a tunnel. One person is leaning against the wall while others walk past them. Suddenly, one individual attacks another with an object, causing a commotion.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A group of people are walking down a tunnel when one person attacks another, causing them to fall to the ground.",
+    "caption": "A group of people are walking down a tunnel when one person attacks another, causing them to fall to the ground."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. They are seen from behind, and the camera follows them as they move forward. The tunnel appears to be well-lit, and the walls are white.",
+    "caption_5s": "The video shows a group of people walking down a tunnel. One person is seen running away from the group, and another person is seen chasing after them.",
+    "caption_10s": "The video shows a group of people in a tunnel. One person is seen walking away from the camera, while another person is standing still. Suddenly, a third person appears and attacks the second person, causing them to fall to the ground. The attacker then proceeds to hit the fallen person repeatedly.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A group of people walk through a well-lit, white-walled tunnel, with one person running away from the group and another chasing after them, while a third person attacks and hits another person who falls to the ground.",
+    "caption": "A group of people walk through a well-lit, white-walled tunnel, with one person running away from the group and another chasing after them, while a third person attacks and hits another person who falls to the ground."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "In the video, a group of people are seen walking through a tunnel. They are casually strolling and appear to be engaged in conversation.",
+    "caption_5s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+    "caption_10s": "In the video, a man is seen walking down a tunnel. Suddenly, he is attacked by another man who punches him in the face. The attacker then kicks the victim, causing him to fall to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A man is punched in the face and kicked, causing him to fall to the ground in a tunnel, where a group of people were previously walking.",
+    "caption": "A man is punched in the face and kicked, causing him to fall to the ground in a tunnel, where a group of people were previously walking."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a group of people walking through a tunnel. One person is seen leaning against the wall while others walk past them.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is standing against the wall while others are walking towards them. Suddenly, one person attacks another, causing them to fall to the ground.",
+    "caption_10s": "In the video, a man is seen walking down a tunnel. Suddenly, he is attacked by two individuals who knock him to the ground. One of the attackers then proceeds to punch the man while the other stands nearby.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A group of people walk through a tunnel, with one person standing against the wall as others approach. One person attacks another, causing them to fall, and a physical altercation ensues with punches being thrown.",
+    "caption": "A group of people walk through a tunnel, with one person standing against the wall as others approach. One person attacks another, causing them to fall, and a physical altercation ensues with punches being thrown."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a sequence of events in a dimly lit tunnel. Initially, there are two individuals standing apart from each other. One person is wearing a light-colored hoodie and jeans, while the other is dressed in dark clothing. The individual in the hoodie appears to be leaning against the wall, while the other person is standing upright. As the video progresses, the person in dark clothing moves closer to the individual in the hoodie, and they engage in a physical altercation. The movements become more aggressive, with both individuals grappling and pushing each other.",
+    "caption_5s": "The video shows a group of individuals in a tunnel-like corridor. Initially, they are standing and conversing. Suddenly, one person is attacked by another, causing them to fall to the ground. The attacker then proceeds to strike the fallen individual multiple times.",
+    "caption_10s": "The video shows a sequence of events in a tunnel where individuals are present. Initially, there are three people standing and conversing. One person is leaning against the wall while two others stand facing each other. As the video progresses, one individual appears to be attacked by another, resulting in a physical altercation. The attacker throws punches, causing the victim to fall to the ground. The remaining bystander observes the incident without intervening.",
+    "direct_visual_score": 0.8,
+    "direct_visual_response": "[0.8]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "In a dimly lit tunnel, two individuals initially stand apart, one wearing a light-colored hoodie and jeans, the other in dark clothing. The person in the hoodie leans against the wall, while the other stands upright. As the person in dark clothing moves closer, they engage in a physical altercation, with both individuals grappling and pushing each other, eventually resulting in the person in the hoodie falling to the ground after being struck multiple times by the attacker, who remains standing amidst the tunnel",
+    "caption": "In a dimly lit tunnel, two individuals initially stand apart, one wearing a light-colored hoodie and jeans, the other in dark clothing. The person in the hoodie leans against the wall, while the other stands upright. As the person in dark clothing moves closer, they engage in a physical altercation, with both individuals grappling and pushing each other, eventually resulting in the person in the hoodie falling to the ground after being struck multiple times by the attacker, who remains standing amidst the tunnel"
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a confrontation between two individuals in a tunnel. One person is wearing a light-colored hoodie and jeans, while the other is dressed in dark clothing. The person in dark clothing appears to be attacking the other, leading to a physical altercation. The person in the hoodie falls to the ground, suggesting they were overpowered or knocked down by the attacker.",
+    "caption_5s": "The video shows a sequence of events in a tunnel where four individuals are present. Initially, two people are standing and conversing while the other two are walking towards them. The two standing individuals then engage in a physical altercation with the approaching pair. One of the individuals on the ground appears to be subdued by the others.",
+    "caption_10s": "The video shows a group of individuals in a tunnel. Initially, they are standing and walking around. Then, one person is seen lying on the ground while others appear to be engaging with them. The actions suggest a confrontation or altercation.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A group of individuals in a tunnel, initially standing and walking around, engage in a confrontation, with one person lying on the ground and others interacting with them, while two others, one wearing a light-colored hoodie and jeans, and the other in dark clothing, are involved in a physical altercation, with the person in dark clothing overpowering the other.",
+    "caption": "A group of individuals in a tunnel, initially standing and walking around, engage in a confrontation, with one person lying on the ground and others interacting with them, while two others, one wearing a light-colored hoodie and jeans, and the other in dark clothing, are involved in a physical altercation, with the person in dark clothing overpowering the other."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a sequence of events in a tunnel where two individuals are seen approaching a third person. The first individual, wearing a light-colored hoodie and dark pants, appears to be attacking the third person, who is dressed in dark clothing. The second individual, also in dark attire, seems to be assisting in the attack. The third person falls to the ground, and the two attackers continue their assault on the fallen individual.",
+    "caption_5s": "The video shows a group of individuals in a tunnel-like corridor. Initially, they are standing and conversing. Suddenly, one person is attacked by another, causing them to fall to the ground. The attacker then proceeds to strike the fallen individual multiple times while the others watch.",
+    "caption_10s": "The video shows a sequence of events in a tunnel where individuals are present. Initially, there are three people standing and conversing. As the video progresses, one person is seen lying on the ground, suggesting an altercation or conflict has occurred. The remaining individuals appear to be involved in the situation, with some attempting to help the person on the ground while others are standing by.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A group of individuals in a tunnel-like corridor are initially standing and conversing. One person is attacked, causing them to fall to the ground, and the attacker strikes the fallen individual multiple times while others watch. The altercation occurs in a confined space, with the individuals involved standing and reacting to the situation.",
+    "caption": "A group of individuals in a tunnel-like corridor are initially standing and conversing. One person is attacked, causing them to fall to the ground, and the attacker strikes the fallen individual multiple times while others watch. The altercation occurs in a confined space, with the individuals involved standing and reacting to the situation."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "In the video, a person is seen running down a hallway. Suddenly, they are attacked by another individual and fall to the ground. The attacker then proceeds to punch the person on the ground repeatedly.",
+    "caption_5s": "The video shows a group of people in a tunnel. One person is standing against the wall while two others are walking towards them. Suddenly, one of the individuals attacks the person against the wall, causing them to fall to the ground. The attacker then proceeds to punch and kick the person on the ground.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person falls to the ground and another person kicks them in the head. The person who was kicked then retaliates by punching the kicker in the face.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person is seen walking down a tunnel when they are suddenly attacked by another individual, causing them to fall to the ground. The attacker then punches and kicks the person on the ground, who eventually retaliates by punching the attacker in the face.",
+    "caption": "A person is seen walking down a tunnel when they are suddenly attacked by another individual, causing them to fall to the ground. The attacker then punches and kicks the person on the ground, who eventually retaliates by punching the attacker in the face."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "In the video, a person is seen lying on the ground while two others are standing over them. One of the standing individuals appears to be attacking the person on the ground, while the other stands nearby.",
+    "caption_5s": "In the video, a person is seen attacking another individual in a tunnel. The attacker hits the victim with a stick and then kicks them to the ground.",
+    "caption_10s": "The video shows a group of people in a tunnel. One person is seen lying on the ground while others are standing around. There is a physical altercation between two individuals, resulting in one person being knocked down. The person who was knocked down remains on the ground while the others continue to stand around.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person is seen lying on the ground in a tunnel, while two others stand nearby, one of whom is attacking them with a stick, hitting and kicking them to the ground, resulting in a physical altercation that leaves the person on the ground.",
+    "caption": "A person is seen lying on the ground in a tunnel, while two others stand nearby, one of whom is attacking them with a stick, hitting and kicking them to the ground, resulting in a physical altercation that leaves the person on the ground."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "In the video, a person is seen lying on the ground in a tunnel. Two other individuals are present, one of whom appears to be attacking the person on the ground while the other observes.",
+    "caption_5s": "In the video, a man and a woman are seen walking in a tunnel. Suddenly, another man appears and attacks the first man, causing him to fall to the ground. The woman tries to intervene, but the attacker continues to assault the man on the ground.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person falls to the ground and another person kicks them in the head. The person who was kicked then gets up and walks away.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person falls to the ground in a tunnel, where they are kicked in the head by another individual. The attacker then continues to assault the person on the ground, while a woman tries to intervene. The person who was kicked eventually gets up and walks away.",
+    "caption": "A person falls to the ground in a tunnel, where they are kicked in the head by another individual. The attacker then continues to assault the person on the ground, while a woman tries to intervene. The person who was kicked eventually gets up and walks away."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "In the video, a man is seen lying on the ground in a tunnel. Two people are standing over him, and one of them kicks him in the head. The person who kicked him then proceeds to punch him several times.",
+    "caption_5s": "A man is seen lying on the ground while two people are fighting. One of the fighters kicks the other, causing him to fall.",
+    "caption_10s": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground. The attacker then proceeds to punch the victim repeatedly while the others watch.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A group of people are walking down a tunnel when one person attacks another, causing them to fall to the ground. The attacker kicks the victim in the head and then punches them repeatedly while others watch.",
+    "caption": "A group of people are walking down a tunnel when one person attacks another, causing them to fall to the ground. The attacker kicks the victim in the head and then punches them repeatedly while others watch."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "A man is lying on the ground while a woman attacks another man with a knife.",
+    "caption_5s": "In the video, a man is seen lying on the ground in a tunnel. Two women are standing over him, and one of them kicks him in the head. The man falls to the ground, and the women continue to kick him.",
+    "caption_10s": "A man is attacked by two people in a tunnel. He falls to the ground and remains motionless while the attackers walk away.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A man is lying on the ground in a tunnel, where two women attack him, kicking him in the head, causing him to fall and remain motionless as the attackers walk away.",
+    "caption": "A man is lying on the ground in a tunnel, where two women attack him, kicking him in the head, causing him to fall and remain motionless as the attackers walk away."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "In the video, a person is seen lying on the ground while another individual is standing over them. The standing person appears to be attacking or assaulting the person on the ground.",
+    "caption_5s": "A man is lying on the ground while two people are fighting. One person kicks the other, causing them to fall down.",
+    "caption_10s": "In the video, a man is seen walking down a tunnel. Suddenly, he is attacked by two other men who knock him to the ground. One of the attackers continues to assault the man on the ground while the other one runs away.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A man is walking down a tunnel when he is attacked by two other men, who knock him to the ground and one of them continues to assault him while the other runs away.",
+    "caption": "A man is walking down a tunnel when he is attacked by two other men, who knock him to the ground and one of them continues to assault him while the other runs away."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "In the video, a person is seen lying on the ground while another person kicks them in the head. The person who was kicked falls to the ground and remains motionless.",
+    "caption_5s": "In the video, a person is seen lying on the ground while two others are standing over them. One of the standing individuals appears to be attacking the person on the ground, while the other stands by and observes.",
+    "caption_10s": "A man is seen lying on the ground while two people are fighting. One of the fighters kicks the other, causing them to fall down. The person who was kicked then gets up and walks away.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A person lies on the ground while two others are involved in a physical altercation nearby, with one individual kicking the person on the ground, causing them to fall and remain motionless.",
+    "caption": "A person lies on the ground while two others are involved in a physical altercation nearby, with one individual kicking the person on the ground, causing them to fall and remain motionless."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a group of people in a tunnel. One person is lying on the ground, while another person is standing over them. The person standing appears to be attacking the person on the ground.",
+    "caption_5s": "In the video, a person is seen lying on the ground while two others are standing over them. One of the standing individuals kicks the person on the ground, causing them to fall further. The person who was kicked then gets up and walks away.",
+    "caption_10s": "In the video, a man and a woman are seen walking down a tunnel. Suddenly, they start fighting with another person who is also present in the tunnel. The fight escalates, and one of the individuals falls to the ground. The other two continue to fight, and eventually, one of them manages to get away while the other remains on the ground.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A man and a woman are walking down a tunnel when they start fighting with another person, resulting in one of them falling to the ground. The fight continues, with the two individuals kicking and struggling, until one of them manages to get away, leaving the other person on the ground.",
+    "caption": "A man and a woman are walking down a tunnel when they start fighting with another person, resulting in one of them falling to the ground. The fight continues, with the two individuals kicking and struggling, until one of them manages to get away, leaving the other person on the ground."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "A person is seen lying on the ground while another person kicks them in the head.",
+    "caption_5s": "In the video, a person is seen lying on the ground in a tunnel. Two other individuals are standing over them, and one of them appears to be attacking the person on the ground. The attacker then walks away with the other individual.",
+    "caption_10s": "In the video, a man is seen lying on the ground in a tunnel. Two people are standing over him, and one of them kicks him in the head. The man remains motionless throughout the incident.",
+    "direct_visual_score": 0.7,
+    "direct_visual_response": "[0.7]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, motionless throughout a 10-second incident where two individuals stand over them, with one kicking them in the head, before walking away with the other.",
+    "caption": "A person lies on the ground in a tunnel, motionless throughout a 10-second incident where two individuals stand over them, with one kicking them in the head, before walking away with the other."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, while two others are standing nearby. One of the standing individuals is seen kicking the person on the ground.",
+    "caption_5s": "In the video, a person is seen lying on the ground in a tunnel. Two individuals then proceed to attack the person, with one of them kicking them in the head. The attacker continues to kick the person until they are left motionless on the ground.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Two individuals are standing over them, and one of them appears to be attacking the person on the ground. The attacker then walks away, leaving the victim lying motionless.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, where two individuals stand nearby. One of them kicks the person, continuing to do so until they are left motionless, then walks away.",
+    "caption": "A person lies on the ground in a tunnel, where two individuals stand nearby. One of them kicks the person, continuing to do so until they are left motionless, then walks away."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with two other individuals standing nearby. The person on the ground appears to be motionless, while the standing individuals are engaged in conversation.",
+    "caption_5s": "In the video, a person is seen lying on the ground in a tunnel. Two individuals are standing nearby, and one of them kicks the person on the ground. The person who was kicked then gets up and walks away.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Two individuals then proceed to attack the person, with one of them punching them in the head. The attacker continues to hit the person until they are left motionless on the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person lies motionless on the ground in a tunnel, while two individuals stand nearby. One of them kicks the person, who then gets up and walks away, but is later attacked and left motionless after being punched in the head.",
+    "caption": "A person lies motionless on the ground in a tunnel, while two individuals stand nearby. One of them kicks the person, who then gets up and walks away, but is later attacked and left motionless after being punched in the head."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, while another person is sitting nearby. A third person is seen walking away from the scene.",
+    "caption_5s": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and kicks them, causing them to fall again. The person who kicked then walks away.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and attempts to help them up. The person on the ground appears to be unresponsive or unable to stand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, while another individual approaches and kicks them, causing them to fall again, before walking away.",
+    "caption": "A person lies on the ground in a tunnel, while another individual approaches and kicks them, causing them to fall again, before walking away."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a tunnel with white walls and a concrete floor. There are three individuals present: one person is lying on the ground, another is sitting against the wall, and a third person is walking away from the scene. The person on the ground appears to be motionless, while the seated individual is in a relaxed posture. The walking person seems to be unaware of the other two.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel while two others walk away.",
+    "caption_10s": "The video shows a sequence of events in a tunnel where an individual is lying on the ground. Another person approaches and attempts to help, but the situation escalates into a physical altercation between the two. The person who was initially on the ground manages to stand up and then attacks the helper aggressively.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person lies on the ground in a tunnel with white walls and a concrete floor. Two others walk away, then one returns, and a physical altercation ensues, with the person on the ground standing and attacking the helper.",
+    "caption": "A person lies on the ground in a tunnel with white walls and a concrete floor. Two others walk away, then one returns, and a physical altercation ensues, with the person on the ground standing and attacking the helper."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a tunnel with white walls and a concrete floor. In the foreground, there is a person lying on their back, seemingly motionless. Another individual is sitting against the wall, while two others are walking away from the camera's viewpoint. The lighting is artificial, coming from overhead fixtures.",
+    "caption_5s": "The video shows a tunnel with white walls and a concrete floor. In the foreground, there is an individual lying motionless on their back. Another person, wearing a light-colored top and dark pants, is seen walking away from the camera towards the background of the tunnel. A third person, dressed in dark clothing, is sitting against the wall, facing the camera. The walking individual appears to be unaware of the person lying on the ground as they continue to walk away.",
+    "caption_10s": "The video shows a sequence of events where an individual is seen lying on the ground in a tunnel. Another person approaches and attempts to help, but the situation escalates into a physical altercation between the two. The person who was initially on the ground manages to stand up and then attacks the helper aggressively.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person lies motionless on their back in a tunnel with white walls and a concrete floor, lit by overhead fixtures. A third person, wearing a light-colored top and dark pants, walks away from the camera, unaware of the person on the ground. A fourth person, dressed in dark clothing, sits against the wall, facing the camera.",
+    "caption": "A person lies motionless on their back in a tunnel with white walls and a concrete floor, lit by overhead fixtures. A third person, wearing a light-colored top and dark pants, walks away from the camera, unaware of the person on the ground. A fourth person, dressed in dark clothing, sits against the wall, facing the camera."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a tunnel with white walls and a concrete floor. There are two individuals in the scene: one person is lying on the ground, seemingly motionless, while another person is standing nearby. The standing individual appears to be interacting with the person on the ground, possibly attempting to help or assess their condition.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel while another individual runs towards them. The runner then tackles the person on the ground, and they both fall to the floor.",
+    "caption_10s": "The video shows a sequence of events in a tunnel where an individual is lying on the ground. Two other individuals are seen approaching and then intervening with the person on the ground. The actions suggest an attempt to help or restrain the person. The environment is a narrow, enclosed space with walls on both sides, and the lighting is artificial, likely from overhead fixtures.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "In a narrow, enclosed tunnel with artificial lighting, two individuals intervene with a person lying on the ground, with one possibly attempting to help or restrain the other, who is tackled to the floor by a runner.",
+    "caption": "In a narrow, enclosed tunnel with artificial lighting, two individuals intervene with a person lying on the ground, with one possibly attempting to help or restrain the other, who is tackled to the floor by a runner."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, while another person runs towards them. The runner then stops and appears to interact with the person on the ground.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel. Another person approaches and attempts to help them up, but the person on the ground resists and pushes them away.",
+    "caption_10s": "In the video, a man is seen lying on the ground in a tunnel. Another man approaches him and kicks him in the head, causing him to fall back onto the ground. The attacker then proceeds to punch the man repeatedly while he is lying down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, while another person approaches and kicks them in the head, causing them to fall back down. The attacker then punches the person repeatedly while they are lying down, but the person on the ground resists and pushes them away, causing the attacker to stop and appear to interact with them.",
+    "caption": "A person lies on the ground in a tunnel, while another person approaches and kicks them in the head, causing them to fall back down. The attacker then punches the person repeatedly while they are lying down, but the person on the ground resists and pushes them away, causing the attacker to stop and appear to interact with them."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt and jeans running down a tunnel. They trip over another person lying on the ground, causing both to fall. The person who fell then gets up and appears to be attacking the person they tripped over.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel. Another individual approaches and attempts to help them up, but the person on the ground resists and pushes the helper away.",
+    "caption_10s": "In the video, a man is seen lying on the ground in a tunnel. Another man approaches him and starts punching him repeatedly. The victim remains motionless throughout the assault.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A person in a blue shirt and jeans is running down a tunnel, trips over another person lying on the ground, and both fall. The person who fell gets up, appears to be attacking the person they tripped over, and a physical altercation ensues in the tunnel.",
+    "caption": "A person in a blue shirt and jeans is running down a tunnel, trips over another person lying on the ground, and both fall. The person who fell gets up, appears to be attacking the person they tripped over, and a physical altercation ensues in the tunnel."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel while another person is on top of them. The person on top appears to be restraining or pinning down the other person.",
+    "caption_5s": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and begins to attack them. The attacker continues to assault the person on the ground until the end of the video.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and attempts to help them up. The person on the ground struggles to get up, and eventually manages to stand with assistance.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, and another individual approaches, pinning them down initially, but later assists them to stand up with some struggle.",
+    "caption": "A person lies on the ground in a tunnel, and another individual approaches, pinning them down initially, but later assists them to stand up with some struggle."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "In the video, a man is seen lying on the ground in a tunnel while another person is on top of him. The person on top appears to be restraining or holding down the man on the ground.",
+    "caption_5s": "A man is seen running towards another man who is lying on the ground. He then proceeds to punch and kick the man repeatedly while he is lying down.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Another person approaches and begins to attack them. The attacker continues to assault the person on the ground until the end of the video.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A person is seen lying on the ground in a tunnel. Another person approaches and begins to punch and kick them, continuing the assault until the end of the video.",
+    "caption": "A person is seen lying on the ground in a tunnel. Another person approaches and begins to punch and kick them, continuing the assault until the end of the video."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "A man is lying on the ground while another man is on top of him in a tunnel.",
+    "caption_5s": "In the video, a person is seen running towards another person who is lying on the ground. The runner then tackles the person on the ground and proceeds to punch them repeatedly in the head.",
+    "caption_10s": "A person is seen lying on the ground in a tunnel. Another person runs towards them and attacks, causing the person on the ground to roll over.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person is lying on the ground in a tunnel. Another person runs towards them, tackles, and punches them repeatedly in the head, causing them to roll over.",
+    "caption": "A person is lying on the ground in a tunnel. Another person runs towards them, tackles, and punches them repeatedly in the head, causing them to roll over."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "In the video, a man is seen lying on the ground in a tunnel while another person is on top of him. The person on top appears to be restraining or holding down the man on the ground.",
+    "caption_5s": "A man is seen lying on the ground while another man stands over him. The standing man then proceeds to punch the man on the ground repeatedly.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Another individual approaches and attempts to help by checking their pulse. The rescuer then proceeds to perform CPR on the person lying down.",
+    "direct_visual_score": 1.0,
+    "direct_visual_response": "[1.0]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A man lies on the ground in a tunnel, initially restrained by another person, before being punched repeatedly by the standing individual. Later, a rescuer approaches, checks the person's pulse, and performs CPR.",
+    "caption": "A man lies on the ground in a tunnel, initially restrained by another person, before being punched repeatedly by the standing individual. Later, a rescuer approaches, checks the person's pulse, and performs CPR."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "In the video, a man is seen lying on the ground in a tunnel. Another man approaches him and begins to punch him repeatedly in the head. The man on the ground remains motionless throughout the assault.",
+    "caption_5s": "In the video, a man is seen lying on the ground in a tunnel. Another man approaches him and begins to punch him repeatedly in the head. The man being punched does not get up or fight back.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel. Another person approaches and begins to perform CPR on them.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A person lies motionless on the ground in a tunnel, then another person approaches and punches them repeatedly in the head, before switching to performing CPR.",
+    "caption": "A person lies motionless on the ground in a tunnel, then another person approaches and punches them repeatedly in the head, before switching to performing CPR."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with another individual standing over them. The person on the ground appears to be unconscious or incapacitated, while the standing person seems to be checking on their condition or possibly restraining them.",
+    "caption_5s": "In the video, a man is seen lying on the ground in a tunnel. Another man approaches him and begins to punch him repeatedly in the head. The man on the ground remains motionless throughout the assault.",
+    "caption_10s": "The video shows a person lying on the ground in a tunnel while another person runs towards them. The runner then tackles the person on the ground and engages in a physical altercation, which continues until the end of the video.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, initially motionless, while another person approaches and engages in a physical altercation, punching them repeatedly in the head, before the two individuals become involved in a physical struggle that continues until the end of the video.",
+    "caption": "A person lies on the ground in a tunnel, initially motionless, while another person approaches and engages in a physical altercation, punching them repeatedly in the head, before the two individuals become involved in a physical struggle that continues until the end of the video."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, while another person is kneeling over them. The person on the ground appears to be unconscious or injured, and the person kneeling over them is trying to help them.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel while another individual is kneeling over them. The person on the ground appears to be unconscious or injured, and the kneeling person seems to be checking their pulse or providing some form of assistance.",
+    "caption_10s": "In the video, a person is seen running towards another person who is lying on the ground. The runner then proceeds to punch and kick the person on the ground repeatedly.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A person is lying on the ground in a tunnel, while another individual is kneeling over them, checking their pulse or providing assistance.",
+    "caption": "A person is lying on the ground in a tunnel, while another individual is kneeling over them, checking their pulse or providing assistance."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 36.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with another individual standing over them. The standing person appears to be restraining or pinning down the person on the ground.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling beside them. The person on the ground appears to be unconscious or incapacitated, while the kneeling person is performing CPR. In the background, other individuals can be seen walking through the tunnel.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel while another person is kneeling over them. The person on the ground appears to be unconscious or injured, and the person kneeling is trying to help them.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, performing CPR, while others walk by in the background.",
+    "caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, performing CPR, while others walk by in the background."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 36.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling beside them. The kneeling person appears to be performing CPR or some form of life-saving intervention.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling beside them. The kneeling person appears to be performing CPR or some form of life-saving intervention. In the background, there are other individuals walking by, seemingly unaware or uninvolved in the situation.",
+    "caption_10s": "In the video, a person is seen lying on the ground in a tunnel while another individual is kneeling over them. The person on the ground appears to be unconscious or incapacitated, and the kneeling person seems to be checking their pulse or providing some form of assistance.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, performing CPR or some form of life-saving intervention, while others walk by in the background.",
+    "caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, performing CPR or some form of life-saving intervention, while others walk by in the background."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 36.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling beside them. The person on the ground appears to be unconscious or injured, and the kneeling person is checking their pulse.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling over them. The person on the ground appears to be unconscious or incapacitated, while the kneeling person is performing actions that suggest they are trying to help or check on the person's condition.",
+    "caption_10s": "The video shows a person lying on the ground in a tunnel while another person is on top of them. The person on top appears to be restraining or pinning down the other person.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, checking their pulse, while a third person is on top of them, restraining or pinning them down.",
+    "caption": "A person lies on the ground in a tunnel, with another individual kneeling beside them, checking their pulse, while a third person is on top of them, restraining or pinning them down."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 36.8333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 36.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person in a white shirt and dark pants lying on the ground of a dimly lit tunnel. Another individual, wearing a dark jacket and lighter-colored pants, approaches from the background and appears to be engaging with the person on the ground. The actions suggest a physical altercation or some form of confrontation.",
+    "caption_5s": "The video shows a person lying on the ground in a tunnel, with another individual kneeling over them. The person on the ground appears to be motionless, while the kneeling person is engaged in some form of activity that involves their hands and the other person's body.",
+    "caption_10s": "The video shows a sequence of images from a surveillance camera capturing a physical altercation in a tunnel. Two individuals are seen on the ground, one on top of the other, suggesting a struggle or fight. The person on top appears to be pinning down the other individual. In the background, two other people are walking away from the scene, seemingly unaware of the incident. The lighting is artificial, typical of an underground setting, and the walls are plain and unadorned.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 36.8333
+    },
+    "fused_caption": "A person in a white shirt and dark pants lies on the ground in a dimly lit tunnel, where another individual, wearing a dark jacket and lighter-colored pants, kneels over them, pinning them down, while two others walk away in the background.",
+    "caption": "A person in a white shirt and dark pants lies on the ground in a dimly lit tunnel, where another individual, wearing a dark jacket and lighter-colored pants, kneels over them, pinning them down, while two others walk away in the background."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 36.8333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 36.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 36.8333
+      }
+    },
+    "caption_2s": "The video shows a person lying on the ground in a tunnel, with another individual standing over them. The person on the ground appears to be motionless, while the standing person is engaged in some form of interaction with them.",
+    "caption_5s": "The video shows a sequence of events in a dimly lit tunnel where two individuals are involved in a physical altercation. One person is on the ground, and the other is on top, seemingly restraining or subduing them. The actions are forceful and aggressive, with the person on top applying pressure to the other's body. The surrounding environment is static, with no significant changes in lighting or background activity.",
+    "caption_10s": "The video shows a person lying on the ground in a tunnel, with another individual standing over them. The person on the ground appears to be motionless, while the standing person is engaged in some form of interaction with them.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 36.8333
+    },
+    "fused_caption": "A person lies motionless on the ground in a dimly lit tunnel, while another individual stands over them, engaged in a physical interaction that appears to be forceful and aggressive, with the surrounding environment remaining static.",
+    "caption": "A person lies motionless on the ground in a dimly lit tunnel, while another individual stands over them, engaged in a physical interaction that appears to be forceful and aggressive, with the surrounding environment remaining static."
+  }
+}

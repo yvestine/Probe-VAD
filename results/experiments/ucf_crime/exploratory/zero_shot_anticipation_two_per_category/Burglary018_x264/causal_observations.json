@@ -1,0 +1,712 @@
+{
+  "0": {
+    "caption": "At 0.0s, the video shows a surveillance camera's view of a driveway and a parked car. The timestamp reads \"04/01/2017 01:21:06 WED.\" There is no visible motion or interaction between entities in this segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot at night. The footage is in black and white, with the date and time visible in the upper left corner. A car is parked on the left side of the frame, and there is a ramp leading up to a building entrance. No people or other significant movement are observed in this segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A car is parked on the left side of the frame, and there is a pathway leading to a building entrance. The timestamp indicates the date as 04/01/2017, and the time is 21:21:06. There are no visible actions or interactions occurring in this segment.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A car is parked on the left side of the frame, and there is a building with a visible door and windows. The ground is paved with bricks. There are no visible actions or interactions occurring in this segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a black and white surveillance footage of a car parked on the left side of the frame. The car is stationary, and there are no visible actions or interactions taking place. The environment appears to be a driveway or parking area with a textured surface. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a black and white surveillance footage of a driveway with a parked car on the left side. The camera angle is fixed, and there are no visible actions or interactions between entities. There is no motion change or escalation in the scene.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a black and white surveillance footage of a residential area at night. The camera angle is fixed, capturing a driveway with a parked car on the left side and a building entrance on the right. There are no visible people or moving objects in the scene. The lighting is dim, typical of nighttime outdoor surveillance. No actions or interactions occur throughout the video segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video is a black and white surveillance footage showing a stationary car parked on the left side of the frame. The car appears to be a sedan, with its rear facing the camera. The ground is paved with square tiles, and there's a small step or curb leading up to what seems to be a building entrance. No people or other moving objects are visible in the footage.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a static night-time scene captured by a surveillance camera. The footage is in black and white, with visible graininess due to the low light conditions. There is a parked car on the left side of the frame, occupying about half of the viewable area. The car appears to be a sedan, but no specific details are discernible due to the image quality. The ground is paved with square tiles, and there is a small step or curb leading up to what seems to be a building entrance. No people, animals, or other moving objects are present in the video.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a black and white surveillance camera view of a driveway with a parked car on the left side. The car appears to be a dark-colored sedan. The driveway is made of brick pavers, and there's a small step leading up to what seems to be a garage door. No people or moving objects are visible in the footage. The timestamp indicates that the recording was made at 21:07:06 on April 2017.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a black and white surveillance camera view of a driveway with a parked car on the left side. The ground is paved with square tiles, and there's a small step leading to a door on the right. No people or moving objects are visible in the footage.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a black and white surveillance footage of a driveway with a parked car on the left side. The driveway is made of brick pavers, and there's a small step leading up to a building entrance. No people or moving objects are visible in the footage.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a black and white surveillance footage of a driveway with a car parked on the left side. The timestamp indicates it is 01/21/2017 at 00:00:00. A person appears in the frame, walking from the right side towards the car. The person's actions are not clear due to the low resolution and lack of color.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing light-colored pants and dark shoes. The person walks at a steady pace, descending the stairs without any apparent haste or urgency.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a person is seen walking down a set of stairs. The person is wearing dark clothing and appears to be carrying something in their hand. They are walking at a steady pace and do not appear to be in any hurry. There are no other people visible in the video, and the surroundings are dimly lit.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A dog is walking on a brick pathway. The dog is walking towards the camera. The dog is walking at a steady pace.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a dog is seen walking on two legs. The dog appears to be wearing a costume or outfit that allows it to walk upright like a human. The dog's movements are slow and deliberate, as if it is trying to maintain balance. There is no interaction with other objects or people in the video.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A dog is walking on a sidewalk at night. The dog is wearing a collar and is walking in front of a parked car. The dog is walking towards the camera.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, a dog is seen walking on a sidewalk next to a parked car. The dog appears to be sniffing around and exploring its surroundings. There are no other visible entities or actions in the video.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's perspective of a driveway and part of a house. A person is seen walking down the steps of the house, carrying an object that appears to be a bag or package. The individual is wearing light-colored clothing and moves from the top of the stairs towards the bottom, where a car is parked. The motion is steady and there are no other visible actions or interactions with other entities.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person is seen walking on a paved surface, carrying an object that appears to be a bag or package. The individual's motion is steady and purposeful as they navigate the area. There are no other visible entities or actions in the immediate vicinity.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person is seen walking up a set of stairs, carrying an object that appears to be a bag or package. The individual is wearing light-colored clothing and moves at a steady pace. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a surveillance camera's perspective of a dark outdoor area at night. The footage captures a person wearing light-colored clothing, possibly white or gray, descending a set of stairs. The individual is carrying a bag or backpack on their back. The surroundings include a parked car to the left and a building with a visible door to the right. The lighting is dim, and the scene is mostly in shadow, with the only illumination coming from the camera itself. There are no other discernible actions or interactions between entities.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a surveillance camera's perspective of a dark outdoor area at night. The footage captures a person wearing light-colored clothing, possibly white or gray, walking from the left side of the frame towards the right. The individual appears to be carrying something in their hand, which is not clearly identifiable due to the low resolution and lighting conditions. The ground is paved with square tiles, and there is a parked car on the left side of the frame. The timestamp on the footage indicates that it was recorded on April 1st, 2017, at 21:11:11.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a person lying on the ground near a parked car. The individual appears to be motionless, and there is no visible interaction with other entities or objects in the frame. The scene remains static throughout the video, with no discernible changes in motion or escalation.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a surveillance camera capturing a person lying on the ground near a parked car. The individual appears to be motionless, with no visible movement or interaction with any other entities. The scene is static, with no changes in motion or escalation of events.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person is seen walking on a sidewalk next to a parked car. The individual appears to be wearing light-colored clothing and is moving at a steady pace. There are no other visible actions or interactions in the video segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person is seen walking on a sidewalk next to a parked car. The individual appears to be carrying something in their hand, but the object is not clearly visible. The person's pace is steady, and they do not interact with any other objects or people in the frame. There are no significant changes in motion or actions throughout the video segment.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing dark clothing and carrying a bag. The person walks at a steady pace and does not appear to be in any hurry.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a surveillance camera capturing a scene at night. There is a car parked on the left side of the frame, and a person is seen walking towards the right side of the frame. The person appears to be carrying something in their hand. The ground is made of brick, and there is a metal railing on the right side of the frame. The person walks past the railing and continues walking out of the frame.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing dark clothing and carrying a bag. The person walks at a steady pace and does not appear to be in any hurry.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a surveillance camera capturing a person in a white outfit, possibly a uniform, standing on a sidewalk next to a parked car. The person appears to be interacting with something on the ground, possibly picking up or placing an object. The surroundings are dimly lit, and the timestamp indicates the footage was recorded at night.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing light-colored clothing and appear to be carrying something in their hand. The person walks at a steady pace and does not appear to be in any hurry.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, a person is seen walking down a set of stairs. The individual is wearing light-colored clothing and appears to be carrying something in their hand. They are descending the stairs at a steady pace.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a surveillance camera capturing a person walking down a set of stairs. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings include a parked car on the left side of the frame, and the ground is paved with square tiles. The lighting suggests it's nighttime. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a surveillance camera capturing a person walking down a set of stairs. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The camera angle is from above, looking down the stairs, and the person's movement is steady and deliberate. There are no other visible actions or interactions with other entities.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a surveillance camera capturing a person walking down a set of stairs. The individual is wearing light-colored clothing and appears to be carrying something in their hand. The surroundings are dimly lit, and the video quality is grainy. There are no other visible actions or interactions with other entities.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a white shirt and dark pants, walking down a set of stairs. The individual is carrying an object in their right hand. The surroundings are dimly lit, and the timestamp on the footage indicates it was recorded at night. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a light-colored top and dark pants, walking down a set of stairs. The individual is carrying an object in their right hand. The surroundings include a parked car to the left and a textured pavement. The timestamp on the footage indicates it was recorded at 01:21:15 on 04/01/2017.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a white shirt and dark pants. The individual is seen walking down a set of stairs, with a car parked to the left side of the frame. The lighting suggests it's nighttime, and the video quality is grainy due to the night vision. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a person wearing a helmet and carrying a bag, walking down a set of stairs. The person is moving at a steady pace and appears to be focused on their destination. There are no other people or objects visible in the frame.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "A person wearing a mask and carrying a bag is seen walking down the stairs of a building. They are wearing dark clothing and appear to be in a hurry. The person is walking on a paved surface and there is a car parked nearby.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person wearing a mask and carrying a bag is seen walking down the stairs of a building. They are wearing dark clothing and appear to be in a hurry. The person is walking on a paved surface and there is a car parked nearby.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person wearing a hooded jacket and dark pants is seen walking down a set of stairs. They are carrying something in their right hand. The person reaches the bottom of the stairs and continues walking away from the camera.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a person wearing a hooded jacket is seen walking down a set of stairs. The individual appears to be carrying something in their hand as they descend. There is a car parked nearby on the left side of the frame. The scene takes place at night, and the video is captured by a security camera.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person wearing a hooded jacket and light-colored pants is seen walking down a set of stairs. They are carrying a bag in their right hand. The person walks at a steady pace, and there is no interaction with any other objects or people.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a person is seen walking down a set of stairs. The individual is wearing a light-colored top and dark pants. They are carrying a bag in their right hand. The person's motion is steady and they appear to be descending the stairs at a normal pace. There are no other visible entities or actions in the video.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing a light-colored top and dark pants. The person is carrying a bag in their right hand. They walk at a steady pace, and there is no interaction with any other objects or people.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a helmet and dark clothing, standing on a sidewalk next to a parked car. The individual appears to be holding something in their hands and is stationary throughout the sequence of images. There are no visible interactions with other entities or significant motion changes. The scene remains stable without any escalation or instability.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a helmet and protective gear, standing on a sidewalk next to a parked car. The individual appears to be adjusting or securing something on their back, possibly related to the gear they are wearing. There is no visible interaction with other entities, and the motion is limited to the person's actions with their gear.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a hooded jacket and dark pants. The individual is seen walking down a set of stairs, with a car parked on the left side of the frame. The person's face is not visible due to the hood covering their head. There are no other discernible actions or interactions in the video segment.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, a person wearing a helmet is seen walking down a set of stairs. The individual appears to be carrying something in their hand. The scene takes place at night, and the surroundings are dimly lit.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a helmet and dark clothing, standing on a sidewalk next to a parked car. The individual appears to be holding something in their hands, but the object is not clearly visible due to the low resolution of the footage. The person remains stationary throughout the sequence, with no significant motion or interaction with other entities.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a helmet and dark clothing, standing on a sidewalk next to a parked car. The individual appears to be interacting with something on the ground, possibly a bag or an object. The surroundings are dimly lit, suggesting it is nighttime. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a helmet and dark clothing, standing on a skateboard. The individual is positioned near the entrance of a building, with a car parked to their left. The person appears to be stationary throughout the sequence, with no discernible motion or interaction with other entities. The environment is dimly lit, suggesting it might be nighttime.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a helmet and dark clothing. The individual is seen walking down a set of stairs, with a car parked to the side. The person's actions are deliberate and steady as they descend the stairs. There is no visible interaction with other entities or objects in the frame. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a helmet and dark clothing, standing on a skateboard. The individual is positioned near the entrance of a building, with a car parked nearby. The person appears to be stationary throughout the sequence, with no significant motion or interaction with other entities.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person wearing a helmet and light-colored clothing is seen walking down a set of stairs. The individual appears to be carrying something in their right hand. The surroundings include a parked car, a paved area, and a building with a visible door. The person's motion is steady and purposeful as they descend the stairs.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person wearing a helmet is riding a skateboard down a set of stairs. They are moving quickly and appear to be in control of the skateboard. There is a car parked on the street next to the stairs. The person successfully navigates the stairs and continues riding down the street.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "A person wearing a helmet is seen walking down the stairs.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person wearing a helmet is standing on a skateboard at the bottom of a set of stairs. They are holding onto the railing with their right hand and appear to be preparing to go up the stairs. There is a car parked in the background.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a person wearing a helmet is seen walking down a set of stairs. The individual appears to be carrying something in their hand. The surroundings are dimly lit, and there is a car parked nearby. The person's motion is steady as they descend the stairs.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "In the video, a person wearing a helmet is seen standing on a skateboard. They are positioned near a parked car and appear to be stationary. The surroundings include a paved area with visible markings and a curb. No significant actions or interactions occur during the segment.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a person wearing a helmet and dark clothing, standing on a skateboard. They are positioned on a paved surface near a parked car. The individual appears to be stationary throughout the sequence of images.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a surveillance camera capturing a person in a white shirt and dark pants walking down a set of stairs. The individual is carrying an object that appears to be a bag or a box. The surroundings are dimly lit, suggesting it might be nighttime. The person's pace seems steady as they descend the stairs.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a person wearing light-colored clothing, possibly a white shirt and dark pants, walking down a set of stairs. The individual is carrying an object in their right hand. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area. The person's pace appears steady as they descend the stairs.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a nighttime scene with a person wearing light-colored clothing. The individual is seen walking towards the camera, then turns and walks away. There is a parked car to the left of the frame. The ground appears to be paved with square tiles. No other significant actions or interactions are visible in the provided frames.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a surveillance camera's perspective of a person walking down a set of stairs. The individual is wearing light-colored pants and dark shoes. They are descending the stairs at a steady pace, with no visible interaction with other entities or objects. The surroundings include a parked car to the left and a textured ground surface. There is no significant motion change or escalation in the scene.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a surveillance camera's perspective of a dark outdoor area, possibly a driveway or parking lot. The footage is in black and white, with the timestamp \"04/01/2017 21:23:23\" visible at the top of each frame. There is a stationary vehicle on the left side of the frame, and the ground appears to be paved with square tiles. No people or moving objects are visible throughout the sequence of images.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a black and white surveillance footage of a car parked on the side of a street. The car is stationary, and there are no visible people or moving objects in the frame. The timestamp indicates that the footage was recorded at 01:21:23 on April 01, 2017.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a black and white surveillance footage of a car parked on the side of a street. The car is parked next to a building with a visible door and windows. There are no people or other objects in motion in the scene.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

@@ -1,0 +1,2586 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person wearing a hoodie is walking down the stairs.",
+    "caption_5s": "A person wearing a hoodie is walking down the stairs.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and start dancing on the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person wearing a hoodie walks down the stairs, then turns around and dances on the stairs.",
+    "caption": "A person wearing a hoodie walks down the stairs, then turns around and dances on the stairs."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person wearing a hoodie is walking down the stairs.",
+    "caption_5s": "A person wearing a hoodie is walking down the stairs. They stumble and fall, then get up and continue walking.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A person wearing a hoodie walks down the stairs, stumbles and falls, gets up, and continues walking, then turns around and walks back up the stairs.",
+    "caption": "A person wearing a hoodie walks down the stairs, stumbles and falls, gets up, and continues walking, then turns around and walks back up the stairs."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A person wearing a hoodie is walking down the stairs.",
+    "caption_5s": "A person wearing a hoodie is walking down the stairs. They suddenly start to dance, moving their arms and legs in an energetic manner. After a brief dance, they resume walking down the stairs.",
+    "caption_10s": "A person wearing a hoodie is walking down the stairs. They stop and turn around, then continue walking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person wearing a hoodie walks down the stairs, stops, turns around, and continues walking down the stairs, briefly pausing to dance with energetic arm and leg movements before resuming their descent.",
+    "caption": "A person wearing a hoodie walks down the stairs, stops, turns around, and continues walking down the stairs, briefly pausing to dance with energetic arm and leg movements before resuming their descent."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket walking down a set of stairs. The lighting is dim, and the person's face is not visible.",
+    "caption_5s": "A person wearing a hoodie is walking down the stairs. They stumble and fall, then get up and continue walking.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person wearing a hooded jacket walks down a set of stairs, stumbles and falls, gets up, and then turns around to walk back up the stairs.",
+    "caption": "A person wearing a hooded jacket walks down a set of stairs, stumbles and falls, gets up, and then turns around to walk back up the stairs."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a person in a hoodie walking down a flight of stairs. They appear to be struggling with their balance and almost fall multiple times.",
+    "caption_5s": "A person wearing a hoodie is seen walking down the stairs. They then proceed to dance while descending, and upon reaching the bottom, they continue dancing.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A person in a hoodie walks down a flight of stairs, struggling with balance and almost falling, before turning around and walking back up the stairs.",
+    "caption": "A person in a hoodie walks down a flight of stairs, struggling with balance and almost falling, before turning around and walking back up the stairs."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light blue hoodie and dark pants walking down a dimly lit stairwell. The individual is seen descending the stairs cautiously, occasionally touching the wall for support. The walls are made of brick, and there is a handrail on one side of the staircase.",
+    "caption_5s": "The video shows a person wearing a hooded jacket and dark pants descending a staircase. The individual appears to be in a hurry, as they are moving quickly and with purpose. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "A person wearing a hoodie is walking down the stairs. They stop and turn around, then continue walking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants descends a dimly lit staircase, occasionally touching the wall for support, and moves with a mix of caution and purpose, stopping and turning around briefly before continuing down.",
+    "caption": "A person wearing a hooded jacket and dark pants descends a dimly lit staircase, occasionally touching the wall for support, and moves with a mix of caution and purpose, stopping and turning around briefly before continuing down."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is seen walking down the stairs, pausing briefly at one point, and then continuing their descent until they reach the bottom of the staircase.",
+    "caption_5s": "The video shows a person wearing a light blue hoodie and dark pants walking down a set of stairs. The individual is seen descending the stairs in a smooth, continuous motion.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person wearing a light blue hoodie and dark pants walks down a set of stairs in a smooth, continuous motion, pausing briefly before reaching the bottom, then turns around and walks back up the stairs.",
+    "caption": "A person wearing a light blue hoodie and dark pants walks down a set of stairs in a smooth, continuous motion, pausing briefly before reaching the bottom, then turns around and walks back up the stairs."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue hoodie and dark pants descending a staircase. The individual is moving cautiously, with their hands outstretched for balance. The lighting is dim, and the staircase appears to be in an indoor setting with brick walls on either side.",
+    "caption_5s": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is seen walking down the stairs, pausing momentarily at one point, and then continuing their descent until they reach the bottom of the stairs.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person wearing a light blue hoodie and dark pants walks down a dimly lit indoor staircase with brick walls on either side, pausing briefly, before continuing down to the bottom, then turns around and walks back up the stairs.",
+    "caption": "A person wearing a light blue hoodie and dark pants walks down a dimly lit indoor staircase with brick walls on either side, pausing briefly, before continuing down to the bottom, then turns around and walks back up the stairs."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue hoodie and dark pants descending a staircase. The individual is seen from behind, moving downwards in a steady pace. The staircase has brick walls on either side, and the lighting is dim, suggesting an indoor setting with artificial light sources.",
+    "caption_5s": "The video shows a person wearing a light blue hoodie and dark pants walking down a staircase. The individual is carrying a backpack and appears to be in motion, descending the stairs with a steady pace. The lighting is dim, suggesting it might be evening or night time. The staircase has brick walls on either side, and there are no other people visible in the scene.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A person wearing a light blue hoodie and dark pants, carrying a backpack, walks down a dimly lit staircase with brick walls on either side, then turns around and walks back up the stairs.",
+    "caption": "A person wearing a light blue hoodie and dark pants, carrying a backpack, walks down a dimly lit staircase with brick walls on either side, then turns around and walks back up the stairs."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is captured from a surveillance camera's perspective, which is positioned at the top of the stairs. The person's movements are steady and purposeful as they walk down each step until they reach the bottom.",
+    "caption_5s": "The video shows a person wearing a light blue hoodie and dark pants walking down a set of stairs. The individual is seen from an elevated angle, likely from a security camera. The person descends the stairs cautiously, pausing at times to look around. The surroundings are dimly lit, with brick walls on either side of the staircase.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person wearing a light blue hoodie and dark pants is seen walking down a set of stairs from a security camera's elevated angle, descending cautiously and pausing to look around in dimly lit surroundings with brick walls on either side.",
+    "caption": "A person wearing a light blue hoodie and dark pants is seen walking down a set of stairs from a security camera's elevated angle, descending cautiously and pausing to look around in dimly lit surroundings with brick walls on either side."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual is captured from a surveillance camera's perspective, which is positioned at the top of the stairs. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. The person appears to be walking with a steady pace, and there are no other individuals visible in the footage.",
+    "caption_5s": "The video shows a person wearing a light blue hoodie and dark pants descending a staircase. The individual appears to be in motion, possibly walking or running, as indicated by the changing positions of their legs and arms across the frames. The staircase is bordered by brick walls on one side and a metal railing on the other. The lighting suggests it might be nighttime or in a dimly lit area.",
+    "caption_10s": "The video shows a person wearing a light-colored hoodie and dark pants descending a staircase. The lighting is dim, with a warm glow from the top of the stairs. The individual appears to be alone and moves cautiously, pausing at times as if listening or looking around. The surroundings include brick walls and a metal railing along the staircase.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person wearing a light blue hoodie and dark pants descends a dimly lit staircase, bordered by brick walls and a metal railing, with a warm glow from the top, moving cautiously and pausing occasionally, possibly walking or running, in a possibly nighttime or poorly lit area.",
+    "caption": "A person wearing a light blue hoodie and dark pants descends a dimly lit staircase, bordered by brick walls and a metal railing, with a warm glow from the top, moving cautiously and pausing occasionally, possibly walking or running, in a possibly nighttime or poorly lit area."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue hoodie and dark pants walking down a flight of stairs. The individual is seen from a surveillance camera's perspective, and the lighting suggests it might be nighttime or in a dimly lit area. The person descends the stairs at a steady pace, with no apparent interaction with others or objects.",
+    "caption_5s": "The video shows a person wearing a blue hoodie and dark pants walking down a dimly lit staircase. The individual is seen from a surveillance camera's perspective, and the footage is in black and white. The person descends the stairs cautiously, pausing at times to look around.",
+    "caption_10s": "The video shows a person wearing a hooded jacket and dark pants walking down a well-lit staircase. The individual appears to be alone, and the surroundings suggest it is nighttime. The person's pace is steady, and they seem to be focused on their path.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants walks down a dimly lit staircase, seen from a surveillance camera's perspective, with a steady pace and no apparent interaction with others or objects.",
+    "caption": "A person wearing a hooded jacket and dark pants walks down a dimly lit staircase, seen from a surveillance camera's perspective, with a steady pace and no apparent interaction with others or objects."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket walking down a flight of stairs. The individual is seen descending the stairs at a steady pace, with no other people or objects in the frame.",
+    "caption_5s": "The video shows a person wearing a blue hoodie and dark pants walking down a staircase. The individual is seen from a surveillance camera's perspective, and the lighting suggests it is nighttime. The person descends the stairs at a steady pace, turns around at the bottom, and then ascends the same set of stairs.",
+    "caption_10s": "The video shows a person wearing a hooded jacket and dark pants walking down a set of stairs. The individual appears to be alone, and the surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area. The person's pace is steady, and there are no other visible actions or interactions with objects or other people.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants walks down a set of stairs at a steady pace, turns around at the bottom, and then ascends the same stairs, appearing alone in dimly lit surroundings.",
+    "caption": "A person wearing a hooded jacket and dark pants walks down a set of stairs at a steady pace, turns around at the bottom, and then ascends the same stairs, appearing alone in dimly lit surroundings."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket descending a staircase. The individual is captured from a surveillance camera's perspective, and the lighting conditions suggest it is nighttime. The person appears to be alone and moves steadily down the stairs.",
+    "caption_5s": "The video shows a person wearing a hooded jacket ascending a staircase. The individual is seen from behind, and the lighting suggests it might be nighttime or in a dimly lit area. The person's pace appears steady and purposeful as they move up the stairs.",
+    "caption_10s": "The video shows a person wearing a hooded jacket ascending a staircase. The individual is seen from an elevated angle, and the lighting suggests it's nighttime. The person's pace is steady, and they appear to be alone.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person wearing a hooded jacket moves steadily up a staircase, seen from behind in a dimly lit area, with a steady and purposeful pace, likely at night.",
+    "caption": "A person wearing a hooded jacket moves steadily up a staircase, seen from behind in a dimly lit area, with a steady and purposeful pace, likely at night."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket walking down a flight of stairs.",
+    "caption_5s": "A person wearing a hoodie is seen walking down the stairs.",
+    "caption_10s": "The video shows a person in a blue hoodie walking down a flight of stairs. They then turn around and walk back up the stairs, stopping at the top.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person in a blue hoodie walks down a flight of stairs, turns around, and walks back up, stopping at the top.",
+    "caption": "A person in a blue hoodie walks down a flight of stairs, turns around, and walks back up, stopping at the top."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A person wearing a white hoodie is seen walking down the stairs.",
+    "caption_5s": "The video shows a person wearing a hoodie walking down a flight of stairs. They then turn around and walk back up the stairs.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They stop and look around before continuing to walk down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A person wearing a white hoodie walks down the stairs, turns around, walks back up, stops, looks around, and then continues walking down the stairs.",
+    "caption": "A person wearing a white hoodie walks down the stairs, turns around, walks back up, stops, looks around, and then continues walking down the stairs."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a white hoodie standing in front of a building. They are seen walking towards the building and then standing still.",
+    "caption_5s": "A person in a hoodie is seen walking down the stairs and then standing still.",
+    "caption_10s": "The video shows a person wearing a hooded jacket walking up a flight of stairs. The individual is seen from a surveillance camera's perspective, and the lighting suggests it is nighttime. The person's pace is steady, and they appear to be alone.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person in a hooded jacket walks up a flight of stairs at a steady pace, appearing alone under nighttime lighting, before standing still.",
+    "caption": "A person in a hooded jacket walks up a flight of stairs at a steady pace, appearing alone under nighttime lighting, before standing still."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded sweatshirt standing on the sidewalk. They are not moving and appear to be stationary throughout the entire video.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is seen adjusting their clothing, specifically pulling up their pants and then tucking in their shirt.",
+    "caption_10s": "A person wearing a hoodie is seen walking down the stairs. They then turn around and walk back up the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person wearing a hooded jacket is seen standing on a staircase, adjusting their clothing, before walking down the stairs, turning around, and walking back up.",
+    "caption": "A person wearing a hooded jacket is seen standing on a staircase, adjusting their clothing, before walking down the stairs, turning around, and walking back up."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing away from the camera and appears to be looking at something in their hands. There is no significant movement or action throughout the video.",
+    "caption_5s": "The video shows a person wearing a hoodie standing on the stairs. They are seen adjusting their clothing and looking around.",
+    "caption_10s": "The video shows a person in a blue hoodie walking down a set of stairs. The person is wearing dark pants and has their hood up. They appear to be alone and are walking at a steady pace.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person in a blue hoodie, wearing dark pants, walks down a set of stairs, adjusting their clothing and looking around, before continuing at a steady pace.",
+    "caption": "A person in a blue hoodie, wearing dark pants, walks down a set of stairs, adjusting their clothing and looking around, before continuing at a steady pace."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on the stairs.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is seen adjusting their clothing, specifically pulling up their pants and then tucking in their shirt.",
+    "caption_10s": "The video shows a person in a blue hoodie walking down the stairs. They stop and look around, then continue walking.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person in a blue hoodie stands on the stairs, adjusts their clothing, and then walks down, stopping to look around before continuing.",
+    "caption": "A person in a blue hoodie stands on the stairs, adjusts their clothing, and then walks down, stopping to look around before continuing."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary and is facing the camera.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be looking around and shifting their weight from one foot to the other. There is no significant movement or action throughout the sequence of images.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is seen adjusting their clothing, specifically pulling up the hood over their head. The lighting in the video is dim, and the surroundings are not clearly visible.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a staircase, adjusting their clothing by pulling up the hood, while shifting their weight and looking around in a stationary position.",
+    "caption": "A person wearing a hooded jacket stands on a staircase, adjusting their clothing by pulling up the hood, while shifting their weight and looking around in a stationary position."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a person standing on a staircase, wearing a hoodie and dark pants. The individual is stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing away from the camera, and their posture remains mostly static throughout the sequence of images. There are no significant movements or changes in the environment.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be looking around and then proceeds to walk down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a staircase, initially stationary, then looks around and walks down the stairs.",
+    "caption": "A person wearing a hooded jacket stands on a staircase, initially stationary, then looks around and walks down the stairs."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary and is not engaged in any significant movement or action throughout the video.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is facing the camera and appears to be stationary throughout the sequence of images.",
+    "caption_10s": "The video shows a person wearing a hooded jacket ascending a set of stairs. The individual is captured from an elevated angle, and the lighting suggests it's nighttime. The person's pace is steady, and they appear to be alone.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person wearing a hooded jacket is standing on a staircase, facing the camera, and appears stationary, with steady lighting suggesting nighttime.",
+    "caption": "A person wearing a hooded jacket is standing on a staircase, facing the camera, and appears stationary, with steady lighting suggesting nighttime."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a single individual standing on a staircase. The person is wearing a light-colored hoodie and dark pants. They appear to be stationary, with their hands either in their pockets or holding onto the railing. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_5s": "The video shows a person wearing a hooded sweatshirt standing on a staircase. The individual appears to be stationary, with no significant movement or interaction with the environment.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no significant movement or interaction with the environment. The lighting is dim, and the surroundings are not clearly visible due to the nighttime setting.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a dimly lit staircase, appearing stationary with hands in pockets or holding the railing, with no significant movement or interaction with the environment.",
+    "caption": "A person wearing a hooded jacket stands on a dimly lit staircase, appearing stationary with hands in pockets or holding the railing, with no significant movement or interaction with the environment."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a person standing on a porch at night. The individual is wearing a hooded sweatshirt and jeans, with their hands in their pockets. They appear to be looking around or waiting for someone. The porch has a railing and there are steps leading up to it. The lighting is dim, suggesting it's nighttime.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch or balcony. The individual appears to be looking down at something, possibly a phone or an object in their hands. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. The person's posture remains relatively static throughout the sequence of images.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary throughout the sequence of images, with no significant movement or change in posture. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a staircase or porch, looking down at something in their hands, with a relatively static posture, in dim lighting that suggests nighttime or a poorly lit area.",
+    "caption": "A person wearing a hooded jacket stands on a staircase or porch, looking down at something in their hands, with a relatively static posture, in dim lighting that suggests nighttime or a poorly lit area."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded sweatshirt and pants standing on a porch or balcony. The individual appears to be looking down at something, possibly a phone or an object in their hands. The lighting is dim, suggesting it might be nighttime or in a poorly lit area. The person's posture remains mostly static throughout the sequence of images.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary and is facing the camera. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary, with no significant movement or interaction with the environment. The lighting is dim, and the surroundings are not clearly visible due to the nighttime setting.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a staircase, facing the camera, with a mostly static posture, in a dimly lit area, possibly at night.",
+    "caption": "A person wearing a hooded jacket stands on a staircase, facing the camera, with a mostly static posture, in a dimly lit area, possibly at night."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a person standing on a staircase, wearing a hooded jacket and dark pants. The individual appears to be stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a person standing on a porch, wearing a hooded jacket. The individual appears to be looking around and shifting their weight from one foot to the other. There is no significant movement or action throughout the video.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary and is facing the camera. There are no significant movements or actions observed in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a porch, stationary and facing the camera, with no significant movements or actions observed.",
+    "caption": "A person wearing a hooded jacket stands on a porch, stationary and facing the camera, with no significant movements or actions observed."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded sweatshirt standing on a porch. The individual is facing the camera and appears to be stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is seen adjusting their clothing, specifically pulling up the hood over their head.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is seen adjusting their clothing, specifically pulling up the hood and then tucking it back down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a staircase, adjusting their clothing by pulling up the hood and then tucking it back down, appearing stationary on the porch in the initial frames.",
+    "caption": "A person wearing a hooded jacket stands on a staircase, adjusting their clothing by pulling up the hood and then tucking it back down, appearing stationary on the porch in the initial frames."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a person standing on a porch, wearing a hooded jacket. The individual appears to be looking around and shifting their weight from one foot to the other.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual appears to be stationary and is facing the camera.",
+    "caption_10s": "The video shows a person in a white hoodie standing on a porch. The individual is seen adjusting their hood and then placing their hands in their pockets.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A person in a hooded jacket stands on a porch, shifting their weight and looking around, then becomes stationary and faces the camera, adjusting their hood and placing their hands in their pockets.",
+    "caption": "A person in a hooded jacket stands on a porch, shifting their weight and looking around, then becomes stationary and faces the camera, adjusting their hood and placing their hands in their pockets."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on a porch. They are seen bending over and then standing up again.",
+    "caption_5s": "The video shows a person standing on the stairs, with their hands in their pockets.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands on their hips. They remain in this position throughout the entire video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person stands on the stairs, with their hands in their pockets initially, then on their hips, and remains in this position throughout the video.",
+    "caption": "A person stands on the stairs, with their hands in their pockets initially, then on their hips, and remains in this position throughout the video."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person wearing a hoodie is seen walking down the stairs.",
+    "caption_5s": "The video shows a person wearing a hoodie standing on a porch. They are seen moving their arms and hands, possibly gesturing or talking to someone off-camera.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands on their hips. They remain in this position throughout the entire video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person wearing a hoodie is seen standing on the stairs, with their hands on their hips, remaining in this position throughout the video.",
+    "caption": "A person wearing a hoodie is seen standing on the stairs, with their hands on their hips, remaining in this position throughout the video."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on the steps of a building. They are seen bending over and looking at something in their hands.",
+    "caption_5s": "A person wearing a hoodie is standing on the stairs and looking at their phone.",
+    "caption_10s": "The video shows a person standing on a porch, with their hands on their hips. They remain in this position throughout the entire duration of the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person wearing a hoodie stands on the steps of a building, bending over to examine something in their hands, then stands on the stairs, looking at their phone, before standing on a porch with their hands on their hips.",
+    "caption": "A person wearing a hoodie stands on the steps of a building, bending over to examine something in their hands, then stands on the stairs, looking at their phone, before standing on a porch with their hands on their hips."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on the stairs.",
+    "caption_5s": "The video shows a person standing on a porch at night. The person is wearing a hoodie and appears to be looking around. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands on their hips. They remain in this position throughout the entire video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A person wearing a hoodie stands on the stairs, hands on hips, for the duration of the video, which appears to be at night on a porch.",
+    "caption": "A person wearing a hoodie stands on the stairs, hands on hips, for the duration of the video, which appears to be at night on a porch."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on a porch. They are seen adjusting their clothing and looking around.",
+    "caption_5s": "The video shows a person standing in front of a house, with their hands on their hips. They remain in this position throughout the entire video.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is stationary and does not engage in any significant actions throughout the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a porch, stationary with their hands on their hips, looking around and adjusting their clothing.",
+    "caption": "A person wearing a hooded jacket stands on a porch, stationary with their hands on their hips, looking around and adjusting their clothing."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "The video shows a person standing on the stairs.",
+    "caption_5s": "The video shows a person standing on a porch, with their back to the camera. They are wearing a hoodie and appear to be looking around. The scene is captured by a security camera, and the lighting is dim.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands on their hips. They remain in this position throughout the entire video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A person stands on the stairs, hands on hips, wearing a hoodie, captured by a security camera in dim lighting, with their back to the camera as they appear to look around.",
+    "caption": "A person stands on the stairs, hands on hips, wearing a hoodie, captured by a security camera in dim lighting, with their back to the camera as they appear to look around."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary and is not engaging in any significant actions.",
+    "caption_5s": "The video shows a person standing on a porch, wearing a hooded jacket and jeans. They are facing the camera and appear to be talking or gesturing with their hands. The scene is captured by a security camera at night.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is stationary and does not engage in any significant movement or interaction with the environment.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a porch at night, captured by a security camera, facing the camera and possibly talking or gesturing with their hands, but primarily stationary.",
+    "caption": "A person wearing a hooded jacket stands on a porch at night, captured by a security camera, facing the camera and possibly talking or gesturing with their hands, but primarily stationary."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is stationary and does not move throughout the duration of the footage.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is seen adjusting their clothing and looking around.",
+    "caption_10s": "The video shows a person standing on a porch, wearing a hoodie and jeans. They are seen moving their arms and hands in various positions throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person wearing a hooded jacket and jeans stands on a porch, initially stationary, then adjusts their clothing and looks around, before moving their arms and hands in various positions.",
+    "caption": "A person wearing a hooded jacket and jeans stands on a porch, initially stationary, then adjusts their clothing and looks around, before moving their arms and hands in various positions."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a person standing on a sidewalk at night. The individual is wearing a hooded jacket and jeans, with their hands in their pockets. They remain stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a sidewalk at night. The individual is stationary and does not engage in any significant actions throughout the video.",
+    "caption_10s": "The video shows a person standing on a porch, wearing a hooded jacket and jeans. The individual is seen adjusting their clothing and looking around.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person wearing a hooded jacket and jeans stands on a sidewalk at night, remaining stationary with hands in their pockets, occasionally adjusting their clothing and looking around.",
+    "caption": "A person wearing a hooded jacket and jeans stands on a sidewalk at night, remaining stationary with hands in their pockets, occasionally adjusting their clothing and looking around."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and pants standing on a sidewalk at night. The individual is facing away from the camera, with their hands in their pockets. The surroundings are dimly lit, and there is a railing visible to the left of the person. No significant movement or action occurs throughout the sequence of images.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual appears to be stationary throughout the sequence of images, with no significant movement or change in posture.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a sidewalk. The individual appears to be stationary throughout the sequence, with no significant movement or interaction with other objects or people. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a dimly lit sidewalk, facing away from the camera with hands in pockets, appearing stationary with no movement or interaction throughout.",
+    "caption": "A person wearing a hooded jacket stands on a dimly lit sidewalk, facing away from the camera with hands in pockets, appearing stationary with no movement or interaction throughout."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be stationary and is facing the camera. The lighting suggests it's nighttime, and the surroundings are dimly lit.",
+    "caption_5s": "The video shows a person wearing a hooded jacket and dark pants standing on a porch. The individual is facing the camera with their hands in their pockets, and there is no significant movement or change in the scene throughout the video.",
+    "caption_10s": "The video shows a person standing on a porch at night. The individual is wearing a hooded jacket and jeans, and they appear to be looking around cautiously. There are no other significant actions or movements in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person wearing a hooded jacket and jeans stands on a dimly lit porch at night, facing the camera with their hands in their pockets, showing no significant movement or change in the scene.",
+    "caption": "A person wearing a hooded jacket and jeans stands on a dimly lit porch at night, facing the camera with their hands in their pockets, showing no significant movement or change in the scene."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and pants standing on a sidewalk. The individual appears to be stationary throughout the sequence of images, with no significant movement or change in posture. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_5s": "The video shows a person standing on a sidewalk at night, wearing a hooded jacket and jeans. The individual is stationary throughout the sequence of images, with no discernible movement or change in posture.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be looking around and shifting their weight from one foot to the other. The porch has a railing, and there is a column nearby. The lighting suggests it is nighttime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A person wearing a hooded jacket stands on a porch at night, shifting their weight and looking around, with a railing and column nearby.",
+    "caption": "A person wearing a hooded jacket stands on a porch at night, shifting their weight and looking around, with a railing and column nearby."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "The video shows a person standing on the stairs, wearing a hoodie and jeans. They are not moving or interacting with anything else in the scene.",
+    "caption_5s": "The video shows a person standing in front of a building at night. The person is wearing a hoodie and appears to be waiting for someone or something. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a porch. The person is not moving and appears to be looking around.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person, wearing a hooded jacket and jeans, stands still on a porch or stairs, looking around at night.",
+    "caption": "A person, wearing a hooded jacket and jeans, stands still on a porch or stairs, looking around at night."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a building.",
+    "caption_5s": "The video shows a person standing on a porch at night. They are wearing a hooded jacket and jeans, with their hands in their pockets. The person remains stationary throughout the video.",
+    "caption_10s": "The video shows a person standing on a sidewalk at night. The individual is wearing a hooded jacket and jeans, and they appear to be looking around. There are no significant actions or movements throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person stands on a sidewalk at night, wearing a hooded jacket and jeans, looking around, and remaining stationary.",
+    "caption": "A person stands on a sidewalk at night, wearing a hooded jacket and jeans, looking around, and remaining stationary."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a person standing on a porch with their hands on their hips.",
+    "caption_5s": "The video shows a person standing on a porch at night. They are wearing a hoodie and appear to be looking around. The person then puts their hands in their pockets and stands still for a few seconds before taking one hand out of their pocket and pointing towards something off-screen.",
+    "caption_10s": "The video shows a person standing on a porch, wearing a hoodie and jeans. They are seen adjusting their clothing and looking around.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person stands on a porch, wearing a hoodie and jeans, adjusting their clothing and looking around, then puts their hands in their pockets, stands still, and takes one hand out to point towards something off-screen.",
+    "caption": "A person stands on a porch, wearing a hoodie and jeans, adjusting their clothing and looking around, then puts their hands in their pockets, stands still, and takes one hand out to point towards something off-screen."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a house, with their hands on their hips. They remain in this position throughout the entire video.",
+    "caption_5s": "The video shows a person standing in front of a house, with their hands on their hips. They then proceed to dance while maintaining that position.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands in their pockets. They are wearing a hoodie and appear to be looking around.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A person stands in front of a house, with their hands on their hips, then dances while maintaining that position, wearing a hoodie and looking around, before standing on the stairs with their hands in their pockets.",
+    "caption": "A person stands in front of a house, with their hands on their hips, then dances while maintaining that position, wearing a hoodie and looking around, before standing on the stairs with their hands in their pockets."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "The video shows a person standing on the stairs.",
+    "caption_5s": "The video shows a person standing on the stairs, with their hands on their hips. They remain in this position throughout the entire video.",
+    "caption_10s": "A person wearing a hoodie is standing outside of a house.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A person wearing a hoodie is standing outside of a house, with their hands on their hips, standing on the stairs.",
+    "caption": "A person wearing a hoodie is standing outside of a house, with their hands on their hips, standing on the stairs."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on a porch. They are seen moving their arms and legs in a rhythmic manner, suggesting they are dancing or exercising.",
+    "caption_5s": "A person wearing a hoodie is seen standing outside a house. They are looking around and appear to be waiting for someone or something.",
+    "caption_10s": "The video shows a person standing on the stairs, with their hands in their pockets. They remain stationary throughout the entire duration of the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A person wearing a hoodie stands on a porch, initially moving their arms and legs in a rhythmic manner, then appears to be waiting, and finally remains stationary on the stairs with their hands in their pockets.",
+    "caption": "A person wearing a hoodie stands on a porch, initially moving their arms and legs in a rhythmic manner, then appears to be waiting, and finally remains stationary on the stairs with their hands in their pockets."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on a porch. They are seen moving their arms and hands in various positions, possibly gesturing or interacting with someone off-camera.",
+    "caption_5s": "The video shows a person standing on a porch at night. They are wearing a hoodie and appear to be looking around. The person then walks away from the porch.",
+    "caption_10s": "The video shows a person standing in front of a house, with their hands on their hips. They then proceed to pull out a gun and point it at the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A person wearing a hoodie stands on a porch at night, moving their arms and hands, then looks around and walks away.",
+    "caption": "A person wearing a hoodie stands on a porch at night, moving their arms and hands, then looks around and walks away."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing in front of a house. They are seen moving their arms and legs, possibly dancing or exercising.",
+    "caption_5s": "The video shows a person standing on a porch, wearing a hoodie and jeans. They are seen moving their arms and hands in various positions, possibly gesturing or performing actions.",
+    "caption_10s": "The video shows a person standing on a porch, wearing a hoodie and jeans. They are holding a gun in their right hand and pointing it towards the camera. The person is standing still for most of the video, but at one point they raise their left arm and point the gun upwards.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A person wearing a hoodie and jeans stands on a porch, moving their arms and hands in various positions, sometimes holding a gun and pointing it towards the camera.",
+    "caption": "A person wearing a hoodie and jeans stands on a porch, moving their arms and hands in various positions, sometimes holding a gun and pointing it towards the camera."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing in front of a building. They are seen adjusting their clothing and looking around.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is seen adjusting their clothing, specifically pulling up the hood and then tucking it back down.",
+    "caption_10s": "The video shows a person standing in front of a building. They are wearing a hoodie and appear to be looking around. The person then turns and walks away from the building.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person wearing a hooded jacket stands in front of a building, adjusting their clothing and looking around, before turning and walking away.",
+    "caption": "A person wearing a hooded jacket stands in front of a building, adjusting their clothing and looking around, before turning and walking away."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a house, wearing a hoodie and jeans. They are seen adjusting their clothing and looking around.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is seen adjusting their clothing, specifically pulling up the hood and then tucking it back down.",
+    "caption_10s": "The video shows a person in a hooded jacket standing on a porch. They are seen adjusting their clothing, specifically pulling up their pants and then walking away from the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person in a hooded jacket stands on a porch, adjusting their clothing by pulling up their pants and then walking away, after initially pulling up the hood and tucking it back down.",
+    "caption": "A person in a hooded jacket stands on a porch, adjusting their clothing by pulling up their pants and then walking away, after initially pulling up the hood and tucking it back down."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual is seen adjusting their clothing, specifically pulling up the hood and then removing it.",
+    "caption_5s": "The video shows a person wearing a hoodie standing on a porch. They are seen adjusting their clothing and then walking away.",
+    "caption_10s": "The video shows a person in a hooded jacket standing on a porch. They are seen adjusting their clothing and then walking away from the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person in a hooded jacket stands on a porch, adjusts their clothing, pulls up the hood, removes it, and then walks away.",
+    "caption": "A person in a hooded jacket stands on a porch, adjusts their clothing, pulls up the hood, removes it, and then walks away."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hoodie standing on a porch. They are seen adjusting their clothing, specifically pulling up their pants and then tucking in their shirt.",
+    "caption_5s": "The video shows a person wearing a hoodie standing on a porch. They are seen adjusting their clothing and then throwing an object off-screen.",
+    "caption_10s": "The video shows a person in a hooded jacket standing on a staircase. They are seen adjusting their clothing and then walking down the stairs. The lighting changes from night to day as they descend.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person in a hooded jacket adjusts their clothing, walks down a staircase, and exits into daylight.",
+    "caption": "A person in a hooded jacket adjusts their clothing, walks down a staircase, and exits into daylight."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and dark pants standing on a porch. The individual is facing the camera, with their hands in their pockets. The porch has a railing and there are steps leading up to it. The lighting suggests it's nighttime, and the footage appears to be captured by a security camera.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a porch. They appear to be looking around and then proceed to walk away from the camera's view.",
+    "caption_10s": "The video shows a person wearing a hooded jacket and dark pants standing on a staircase landing. The individual is seen adjusting their clothing, specifically the jacket, before walking down the stairs. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area. The person's actions are deliberate and unhurried.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants stands on a porch or staircase landing, facing the camera or looking around, before adjusting their clothing and walking away from or down the stairs in a deliberate and unhurried manner, captured by a security camera in dimly lit conditions.",
+    "caption": "A person wearing a hooded jacket and dark pants stands on a porch or staircase landing, facing the camera or looking around, before adjusting their clothing and walking away from or down the stairs in a deliberate and unhurried manner, captured by a security camera in dimly lit conditions."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket standing on a porch. The individual appears to be adjusting their clothing, specifically pulling up the hood and then removing it. The actions are repetitive, with the person seemingly struggling with the hood.",
+    "caption_5s": "The video shows a person wearing a hooded jacket and dark pants standing on a porch. The individual is seen adjusting their clothing, specifically the jacket, and then proceeds to walk down the steps of the porch. The surroundings are dimly lit, suggesting it might be nighttime or in a low-light environment.",
+    "caption_10s": "The video shows a person wearing a hooded jacket standing on a landing. The individual is seen adjusting their clothing and then walking down the stairs. The surroundings are dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants is seen adjusting their clothing on a landing, struggling with the hood, before walking down the stairs in a dimly lit environment.",
+    "caption": "A person wearing a hooded jacket and dark pants is seen adjusting their clothing on a landing, struggling with the hood, before walking down the stairs in a dimly lit environment."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a hooded jacket and pants standing on a porch. The individual is seen adjusting their clothing, specifically the jacket, and then extending one arm outward. The setting appears to be nighttime, as indicated by the darkness and the artificial lighting illuminating the scene.",
+    "caption_5s": "The video shows a person wearing a hooded jacket standing on a staircase. The individual is seen adjusting their clothing, specifically pulling up the hood and then removing it. They also appear to be looking around, possibly scanning the area. The lighting suggests it's nighttime, and the surroundings are dimly lit.",
+    "caption_10s": "The video shows a person wearing a hooded jacket and dark pants standing on a staircase landing. The individual appears to be looking around, then proceeds to walk down the stairs. The surroundings are dimly lit, with a light source coming from above, casting shadows on the walls and floor. The person's movements are deliberate and cautious.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A person wearing a hooded jacket and dark pants stands on a staircase landing, looking around cautiously before walking down the stairs in a deliberate and careful manner, with dim lighting casting shadows on the walls and floor, illuminated by a light source above.",
+    "caption": "A person wearing a hooded jacket and dark pants stands on a staircase landing, looking around cautiously before walking down the stairs in a deliberate and careful manner, with dim lighting casting shadows on the walls and floor, illuminated by a light source above."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a person in a white hoodie and dark pants standing on a porch. They are holding an object that appears to be a gun, and they are pointing it towards the camera. The person is standing still for a few seconds before they start walking away from the camera.",
+    "caption_5s": "The video shows a person in a white hoodie standing on a staircase. They are holding something in their hands and appear to be looking around. The person then starts walking down the stairs, and the camera follows them.",
+    "caption_10s": "The video shows a person in a hoodie standing on a porch, then walking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person in a white hoodie and dark pants stands on a porch, holding an object that appears to be a gun, before walking down the stairs.",
+    "caption": "A person in a white hoodie and dark pants stands on a porch, holding an object that appears to be a gun, before walking down the stairs."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a person in a white hoodie walking down a set of stairs. They are carrying an object that appears to be a weapon, and they are moving cautiously. The person is walking alone and there are no other people visible in the video.",
+    "caption_5s": "The video shows a person in a white hoodie standing on a staircase. They are holding something in their hands and appear to be looking around. The person then starts walking down the stairs, and the camera follows them. The video ends with the person walking out of frame.",
+    "caption_10s": "The video shows a person in a white hoodie standing on a porch. They then proceed to walk down the stairs and out of the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A person in a white hoodie stands on a porch, then walks down the stairs, holding something in their hands, and exits the frame.",
+    "caption": "A person in a white hoodie stands on a porch, then walks down the stairs, holding something in their hands, and exits the frame."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a flight of stairs, followed by another individual who appears to be chasing them. The second person then runs away from the stairs.",
+    "caption_5s": "The video shows a person in a white hoodie standing on a porch. They then proceed to walk down the stairs and exit the frame.",
+    "caption_10s": "The video shows a person in a hoodie standing on the stairs, then walking down and disappearing.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A person in a white hoodie walks down a flight of stairs and exits the frame, with another individual briefly visible before running away from the stairs.",
+    "caption": "A person in a white hoodie walks down a flight of stairs and exits the frame, with another individual briefly visible before running away from the stairs."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "A person is seen walking down a flight of stairs in the video.",
+    "caption_5s": "A person wearing a hoodie is seen walking down the stairs. They then throw an object off the ledge and continue walking down the stairs.",
+    "caption_10s": "The video shows a person standing on the stairs, then throwing an object down. The person is wearing a hoodie and jeans.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A person wearing a hoodie and jeans is seen standing on the stairs, then throwing an object down before continuing to walk down the stairs.",
+    "caption": "A person wearing a hoodie and jeans is seen standing on the stairs, then throwing an object down before continuing to walk down the stairs."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "A person is seen running down a flight of stairs and then disappears from view.",
+    "caption_5s": "The video shows a person walking down a staircase, throwing an object, and then running away.",
+    "caption_10s": "A person wearing a hoodie is seen standing on the stairs. They then throw an object down the stairs and run away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person wearing a hoodie stands on the stairs, throws an object down, and then runs away, disappearing from view.",
+    "caption": "A person wearing a hoodie stands on the stairs, throws an object down, and then runs away, disappearing from view."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a person skateboarding down a flight of stairs.",
+    "caption_5s": "A person is seen walking down a flight of stairs, followed by another person who appears to be chasing them.",
+    "caption_10s": "The video shows a person wearing a hoodie standing on the stairs. They then proceed to walk down the stairs and disappear from view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A person wearing a hoodie walks down a flight of stairs, disappearing from view.",
+    "caption": "A person wearing a hoodie walks down a flight of stairs, disappearing from view."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a staircase in a dark environment.",
+    "caption_5s": "The video shows a person walking down a flight of stairs. The camera angle is from above, and the person is wearing dark clothing. The lighting is dim, and the surroundings are not clearly visible.",
+    "caption_10s": "The video shows a person in a white hoodie standing on a staircase. They then proceed to walk down the stairs and disappear from view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A person in a white hoodie walks down a flight of stairs in a dimly lit environment, wearing dark clothing, and disappears from view.",
+    "caption": "A person in a white hoodie walks down a flight of stairs in a dimly lit environment, wearing dark clothing, and disappears from view."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 35.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a staircase with brick walls and a black railing. The lighting is dim, and there are no visible people or moving objects.",
+    "caption_5s": "The video shows a person running down a flight of stairs, followed by another person who is chasing them. The chase continues until the second person catches up to the first person and they both disappear from view.",
+    "caption_10s": "The video shows a person in a white hoodie standing on a staircase. They then proceed to walk down the stairs and exit the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A person in a white hoodie walks down a dimly lit staircase with brick walls and a black railing, exiting the frame.",
+    "caption": "A person in a white hoodie walks down a dimly lit staircase with brick walls and a black railing, exiting the frame."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 35.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a staircase with brick walls and a black railing. The lighting is dim, and there are no visible actions or movements.",
+    "caption_5s": "The video shows a person walking down a staircase in a building. The person is wearing dark clothing and appears to be alone. The staircase has a metal railing and the walls are made of brick. The lighting is dim, and the video is in black and white.",
+    "caption_10s": "The video shows a person walking down stairs, followed by another person who appears to be chasing them. The first person then falls down the stairs and disappears from view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A person walks down a dimly lit staircase with brick walls and a metal railing, wearing dark clothing, before falling and disappearing from view, with another person visible behind them.",
+    "caption": "A person walks down a dimly lit staircase with brick walls and a metal railing, wearing dark clothing, before falling and disappearing from view, with another person visible behind them."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 35.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a staircase with brick walls and a metal railing. The lighting is dim, and there is no movement or action taking place.",
+    "caption_5s": "The video shows a staircase with brick walls and a black metal railing. The lighting is dim, and the area appears to be outdoors at night. No people or moving objects are visible in the video.",
+    "caption_10s": "The video shows a person in a white hoodie walking down a staircase. They are holding an object that appears to be a flare or light source, which they throw down the stairs. The person then walks away from the camera's view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A dimly lit staircase with brick walls and a black metal railing, located outdoors at night, is initially empty. A person in a white hoodie walks down the stairs, holding a flare or light source, and then throws it down the stairs before walking away.",
+    "caption": "A dimly lit staircase with brick walls and a black metal railing, located outdoors at night, is initially empty. A person in a white hoodie walks down the stairs, holding a flare or light source, and then throws it down the stairs before walking away."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 35.7667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 35.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a dark stairwell with brick walls and a metal railing. The lighting is dim, and there are no visible people or moving objects.",
+    "caption_5s": "The video shows a staircase with brick walls and a metal railing. The lighting is dim, and there are no visible people or moving objects.",
+    "caption_10s": "The video shows a person in a white hoodie walking down a set of stairs. The footage is in black and white, and the person appears to be alone.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 35.7667
+    },
+    "fused_caption": "A person in a white hoodie walks down a set of stairs in a dimly lit stairwell with brick walls and a metal railing.",
+    "caption": "A person in a white hoodie walks down a set of stairs in a dimly lit stairwell with brick walls and a metal railing."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 35.7667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 35.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 35.7667
+      }
+    },
+    "caption_2s": "The video shows a staircase with brick walls and a metal railing. The lighting is dim, and there are no visible people or moving objects.",
+    "caption_5s": "The video shows a stationary view of a staircase with brick walls and a metal railing. The lighting is dim, and there is no movement or action taking place throughout the sequence of images.",
+    "caption_10s": "The video shows a person walking down a staircase in a dimly lit area. The person is wearing light-colored clothing and appears to be alone. The camera angle is from above, looking down the stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 35.7667
+    },
+    "fused_caption": "A person walks down a dimly lit staircase with brick walls and a metal railing, wearing light-colored clothing, in a stationary view from above.",
+    "caption": "A person walks down a dimly lit staircase with brick walls and a metal railing, wearing light-colored clothing, in a stationary view from above."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variant": "zero_shot_causal_current_survival_gate",
+  "formula": "S_h(t) = (1 - current_abnormality(t)) * base_future_risk_h(t)",
+  "alarm_rule": "min(1 - current_abnormality(t), base_future_risk_h(t)) >= threshold; equivalent to both terms >= threshold",
+  "horizons_seconds": [
+    2,
+    5,
+    10
+  ],
+  "source": "data/ucf_crime/experiments/zero_shot_anticipation_one_per_category/Fighting033_x264/anticipation_scores.json",
+  "source_semantics": "strictly causal direct branch generated from trailing video captions and Llama-3.1-8B-Instruct",
+  "learned_or_fitted_parameters": false,
+  "author_outputs_used": false,
+  "ground_truth_used": false,
+  "future_information_used": false
+}

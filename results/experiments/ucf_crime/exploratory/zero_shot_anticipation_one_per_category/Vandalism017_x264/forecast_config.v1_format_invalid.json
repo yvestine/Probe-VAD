@@ -1,0 +1,16 @@
+{
+  "variant": "zero_shot_causal_anticipation",
+  "history_items": 8,
+  "horizons_seconds": [
+    2,
+    5,
+    10
+  ],
+  "ema_alpha": 0.65,
+  "forecast_prompt": "You are a cautious online video risk forecaster. You receive chronological visual observations ending at the current time and no future frames. Estimate (1) whether a clearly abnormal or suspicious event is already visible now and (2) the risk that a new clearly abnormal or suspicious event will begin within the next 2, 5, and 10 seconds. Use only observable temporal evidence. Do not assume a crime or action class. If evidence is weak or ordinary, keep risk low. Longer-horizon risk must not be lower than shorter-horizon risk. Return only a Python list of four numbers in [0, 1] in this order: [current_abnormality, risk_2s, risk_5s, risk_10s].",
+  "inference_inputs": [
+    "causal captions generated from raw video",
+    "Llama-3.1-8B-Instruct model weights"
+  ],
+  "future_information_used": false
+}

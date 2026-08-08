@@ -1,0 +1,3688 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A white van drives by on the street.",
+    "caption_5s": "A dog is walking down the street.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A dog runs across the street in front of a house, having previously walked down the street.",
+    "caption": "A dog runs across the street in front of a house, having previously walked down the street."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A dog is walking down the street.",
+    "caption_5s": "A dog is walking down the street.",
+    "caption_10s": "A dog is seen running across the street in the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A dog is walking down the street, then runs across it.",
+    "caption": "A dog is walking down the street, then runs across it."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A dog is walking down the street.",
+    "caption_5s": "A dog is walking down the street.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A dog is walking down the street, then picks up speed and runs across in front of a house.",
+    "caption": "A dog is walking down the street, then picks up speed and runs across in front of a house."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "caption_5s": "A dog is seen running across the street in front of a house.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A white van is parked on the street, with a dog running across the street in front of a house.",
+    "caption": "A white van is parked on the street, with a dog running across the street in front of a house."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A dog is running across the street.",
+    "caption_10s": "A dog is walking down the street.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A dog is seen running across the street, then slows down and walks down the street.",
+    "caption": "A dog is seen running across the street, then slows down and walks down the street."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. There is a blue recycling bin and a wooden pallet on the sidewalk. The footage is taken from a window, and the time displayed is 1:31:52 PM. No significant actions or movements are observed throughout the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the side. There is no significant movement or action throughout the video.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A residential street scene with a white van parked on the left side, a blue recycling bin, and a wooden pallet on the sidewalk, with a dog running across the street in front of a house.",
+    "caption": "A residential street scene with a white van parked on the left side, a blue recycling bin, and a wooden pallet on the sidewalk, with a dog running across the street in front of a house."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, and a person walking past it. The person is wearing dark clothing and appears to be carrying something in their hand. The scene takes place during the daytime, and there are no other significant actions or events occurring.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A dog is seen walking across the street from left to right. The dog appears to be medium-sized and has a dark coat. There are no other significant actions or events in the video.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A white van is parked on the side of the road, with a dog walking across the street in front of it, wearing a dark coat, and a person in dark clothing walking past the van.",
+    "caption": "A white van is parked on the side of the road, with a dog walking across the street in front of it, wearing a dark coat, and a person in dark clothing walking past the van."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. There is a fenced area in the foreground with a blue trash bin and a wooden bench. The main action involves a black dog running across the street from right to left, followed by a person walking in the same direction.",
+    "caption_5s": "The video shows a static view of a residential street with a white van parked on the left side. There is no significant movement or action throughout the sequence of images.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A residential street with a white van parked on the left side, a fenced area with a blue trash bin and a wooden bench, and a house in the background. A black dog runs across the street from right to left, followed by a person walking in the same direction.",
+    "caption": "A residential street with a white van parked on the left side, a fenced area with a blue trash bin and a wooden bench, and a house in the background. A black dog runs across the street from right to left, followed by a person walking in the same direction."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a static scene from a security camera's perspective. The setting is an outdoor area with a paved ground, a metal fence on the left, and a building wall on the right. There is a blue recycling bin near the fence. In the background, there is a road with a white van parked on the side. No significant movement or action occurs throughout the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the left side. The foreground features a narrow pathway bordered by a fence and a hedge, leading to a gate. There is no significant movement or action throughout the sequence of images.",
+    "caption_10s": "A cat is walking down the street.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A static scene from a security camera's perspective shows a residential street with a white van parked on the left side, a narrow pathway bordered by a fence and a hedge leading to a gate, and a blue recycling bin near the fence. A cat walks down the street.",
+    "caption": "A static scene from a security camera's perspective shows a residential street with a white van parked on the left side, a narrow pathway bordered by a fence and a hedge leading to a gate, and a blue recycling bin near the fence. A cat walks down the street."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. There is a fenced area in the foreground with a blue trash bin and a wooden bench. The background includes houses and greenery. No significant actions or movements are observed throughout the video.",
+    "caption_5s": "The video shows a sequence of images from a security camera. The setting is an outdoor area with a paved ground, a fence, and a building to the right. A white van is parked on the street in the background. The main action involves a person walking across the frame from left to right. The person appears to be wearing dark clothing and is carrying something that could be a bag or a box. The time displayed on the camera reads 1:31:52 PM and progresses through the series of images.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A white van is parked on the left side of a residential street with a fenced area in the foreground, houses and greenery in the background. A person walks across the frame from left to right, wearing dark clothing and carrying a bag or box, while a dog runs across the street in front of a house.",
+    "caption": "A white van is parked on the left side of a residential street with a fenced area in the foreground, houses and greenery in the background. A person walks across the frame from left to right, wearing dark clothing and carrying a bag or box, while a dog runs across the street in front of a house."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. There is a blue recycling bin and a wooden bench in the foreground, and a hedge runs along the right side of the frame. The sky is overcast, suggesting it might be early morning or late afternoon. No significant movement or action occurs throughout the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the left side. There is a narrow alleyway between a brick building and a fence, leading to a gate. The time displayed in the video suggests it was recorded in the evening. No significant actions or movements are observed throughout the sequence of images.",
+    "caption_10s": "The video shows a static view of a residential street with a white van parked on the left side. The footage is taken from a window, and there's a blue recycling bin next to the window. The main action in the video is a black cat walking across the street from right to left. The timestamp indicates that the video was recorded over a span of one minute.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A residential street with a white van parked on the left side, a blue recycling bin, and a wooden bench in the foreground, with a hedge along the right side. A black cat walks across the street from right to left. The video was recorded from a window, with a brick building and a fence visible, and a gate at the end of a narrow alleyway. The timestamp suggests the video was recorded in the evening over a span of one minute.",
+    "caption": "A residential street with a white van parked on the left side, a blue recycling bin, and a wooden bench in the foreground, with a hedge along the right side. A black cat walks across the street from right to left. The video was recorded from a window, with a brick building and a fence visible, and a gate at the end of a narrow alleyway. The timestamp suggests the video was recorded in the evening over a span of one minute."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a dog walking on the sidewalk, passing by a parked white van. The dog is moving from left to right across the frame.",
+    "caption_5s": "The video shows a static shot of a residential street with a white van parked on the left side. There is no significant movement or action throughout the sequence of images.",
+    "caption_10s": "The video shows a black cat walking across the street in front of a white van. The cat is seen from a window, and there are colorful objects on the ground.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A dog walks from left to right across the frame, passing by a parked white van on a residential street, where a black cat is seen walking across the street in front of the van, and colorful objects are visible on the ground.",
+    "caption": "A dog walks from left to right across the frame, passing by a parked white van on a residential street, where a black cat is seen walking across the street in front of the van, and colorful objects are visible on the ground."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a dog walking down the street.",
+    "caption_5s": "The video shows a static shot of a residential street with a white van parked on the left side. There is no significant movement or action throughout the video, and the timestamp indicates that it was recorded over a span of one minute.",
+    "caption_10s": "The video shows a static scene of a residential street with a parked white van on the left side. The main action is the movement of a black cat walking across the street from right to left. The cat appears to be in motion, and its position changes throughout the video as it crosses the road.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A black cat walks across a residential street from right to left, passing in front of a parked white van, while a dog walks down the street in the background.",
+    "caption": "A black cat walks across a residential street from right to left, passing in front of a parked white van, while a dog walks down the street in the background."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a dog walking down the street.",
+    "caption_5s": "The video shows a dog walking on the sidewalk, passing by a parked white van. The dog is seen from a window of a building, and there are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a sequence of events where a cat is seen walking across the street. The footage is taken from a stationary position, and the cat moves from one side to the other. There are no other significant actions or interactions in the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A dog is seen walking on the sidewalk, passing by a parked white van, from a window of a building, while a cat is briefly seen walking across the street in the background.",
+    "caption": "A dog is seen walking on the sidewalk, passing by a parked white van, from a window of a building, while a cat is briefly seen walking across the street in the background."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A cat is seen walking down the street, and then it jumps into a bush.",
+    "caption_10s": "The video shows a cat walking down the street.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A cat is seen walking down the street, then jumping into a bush.",
+    "caption": "A cat is seen walking down the street, then jumping into a bush."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A cat is seen walking down a sidewalk.",
+    "caption_5s": "A cat is seen walking across the street in front of a house. The cat then walks back to the other side of the street.",
+    "caption_10s": "A dog is seen running across the street in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A cat walks down the sidewalk, crosses the street in front of a house, and returns to the other side, while a dog runs across the street in the background.",
+    "caption": "A cat walks down the sidewalk, crosses the street in front of a house, and returns to the other side, while a dog runs across the street in the background."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "A cat is seen walking down the street.",
+    "caption_5s": "A cat is seen walking down the street.",
+    "caption_10s": "The video shows a cat walking on the pavement, passing by a parked white van. The cat moves from left to right across the frame, and there is no other significant action or interaction with other objects or animals.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A cat walks on the pavement, passing a parked white van, moving from left to right.",
+    "caption": "A cat walks on the pavement, passing a parked white van, moving from left to right."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A cat is seen walking down the street.",
+    "caption_5s": "The video shows a cat walking on the pavement in front of a house. The cat is seen walking from left to right across the frame, and there are no other significant events or actions taking place.",
+    "caption_10s": "A cat is seen walking down a sidewalk. It then jumps over a fence and disappears from view.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A cat walks down the sidewalk, jumps over a fence, and disappears from view, initially seen walking from left to right in front of a house on the pavement.",
+    "caption": "A cat walks down the sidewalk, jumps over a fence, and disappears from view, initially seen walking from left to right in front of a house on the pavement."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a cat walking down the street.",
+    "caption_5s": "A cat is seen walking down a sidewalk. It then jumps into the street and runs across it.",
+    "caption_10s": "In the video, a cat is seen walking across the street. A person then appears and throws something towards the cat.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A cat walks down the sidewalk, jumps into the street, runs across it, and then a person appears, throwing something towards the cat.",
+    "caption": "A cat walks down the sidewalk, jumps into the street, runs across it, and then a person appears, throwing something towards the cat."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A cat is seen walking down a driveway.",
+    "caption_5s": "The video shows a cat walking down the street.",
+    "caption_10s": "A cat is seen walking down a sidewalk. A person walks by in the background.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A cat walks down a sidewalk, passing by a person in the background.",
+    "caption": "A cat walks down a sidewalk, passing by a person in the background."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a cat walking on the pavement.",
+    "caption_5s": "The video shows a black cat walking across a residential street. The footage is taken from a stationary position, likely from a window or door, and the cat moves from right to left across the frame. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a black cat walking across the street in front of a white van. The cat is seen from a window, and there are colorful objects on the ground near the window.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A black cat walks across a residential street in front of a white van, seen from a window with colorful objects on the ground nearby.",
+    "caption": "A black cat walks across a residential street in front of a white van, seen from a window with colorful objects on the ground nearby."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a cat walking down the street.",
+    "caption_5s": "The video shows a black cat walking across a street in front of a white van. The cat is seen from a window, and the footage is timestamped.",
+    "caption_10s": "The video shows a black cat walking across the street in front of a white van. The cat is seen from a window, and there are colorful decorations on the fence.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A black cat walks across the street in front of a white van, seen from a window, with colorful decorations on the fence.",
+    "caption": "A black cat walks across the street in front of a white van, seen from a window, with colorful decorations on the fence."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a cat walking on the pavement.",
+    "caption_5s": "The video shows a black cat walking across a street in front of a white van. The cat is seen from a window, and the footage is timestamped.",
+    "caption_10s": "The video shows a cat walking on the pavement, passing by a parked white van. The cat moves from left to right across the frame.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A black cat walks across the street in front of a parked white van, seen from a window.",
+    "caption": "A black cat walks across the street in front of a parked white van, seen from a window."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. The van is stationary throughout the sequence, and there are no visible actions or movements from any objects or individuals.",
+    "caption_5s": "The video shows a static shot of a residential street with a white van parked on the side. The main action is the movement of a black cat walking across the frame from left to right.",
+    "caption_10s": "The video shows a static view of a residential street with a white van parked on the left side. The footage is taken from a window, and the time displayed in the corner indicates it's around 1:31 PM. There are no significant actions or movements throughout the video; it captures a still scene with minor changes in lighting and shadows as time progresses.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A residential street is shown with a white van parked on the left side, a black cat walking across the frame from left to right, and minor changes in lighting and shadows as time progresses, captured from a window at 1:31 PM.",
+    "caption": "A residential street is shown with a white van parked on the left side, a black cat walking across the frame from left to right, and minor changes in lighting and shadows as time progresses, captured from a window at 1:31 PM."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with no significant movement or action. The timestamp indicates the footage was captured at 1:32:03 PM, and there is no change in the environment throughout the sequence of images.",
+    "caption_5s": "The video shows a static view of a residential street with a white van parked on the left side. The main action is a black cat walking across the pavement from right to left. The cat moves at a steady pace and appears to be alone. There are no other significant movements or interactions in the scene.",
+    "caption_10s": "The video shows a static view of a residential street with a parked white van on the left and a colorful fence in the foreground. There is no significant movement or action throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A residential street is shown with a white van parked on the left side, a black cat walking steadily across the pavement from right to left, and a colorful fence in the foreground.",
+    "caption": "A residential street is shown with a white van parked on the left side, a black cat walking steadily across the pavement from right to left, and a colorful fence in the foreground."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a static view of a residential street with a white van parked on the side. The footage is taken from a window, and there are colorful decorations hanging outside. There is no significant movement or action in the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the left side. The camera is positioned at an angle, capturing part of a house's exterior and a narrow pathway leading to the front door. There are no significant actions or movements throughout the video.",
+    "caption_10s": "The video shows a static view of a residential street with a white van parked on the left side. The footage is taken from a window, and there is a colorful object in the foreground that appears to be a child's play area or decoration. There are no significant actions or movements throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A residential street is shown with a white van parked on the left side, partially visible from a window view. The scene includes a house's exterior, a narrow pathway, and a colorful object in the foreground, likely a child's play area or decoration, with no significant actions or movements.",
+    "caption": "A residential street is shown with a white van parked on the left side, partially visible from a window view. The scene includes a house's exterior, a narrow pathway, and a colorful object in the foreground, likely a child's play area or decoration, with no significant actions or movements."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street, with no significant movement or action taking place.",
+    "caption_5s": "The video shows a white van parked on the street, and a person walking by.",
+    "caption_10s": "The video shows a cat walking on the pavement, passing by a parked white van. The cat moves from left to right across the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A white van is parked on the street, with a cat walking by on the pavement, passing from left to right, as a person walks by in the background.",
+    "caption": "A white van is parked on the street, with a cat walking by on the pavement, passing from left to right, as a person walks by in the background."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. A person is seen walking away from the camera, and there are colorful decorations hanging on a fence. The timestamp indicates that the footage was recorded at 1:32:05 PM.",
+    "caption_5s": "The video shows a white van parked on the street, and a person walking by. The camera is stationary and captures the scene from a fixed position.",
+    "caption_10s": "A cat is seen walking down a sidewalk. A person walks by in the background.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A white van is parked on the street, with colorful decorations hanging on a nearby fence. A person walks by, and a cat is seen walking down the sidewalk in the background, with a person walking by in the distance.",
+    "caption": "A white van is parked on the street, with colorful decorations hanging on a nearby fence. A person walks by, and a cat is seen walking down the sidewalk in the background, with a person walking by in the distance."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, and a person walking by.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person is seen walking across the street in front of the van. The scene takes place during the daytime, and there are no other significant actions or events.",
+    "caption_10s": "A cat is seen walking down a sidewalk. A person walks by in the background.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A white van is parked on the side of the road, and a person walks by in the background, while a cat walks down the sidewalk in the foreground.",
+    "caption": "A white van is parked on the side of the road, and a person walks by in the background, while a cat walks down the sidewalk in the foreground."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A cat is seen walking down the street, passing by a parked van.",
+    "caption_5s": "A cat is walking down the street. A person walks by in the background.",
+    "caption_10s": "A cat is seen walking down the street, followed by a person. The person then picks up the cat and carries it away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A cat walks down the street, passing a parked van, with a person walking by in the background, who then picks up the cat and carries it away.",
+    "caption": "A cat walks down the street, passing a parked van, with a person walking by in the background, who then picks up the cat and carries it away."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person is walking down the street.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked van. The person is wearing a white shirt and dark pants. They walk from left to right across the frame.",
+    "caption_10s": "A cat is seen walking down a sidewalk, followed by a person. The person then walks away from the camera.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person, wearing a white shirt and dark pants, walks down the street, passing by a parked van, and then continues walking away from the camera, with a cat briefly preceding them.",
+    "caption": "A person, wearing a white shirt and dark pants, walks down the street, passing by a parked van, and then continues walking away from the camera, with a cat briefly preceding them."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A cat is seen walking on a fence in the video.",
+    "caption_5s": "A person walks across the street, followed by a cat.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked van. The person is wearing a white shirt and dark pants. They walk from left to right across the frame.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person in a white shirt and dark pants walks from left to right across the frame, passing by a parked van, as a cat follows them from behind.",
+    "caption": "A person in a white shirt and dark pants walks from left to right across the frame, passing by a parked van, as a cat follows them from behind."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A cat is stuck in a tree.",
+    "caption_5s": "The video shows a white van parked on the street, with a person walking by. The camera is positioned in a window, capturing the scene outside.",
+    "caption_10s": "A cat is seen walking down the street, followed by a person. The person then picks up the cat and carries it away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A white van is parked on the street, with a person walking by, while a cat is seen walking down the street, followed by the person, who then picks it up and carries it away.",
+    "caption": "A white van is parked on the street, with a person walking by, while a cat is seen walking down the street, followed by the person, who then picks it up and carries it away."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "A cat is seen walking down a narrow alleyway.",
+    "caption_5s": "A person is walking down the street, and a white van is driving by.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person is seen walking across the street, and there are colorful decorations hanging from a building. The camera remains stationary throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person walks down the street, passing by a white van parked on the side, while colorful decorations hang from a nearby building.",
+    "caption": "A person walks down the street, passing by a white van parked on the side, while colorful decorations hang from a nearby building."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A cat is seen walking down the street.",
+    "caption_5s": "A cat is seen walking down a sidewalk, passing by a parked van. The cat continues its walk along the sidewalk, moving from left to right across the frame.",
+    "caption_10s": "A person is seen walking down the street, passing by a parked van.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A cat is seen walking down a sidewalk, passing by a parked van, continuing its walk from left to right across the frame, as a person walks by in the background.",
+    "caption": "A cat is seen walking down a sidewalk, passing by a parked van, continuing its walk from left to right across the frame, as a person walks by in the background."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, and a person walking by.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person is seen walking towards the van, and then another person is seen walking away from the van.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person is seen walking across the street, and there are colorful decorations hanging from a building. The camera remains stationary throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A white van is parked on the side of the road, with a person walking towards it, then another person walking away, while colorful decorations hang from a nearby building.",
+    "caption": "A white van is parked on the side of the road, with a person walking towards it, then another person walking away, while colorful decorations hang from a nearby building."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the street, with a person walking past it. The camera is stationary and captures the scene from a fixed position.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked van and a building with a fence. The person is wearing a white shirt and dark pants.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person walks down the street, passing a parked white van and a building with a fence, wearing a white shirt and dark pants.",
+    "caption": "A person walks down the street, passing a parked white van and a building with a fence, wearing a white shirt and dark pants."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the street, and a person walking past it. The person is wearing dark clothing and appears to be carrying something in their hand. The scene takes place during the daytime, and there are no other significant events or actions visible in the video.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing a light-colored top and dark pants. They walk from left to right across the frame.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person walks down the street, passing a parked white van, wearing a light-colored top and dark pants, while a person in dark clothing walks past the van in the opposite direction, carrying something in their hand, on a daytime street.",
+    "caption": "A person walks down the street, passing a parked white van, wearing a light-colored top and dark pants, while a person in dark clothing walks past the van in the opposite direction, carrying something in their hand, on a daytime street."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the side. The footage is taken from a window, and there is a colorful object, possibly a child's toy or decoration, in the foreground. There are no significant actions or movements throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked on the side of a street. A person is seen walking away from the camera's view, and there are colorful objects scattered on the ground. The timestamp indicates that the footage was recorded at 1:32:08 PM.",
+    "caption_10s": "The video shows a static view of a residential street with a white van parked on the side. There is no significant movement or action throughout the sequence of images.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, with a colorful object in the foreground. A person walks away from the camera's view, and colorful objects are scattered on the ground. The footage was recorded at 1:32:08 PM, showing a static view of the street with no significant movement or action.",
+    "caption": "A white van is parked on the side of a residential street, with a colorful object in the foreground. A person walks away from the camera's view, and colorful objects are scattered on the ground. The footage was recorded at 1:32:08 PM, showing a static view of the street with no significant movement or action."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the side. There is no movement or action taking place in the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the side. The footage is taken from a security camera, as indicated by the timestamp and the \"RSPCA\" logo in the corner. There are no significant actions or movements throughout the sequence of images.",
+    "caption_10s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A residential street with a white van parked on the side, captured by a security camera, showing no movement or action over a period of time.",
+    "caption": "A residential street with a white van parked on the side, captured by a security camera, showing no movement or action over a period of time."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. The foreground is dominated by a colorful, patterned fence running parallel to the street. There are no discernible actions or movements in the video.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person is seen walking away from the camera's view, and there are colorful objects scattered on the ground. The timestamp indicates that the footage was recorded at 1:32:10 PM.",
+    "caption_10s": "The video shows a static scene of a residential street with a white van parked on the left side. The van is stationary throughout the sequence. There are no visible people or moving objects in the frame, and the environment appears calm and undisturbed.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A white van is parked on the left side of a residential street, with a colorful, patterned fence in the foreground. A person is seen walking away from the camera's view, and colorful objects are scattered on the ground. The scene is recorded at 1:32:10 PM and remains calm and undisturbed.",
+    "caption": "A white van is parked on the left side of a residential street, with a colorful, patterned fence in the foreground. A person is seen walking away from the camera's view, and colorful objects are scattered on the ground. The scene is recorded at 1:32:10 PM and remains calm and undisturbed."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in front of a house.",
+    "caption_5s": "A person is seen walking down the street, passing by a parked van.",
+    "caption_10s": "The video shows a white van parked on the street, and a person walking by.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person walks down the street, passing by a parked white van, while a dog runs across the street in front of a house.",
+    "caption": "A person walks down the street, passing by a parked white van, while a dog runs across the street in front of a house."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the street, with no significant movement or action taking place.",
+    "caption_10s": "A cat is seen walking down a sidewalk, passing by a parked white van. The cat moves from left to right across the frame, and there are no other significant actions or events in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A white van is parked on the street, with a cat walking by from left to right on the sidewalk.",
+    "caption": "A white van is parked on the street, with a cat walking by from left to right on the sidewalk."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, with no significant movement or action taking place.",
+    "caption_5s": "A dog is seen running across the street in front of a house.",
+    "caption_10s": "The video shows a white van parked on the street, with no significant movement or action taking place.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A white van is parked on the street, with a dog running across the street in front of a house nearby.",
+    "caption": "A white van is parked on the street, with a dog running across the street in front of a house nearby."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A dog is seen running across the street in front of a house.",
+    "caption_10s": "A cat is seen walking down a sidewalk, passing by a parked van.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A dog is seen running across the street in front of a house, with a cat walking down a nearby sidewalk past a parked van.",
+    "caption": "A dog is seen running across the street in front of a house, with a cat walking down a nearby sidewalk past a parked van."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in front of a house.",
+    "caption_5s": "A dog is seen running across the street in front of a house.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A dog runs across the street in front of a house.",
+    "caption": "A dog runs across the street in front of a house."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "A dog is seen running across the street in front of a house.",
+    "caption_10s": "The video shows a white van parked on the street. There is no significant movement or action in the scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A white van is parked on the street, with a dog running across the street in front of a house nearby.",
+    "caption": "A white van is parked on the street, with a dog running across the street in front of a house nearby."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action in the scene.",
+    "caption_10s": "A dog is seen running across the street in front of a house.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A dog runs across the street in front of a house, with a white van parked on the side of the road nearby.",
+    "caption": "A dog runs across the street in front of a house, with a white van parked on the side of the road nearby."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "caption_10s": "The video shows a white van parked on the street. There is no significant movement or action in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A white van is parked on the street, with a dog running across it at some point.",
+    "caption": "A white van is parked on the street, with a dog running across it at some point."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "caption_10s": "The video shows a white van parked on the street, with a person standing next to it. The van remains stationary throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A white van is parked on the street, with a person standing next to it, while a dog runs across the street in the background.",
+    "caption": "A white van is parked on the street, with a person standing next to it, while a dog runs across the street in the background."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action in the scene.",
+    "caption_10s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A white van is parked on the side of the road, with a dog running across the street in the background.",
+    "caption": "A white van is parked on the side of the road, with a dog running across the street in the background."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_10s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "The video shows a white van parked on the side of the road, with no movement or action taking place in the scene.",
+    "caption": "The video shows a white van parked on the side of the road, with no movement or action taking place in the scene."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "caption_10s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A white van is parked on the side of the road, with no movement or action visible over a period of at least 10 seconds.",
+    "caption": "A white van is parked on the side of the road, with no movement or action visible over a period of at least 10 seconds."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential area with a white van parked on the street. The camera angle is from a window, looking out onto a narrow alleyway lined with colorful decorations. There are no significant actions or movements in the video.",
+    "caption_5s": "The video shows a white van parked on the side of a street. The van remains stationary throughout the duration of the footage.",
+    "caption_10s": "The video shows a static scene of a residential street with a white van parked on the side. The footage is taken from a fixed camera angle, capturing the front of a house with a brick facade and a window to the right. There are no significant actions or movements in the video; it primarily focuses on the stillness of the environment.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, captured from a fixed camera angle showing the front of a house with a brick facade and a window to the right, with no significant actions or movements in the video.",
+    "caption": "A white van is parked on the side of a residential street, captured from a fixed camera angle showing the front of a house with a brick facade and a window to the right, with no significant actions or movements in the video."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the side. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the left side. The time is 1:32 PM, and there are no significant actions or movements throughout the sequence of images.",
+    "caption_10s": "The video shows a static scene of a residential street with a white van parked on the side. There is no movement or action taking place throughout the duration of the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A residential street with a white van parked on the left side at 1:32 PM, showing no movement or action.",
+    "caption": "A residential street with a white van parked on the left side at 1:32 PM, showing no movement or action."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the left side. The time is 1:32:20 PM, and there is no significant movement or action throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "caption_10s": "The video shows a static shot of a residential street with a white van parked on the left side. The time displayed in the upper right corner indicates it is 1:32 PM. There are no significant actions or movements throughout the video, and the environment appears calm and undisturbed.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A white van is parked on the left side of a residential street, with no significant movement or action, at 1:32 PM.",
+    "caption": "A white van is parked on the left side of a residential street, with no significant movement or action, at 1:32 PM."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action in the scene.",
+    "caption_10s": "The video shows a white van parked on the street. There is no significant action or movement in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A white van is parked on the street, with no significant action or movement.",
+    "caption": "A white van is parked on the street, with no significant action or movement."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no significant movement or action throughout the video.",
+    "caption_10s": "The video shows a white van parked on the street. There is no significant action or movement in the scene.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A white van is parked on the street, with no significant action or movement in the scene.",
+    "caption": "A white van is parked on the street, with no significant action or movement in the scene."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, with no significant movement or action taking place.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_10s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A white van is parked on the street, with no movement or action taking place.",
+    "caption": "A white van is parked on the street, with no movement or action taking place."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A white van is parked on the street.",
+    "caption_10s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A dog is seen running across the street in the video, with a white van parked on the street.",
+    "caption": "A dog is seen running across the street in the video, with a white van parked on the street."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 37.0
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A white van is parked on the street, and a person walks by.",
+    "caption_10s": "A person is seen walking down the street, and then a dog appears.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person walks down the street, a dog appears, and then a white van is parked on the street.",
+    "caption": "A person walks down the street, a dog appears, and then a white van is parked on the street."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street. The van is stationary and there are no other significant actions or events taking place.",
+    "caption_5s": "A person is seen walking down the street, while a white van drives by.",
+    "caption_10s": "A white van is parked on the street, and a person walks by.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A white van is parked on the street, while a person walks by, passing the stationary vehicle.",
+    "caption": "A white van is parked on the street, while a person walks by, passing the stationary vehicle."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 38.0667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no significant movement or action in the scene.",
+    "caption_10s": "A person is seen walking down the street, passing by a parked van.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A dog is seen running across the street, while a person walks down the street, passing by a parked white van.",
+    "caption": "A dog is seen running across the street, while a person walks down the street, passing by a parked white van."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 38.6
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks from the left side of the frame towards the right, passing by the van. The person appears to be carrying something in their hand.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A white van is parked on the side of the road, with a person in dark clothing walking by, carrying something in their hand.",
+    "caption": "A white van is parked on the side of the road, with a person in dark clothing walking by, carrying something in their hand."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 39.1333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. The van remains stationary throughout the duration of the footage.",
+    "caption_5s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_10s": "A person is seen walking down the street, passing by a parked van.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A white van is parked on the side of the road, stationary, with a person walking by in the distance.",
+    "caption": "A white van is parked on the side of the road, stationary, with a person walking by in the distance."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 37.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 39.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street, with no visible movement or action taking place.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person is seen walking towards the van, and then they open the back door of the van.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks across the frame from left to right. The person appears to be carrying something in their hand.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A white van is parked on the side of the road. A person in dark clothing walks across the frame from left to right, carrying something in their hand, and then opens the back door of the van.",
+    "caption": "A white van is parked on the side of the road. A person in dark clothing walks across the frame from left to right, carrying something in their hand, and then opens the back door of the van."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 37.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 40.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks from the left side of the frame towards the right, passing by the van. The surroundings include a sidewalk, a grassy area with colorful objects scattered on it, and a building with a window visible in the foreground.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be walking at a normal pace. There are no other significant actions or events in the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A person wearing dark clothing walks down the street, passing by a parked white van on the side of the road, with a sidewalk, grassy area, and building visible in the background.",
+    "caption": "A person wearing dark clothing walks down the street, passing by a parked white van on the side of the road, with a sidewalk, grassy area, and building visible in the background."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 38.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 40.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks across the frame from right to left, passing in front of the van. The surroundings include a brick building with a window and a colorful fence.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks across the frame from right to left. The person appears to be carrying something in their hand.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A white van is parked on the side of the road, with a person in dark clothing walking across the frame from right to left, carrying something in their hand, in front of a brick building with a window and a colorful fence.",
+    "caption": "A white van is parked on the side of the road, with a person in dark clothing walking across the frame from right to left, carrying something in their hand, in front of a brick building with a window and a colorful fence."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 37.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 38.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 41.2667
+      }
+    },
+    "caption_2s": "The video shows a residential street with a white van parked on the side. The footage is taken from a security camera, and the timestamp indicates it's around 1:32 PM. There are no significant actions or events taking place in the video; it mainly captures the static environment of the street.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks across the frame from right to left, passing in front of the van. The surroundings include a sidewalk with colorful markings and a building with a window visible in the foreground.",
+    "caption_10s": "The video shows a residential street with a white van parked on the side. The footage is taken from a security camera, as indicated by the timestamp and the \"RSPCA\" watermark. There are no significant actions or movements in the video; it mainly captures the static environment of the street.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 37.2667
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, with a person in dark clothing walking across the frame from right to left in front of the van, passing a sidewalk with colorful markings and a building with a window visible in the foreground, as captured by a security camera around 1:32 PM.",
+    "caption": "A white van is parked on the side of a residential street, with a person in dark clothing walking across the frame from right to left in front of the van, passing a sidewalk with colorful markings and a building with a window visible in the foreground, as captured by a security camera around 1:32 PM."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 37.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 39.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 41.8
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks from the left side of the frame towards the center, passing by the van. The person appears to be carrying something in their hand.",
+    "caption_5s": "The video shows a residential street with a white van parked on the side. The footage is taken from a security camera mounted on a building, capturing the scene in daylight. There are no significant actions or movements observed throughout the video's duration.",
+    "caption_10s": "The video shows a white van parked on the side of a street. A person wearing dark clothing walks from the left side of the frame towards the center, passing by a blue trash bin and a wooden bench. The person then turns around and walks back to the left, exiting the frame.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 37.8
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, with a person wearing dark clothing walking from the left towards the center, passing by a blue trash bin and a wooden bench, before turning around and walking back to the left.",
+    "caption": "A white van is parked on the side of a residential street, with a person wearing dark clothing walking from the left towards the center, passing by a blue trash bin and a wooden bench, before turning around and walking back to the left."
+  },
+  "1120": {
+    "center_frame": 1120,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.3333,
+        "actual_end_seconds": 38.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.8333,
+        "actual_end_seconds": 39.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.3333,
+        "actual_end_seconds": 42.3333
+      }
+    },
+    "caption_2s": "The video shows a residential street with a white van parked on the side. A person is seen walking across the street, and there are colorful decorations on the fence of a house. The time displayed in the video is 1:32:28 PM.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person wearing dark clothing walks from the left side of the frame towards the center, passing by the van. The person appears to be carrying something in their hand.",
+    "caption_10s": "The video shows a residential street with a white van parked on the side. The footage is taken from a window, and there is a colorful object in the foreground that appears to be a child's play area or decoration. No significant movement or action occurs throughout the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.3333,
+      "actual_end_seconds": 38.3333
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, where a person in dark clothing walks by, carrying something, while colorful decorations on a nearby house and a child's play area are visible.",
+    "caption": "A white van is parked on the side of a residential street, where a person in dark clothing walks by, carrying something, while colorful decorations on a nearby house and a child's play area are visible."
+  },
+  "1136": {
+    "center_frame": 1136,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.8667,
+        "actual_end_seconds": 38.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.3667,
+        "actual_end_seconds": 40.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.8667,
+        "actual_end_seconds": 42.8667
+      }
+    },
+    "caption_2s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be walking at a normal pace.",
+    "caption_5s": "A person is seen walking down the street, passing by a parked van. They continue walking until they reach a table on the sidewalk.",
+    "caption_10s": "The video shows a white van parked on the street, with a person walking towards it. The person appears to be carrying something and is wearing dark clothing. The van remains stationary throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.8667,
+      "actual_end_seconds": 38.8667
+    },
+    "fused_caption": "A person wearing dark clothing walks down the street, passing by a parked white van, and continues walking until reaching a table on the sidewalk, carrying something, at a normal pace.",
+    "caption": "A person wearing dark clothing walks down the street, passing by a parked white van, and continues walking until reaching a table on the sidewalk, carrying something, at a normal pace."
+  },
+  "1152": {
+    "center_frame": 1152,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.4,
+        "actual_end_seconds": 39.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.9,
+        "actual_end_seconds": 40.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.4,
+        "actual_end_seconds": 43.4
+      }
+    },
+    "caption_2s": "A person is seen walking a dog on a leash. The dog is small and brown, and the person is wearing a black jacket and blue jeans. They are walking on a sidewalk next to a street with parked cars.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked van and a fence with colorful decorations. The person is wearing dark clothing and appears to be walking at a normal pace.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked white van and a blue trash bin. The person is wearing dark clothing and appears to be walking at a normal pace.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.4,
+      "actual_end_seconds": 39.4
+    },
+    "fused_caption": "A person wearing dark clothing walks at a normal pace on a sidewalk next to a street with parked cars, passing by a white van and a blue trash bin, with a small brown dog on a leash.",
+    "caption": "A person wearing dark clothing walks at a normal pace on a sidewalk next to a street with parked cars, passing by a white van and a blue trash bin, with a small brown dog on a leash."
+  },
+  "1168": {
+    "center_frame": 1168,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.9333,
+        "actual_end_seconds": 39.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.4333,
+        "actual_end_seconds": 41.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.9333,
+        "actual_end_seconds": 43.9333
+      }
+    },
+    "caption_2s": "The video shows a person walking down the street, passing by a parked white van and a blue trash bin. The person is wearing dark clothing and appears to be walking at a normal pace.",
+    "caption_5s": "A person is seen walking down the street, passing by a parked van.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person is seen walking across the street, and another person is standing near the sidewalk. The camera angle remains static throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.9333,
+      "actual_end_seconds": 39.9333
+    },
+    "fused_caption": "A person walks down the street, passing a parked white van and a blue trash bin, wearing dark clothing at a normal pace, while another person stands near the sidewalk.",
+    "caption": "A person walks down the street, passing a parked white van and a blue trash bin, wearing dark clothing at a normal pace, while another person stands near the sidewalk."
+  },
+  "1184": {
+    "center_frame": 1184,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 38.4667,
+        "actual_end_seconds": 40.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.9667,
+        "actual_end_seconds": 41.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 34.4667,
+        "actual_end_seconds": 44.4667
+      }
+    },
+    "caption_2s": "A person is seen walking down the street, passing by a parked van. They continue walking and eventually reach a table where they place an object on it.",
+    "caption_5s": "A person is seen walking down the street, and then they turn around and walk back.",
+    "caption_10s": "A person is seen walking down the street, passing by a parked van. They then proceed to walk towards a house and enter through an open door.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 38.4667,
+      "actual_end_seconds": 40.4667
+    },
+    "fused_caption": "A person walks down the street, passing by a parked van, turns around, and walks back, eventually reaching a table where they place an object on it, before continuing on to a house where they enter through an open door.",
+    "caption": "A person walks down the street, passing by a parked van, turns around, and walks back, eventually reaching a table where they place an object on it, before continuing on to a house where they enter through an open door."
+  },
+  "1200": {
+    "center_frame": 1200,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.0,
+        "actual_end_seconds": 41.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.5,
+        "actual_end_seconds": 42.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.0,
+        "actual_end_seconds": 45.0
+      }
+    },
+    "caption_2s": "A man is seen walking down the street, and a dog is chasing him.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked van and a building with a fence.",
+    "caption_10s": "A person is seen walking down the street, and then a dog appears.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.0,
+      "actual_end_seconds": 41.0
+    },
+    "fused_caption": "A person walks down the street, passing by a parked van and a building with a fence, as a dog appears and chases them.",
+    "caption": "A person walks down the street, passing by a parked van and a building with a fence, as a dog appears and chases them."
+  },
+  "1216": {
+    "center_frame": 1216,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.5333,
+        "actual_end_seconds": 41.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.0333,
+        "actual_end_seconds": 43.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.5333,
+        "actual_end_seconds": 45.5333
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A person is seen walking down the street, and then they turn around and walk back.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked van. The person is wearing a dark-colored jacket and pants. They walk at a steady pace, and there are no other significant actions or events in the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.5333,
+      "actual_end_seconds": 41.5333
+    },
+    "fused_caption": "A person wearing a dark-colored jacket and pants walks down the street, passing a parked van, before turning around and walking back.",
+    "caption": "A person wearing a dark-colored jacket and pants walks down the street, passing a parked van, before turning around and walking back."
+  },
+  "1232": {
+    "center_frame": 1232,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.0667,
+        "actual_end_seconds": 42.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.5667,
+        "actual_end_seconds": 43.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.0667,
+        "actual_end_seconds": 46.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down the street while a white van drives by.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be carrying something in their hand. There are no other significant actions or events in the video.",
+    "caption_10s": "A person is seen walking down the street, passing by a parked van.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.0667,
+      "actual_end_seconds": 42.0667
+    },
+    "fused_caption": "A person in dark clothing walks down the street, passing by a parked white van, while a white van drives by in the background.",
+    "caption": "A person in dark clothing walks down the street, passing by a parked white van, while a white van drives by in the background."
+  },
+  "1248": {
+    "center_frame": 1248,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.6,
+        "actual_end_seconds": 42.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.1,
+        "actual_end_seconds": 44.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.6,
+        "actual_end_seconds": 46.6
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A man is seen walking down the street, carrying a large object. He then throws the object into a pile of garbage.",
+    "caption_10s": "A person is seen walking down a sidewalk, passing by a parked van and a fence. The person appears to be carrying something in their hand.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.6,
+      "actual_end_seconds": 42.6
+    },
+    "fused_caption": "A person walks down a sidewalk, passing by a parked van and a fence, carrying something in their hand, while a man is seen walking down the street, carrying a large object, and then throws it into a garbage pile, as a dog runs across the street in the background.",
+    "caption": "A person walks down a sidewalk, passing by a parked van and a fence, carrying something in their hand, while a man is seen walking down the street, carrying a large object, and then throws it into a garbage pile, as a dog runs across the street in the background."
+  },
+  "1264": {
+    "center_frame": 1264,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.1333,
+        "actual_end_seconds": 43.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.6333,
+        "actual_end_seconds": 44.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.1333,
+        "actual_end_seconds": 47.1333
+      }
+    },
+    "caption_2s": "A person is seen walking down the street, passing by a parked van.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be carrying something in their hand. There are no other significant actions or events in the video.",
+    "caption_10s": "A person is seen walking down the street, and then they stop to pick up a dog that is lying on the ground.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.1333,
+      "actual_end_seconds": 43.1333
+    },
+    "fused_caption": "A person is walking down the street, passing by a parked white van, wearing dark clothing and carrying something in their hand, before stopping to pick up a dog that is lying on the ground.",
+    "caption": "A person is walking down the street, passing by a parked white van, wearing dark clothing and carrying something in their hand, before stopping to pick up a dog that is lying on the ground."
+  },
+  "1280": {
+    "center_frame": 1280,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.6667,
+        "actual_end_seconds": 43.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.1667,
+        "actual_end_seconds": 45.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.6667,
+        "actual_end_seconds": 47.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, with no significant movement or action taking place.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be carrying something in their hand. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a person walking on the sidewalk, passing by a parked white van. The person is wearing dark clothing and appears to be walking at a normal pace. There are no other significant actions or events in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.6667,
+      "actual_end_seconds": 43.6667
+    },
+    "fused_caption": "A person wearing dark clothing walks at a normal pace on the sidewalk, passing by a parked white van, with no other significant actions or events in the video.",
+    "caption": "A person wearing dark clothing walks at a normal pace on the sidewalk, passing by a parked white van, with no other significant actions or events in the video."
+  },
+  "1296": {
+    "center_frame": 1296,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.2,
+        "actual_end_seconds": 44.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.7,
+        "actual_end_seconds": 45.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.2,
+        "actual_end_seconds": 48.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of the road. A person is seen walking across the street, and there are blue bins on the sidewalk. The footage is timestamped at 1:32:32 PM.",
+    "caption_5s": "The video shows a person walking down the street, passing by a parked van and a fence.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked white van and a blue trash bin. The person is wearing dark clothing and appears to be walking at a normal pace.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.2,
+      "actual_end_seconds": 44.2
+    },
+    "fused_caption": "A person in dark clothing walks down the street, passing a parked white van and a blue trash bin, at a normal pace, near a fence, at 1:32:32 PM.",
+    "caption": "A person in dark clothing walks down the street, passing a parked white van and a blue trash bin, at a normal pace, near a fence, at 1:32:32 PM."
+  },
+  "1312": {
+    "center_frame": 1312,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.7333,
+        "actual_end_seconds": 44.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.2333,
+        "actual_end_seconds": 46.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.7333,
+        "actual_end_seconds": 48.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street, and a person walking past it. The camera angle is from a window, and the time displayed is 1:32:34 PM.",
+    "caption_5s": "The video shows a white van parked on the street, with a person walking in front of it. The camera is positioned at an angle, capturing the scene from a window.",
+    "caption_10s": "The video shows a person walking down the street with a dog. The person is wearing a dark jacket and jeans, and the dog appears to be medium-sized with a light-colored coat. The surroundings include a sidewalk, a grassy area, and a fence. There are no other people or vehicles visible in the scene.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.7333,
+      "actual_end_seconds": 44.7333
+    },
+    "fused_caption": "A person wearing a dark jacket and jeans walks down the street with a medium-sized dog, passing a white van parked on the street, as seen from a window at 1:32:34 PM.",
+    "caption": "A person wearing a dark jacket and jeans walks down the street with a medium-sized dog, passing a white van parked on the street, as seen from a window at 1:32:34 PM."
+  },
+  "1328": {
+    "center_frame": 1328,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.2667,
+        "actual_end_seconds": 45.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.7667,
+        "actual_end_seconds": 46.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.2667,
+        "actual_end_seconds": 49.2667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the side. There is no significant movement or action throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked on the side of the road. A person is seen walking across the street in front of the van. The camera angle remains static throughout the video, and there are no other significant actions or events.",
+    "caption_10s": "The video shows a white van parked on the side of the road. A person is seen walking across the street, and there are colorful objects scattered on the ground near the sidewalk. The timestamp indicates that the footage was recorded at 1:32 PM.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.2667,
+      "actual_end_seconds": 45.2667
+    },
+    "fused_caption": "A white van is parked on the side of a residential street, with a person walking across the street in front of it, and colorful objects scattered on the ground near the sidewalk, as recorded at 1:32 PM.",
+    "caption": "A white van is parked on the side of a residential street, with a person walking across the street in front of it, and colorful objects scattered on the ground near the sidewalk, as recorded at 1:32 PM."
+  },
+  "1344": {
+    "center_frame": 1344,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.8,
+        "actual_end_seconds": 45.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.3,
+        "actual_end_seconds": 47.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.8,
+        "actual_end_seconds": 49.8
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the side of a street, with a person walking in the background. The van remains stationary throughout the sequence, and there are no significant changes or movements.",
+    "caption_5s": "The video shows a static scene of a residential street with a white van parked on the side. There is no significant movement or action throughout the sequence of images.",
+    "caption_10s": "The video shows a person walking down the street, passing by a parked white van. The person is wearing dark clothing and appears to be carrying something in their hand. There are no other significant actions or events in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.8,
+      "actual_end_seconds": 45.8
+    },
+    "fused_caption": "A person walks down a residential street, passing a parked white van, while carrying something in their hand, in a scene with no other notable actions or events.",
+    "caption": "A person walks down a residential street, passing a parked white van, while carrying something in their hand, in a scene with no other notable actions or events."
+  },
+  "1360": {
+    "center_frame": 1360,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.3333,
+        "actual_end_seconds": 46.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.8333,
+        "actual_end_seconds": 47.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.3333,
+        "actual_end_seconds": 50.3333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a residential street with a white van parked on the side. There is no significant movement or action taking place throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked on the street, with a person walking in the background. The camera angle is from a window, and there is a blue trash bin visible. The person walks from left to right across the frame.",
+    "caption_10s": "The video shows a residential street with a white van parked on the side. A person is seen walking across the street, and there are colorful objects scattered on the ground near the sidewalk. The footage is timestamped and has a watermark indicating it's from the RSPCA.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.3333,
+      "actual_end_seconds": 46.3333
+    },
+    "fused_caption": "A residential street with a white van parked on the side, a person walking across the street, and colorful objects scattered on the ground near the sidewalk, captured from a window view with a blue trash bin visible in the background.",
+    "caption": "A residential street with a white van parked on the side, a person walking across the street, and colorful objects scattered on the ground near the sidewalk, captured from a window view with a blue trash bin visible in the background."
+  },
+  "1376": {
+    "center_frame": 1376,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.8667,
+        "actual_end_seconds": 46.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.3667,
+        "actual_end_seconds": 48.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.8667,
+        "actual_end_seconds": 50.8667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a person walking a dog on a leash. The dog is seen running ahead of the person, and the person is trying to catch up with it.",
+    "caption_10s": "The video shows a person walking down the street with a dog. The person is wearing a white shirt and black pants, and the dog is small and brown. The person is walking on the sidewalk, and there are houses and trees in the background. The person and the dog walk past a parked car and a fence.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.8667,
+      "actual_end_seconds": 46.8667
+    },
+    "fused_caption": "A person in a white shirt and black pants walks down the street with a small, brown dog on a leash, which then runs ahead, prompting the person to catch up, as they pass a parked car and a fence, with houses and trees visible in the background.",
+    "caption": "A person in a white shirt and black pants walks down the street with a small, brown dog on a leash, which then runs ahead, prompting the person to catch up, as they pass a parked car and a fence, with houses and trees visible in the background."
+  },
+  "1392": {
+    "center_frame": 1392,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.4,
+        "actual_end_seconds": 47.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.9,
+        "actual_end_seconds": 48.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.4,
+        "actual_end_seconds": 51.4
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a person walking a dog on a leash. The dog is seen running ahead of the person, and at one point, it appears to be chasing something.",
+    "caption_10s": "A person is seen walking down the street with a dog. The dog suddenly runs away from the person and disappears from view.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.4,
+      "actual_end_seconds": 47.4
+    },
+    "fused_caption": "A person walks a dog on a leash, the dog runs ahead and appears to chase something, before suddenly running away from the person and disappearing from view.",
+    "caption": "A person walks a dog on a leash, the dog runs ahead and appears to chase something, before suddenly running away from the person and disappearing from view."
+  },
+  "1408": {
+    "center_frame": 1408,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.9333,
+        "actual_end_seconds": 47.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.4333,
+        "actual_end_seconds": 49.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.9333,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A dog is seen running across the street, followed by a person chasing after it. The dog then runs back across the street, and the person follows again.",
+    "caption_10s": "A person is seen walking a dog on a leash. The dog suddenly lunges at another dog, causing the other dog to fall over. The person then pulls the dog back and walks away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.9333,
+      "actual_end_seconds": 47.9333
+    },
+    "fused_caption": "A person is walking a dog on a leash when it lunges at another dog, causing it to fall over, and then the person pulls the dog back and walks away, with the other dog getting up and the person and their dog continuing on.",
+    "caption": "A person is walking a dog on a leash when it lunges at another dog, causing it to fall over, and then the person pulls the dog back and walks away, with the other dog getting up and the person and their dog continuing on."
+  },
+  "1424": {
+    "center_frame": 1424,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 46.4667,
+        "actual_end_seconds": 48.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.9667,
+        "actual_end_seconds": 49.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 42.4667,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running towards a person who is standing outside. The person then kicks the dog, causing it to fall down.",
+    "caption_5s": "A dog is seen running towards a person, who then kicks the dog.",
+    "caption_10s": "A person is seen walking down the street with a dog. The dog is on a leash and the person is holding it. The person and the dog are walking in the same direction.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 46.4667,
+      "actual_end_seconds": 48.4667
+    },
+    "fused_caption": "A person is walking down the street with a dog on a leash, then kicks the dog, causing it to fall down.",
+    "caption": "A person is walking down the street with a dog on a leash, then kicks the dog, causing it to fall down."
+  },
+  "1440": {
+    "center_frame": 1440,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 47.0,
+        "actual_end_seconds": 49.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 45.5,
+        "actual_end_seconds": 50.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 43.0,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is chasing a man down the street.",
+    "caption_5s": "A dog is seen running towards a person, who then picks it up and carries it away.",
+    "caption_10s": "A dog is seen running across the street, followed by a person. The dog then runs back across the street, and the person follows again.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 47.0,
+      "actual_end_seconds": 49.0
+    },
+    "fused_caption": "A dog runs across the street, then back again, as a person follows it, eventually picking it up and carrying it away.",
+    "caption": "A dog runs across the street, then back again, as a person follows it, eventually picking it up and carrying it away."
+  },
+  "1456": {
+    "center_frame": 1456,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 47.5333,
+        "actual_end_seconds": 49.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 46.0333,
+        "actual_end_seconds": 51.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 43.5333,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A man is walking his dog on a leash. The dog suddenly attacks another dog that is walking by.",
+    "caption_10s": "The video shows a person walking down the street with a dog. The person is wearing a white shirt and black pants, and the dog is black and white. They walk from left to right across the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 47.5333,
+      "actual_end_seconds": 49.5333
+    },
+    "fused_caption": "A person wearing a white shirt and black pants walks down the street with a black and white dog on a leash, then the dog attacks another dog that is walking by, and the person and dog continue walking from left to right across the frame.",
+    "caption": "A person wearing a white shirt and black pants walks down the street with a black and white dog on a leash, then the dog attacks another dog that is walking by, and the person and dog continue walking from left to right across the frame."
+  },
+  "1472": {
+    "center_frame": 1472,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 48.0667,
+        "actual_end_seconds": 50.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 46.5667,
+        "actual_end_seconds": 51.4667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 44.0667,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A man is seen walking down the street with a dog. He throws something on the ground, and the dog picks it up and runs away.",
+    "caption_10s": "A person is seen walking a dog on a leash. The dog suddenly attacks the person, causing them to fall to the ground.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 48.0667,
+      "actual_end_seconds": 50.0667
+    },
+    "fused_caption": "A person is walking a dog on a leash, then the dog attacks, causing the person to fall, and the dog runs away.",
+    "caption": "A person is walking a dog on a leash, then the dog attacks, causing the person to fall, and the dog runs away."
+  },
+  "1488": {
+    "center_frame": 1488,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 48.6,
+        "actual_end_seconds": 50.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 47.1,
+        "actual_end_seconds": 51.4667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 44.6,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A dog is chasing a cat in the video.",
+    "caption_10s": "A dog is seen running across the street, followed by a person chasing after it. The dog then runs back across the street, and the person follows again.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 48.6,
+      "actual_end_seconds": 50.6
+    },
+    "fused_caption": "A dog runs across the street, chases a cat, then runs back across the street, prompting a person to chase after it.",
+    "caption": "A dog runs across the street, chases a cat, then runs back across the street, prompting a person to chase after it."
+  },
+  "1504": {
+    "center_frame": 1504,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 49.1333,
+        "actual_end_seconds": 51.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 47.6333,
+        "actual_end_seconds": 51.4667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 45.1333,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "A dog is seen running towards a person in the video. The person then kicks the dog, causing it to fall down.",
+    "caption_10s": "A dog is seen running towards a person, who then kicks the dog. The dog runs away in pain.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 49.1333,
+      "actual_end_seconds": 51.1333
+    },
+    "fused_caption": "A dog runs across the street, then towards a person, who kicks it, causing it to fall down, and it runs away in pain.",
+    "caption": "A dog runs across the street, then towards a person, who kicks it, causing it to fall down, and it runs away in pain."
+  },
+  "1520": {
+    "center_frame": 1520,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 49.6667,
+        "actual_end_seconds": 51.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 48.1667,
+        "actual_end_seconds": 51.4667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 45.6667,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "The video shows a white van parked on the street. There is no significant movement or action taking place in the scene.",
+    "caption_5s": "A dog is seen running towards a person, who then kicks the dog.",
+    "caption_10s": "A dog is seen running across the street, followed by a person chasing after it. The dog then runs back across the street, and the person follows again.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 49.6667,
+      "actual_end_seconds": 51.4667
+    },
+    "fused_caption": "A white van is parked on the street. A dog runs towards a person, who kicks it. The dog then runs back and forth across the street, with the person following, before the scene remains static.",
+    "caption": "A white van is parked on the street. A dog runs towards a person, who kicks it. The dog then runs back and forth across the street, with the person following, before the scene remains static."
+  },
+  "1536": {
+    "center_frame": 1536,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 50.2,
+        "actual_end_seconds": 51.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 48.7,
+        "actual_end_seconds": 51.4667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 46.2,
+        "actual_end_seconds": 51.4667
+      }
+    },
+    "caption_2s": "A dog is seen running across the street in the video.",
+    "caption_5s": "The video shows a white van parked on the street, with no other significant actions or events taking place.",
+    "caption_10s": "A person is seen walking a dog on a leash. The dog is black and white, and the person is wearing a light-colored jacket. They are walking on a sidewalk next to a road with cars passing by.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 50.2,
+      "actual_end_seconds": 51.4667
+    },
+    "fused_caption": "A person walks a black and white dog on a leash along a sidewalk next to a road with cars passing by, while a white van is parked on the street.",
+    "caption": "A person walks a black and white dog on a leash along a sidewalk next to a road with cars passing by, while a white van is parked on the street."
+  }
+}

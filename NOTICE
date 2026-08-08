@@ -1,0 +1,19 @@
+COVAS-VAD
+Copyright (c) 2026 COVAS-VAD Contributors
+
+This project was developed from experiments conducted on the URF-HVAA
+codebase:
+
+  A Unified Reasoning Framework for Holistic Zero-Shot Video Anomaly Analysis
+  https://github.com/Rathgrith/URF-HVAA
+
+It uses VideoLLaMA3 through Hugging Face Transformers remote model code:
+
+  https://huggingface.co/DAMO-NLP-SG/VideoLLaMA3-7B
+
+Model weights, dataset media, evaluation annotations, FFmpeg, CUDA, PyTorch,
+and other third-party components are not covered by this project's MIT
+License. Users must comply with their respective licenses and terms. No model
+weights or dataset media are distributed. Copies of the exact evaluation index
+and temporal annotation text used to reproduce the bundled scores are included
+under results/ for research reproducibility.

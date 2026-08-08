@@ -1,0 +1,102 @@
+{
+  "0": {
+    "caption": "A black pickup truck is parked in a driveway. Two people are standing near the front of the truck, and another person is walking towards them from the street. The person on the street is carrying a bag.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a black pickup truck parked on the side of a road. There are two individuals, one wearing a dark jacket and the other in a lighter-colored top, standing near the front of the truck. The person in the darker jacket appears to be holding something in their hand, possibly a phone or a small object. The person in the lighter-colored top is facing the other individual, and they seem to be engaged in a conversation. There is no visible motion change or escalation in this segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person is walking towards a black pickup truck. Another person is standing near the front of the truck. The person walking is carrying a bag.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A person is walking towards a black truck. There are two other vehicles parked nearby. The person appears to be carrying something in their hand.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a parking lot with two parked cars, one black and one silver. There are two individuals walking towards the camera. The person in the foreground is wearing dark clothing, while the other individual is slightly behind and appears to be wearing lighter clothing. The surroundings include trees and a building in the background.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a parking lot with two parked cars, one black and one silver. There are two individuals walking towards the camera, one of them carrying a bag. The surroundings include trees and a building in the background.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a parking lot with several vehicles parked. There is a black pickup truck in the foreground, and a silver sedan parked behind it. A person wearing dark clothing walks from the left side of the frame towards the right, passing by the black truck. The person's pace appears steady, and there are no other significant actions or interactions visible in the footage.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a parking lot with several vehicles parked. There is a black pickup truck in the foreground, a silver sedan to its right, and a white car further back on the left. The ground appears to be made of asphalt, and there are no visible people or significant movements throughout the sequence of images.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a parking lot with three vehicles: a black pickup truck in the foreground, a silver sedan to its right, and a white car further back. The timestamp on the footage indicates it was recorded at 07:48:16. There are no visible people or significant actions occurring throughout the video's duration.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a parking lot with three vehicles: a black pickup truck in the foreground, a silver sedan to its right, and a white car further back. The timestamp indicates the footage was taken on July 28, 2013, at 07:49:31. A person wearing dark clothing walks from the left side of the frame towards the black truck, then turns and walks away towards the right side of the frame. There is no interaction between the person and the vehicles, and the scene remains static with no significant motion or escalation.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

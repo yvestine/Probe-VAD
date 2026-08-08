@@ -1,0 +1,316 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 944,
+      "quality": 0.771429,
+      "support_scales": [
+        2,
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 928,
+          "end_frame": 960,
+          "center_frame": 944,
+          "quality": 0.771429
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 928,
+          "end_frame": 992,
+          "center_frame": 960,
+          "quality": 0.747321
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 928,
+          "end_frame": 1056,
+          "center_frame": 992,
+          "quality": 0.735863
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 880,
+      "focus_end_frame": 1008
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "In the video, a person is seen lying on the ground in a tunnel. Another person approaches and begins to attack them with punches and kicks. The attacker continues to assault the person on the ground until the end of the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 944,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "6s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "In the video, a person is seen lying on the ground in a tunnel. Another person approaches and begins to attack them with punches and kicks. The attacker continues to assault the person on the ground until the end of the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 944,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4667,
+        "actual_end_seconds": 34.4667
+      },
+      "10s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "In the video, a person is seen lying on the ground in a tunnel. Another person approaches and begins to attack them with punches and kicks. The attacker continues to assault the person on the ground until the end of the video.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 944,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 656,
+      "quality": 0.714509,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 528,
+          "end_frame": 784,
+          "center_frame": 656,
+          "quality": 0.714509
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 480,
+          "end_frame": 800,
+          "center_frame": 640,
+          "quality": 0.712679
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 592,
+      "focus_end_frame": 720
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "The video shows a group of people walking down a tunnel. Suddenly, one person falls to the ground and another person attacks them. The attacker continues to assault the fallen individual while others watch.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 656,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "6s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "The video shows a group of people walking down a tunnel. Suddenly, one person falls to the ground and another person attacks them. The attacker continues to assault the fallen individual while others watch.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 656,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8667,
+        "actual_end_seconds": 24.8667
+      },
+      "10s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "The video shows a group of people walking down a tunnel. Suddenly, one person falls to the ground and another person attacks them. The attacker continues to assault the fallen individual while others watch.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 656,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 221,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 157,
+      "focus_end_frame": 285
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a group of people walking through a tunnel. They are seen walking in different directions, with some individuals stopping to talk to each other. The tunnel appears to be well-lit and has white walls.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "6s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a group of people walking through a tunnel. They are seen walking in different directions, with some individuals stopping to talk to each other. The tunnel appears to be well-lit and has white walls.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.3667,
+        "actual_end_seconds": 10.3667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a group of people walking through a tunnel. They are seen walking in different directions, with some individuals stopping to talk to each other. The tunnel appears to be well-lit and has white walls.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 224,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3667,
+        "actual_end_seconds": 12.3667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 442,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 378,
+      "focus_end_frame": 506
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a group of people in a tunnel. They are seen walking, standing, and interacting with each other.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 448,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.7333,
+        "actual_end_seconds": 15.7333
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a group of people in a tunnel. They are seen walking, standing, and interacting with each other.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 448,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.7333,
+        "actual_end_seconds": 17.7333
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a group of people in a tunnel. They are seen walking, standing, and interacting with each other.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 448,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7333,
+        "actual_end_seconds": 19.7333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 552,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 488,
+      "focus_end_frame": 616
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 19.4
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.4,
+        "actual_end_seconds": 21.4
+      },
+      "10s": {
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "caption": "In the video, a group of people are seen walking down a tunnel. Suddenly, one person attacks another, causing them to fall to the ground.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 544,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 23.4
+      }
+    }
+  }
+}

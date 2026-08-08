@@ -1,0 +1,246 @@
+{
+  "method": "VLM-only-2s-dense",
+  "prediction": "exact cached VideoLLaMA direct_visual_score",
+  "window_seconds": 2.0,
+  "sample_fps": 2.0,
+  "frame_interval": 16,
+  "num_videos": 28,
+  "num_scores": 2658,
+  "prediction_excludes": [
+    "captions",
+    "LLM scoring",
+    "candidate intervals",
+    "second-stage review",
+    "score gates",
+    "internal smoothing",
+    "author scores",
+    "ground-truth annotations"
+  ],
+  "evaluation_note": "Author-protocol Gaussian sigma=10 is applied only by src.eval, after prediction.",
+  "videos": [
+    {
+      "video_name": "Abuse028_x264",
+      "category": "Abuse",
+      "num_frames": 1412,
+      "num_scores": 89,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Abuse028_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Abuse028_x264.json"
+    },
+    {
+      "video_name": "Abuse030_x264",
+      "category": "Abuse",
+      "num_frames": 1544,
+      "num_scores": 97,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Abuse030_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Abuse030_x264.json"
+    },
+    {
+      "video_name": "Arrest001_x264",
+      "category": "Arrest",
+      "num_frames": 2374,
+      "num_scores": 149,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Arrest001_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Arrest001_x264.json"
+    },
+    {
+      "video_name": "Arrest007_x264",
+      "category": "Arrest",
+      "num_frames": 3144,
+      "num_scores": 197,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Arrest007_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Arrest007_x264.json"
+    },
+    {
+      "video_name": "Arson009_x264",
+      "category": "Arson",
+      "num_frames": 743,
+      "num_scores": 47,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Arson009_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Arson009_x264.json"
+    },
+    {
+      "video_name": "Arson035_x264",
+      "category": "Arson",
+      "num_frames": 1437,
+      "num_scores": 90,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Arson035_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Arson035_x264.json"
+    },
+    {
+      "video_name": "Assault011_x264",
+      "category": "Assault",
+      "num_frames": 2288,
+      "num_scores": 143,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Assault011_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Assault011_x264.json"
+    },
+    {
+      "video_name": "Assault006_x264",
+      "category": "Assault",
+      "num_frames": 8096,
+      "num_scores": 506,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Assault006_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Assault006_x264.json"
+    },
+    {
+      "video_name": "Burglary092_x264",
+      "category": "Burglary",
+      "num_frames": 625,
+      "num_scores": 40,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Burglary092_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Burglary092_x264.json"
+    },
+    {
+      "video_name": "Burglary018_x264",
+      "category": "Burglary",
+      "num_frames": 1125,
+      "num_scores": 71,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Burglary018_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Burglary018_x264.json"
+    },
+    {
+      "video_name": "Explosion025_x264",
+      "category": "Explosion",
+      "num_frames": 505,
+      "num_scores": 32,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Explosion025_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Explosion025_x264.json"
+    },
+    {
+      "video_name": "Explosion011_x264",
+      "category": "Explosion",
+      "num_frames": 1571,
+      "num_scores": 99,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Explosion011_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Explosion011_x264.json"
+    },
+    {
+      "video_name": "Fighting033_x264",
+      "category": "Fighting",
+      "num_frames": 1105,
+      "num_scores": 70,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Fighting033_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Fighting033_x264.json"
+    },
+    {
+      "video_name": "Fighting042_x264",
+      "category": "Fighting",
+      "num_frames": 2237,
+      "num_scores": 140,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Fighting042_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Fighting042_x264.json"
+    },
+    {
+      "video_name": "Normal_Videos_345_x264",
+      "category": "Normal",
+      "num_frames": 209,
+      "num_scores": 14,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Normal_Videos_345_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Normal_Videos_345_x264.json"
+    },
+    {
+      "video_name": "Normal_Videos_882_x264",
+      "category": "Normal",
+      "num_frames": 1654,
+      "num_scores": 104,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Normal_Videos_882_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Normal_Videos_882_x264.json"
+    },
+    {
+      "video_name": "RoadAccidents021_x264",
+      "category": "RoadAccidents",
+      "num_frames": 155,
+      "num_scores": 10,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/RoadAccidents021_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/RoadAccidents021_x264.json"
+    },
+    {
+      "video_name": "RoadAccidents122_x264",
+      "category": "RoadAccidents",
+      "num_frames": 647,
+      "num_scores": 41,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/RoadAccidents122_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/RoadAccidents122_x264.json"
+    },
+    {
+      "video_name": "Robbery106_x264",
+      "category": "Robbery",
+      "num_frames": 1197,
+      "num_scores": 75,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Robbery106_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Robbery106_x264.json"
+    },
+    {
+      "video_name": "Robbery048_x264",
+      "category": "Robbery",
+      "num_frames": 1409,
+      "num_scores": 89,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Robbery048_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Robbery048_x264.json"
+    },
+    {
+      "video_name": "Shooting037_x264",
+      "category": "Shooting",
+      "num_frames": 305,
+      "num_scores": 20,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Shooting037_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Shooting037_x264.json"
+    },
+    {
+      "video_name": "Shooting013_x264",
+      "category": "Shooting",
+      "num_frames": 1073,
+      "num_scores": 68,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Shooting013_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Shooting013_x264.json"
+    },
+    {
+      "video_name": "Shoplifting031_x264",
+      "category": "Shoplifting",
+      "num_frames": 447,
+      "num_scores": 28,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Shoplifting031_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Shoplifting031_x264.json"
+    },
+    {
+      "video_name": "Shoplifting017_x264",
+      "category": "Shoplifting",
+      "num_frames": 457,
+      "num_scores": 29,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Shoplifting017_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Shoplifting017_x264.json"
+    },
+    {
+      "video_name": "Stealing062_x264",
+      "category": "Stealing",
+      "num_frames": 1560,
+      "num_scores": 98,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Stealing062_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Stealing062_x264.json"
+    },
+    {
+      "video_name": "Stealing036_x264",
+      "category": "Stealing",
+      "num_frames": 2503,
+      "num_scores": 157,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Stealing036_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Stealing036_x264.json"
+    },
+    {
+      "video_name": "Vandalism017_x264",
+      "category": "Vandalism",
+      "num_frames": 1011,
+      "num_scores": 64,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Vandalism017_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Vandalism017_x264.json"
+    },
+    {
+      "video_name": "Vandalism036_x264",
+      "category": "Vandalism",
+      "num_frames": 1443,
+      "num_scores": 91,
+      "source": "data/ucf_crime/experiments/category_generalization_one_per_type/2s_fps2/Vandalism036_x264/scan_results.json",
+      "output": "data/ucf_crime/experiments/vlm_only_dense_2s_28/scores/Vandalism036_x264.json"
+    }
+  ]
+}

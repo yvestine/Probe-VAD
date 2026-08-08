@@ -1,0 +1,3384 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs and then proceeds to walk across the street.",
+    "caption_5s": "A person is walking down a sidewalk. They are wearing a red shirt and black pants. They are carrying a black bag. They walk past a metal fence and a palm tree.",
+    "caption_10s": "A man is walking down a sidewalk when a dog suddenly runs towards him. The man reacts by jumping back in surprise, but then continues walking.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person, wearing a red shirt and black pants, carrying a black bag, walks down a sidewalk past a metal fence and a palm tree, then continues walking across the street after initially descending a set of stairs.",
+    "caption": "A person, wearing a red shirt and black pants, carrying a black bag, walks down a sidewalk past a metal fence and a palm tree, then continues walking across the street after initially descending a set of stairs."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person is walking on the sidewalk.",
+    "caption_5s": "A person is seen walking down a sidewalk. They bend down to pick something up off the ground.",
+    "caption_10s": "A man is walking down a sidewalk. He is wearing a red shirt and black pants. He is carrying a backpack. A small dog is running in front of him. The man is walking towards the camera.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A man in a red shirt and black pants, carrying a backpack, walks down a sidewalk with a small dog running ahead of him, bending down to pick something up off the ground as he approaches the camera.",
+    "caption": "A man in a red shirt and black pants, carrying a backpack, walks down a sidewalk with a small dog running ahead of him, bending down to pick something up off the ground as he approaches the camera."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A person is walking down a sidewalk. They are wearing a red shirt and black pants. They are carrying a black bag in their right hand. They walk past a metal fence and continue down the sidewalk.",
+    "caption_5s": "A person is seen walking down a sidewalk. They bend down to pick something up off the ground.",
+    "caption_10s": "A man is walking down a sidewalk when a dog suddenly appears and attacks him. The man tries to defend himself, but the dog continues to attack until the man manages to push it away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person, wearing a red shirt and black pants, carrying a black bag in their right hand, walks down a sidewalk, bends down to pick something up, and then continues walking, eventually being approached by a dog that attacks them, prompting a brief struggle before the person manages to push the dog away.",
+    "caption": "A person, wearing a red shirt and black pants, carrying a black bag in their right hand, walks down a sidewalk, bends down to pick something up, and then continues walking, eventually being approached by a dog that attacks them, prompting a brief struggle before the person manages to push the dog away."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a person walking on a sidewalk, then bending down to pick something up.",
+    "caption_5s": "A man is walking down a sidewalk when a dog suddenly jumps up and attacks him.",
+    "caption_10s": "A man is walking down a sidewalk. He is wearing a red shirt and black pants. He is carrying a backpack. A dog is running towards him. The man stops and the dog jumps up on him. The man pets the dog.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A man in a red shirt and black pants, carrying a backpack, walks down a sidewalk, stops as a dog runs towards him, and then pets the dog after it jumps up.",
+    "caption": "A man in a red shirt and black pants, carrying a backpack, walks down a sidewalk, stops as a dog runs towards him, and then pets the dog after it jumps up."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs. They then proceed to walk across a patio area.",
+    "caption_5s": "A man is walking down a sidewalk when a dog suddenly runs towards him and attacks.",
+    "caption_10s": "A man is walking down a sidewalk when a dog suddenly appears and attacks him. The man tries to defend himself, but the dog continues to attack until the man manages to fend it off.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A person walks down a set of stairs, then crosses a patio area, while a man is walking down a sidewalk when a dog suddenly appears and attacks him, prompting him to defend himself before managing to fend off the dog.",
+    "caption": "A person walks down a set of stairs, then crosses a patio area, while a man is walking down a sidewalk when a dog suddenly appears and attacks him, prompting him to defend himself before managing to fend off the dog."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking along a pathway. They are carrying an object that appears to be a bag or a piece of clothing. The person walks from the left side of the frame towards the right, passing by a metal fence and a palm tree. The ground is covered with small pebbles, and there is a shadow cast on the ground, indicating it might be sunny.",
+    "caption_5s": "The video shows a person walking on a paved area with a metal fence to the right. The person is wearing a red shirt and dark pants. They walk from the left side of the frame towards the center, then turn around and walk back to the left. There is a small palm tree visible in the background.",
+    "caption_10s": "A man is walking down a sidewalk. He notices a dog and bends down to pet it. The dog runs away, and the man chases after it.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks along a pathway, carrying a bag or piece of clothing, passing by a metal fence and a palm tree, on a sunny day with small pebbles on the ground. They walk from the left side of the frame towards the right, then turn around and walk back to the left, before noticing a dog and briefly interacting with it.",
+    "caption": "A person wearing a red shirt and dark pants walks along a pathway, carrying a bag or piece of clothing, passing by a metal fence and a palm tree, on a sunny day with small pebbles on the ground. They walk from the left side of the frame towards the right, then turn around and walk back to the left, before noticing a dog and briefly interacting with it."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking on a paved surface. They are carrying an object that appears to be a bag or container. The person is walking towards the camera, then turns around and walks away.",
+    "caption_5s": "The video shows a person walking on a sidewalk, passing by a metal fence. The person is wearing a red shirt and dark pants. There are no other significant actions or events in the video.",
+    "caption_10s": "A man is seen walking down a sidewalk, carrying a bag. He then proceeds to open a gate and enters a courtyard.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks on a paved surface, carrying a bag, and then turns around and walks away, passing by a metal fence on a sidewalk, before eventually entering a courtyard through a gate.",
+    "caption": "A person wearing a red shirt and dark pants walks on a paved surface, carrying a bag, and then turns around and walks away, passing by a metal fence on a sidewalk, before eventually entering a courtyard through a gate."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking on a concrete surface. They are carrying an object that appears to be a bag or a piece of clothing. The person is walking from the left side of the frame towards the right, passing by a metal fence and a palm tree. The ground has patches of dirt and grass, and there is a shadow cast by the palm tree.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking along a pathway. They are carrying an object that appears to be a bag or a small box. The person is walking from left to right across the frame, passing by a metal fence and a palm tree. The ground is covered with gravel, and there is a building with a green roof in the background.",
+    "caption_10s": "A man is walking down a sidewalk when a dog suddenly runs towards him. The man bends down to pet the dog, and they interact for a while before the man continues on his way.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks from left to right across the frame, passing by a metal fence and a palm tree, carrying a bag or small box on a pathway with gravel and a building with a green roof in the background, with a dog running towards them and then interacting with the person before they continue walking.",
+    "caption": "A person wearing a red shirt and dark pants walks from left to right across the frame, passing by a metal fence and a palm tree, carrying a bag or small box on a pathway with gravel and a building with a green roof in the background, with a dog running towards them and then interacting with the person before they continue walking."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red top and dark pants walking on a paved area with a metal fence to their right. The person is moving from left to right across the frame, and there is a palm tree visible in the background. The ground appears to be wet, suggesting recent rain or water presence.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking along a pathway bordered by a metal fence. The person is seen from an elevated angle, possibly from a security camera. The surroundings include a palm tree and a building with a green roof. The person walks at a steady pace, passing by the fence without any interaction.",
+    "caption_10s": "A man is walking down a sidewalk. He is wearing a red shirt and black pants. He is carrying a black bag. A dog is running towards him. The man stops and the dog jumps up on him. The man pets the dog.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A person wearing a red top and dark pants walks on a paved area with a metal fence to their right, passing by a palm tree in the background, on a wet ground. They walk at a steady pace, passing by the fence without interaction, on a pathway bordered by the fence, with a palm tree and a building with a green roof visible in the surroundings. The person is a man wearing a red shirt and black pants, carrying a black bag, who stops to pet",
+    "caption": "A person wearing a red top and dark pants walks on a paved area with a metal fence to their right, passing by a palm tree in the background, on a wet ground. They walk at a steady pace, passing by the fence without interaction, on a pathway bordered by the fence, with a palm tree and a building with a green roof visible in the surroundings. The person is a man wearing a red shirt and black pants, carrying a black bag, who stops to pet"
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking along a pathway bordered by a metal fence. The person is carrying an object in their right hand, which they appear to be holding onto as they walk. The surroundings include a paved area with a palm tree visible in the background.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking along a pathway bordered by a metal fence. The person is carrying a bag and appears to be walking at a steady pace. The surroundings include a palm tree, a building with a green roof, and a patch of grass. The sky is overcast, suggesting it might be early morning or late afternoon.",
+    "caption_10s": "A man is walking down a sidewalk when a dog suddenly runs towards him. The man bends down to pet the dog, and they interact for a while before the man continues on his way.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks along a pathway bordered by a metal fence, carrying a bag, as they pass by a palm tree, a building with a green roof, and a patch of grass under an overcast sky.",
+    "caption": "A person wearing a red shirt and dark pants walks along a pathway bordered by a metal fence, carrying a bag, as they pass by a palm tree, a building with a green roof, and a patch of grass under an overcast sky."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a surveillance camera's perspective of a person wearing a red shirt and dark pants walking from the left to the right side of the frame. The individual appears to be carrying something in their hand, possibly a bag or an object. The surroundings include a metal fence, a paved area with a patterned design, and some greenery in the background. The timestamp on the footage indicates it was recorded on September 28, 2015, at 10:00 AM.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants, climbing over a metal fence. The individual appears to be in a hurry as they quickly ascend the fence and disappear from view. The surroundings include a paved area with a palm tree and a building with a green roof.",
+    "caption_10s": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a palm tree. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the center, where they bend down to interact with something on the ground. The person then stands up and walks back towards the left side of the frame.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants is seen walking from the left to the right side of the frame, carrying something in their hand, on a paved area with a patterned design and greenery in the background, near a metal fence, on September 28, 2015, at 10:00 AM. The individual quickly climbs over the fence, disappearing from view, before reappearing to walk back towards the left side, bending down to interact with something",
+    "caption": "A person wearing a red shirt and dark pants is seen walking from the left to the right side of the frame, carrying something in their hand, on a paved area with a patterned design and greenery in the background, near a metal fence, on September 28, 2015, at 10:00 AM. The individual quickly climbs over the fence, disappearing from view, before reappearing to walk back towards the left side, bending down to interact with something"
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person in a red shirt and dark pants climbing over a metal fence. The individual is seen from an elevated angle, suggesting the camera is positioned above the fence level. The person's movements are deliberate and careful as they navigate the fence.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking down a set of stairs. They are followed by a black dog. The person is carrying something in their right hand, which they drop on the steps. The dog then approaches the dropped item.",
+    "caption_10s": "The video shows a person walking on a sidewalk next to a metal fence. The person is wearing a red shirt and dark pants. They walk from the left side of the frame to the right, passing by a palm tree and a building with a green awning. The ground appears to be made of concrete or stone.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks down a set of stairs, followed by a black dog, and drops something on the steps, which the dog then approaches. The person is seen from an elevated angle, suggesting the camera is positioned above the fence level, and their movements are deliberate and careful as they navigate the fence. The scene is set on a sidewalk next to a metal fence, with a palm tree and a building with a green awning visible in the background",
+    "caption": "A person in a red shirt and dark pants walks down a set of stairs, followed by a black dog, and drops something on the steps, which the dog then approaches. The person is seen from an elevated angle, suggesting the camera is positioned above the fence level, and their movements are deliberate and careful as they navigate the fence. The scene is set on a sidewalk next to a metal fence, with a palm tree and a building with a green awning visible in the background"
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person in a red shirt and blue jeans walking down a set of stairs. The person is carrying a black bag and appears to be walking at a normal pace.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking down a set of stairs. The person is carrying a black bag in their right hand. They walk past a metal railing on the right side of the stairs and continue down until they are out of frame.",
+    "caption_10s": "The video shows a person wearing a red shirt and dark pants walking on a paved area. They are carrying an object that appears to be a bag or a box. The person walks from the left side of the frame towards the right, passing by a metal fence and a palm tree. The ground is mostly concrete with some patches of dirt.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks down a set of stairs, carrying a black bag in their right hand, and then continues walking on a paved area, passing by a metal fence and a palm tree, with a concrete and dirt ground surface.",
+    "caption": "A person in a red shirt and dark pants walks down a set of stairs, carrying a black bag in their right hand, and then continues walking on a paved area, passing by a metal fence and a palm tree, with a concrete and dirt ground surface."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person in a red shirt and blue jeans walking down a set of stairs. The camera is positioned above the stairs, capturing the person's descent. The surroundings include a metal railing and a palm tree in the background.",
+    "caption_5s": "The video shows a person in a red shirt and black pants walking down a set of stairs. The person is carrying a black bag on their shoulder. They walk past a metal railing and continue down the stairs until they reach the bottom.",
+    "caption_10s": "The video shows a person wearing a red shirt and dark pants walking along a pathway. They are carrying an object that appears to be a bag or a piece of clothing. The person is walking from left to right across the frame, passing by a metal fence and some greenery.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks down a set of stairs, carrying a bag or piece of clothing, and then continues along a pathway, passing by a metal fence and greenery, with a palm tree visible in the background.",
+    "caption": "A person in a red shirt and dark pants walks down a set of stairs, carrying a bag or piece of clothing, and then continues along a pathway, passing by a metal fence and greenery, with a palm tree visible in the background."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs. They reach the bottom and turn to their right, continuing to walk.",
+    "caption_5s": "A person is seen walking down a flight of stairs and then proceeds to walk across the street.",
+    "caption_10s": "In the video, a person is seen walking down a set of stairs. They then proceed to open a gate and walk through it.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person walks down a set of stairs, turns right, and continues walking, eventually crossing the street and opening a gate to walk through it.",
+    "caption": "A person walks down a set of stairs, turns right, and continues walking, eventually crossing the street and opening a gate to walk through it."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs, followed by another person.",
+    "caption_5s": "A person is seen walking down a set of stairs. They then proceed to walk across a patio area.",
+    "caption_10s": "A man is seen walking down a set of stairs while a dog follows closely behind him. The man then proceeds to open a gate and walks through it, with the dog still following.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A person walks down a set of stairs, followed by another person, then crosses a patio area. A man walks down stairs with a dog behind him, opens a gate, and walks through it with the dog following.",
+    "caption": "A person walks down a set of stairs, followed by another person, then crosses a patio area. A man walks down stairs with a dog behind him, opens a gate, and walks through it with the dog following."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "A person is seen walking down a set of stairs. They then proceed to walk across a parking lot.",
+    "caption_10s": "The video shows a person in a red shirt and blue jeans walking down a set of stairs. They are carrying a black bag and appear to be walking at a normal pace. The surroundings include a metal railing, a concrete ground, and some greenery in the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person in a red shirt and blue jeans, carrying a black bag, walks down a set of stairs at a normal pace, with a metal railing and concrete ground visible, and some greenery in the background, before proceeding to walk across a parking lot.",
+    "caption": "A person in a red shirt and blue jeans, carrying a black bag, walks down a set of stairs at a normal pace, with a metal railing and concrete ground visible, and some greenery in the background, before proceeding to walk across a parking lot."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The person is wearing a red shirt and blue jeans. They are carrying a black bag on their shoulder. The person walks down the stairs at a steady pace.",
+    "caption_10s": "A person is seen walking down a set of stairs and then proceeds to walk across a yard.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person, wearing a red shirt and blue jeans, carrying a black bag, walks down a set of stairs at a steady pace, then continues walking across a yard.",
+    "caption": "A person, wearing a red shirt and blue jeans, carrying a black bag, walks down a set of stairs at a steady pace, then continues walking across a yard."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "A person is seen walking down a set of stairs and then proceeds to walk across a parking lot.",
+    "caption_10s": "The video shows a person wearing a red shirt and dark pants walking towards a metal gate. They open the gate, walk through it, and then close the gate behind them.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks down a set of stairs, then crosses a parking lot, and proceeds to walk towards a metal gate, opening it, walking through, and closing it behind them.",
+    "caption": "A person in a red shirt and dark pants walks down a set of stairs, then crosses a parking lot, and proceeds to walk towards a metal gate, opening it, walking through, and closing it behind them."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A person wearing a red shirt is seen walking towards a gate. They then proceed to open the gate and walk through it.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking towards a metal gate. They open the gate, walk through it, and then close the gate behind them.",
+    "caption_10s": "A person is seen walking down a set of stairs and then proceeds to walk across the street.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks down a set of stairs, crosses the street, and then approaches a metal gate, opens it, walks through, and closes it behind them.",
+    "caption": "A person wearing a red shirt and dark pants walks down a set of stairs, crosses the street, and then approaches a metal gate, opens it, walks through, and closes it behind them."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking towards a gate. They open the gate, walk through it, and then close the gate behind them.",
+    "caption_5s": "The video shows a person in a red shirt and dark pants walking from the left side of the frame to the right. They are carrying an object that is not clearly visible. The person walks past a metal fence and a palm tree, and there is a building with a green roof on the left. The ground appears to be made of gravel or small stones.",
+    "caption_10s": "The video shows a person in a red shirt and dark pants walking towards a metal gate. They open the gate, step through it, and close the gate behind them.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks from the left side of the frame, past a metal fence and a palm tree, towards a metal gate with a building having a green roof on the left. They open the gate, walk through it, and close it behind them, with the ground appearing to be made of gravel or small stones.",
+    "caption": "A person in a red shirt and dark pants walks from the left side of the frame, past a metal fence and a palm tree, towards a metal gate with a building having a green roof on the left. They open the gate, walk through it, and close it behind them, with the ground appearing to be made of gravel or small stones."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a person in a red shirt and dark pants walking down a set of stairs. They are carrying a black bag over their shoulder. The person walks at a steady pace, and the camera follows them as they descend.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking from the left side of the frame towards the right. They appear to be carrying something in their hand. The person then proceeds to climb over a metal fence, which is located in front of a building with a green roof. After successfully climbing over the fence, they disappear from view on the other side.",
+    "caption_10s": "The video shows a person wearing a red shirt and dark pants climbing over a metal fence. The individual appears to be in a hurry, as they quickly ascend the fence and disappear from view.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person in a red shirt and dark pants, carrying a black bag, walks down a set of stairs at a steady pace, then climbs over a metal fence in front of a building with a green roof, disappearing from view on the other side.",
+    "caption": "A person in a red shirt and dark pants, carrying a black bag, walks down a set of stairs at a steady pace, then climbs over a metal fence in front of a building with a green roof, disappearing from view on the other side."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a person in red clothing walking on a sidewalk. They are carrying a black bag and appear to be walking at a steady pace. The sidewalk is bordered by a metal fence, and there is a palm tree visible in the background.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking along a pathway. They are carrying an object that appears to be a bag or a piece of clothing. The person walks from the left side of the frame towards the right, passing by a metal fence and a palm tree. The ground is covered with gravel, and there is a building with a green roof in the background.",
+    "caption_10s": "The video shows a person in a red shirt and dark pants walking from the left side of the frame to the right, passing by a metal fence. The person appears to be carrying something small in their hand. The environment is sunny with shadows cast on the ground, suggesting it's daytime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks from the left side of the frame to the right, passing by a metal fence and a palm tree, carrying a small object, likely a bag or piece of clothing, on a sunny day with a green-roofed building in the background.",
+    "caption": "A person in a red shirt and dark pants walks from the left side of the frame to the right, passing by a metal fence and a palm tree, carrying a small object, likely a bag or piece of clothing, on a sunny day with a green-roofed building in the background."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking along a pathway bordered by a metal fence. The individual is seen from an elevated angle, suggesting the footage was captured from a nearby building or structure. The person's pace appears steady as they move from one end of the frame to the other. The environment includes a palm tree and what seems to be a residential area with houses in the background.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking from the left side of the frame towards a metal gate. The individual opens the gate, steps through it, and then closes the gate behind them. The surroundings include a paved area with a bench and a palm tree in the background.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a fenced area with a person wearing a red shirt and dark pants. The person is seen walking from the left side of the frame towards the right, passing by a metal gate and a palm tree. The ground appears to be made of concrete, and there are shadows indicating it might be daytime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks from the left side of the frame towards the right, passing by a metal gate and a palm tree, in a fenced area with a concrete ground, likely during the daytime.",
+    "caption": "A person wearing a red shirt and dark pants walks from the left side of the frame towards the right, passing by a metal gate and a palm tree, in a fenced area with a concrete ground, likely during the daytime."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants, who is seen climbing over a metal fence. The individual appears to be in motion, suggesting an attempt to bypass the barrier quickly.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking from the left side of the frame to the right. They are carrying an object that is not clearly visible. The person walks past a metal fence, which is in the foreground of the shot. The background includes a palm tree and what appears to be a building with a flat roof. The ground is covered with gravel or small stones.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a fenced area with a person walking from left to right. The person is wearing a red shirt and dark pants, and they appear to be carrying something in their hand. The environment includes a metal fence, a concrete ground, and some greenery in the background.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks from left to right, carrying an object, past a metal fence in a fenced area with a concrete ground and greenery in the background, including a palm tree and a building with a flat roof.",
+    "caption": "A person wearing a red shirt and dark pants walks from left to right, carrying an object, past a metal fence in a fenced area with a concrete ground and greenery in the background, including a palm tree and a building with a flat roof."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a red shirt and dark pants walking from the left side of the frame towards the right. They are carrying an object that appears to be a bag or a piece of clothing. The person walks past a metal fence, which is in the foreground of the scene, and continues out of the frame. The background includes a palm tree and a building with a green roof.",
+    "caption_5s": "The video shows a person wearing a red shirt and dark pants walking along a pathway. They are carrying an object that appears to be a bag or a piece of clothing. The person is walking from left to right across the frame, passing by a metal fence and a palm tree. The ground is covered with gravel, and there is a building in the background.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a fenced area with a pathway. The fence is made of metal bars, and there is a shadow of a palm tree on the ground. A person wearing a red shirt and dark pants walks into the frame from the left side, approaches the fence, and appears to interact with it before exiting the frame to the right.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person wearing a red shirt and dark pants walks from the left side of the frame towards the right, carrying a bag or piece of clothing, past a metal fence and a palm tree, with a building in the background, on a gravel-covered pathway.",
+    "caption": "A person wearing a red shirt and dark pants walks from the left side of the frame towards the right, carrying a bag or piece of clothing, past a metal fence and a palm tree, with a building in the background, on a gravel-covered pathway."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree, a small structure, and a shadow cast on the ground. There are no significant actions or movements throughout the sequence.",
+    "caption_5s": "The video shows a person in a red shirt and dark pants walking along a metal fence. They appear to be carrying something in their right hand. The person then proceeds to climb over the fence, using their hands to pull themselves up. After successfully climbing over, they disappear from view.",
+    "caption_10s": "The video shows a person wearing a red shirt and dark pants walking from the left side of the frame to the right. They are carrying an object that is not clearly visible. The person walks past a metal fence and a palm tree, and there is a shadow on the ground that appears to be cast by the person or another object off-camera.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person in a red shirt and dark pants walks along a metal fence, carrying something in their right hand, and then climbs over the fence, disappearing from view, while a palm tree and a shadow on the ground are visible in the background.",
+    "caption": "A person in a red shirt and dark pants walks along a metal fence, carrying something in their right hand, and then climbs over the fence, disappearing from view, while a palm tree and a shadow on the ground are visible in the background."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a person in red clothing walking on a sidewalk, followed by another individual in black. The person in red then falls to the ground and remains there for the rest of the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs, followed by a dog. The person is wearing a red shirt and blue shorts. The dog is black and white. They walk down the stairs together.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A person in red clothing walks down a set of stairs with a black and white dog, then falls to the ground, remaining stationary, while a second individual in black walks by in the background, near a palm tree and a building.",
+    "caption": "A person in red clothing walks down a set of stairs with a black and white dog, then falls to the ground, remaining stationary, while a second individual in black walks by in the background, near a palm tree and a building."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no significant movement or action throughout the sequence of images.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person in a red shirt and blue jeans walking down a set of stairs. They are carrying a black bag. The person walks past a metal fence and continues down the stairs.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A person in a red shirt and blue jeans, carrying a black bag, walks down a set of stairs past a metal fence in a fenced area with a palm tree and a building in the background.",
+    "caption": "A person in a red shirt and blue jeans, carrying a black bag, walks down a set of stairs past a metal fence in a fenced area with a palm tree and a building in the background."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs in the video.",
+    "caption_5s": "A person is seen walking down a set of stairs.",
+    "caption_10s": "A person is seen walking down a set of stairs and then proceeds to jump over a fence.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person is seen walking down a set of stairs, then jumps over a fence.",
+    "caption": "A person is seen walking down a set of stairs, then jumps over a fence."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs and then disappears from view.",
+    "caption_5s": "The video shows a cat walking on a sidewalk.",
+    "caption_10s": "A person is seen walking down a flight of stairs and then proceeds to jump over a fence.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person walks down a set of stairs, disappears from view, and later jumps over a fence on a sidewalk.",
+    "caption": "A person walks down a set of stairs, disappears from view, and later jumps over a fence on a sidewalk."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A person is seen walking down a set of stairs in the video.",
+    "caption_5s": "A cat is seen walking across a porch.",
+    "caption_10s": "The video shows a person in red clothing climbing over a fence. After successfully crossing, they walk away. Later, another individual in blue clothing approaches the same fence and attempts to climb over it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person in red clothing climbs over a fence and walks away, while a cat is seen walking across a porch, and later another individual in blue clothing attempts to climb over the same fence.",
+    "caption": "A person in red clothing climbs over a fence and walks away, while a cat is seen walking across a porch, and later another individual in blue clothing attempts to climb over the same fence."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A cat is seen walking on a sidewalk, and then it jumps over a fence.",
+    "caption_5s": "The video shows a cat walking on the ground, followed by a person wearing a black shirt. The person then walks away from the camera.",
+    "caption_10s": "A man is seen walking down a set of stairs. He then proceeds to open a gate and walks through it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A person wearing a black shirt walks away from the camera, while a cat is seen walking on the ground and then jumps over a fence.",
+    "caption": "A person wearing a black shirt walks away from the camera, while a cat is seen walking on the ground and then jumps over a fence."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a cat walking on the ground.",
+    "caption_5s": "A person is seen walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs, followed by another person who is wearing a red shirt. The first person is wearing a white shirt and appears to be carrying something in their hand.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person in a white shirt walks down a set of stairs, carrying something, followed by another person in a red shirt.",
+    "caption": "A person in a white shirt walks down a set of stairs, carrying something, followed by another person in a red shirt."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A cat is walking on a sidewalk.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A person walks down a set of stairs.",
+    "caption": "A person walks down a set of stairs."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a black cat walking on a concrete surface, passing by a metal fence. The cat moves from left to right across the frame.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The person is wearing dark clothing and appears to be alone. The surroundings include a metal fence, a palm tree, and a paved ground.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person, wearing dark clothing, walks alone down a set of stairs, passing by a metal fence, a palm tree, and a paved ground, before disappearing from view.",
+    "caption": "A person, wearing dark clothing, walks alone down a set of stairs, passing by a metal fence, a palm tree, and a paved ground, before disappearing from view."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a black cat walking on a concrete surface. A person wearing a blue shirt and dark pants approaches the cat from behind, reaching out to pet it. The cat seems to be comfortable with the person's touch.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs, followed by another person who is wearing a hat. The second person then proceeds to open the gate and walk through it.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person wearing a blue shirt and dark pants walks down a set of stairs, followed by another person wearing a hat, who opens the gate and walks through it, while a black cat walks on the concrete surface nearby, seemingly comfortable with a person's touch.",
+    "caption": "A person wearing a blue shirt and dark pants walks down a set of stairs, followed by another person wearing a hat, who opens the gate and walks through it, while a black cat walks on the concrete surface nearby, seemingly comfortable with a person's touch."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs. The person is wearing a blue shirt and dark pants. They are walking at a steady pace, and their shadow is visible on the ground. The stairs have a metal railing on one side, and there is a small patch of grass and a palm tree visible in the background.",
+    "caption_5s": "The video shows a person walking towards a gate, opening it, and then proceeding to walk through.",
+    "caption_10s": "The video shows a person walking down a set of stairs. The person is wearing dark clothing and appears to be alone. The surroundings include a metal fence, a palm tree, and a building with a red roof.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person in dark clothing walks down a set of stairs, visible in the background is a metal fence, a palm tree, and a building with a red roof, and later walks towards a gate, opening it, and proceeding through, wearing a blue shirt and dark pants, with a metal railing on one side and a small patch of grass visible.",
+    "caption": "A person in dark clothing walks down a set of stairs, visible in the background is a metal fence, a palm tree, and a building with a red roof, and later walks towards a gate, opening it, and proceeding through, wearing a blue shirt and dark pants, with a metal railing on one side and a small patch of grass visible."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants walking towards a metal gate. The individual opens the gate, steps through it, and closes the gate behind them.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a fenced area with a person walking towards the gate. The person opens the gate and enters the area, which appears to be a courtyard or garden with a palm tree visible in the background.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a fenced area with a palm tree and a building in the background. The ground is covered with gravel, and there are shadows indicating it is daytime. A person wearing dark clothing enters the frame from the left side, walks towards the fence, and appears to interact with it, possibly opening or closing it. The person then exits the frame on the right side.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person wearing dark clothing enters a fenced area with a palm tree and a building in the background, walking towards the fence and interacting with it, before exiting on the right side.",
+    "caption": "A person wearing dark clothing enters a fenced area with a palm tree and a building in the background, walking towards the fence and interacting with it, before exiting on the right side."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants walking towards a metal gate. The individual opens the gate, steps through it, and closes the gate behind them.",
+    "caption_5s": "The video shows a person wearing a blue shirt and dark pants walking towards a metal gate. The person opens the gate, steps through it, and closes the gate behind them.",
+    "caption_10s": "The video shows a person walking towards a metal gate, opening it, and then proceeding to walk through the gate.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person wearing a blue shirt and dark pants walks towards a metal gate, opens it, steps through, and closes it behind them.",
+    "caption": "A person wearing a blue shirt and dark pants walks towards a metal gate, opens it, steps through, and closes it behind them."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants walking down a set of stairs. The surroundings include a metal railing, a paved ground, and some greenery in the background. The person descends the stairs at a steady pace, with no other significant actions or interactions occurring.",
+    "caption_5s": "The video shows a person in a blue shirt and dark pants walking towards a metal gate. The person opens the gate, steps through it, and then closes the gate behind them.",
+    "caption_10s": "The video shows a surveillance camera's perspective of a fenced area with a palm tree and a building in the background. The fence is made of metal bars, and there is a shadow cast on the ground, indicating it is daytime. A person wearing a blue shirt and dark pants enters the frame from the left side, walks towards the fence, and appears to interact with it, possibly opening or closing it. The person then exits the frame to the right.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A person in a blue shirt and dark pants walks down a set of stairs at a steady pace, then opens a metal gate, steps through it, and closes it behind them, before entering a fenced area from the left and exiting to the right, with a palm tree and building visible in the background.",
+    "caption": "A person in a blue shirt and dark pants walks down a set of stairs at a steady pace, then opens a metal gate, steps through it, and closes it behind them, before entering a fenced area from the left and exiting to the right, with a palm tree and building visible in the background."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a flight of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs and then turning around to walk back up.",
+    "caption_10s": "The video shows a person walking up a flight of stairs. The person is wearing a blue shirt and dark pants. They are walking at a steady pace and appear to be alone.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person, wearing a blue shirt and dark pants, walks up a flight of stairs at a steady pace, then turns around and walks back down.",
+    "caption": "A person, wearing a blue shirt and dark pants, walks up a flight of stairs at a steady pace, then turns around and walks back down."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking towards a gate, opening it, and then closing it behind them.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person walks down a set of stairs, then continues walking towards a gate, opens it, and closes it behind them.",
+    "caption": "A person walks down a set of stairs, then continues walking towards a gate, opens it, and closes it behind them."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a fence.",
+    "caption_5s": "The video shows a man attempting to climb over a fence. He tries to jump over it but fails and falls to the ground.",
+    "caption_10s": "The video shows a person walking towards a gate, opening it, and then entering through the gate.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person approaches a fence, attempts to jump over it but falls, and then walks to a nearby gate, opens it, and enters.",
+    "caption": "A person approaches a fence, attempts to jump over it but falls, and then walks to a nearby gate, opens it, and enters."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "The video shows a man standing on a balcony, looking down at the ground. He appears to be contemplating jumping off the balcony.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a man attempting to open a gate. He tries multiple times, but the gate remains closed. Eventually, he manages to open it and walks through.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A man stands on a balcony, looking down, before walking down a set of stairs, then attempts to open a gate, trying multiple times before successfully opening it and walking through.",
+    "caption": "A man stands on a balcony, looking down, before walking down a set of stairs, then attempts to open a gate, trying multiple times before successfully opening it and walking through."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "The video shows a man standing on a staircase, looking down at the ground. He then turns around and walks away from the camera.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "A man is seen walking up to a fence and attempting to open it. He struggles with the gate for a while before eventually managing to open it and walk through.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A man walks up to a fence, struggles to open it, and then walks through after a brief period of difficulty.",
+    "caption": "A man walks up to a fence, struggles to open it, and then walks through after a brief period of difficulty."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a person standing on a balcony, looking down at the ground. The person appears to be observing something below.",
+    "caption_5s": "A man is seen walking up a flight of stairs while looking at his phone.",
+    "caption_10s": "The video shows a man attempting to open a gate, but he fails. He then tries to climb over the fence, but he also fails.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A person stands on a balcony, observing something below, while a man walks up a flight of stairs, looking at his phone, and later attempts to access a secured area by trying to open a gate and then climbing over a fence.",
+    "caption": "A person stands on a balcony, observing something below, while a man walks up a flight of stairs, looking at his phone, and later attempts to access a secured area by trying to open a gate and then climbing over a fence."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A man is seen walking up a flight of stairs. He reaches the top and turns around, then walks back down the stairs.",
+    "caption_5s": "The video shows a person walking up a flight of stairs.",
+    "caption_10s": "The video shows a man attempting to open a gate. He tries to open it from 14.7s to 20.3s, but fails. He then tries again from 20.5s to 26.9s, but still can't open it. Finally, he manages to open the gate from 27.1s to 30.8s.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A man walks up a flight of stairs, reaches the top, turns around, and walks back down. He then attempts to open a gate, trying twice before successfully opening it.",
+    "caption": "A man walks up a flight of stairs, reaches the top, turns around, and walks back down. He then attempts to open a gate, trying twice before successfully opening it."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a man attempting to climb over a fence. He is wearing a blue shirt and black pants. The fence is made of metal and has a gate that the man tries to open. He struggles to get through the gate and eventually manages to squeeze through it.",
+    "caption_10s": "The video shows a man attempting to open a gate. He tries to open it by pulling on the handle, but it doesn't budge. He then tries to open it by pushing against it, but it still doesn't move.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A person in a blue shirt and black pants struggles to open a metal gate, first pulling on the handle and then pushing against it, before eventually squeezing through a gap in the fence.",
+    "caption": "A person in a blue shirt and black pants struggles to open a metal gate, first pulling on the handle and then pushing against it, before eventually squeezing through a gap in the fence."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "The video shows a man standing on a balcony, looking down at the ground. He appears to be contemplating jumping off the building.",
+    "caption_5s": "The video shows a person attempting to climb over a metal fence. The individual is seen standing on the ground, reaching up towards the fence, and then jumping over it.",
+    "caption_10s": "The video shows a man attempting to open a gate. He struggles with it for a while before eventually succeeding.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person stands on the ground, reaching up towards a metal fence, then jumps over it, landing safely on the other side.",
+    "caption": "A person stands on the ground, reaching up towards a metal fence, then jumps over it, landing safely on the other side."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a man in a blue shirt and black pants standing on a sidewalk. He is seen walking towards a metal gate, opening it, and then stepping through. The gate appears to be the only entrance or exit point visible in the video.",
+    "caption_5s": "The video shows a person attempting to open a gate. They are unsuccessful in their attempts and eventually give up.",
+    "caption_10s": "The video shows a person attempting to open a gate, but they are unsuccessful. They then proceed to climb over the fence and enter the property.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person in a blue shirt and black pants is seen attempting to open a metal gate, initially succeeding, then later trying to open it again, but ultimately climbing over the fence to enter the property.",
+    "caption": "A person in a blue shirt and black pants is seen attempting to open a metal gate, initially succeeding, then later trying to open it again, but ultimately climbing over the fence to enter the property."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person in a blue shirt and dark pants walking towards a metal gate. They open the gate, step through it, and close the gate behind them.",
+    "caption_5s": "The video shows a person attempting to climb over a fence. The individual is seen struggling and eventually falling to the ground.",
+    "caption_10s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking through it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person in a blue shirt and dark pants struggles to open a gate, eventually succeeding after a prolonged effort, and then walks through it.",
+    "caption": "A person in a blue shirt and dark pants struggles to open a gate, eventually succeeding after a prolonged effort, and then walks through it."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a man attempting to climb over a fence. He is wearing a blue shirt and dark pants. The fence appears to be made of metal and is located in an outdoor area with a paved ground. The man's actions are deliberate and focused on the task at hand.",
+    "caption_5s": "The video shows a person attempting to climb over a fence. The individual is seen struggling and eventually falling to the ground.",
+    "caption_10s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking through it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person, wearing a blue shirt and dark pants, attempts to navigate a metal fence in an outdoor area with a paved ground. They initially try to climb over the fence, but struggle and fall to the ground. After a brief pause, they attempt to open a nearby gate, struggling with it before finally succeeding and walking through it.",
+    "caption": "A person, wearing a blue shirt and dark pants, attempts to navigate a metal fence in an outdoor area with a paved ground. They initially try to climb over the fence, but struggle and fall to the ground. After a brief pause, they attempt to open a nearby gate, struggling with it before finally succeeding and walking through it."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants climbing over a metal fence. The individual is seen from an elevated angle, suggesting the camera is positioned above the fence level. The person's actions are deliberate and careful as they navigate the fence, with the surrounding environment including a paved area and some greenery in the background.",
+    "caption_5s": "The video shows a person wearing a blue shirt and dark pants climbing over a metal fence. The person is seen from an elevated angle, suggesting the camera is mounted on a higher level than the fence. The individual's actions are deliberate and careful as they navigate the fence.",
+    "caption_10s": "The video shows a person wearing a light-colored shirt and dark pants, standing on a concrete surface with a metal fence in front of them. The individual appears to be attempting to open the gate by pulling on the bars. The background includes a palm tree and a clear sky. The person's actions are repetitive, suggesting they are struggling to gain access through the gate.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person wearing a blue shirt and dark pants is seen from an elevated angle, climbing over a metal fence with deliberate and careful actions. The camera is positioned above the fence level, capturing the surrounding environment of a paved area and greenery. The individual is standing on a concrete surface, attempting to open the gate by pulling on the bars, with a palm tree and clear sky visible in the background.",
+    "caption": "A person wearing a blue shirt and dark pants is seen from an elevated angle, climbing over a metal fence with deliberate and careful actions. The camera is positioned above the fence level, capturing the surrounding environment of a paved area and greenery. The individual is standing on a concrete surface, attempting to open the gate by pulling on the bars, with a palm tree and clear sky visible in the background."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants, crouching near a metal fence. The individual appears to be interacting with something on the ground, possibly picking up or placing an object. The surroundings include a paved area with a palm tree in the background.",
+    "caption_5s": "The video shows a person wearing a blue shirt and dark pants attempting to climb over a metal fence. The individual is seen struggling with the gate, which appears to be locked or obstructed in some way. The person's actions are repetitive, involving pushing against the gate and trying to find a way through or around it.",
+    "caption_10s": "The video shows a person wearing a light-colored shirt and dark pants attempting to open a metal gate. The individual struggles with the gate, pushing and pulling on it, but it remains closed. The person's actions are repetitive, and they seem to be exerting considerable effort.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person wearing a blue shirt and dark pants is seen struggling to open a metal gate, pushing and pulling on it, but it remains closed, with a palm tree visible in the background.",
+    "caption": "A person wearing a blue shirt and dark pants is seen struggling to open a metal gate, pushing and pulling on it, but it remains closed, with a palm tree visible in the background."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a blue shirt and dark pants, bending over a metal gate. The individual appears to be struggling with the gate, possibly trying to open or close it. The surrounding area includes a paved ground, a palm tree, and a building with a green roof. The timestamp on the footage indicates that it was recorded in the afternoon on September 28, 2015.",
+    "caption_5s": "The video shows a person wearing a blue shirt and dark pants attempting to climb over a metal fence. The individual is seen struggling with the gate, using their hands and feet to lift themselves up. The surrounding environment includes a paved area with a palm tree in the background.",
+    "caption_10s": "The video shows a person wearing a light-colored shirt and dark pants attempting to open a metal gate. The individual struggles with the gate, pushing and pulling at it, but it remains closed. The surroundings include a paved area with a palm tree in the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A person wearing a blue shirt and dark pants is seen struggling to open or close a metal gate, using their hands and feet to try and lift themselves up, in a paved area with a palm tree and a building with a green roof in the background, on September 28, 2015.",
+    "caption": "A person wearing a blue shirt and dark pants is seen struggling to open or close a metal gate, using their hands and feet to try and lift themselves up, in a paved area with a palm tree and a building with a green roof in the background, on September 28, 2015."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a person climbing over a metal fence. The individual is wearing dark clothing and appears to be in a hurry. The fence is located in an outdoor area with a paved ground and some greenery in the background.",
+    "caption_5s": "The video shows a person attempting to open a gate. They are seen struggling with the gate, trying to push it open. The person is unsuccessful in their attempts and eventually gives up.",
+    "caption_10s": "The video shows a person attempting to open a gate, but they are unsuccessful. They then try to climb over the fence, but they also fail. Finally, they give up and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person in dark clothing, in a hurry, attempts to open a gate, struggles, and fails, then tries to climb over a nearby metal fence, also fails, and walks away from the outdoor area with a paved ground and some greenery in the background.",
+    "caption": "A person in dark clothing, in a hurry, attempts to open a gate, struggles, and fails, then tries to climb over a nearby metal fence, also fails, and walks away from the outdoor area with a paved ground and some greenery in the background."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a person attempting to open a gate. They are seen bending down and struggling with the gate, but eventually manage to open it.",
+    "caption_5s": "The video shows a person attempting to open a gate. They are seen bending down and struggling with the gate, but eventually manage to open it.",
+    "caption_10s": "The video shows a man attempting to open a gate. He tries to open it from 18.4s to 25.3s, but fails. He then tries again from 26.0s to 34.7s, and successfully opens the gate.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A person attempts to open a gate, initially struggling from 18.4s to 25.3s, then successfully opening it from 26.0s to 34.7s.",
+    "caption": "A person attempts to open a gate, initially struggling from 18.4s to 25.3s, then successfully opening it from 26.0s to 34.7s."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a person attempting to open a gate. The person is seen struggling with the gate, and after several attempts, they manage to open it.",
+    "caption_5s": "The video shows a person attempting to open a gate. They are unsuccessful at first, but eventually manage to open it and walk through.",
+    "caption_10s": "The video shows a man attempting to climb over a fence. He tries multiple times, but ultimately fails and falls to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A person struggles to open a gate, initially unsuccessful, but eventually manages to open it and walk through, after multiple attempts.",
+    "caption": "A person struggles to open a gate, initially unsuccessful, but eventually manages to open it and walk through, after multiple attempts."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking through it.",
+    "caption_5s": "A person is seen climbing over a fence and then walking away.",
+    "caption_10s": "The video shows a man attempting to climb over a fence. He tries multiple times, but ultimately fails and falls to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A person struggles to open a gate, eventually succeeding and walking through it, after initially attempting to climb over a fence, but ultimately falling to the ground.",
+    "caption": "A person struggles to open a gate, eventually succeeding and walking through it, after initially attempting to climb over a fence, but ultimately falling to the ground."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 37.0
+      }
+    },
+    "caption_2s": "A person is seen walking up a flight of stairs.",
+    "caption_5s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking through it.",
+    "caption_10s": "The video shows a person attempting to open a gate, but they fail. They then try to climb over the fence, but they also fail.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A person is seen walking up a flight of stairs, then attempting to open a gate, struggling with it for a while before succeeding and walking through it, but in another instance, they fail to open the gate and try to climb over the fence, also failing.",
+    "caption": "A person is seen walking up a flight of stairs, then attempting to open a gate, struggling with it for a while before succeeding and walking through it, but in another instance, they fail to open the gate and try to climb over the fence, also failing."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking up a flight of stairs.",
+    "caption_5s": "A person is seen opening a gate and walking through it.",
+    "caption_10s": "The video shows a person attempting to open a gate. They are unsuccessful in their first attempt, but eventually manage to open the gate and walk through it.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A person is seen attempting to open a gate, initially unsuccessful, but eventually managing to open it and walk through, then continuing up a flight of stairs.",
+    "caption": "A person is seen attempting to open a gate, initially unsuccessful, but eventually managing to open it and walk through, then continuing up a flight of stairs."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 38.0667
+      }
+    },
+    "caption_2s": "The video shows a person attempting to climb over a fence. They are seen struggling and eventually falling back down.",
+    "caption_5s": "The video shows a person opening a gate, walking through it, and then closing the gate behind them.",
+    "caption_10s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A person struggles to climb over a fence, eventually falling back down, before successfully opening a gate and walking through it.",
+    "caption": "A person struggles to climb over a fence, eventually falling back down, before successfully opening a gate and walking through it."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 38.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs, passing by a metal fence and a palm tree. The person is wearing dark clothing and appears to be in motion as they descend the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person climbing over a fence, followed by another individual who appears to be chasing them. The chase takes place in an outdoor setting with a clear sky and some vegetation visible in the background.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A person in dark clothing descends a set of stairs, passing by a metal fence and a palm tree, before climbing over the fence and being chased by another individual in an outdoor setting with a clear sky and vegetation.",
+    "caption": "A person in dark clothing descends a set of stairs, passing by a metal fence and a palm tree, before climbing over the fence and being chased by another individual in an outdoor setting with a clear sky and vegetation."
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 39.1333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs, followed by another individual who appears to be chasing them. The second person is seen running and jumping over the railing at the end of the stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs. The camera angle is from above, and the person is wearing dark clothing. The surroundings include a metal fence and some greenery.",
+    "caption_10s": "The video shows a person attempting to open a gate. They struggle with the gate for a while before eventually succeeding and walking away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A person in dark clothing walks down a set of stairs, followed by another individual who runs and jumps over the railing. The stairs are surrounded by a metal fence and greenery. The person in dark clothing later struggles to open a gate before succeeding and walking away.",
+    "caption": "A person in dark clothing walks down a set of stairs, followed by another individual who runs and jumps over the railing. The stairs are surrounded by a metal fence and greenery. The person in dark clothing later struggles to open a gate before succeeding and walking away."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 37.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 39.6667
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. The timestamp indicates the footage was taken on September 28, 2015, at 10:29:28 AM. There are no significant actions or movements observed in the video.",
+    "caption_5s": "The video shows a person walking down a set of stairs, passing by a metal gate. The surroundings include a palm tree and a building with a green roof. The person is wearing dark clothing and appears to be alone.",
+    "caption_10s": "The video shows a person attempting to climb over a metal fence. The individual is seen struggling and eventually succeeding in getting over the fence.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "On September 28, 2015, at 10:29:28 AM, a person wearing dark clothing is seen walking down stairs and passing by a metal gate near a palm tree and a building with a green roof. The person then attempts to climb over a metal fence, struggling before successfully getting over.",
+    "caption": "On September 28, 2015, at 10:29:28 AM, a person wearing dark clothing is seen walking down stairs and passing by a metal gate near a palm tree and a building with a green roof. The person then attempts to climb over a metal fence, struggling before successfully getting over."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 37.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 40.2
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a person walking down a set of stairs, passing by a metal fence and a palm tree. The person is wearing dark clothing and appears to be alone.",
+    "caption_10s": "The video shows a person walking up a set of stairs, reaching the top, and then walking away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A person walks up a set of stairs, reaches the top, and then walks away, passing by a metal fence and a palm tree in a fenced area with a building in the background.",
+    "caption": "A person walks up a set of stairs, reaches the top, and then walks away, passing by a metal fence and a palm tree in a fenced area with a building in the background."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 38.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 40.7333
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a person walking down a set of stairs, passing by a metal railing. The surroundings include a paved area with a palm tree and a building in the background. The person is wearing dark clothing and moves at a steady pace.",
+    "caption_10s": "The video shows a person walking towards a gate, opening it, and then closing it behind them.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A person walks down a set of stairs, passes by a metal railing, and then walks towards a gate, opening it and closing it behind them, with a palm tree and a building visible in the background.",
+    "caption": "A person walks down a set of stairs, passes by a metal railing, and then walks towards a gate, opening it and closing it behind them, with a palm tree and a building visible in the background."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 37.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 38.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 41.2667
+      }
+    },
+    "caption_2s": "The video shows a static shot of a fenced area with a palm tree in the background. The fence is made of metal bars, and there is a shadow cast on the ground, likely from an object or structure not visible in the frame. The timestamp indicates the footage was taken on September 28, 2015, at 10:29:23 AM. There are no discernible actions or movements within the video.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. The fence is made of metal bars, and there are no visible people or moving objects throughout the sequence.",
+    "caption_10s": "The video shows a person wearing a light-colored shirt and dark pants walking down a set of stairs. The individual is carrying an object in their right hand, which they appear to be holding onto as they descend. The surroundings include a metal railing on one side of the stairs and a palm tree visible in the background. The lighting suggests it is daytime.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 37.2667
+    },
+    "fused_caption": "A person wearing a light-colored shirt and dark pants walks down a set of stairs, carrying an object in their right hand, with a metal railing on one side and a palm tree visible in the background, in a fenced area with a metal fence and a building in the background, on September 28, 2015, at 10:29:23 AM.",
+    "caption": "A person wearing a light-colored shirt and dark pants walks down a set of stairs, carrying an object in their right hand, with a metal railing on one side and a palm tree visible in the background, in a fenced area with a metal fence and a building in the background, on September 28, 2015, at 10:29:23 AM."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 37.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 39.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 41.8
+      }
+    },
+    "caption_2s": "The video shows a static shot of a fenced area with a palm tree in the background. The fence is made of metal bars, and there is a shadow cast on the ground, likely from the camera or an object not visible in the frame. The timestamp indicates the footage was taken on September 28, 2015, at 10:30:30 AM. There are no discernible actions or movements within the video.",
+    "caption_5s": "The video shows a static shot of a metal fence with vertical bars, positioned in front of a building with a green roof. The ground is covered with gravel and there is a palm tree to the right of the frame. The sky is clear and it appears to be daytime. No movement or action is observed throughout the video.",
+    "caption_10s": "The video shows a person walking up a set of stairs, passing by a metal railing. The surroundings include a palm tree and a building with a green roof. The time on the security camera is visible, indicating it's daytime.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 37.8
+    },
+    "fused_caption": "A static shot of a metal fence with vertical bars, positioned in front of a building with a green roof, is visible on September 28, 2015, at 10:30:30 AM, with a palm tree to the right and a clear sky. The ground is covered with gravel, and a person walks up stairs in the background, passing by a metal railing.",
+    "caption": "A static shot of a metal fence with vertical bars, positioned in front of a building with a green roof, is visible on September 28, 2015, at 10:30:30 AM, with a palm tree to the right and a clear sky. The ground is covered with gravel, and a person walks up stairs in the background, passing by a metal railing."
+  },
+  "1120": {
+    "center_frame": 1120,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.3333,
+        "actual_end_seconds": 38.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.8333,
+        "actual_end_seconds": 39.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.3333,
+        "actual_end_seconds": 42.3333
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. The fence is made of metal bars, and there is a shadow cast on the ground, likely from the tree or another object not visible in the frame. The timestamp indicates that the footage was recorded at 10:31:02 on September 28, 2015.",
+    "caption_5s": "The video shows a stationary view of a metal fence with vertical bars, overlooking a rocky ground and a palm tree. The time stamp indicates the footage was captured on September 28, 2015, at various times throughout the day. There are no significant actions or movements in the video.",
+    "caption_10s": "The video shows a person wearing dark clothing walking from the left side of the frame towards a metal gate. The individual appears to be carrying something in their right hand, which they place on the gate before opening it and proceeding through. The surroundings include a paved area with a palm tree visible in the background.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.3333,
+      "actual_end_seconds": 38.3333
+    },
+    "fused_caption": "A stationary view of a metal fence with vertical bars overlooks a rocky ground and a palm tree, with a shadow cast on the ground. The footage was captured on September 28, 2015, at various times throughout the day, showing no significant actions or movements. A person wearing dark clothing walks from the left side of the frame towards the metal gate, carrying something in their right hand, and proceeds through after placing it on the gate.",
+    "caption": "A stationary view of a metal fence with vertical bars overlooks a rocky ground and a palm tree, with a shadow cast on the ground. The footage was captured on September 28, 2015, at various times throughout the day, showing no significant actions or movements. A person wearing dark clothing walks from the left side of the frame towards the metal gate, carrying something in their right hand, and proceeds through after placing it on the gate."
+  },
+  "1136": {
+    "center_frame": 1136,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.8667,
+        "actual_end_seconds": 38.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.3667,
+        "actual_end_seconds": 40.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.8667,
+        "actual_end_seconds": 42.8667
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place.",
+    "caption_10s": "The video shows a person walking down a set of stairs and then exiting the frame.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.8667,
+      "actual_end_seconds": 38.8667
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action for the first few seconds. A person then walks down a set of stairs and exits the frame.",
+    "caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action for the first few seconds. A person then walks down a set of stairs and exits the frame."
+  },
+  "1152": {
+    "center_frame": 1152,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.4,
+        "actual_end_seconds": 39.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.9,
+        "actual_end_seconds": 40.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.4,
+        "actual_end_seconds": 43.4
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place throughout the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs, passing by a metal fence and a palm tree. The person is wearing dark clothing and appears to be alone.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.4,
+      "actual_end_seconds": 39.4
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree and a building in the background shows a person walking down a set of stairs, passing by the fence and tree, wearing dark clothing and appearing to be alone.",
+    "caption": "A stationary view of a fenced area with a palm tree and a building in the background shows a person walking down a set of stairs, passing by the fence and tree, wearing dark clothing and appearing to be alone."
+  },
+  "1168": {
+    "center_frame": 1168,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.9333,
+        "actual_end_seconds": 39.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.4333,
+        "actual_end_seconds": 41.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.9333,
+        "actual_end_seconds": 43.9333
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a metal gate with a timestamp and location visible in the upper left corner. The gate is closed, and there are no discernible actions or movements throughout the sequence.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place throughout the video.",
+    "caption_10s": "The video shows a stationary view of a fenced area with a palm tree, a building, and a paved ground. There are no significant actions or movements in the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.9333,
+      "actual_end_seconds": 39.9333
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree, a building, and a paved ground is shown, with no movement or action taking place, as seen from a fixed location with a timestamp visible in the upper left corner.",
+    "caption": "A stationary view of a fenced area with a palm tree, a building, and a paved ground is shown, with no movement or action taking place, as seen from a fixed location with a timestamp visible in the upper left corner."
+  },
+  "1184": {
+    "center_frame": 1184,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 38.4667,
+        "actual_end_seconds": 40.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.9667,
+        "actual_end_seconds": 41.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 34.4667,
+        "actual_end_seconds": 44.4667
+      }
+    },
+    "caption_2s": "The video shows a person riding a bicycle down a street. The camera captures the scene from a distance, and the person is seen riding the bike at a moderate speed. The video ends with the person riding off into the distance.",
+    "caption_5s": "The video shows a person riding a bike down a hill. The camera captures the scene from a distance, and the person is seen riding the bike at a fast pace. The video ends with the person riding off into the distance.",
+    "caption_10s": "The video shows a person riding a bicycle down a hill. The camera captures the scene from a distance, and the person is seen riding the bike at a fast pace.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 38.4667,
+      "actual_end_seconds": 40.4667
+    },
+    "fused_caption": "A person rides a bicycle down a hill at a fast pace, captured from a distance by the camera, before riding off into the distance.",
+    "caption": "A person rides a bicycle down a hill at a fast pace, captured from a distance by the camera, before riding off into the distance."
+  },
+  "1200": {
+    "center_frame": 1200,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.0,
+        "actual_end_seconds": 41.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.5,
+        "actual_end_seconds": 42.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.0,
+        "actual_end_seconds": 45.0
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.0,
+      "actual_end_seconds": 41.0
+    },
+    "fused_caption": "The video shows a person walking down a set of stairs.",
+    "caption": "The video shows a person walking down a set of stairs."
+  },
+  "1216": {
+    "center_frame": 1216,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.5333,
+        "actual_end_seconds": 41.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.0333,
+        "actual_end_seconds": 43.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.5333,
+        "actual_end_seconds": 45.5333
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.5333,
+      "actual_end_seconds": 41.5333
+    },
+    "fused_caption": "The video shows a person walking down a set of stairs.",
+    "caption": "The video shows a person walking down a set of stairs."
+  },
+  "1232": {
+    "center_frame": 1232,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.0667,
+        "actual_end_seconds": 42.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.5667,
+        "actual_end_seconds": 43.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.0667,
+        "actual_end_seconds": 46.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree, a building, and a clear sky. There are no significant actions or movements in the video.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.0667,
+      "actual_end_seconds": 42.0667
+    },
+    "fused_caption": "A person walks down a set of stairs in a stationary view of a fenced area with a palm tree, a building, and a clear sky.",
+    "caption": "A person walks down a set of stairs in a stationary view of a fenced area with a palm tree, a building, and a clear sky."
+  },
+  "1248": {
+    "center_frame": 1248,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.6,
+        "actual_end_seconds": 42.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.1,
+        "actual_end_seconds": 44.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.6,
+        "actual_end_seconds": 46.6
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a stationary view of a metal fence with a gate, a palm tree, and a paved area. The camera remains fixed throughout the video, capturing no movement or action.",
+    "caption_10s": "The video shows a stationary scene of a fenced area with a palm tree, a building, and a walkway. There is no movement or action in the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.6,
+      "actual_end_seconds": 42.6
+    },
+    "fused_caption": "A person walks down a set of stairs in a fenced area with a palm tree, a building, and a walkway, visible from a stationary camera view.",
+    "caption": "A person walks down a set of stairs in a fenced area with a palm tree, a building, and a walkway, visible from a stationary camera view."
+  },
+  "1264": {
+    "center_frame": 1264,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.1333,
+        "actual_end_seconds": 43.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.6333,
+        "actual_end_seconds": 44.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.1333,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a stationary view of a metal fence with a gate, overlooking a rocky area with a palm tree. The camera remains fixed throughout the video, capturing no movement or action.",
+    "caption_10s": "The video shows a person riding a bicycle down a street. The camera is positioned above the street, capturing the entire scene.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.1333,
+      "actual_end_seconds": 43.1333
+    },
+    "fused_caption": "A person walks down a set of stairs, then rides a bicycle down a street, passing in front of a stationary camera positioned above the street, which earlier captured a stationary view of a metal fence with a gate overlooking a rocky area with a palm tree.",
+    "caption": "A person walks down a set of stairs, then rides a bicycle down a street, passing in front of a stationary camera positioned above the street, which earlier captured a stationary view of a metal fence with a gate overlooking a rocky area with a palm tree."
+  },
+  "1280": {
+    "center_frame": 1280,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.6667,
+        "actual_end_seconds": 43.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.1667,
+        "actual_end_seconds": 45.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.6667,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a stationary scene of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or movements throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.6667,
+      "actual_end_seconds": 43.6667
+    },
+    "fused_caption": "A stationary scene of a fenced area with a palm tree and a building in the background is shown, with a person walking down a set of stairs in the distance, and a static shot of a closed metal gate with a fence behind it.",
+    "caption": "A stationary scene of a fenced area with a palm tree and a building in the background is shown, with a person walking down a set of stairs in the distance, and a static shot of a closed metal gate with a fence behind it."
+  },
+  "1296": {
+    "center_frame": 1296,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.2,
+        "actual_end_seconds": 44.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.7,
+        "actual_end_seconds": 45.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.2,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a stationary view of a metal fence with a gate, a paved walkway, and a patch of grass with a palm tree. The sky is clear, and the time stamp indicates it's daytime. There are no visible people or moving objects throughout the sequence.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.2,
+      "actual_end_seconds": 44.2
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action. A person walks down a set of stairs. The scene remains stationary, showing a metal fence with a gate, a paved walkway, and a patch of grass with a palm tree, with a clear sky and no visible people or moving objects.",
+    "caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action. A person walks down a set of stairs. The scene remains stationary, showing a metal fence with a gate, a paved walkway, and a patch of grass with a palm tree, with a clear sky and no visible people or moving objects."
+  },
+  "1312": {
+    "center_frame": 1312,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.7333,
+        "actual_end_seconds": 44.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.2333,
+        "actual_end_seconds": 46.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.7333,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree, a building, and a clear sky. There are no significant actions or events taking place.",
+    "caption_10s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.7333,
+      "actual_end_seconds": 44.7333
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree and a building in the background, with a clear sky, showing no movement or action over a period of time.",
+    "caption": "A stationary view of a fenced area with a palm tree and a building in the background, with a clear sky, showing no movement or action over a period of time."
+  },
+  "1328": {
+    "center_frame": 1328,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.2667,
+        "actual_end_seconds": 45.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.7667,
+        "actual_end_seconds": 46.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.2667,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or movements throughout the sequence of images.",
+    "caption_5s": "The video shows a static shot of a metal gate with a timestamp in the upper left corner. The gate is closed, and there is no movement or action taking place throughout the video.",
+    "caption_10s": "The video shows a static shot of a metal gate with vertical bars, situated in front of a concrete staircase leading to a building. The gate is closed, and there are no visible actions or movements throughout the sequence. The background includes a palm tree and a clear sky.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.2667,
+      "actual_end_seconds": 45.2667
+    },
+    "fused_caption": "A static shot of a closed metal gate with vertical bars, situated in front of a concrete staircase leading to a building, with a palm tree and clear sky in the background, showing no visible actions or movements over a period of time.",
+    "caption": "A static shot of a closed metal gate with vertical bars, situated in front of a concrete staircase leading to a building, with a palm tree and clear sky in the background, showing no visible actions or movements over a period of time."
+  },
+  "1344": {
+    "center_frame": 1344,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.8,
+        "actual_end_seconds": 45.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.3,
+        "actual_end_seconds": 47.0667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.8,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or movements in the scene.",
+    "caption_5s": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or movements throughout the sequence of images.",
+    "caption_10s": "The video shows a stationary view of a metal gate with a fence behind it. There is a palm tree to the right and a building to the left. The ground appears to be made of gravel or dirt, and there are no visible people or moving objects throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.8,
+      "actual_end_seconds": 45.8
+    },
+    "fused_caption": "A stationary view of a metal gate with a fence behind it, a palm tree to the right, and a building to the left, set against a gravel or dirt ground, with no visible people or moving objects.",
+    "caption": "A stationary view of a metal gate with a fence behind it, a palm tree to the right, and a building to the left, set against a gravel or dirt ground, with no visible people or moving objects."
+  },
+  "1360": {
+    "center_frame": 1360,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.3333,
+        "actual_end_seconds": 46.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.8333,
+        "actual_end_seconds": 47.0667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.3333,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or movements throughout the sequence of images.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action within the scene.",
+    "caption_10s": "The video shows a stationary view of a metal gate with vertical bars, situated in front of a building with a tiled floor. The gate is closed, and there are no visible actions or movements throughout the sequence.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.3333,
+      "actual_end_seconds": 46.3333
+    },
+    "fused_caption": "A stationary view of a metal gate with vertical bars, situated in front of a building with a tiled floor, shows the gate closed with no visible actions or movements, set against a backdrop of a palm tree and a building in the background.",
+    "caption": "A stationary view of a metal gate with vertical bars, situated in front of a building with a tiled floor, shows the gate closed with no visible actions or movements, set against a backdrop of a palm tree and a building in the background."
+  },
+  "1376": {
+    "center_frame": 1376,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.8667,
+        "actual_end_seconds": 46.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.3667,
+        "actual_end_seconds": 47.0667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.8667,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place.",
+    "caption_10s": "The video shows a person walking down a set of stairs.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.8667,
+      "actual_end_seconds": 46.8667
+    },
+    "fused_caption": "A person walks down a set of stairs in a fenced area with a palm tree and a building in the background.",
+    "caption": "A person walks down a set of stairs in a fenced area with a palm tree and a building in the background."
+  },
+  "1392": {
+    "center_frame": 1392,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.4,
+        "actual_end_seconds": 47.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.9,
+        "actual_end_seconds": 47.0667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.4,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no movement or action taking place throughout the video.",
+    "caption_10s": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There are no significant actions or events taking place.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.4,
+      "actual_end_seconds": 47.0667
+    },
+    "fused_caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action over a period of time.",
+    "caption": "A stationary view of a fenced area with a palm tree and a building in the background shows no movement or action over a period of time."
+  },
+  "1408": {
+    "center_frame": 1408,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.9333,
+        "actual_end_seconds": 47.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.4333,
+        "actual_end_seconds": 47.0667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.9333,
+        "actual_end_seconds": 47.0667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a set of stairs.",
+    "caption_5s": "The video shows a person walking down a set of stairs.",
+    "caption_10s": "The video shows a stationary view of a fenced area with a palm tree in the background. The fence is made of metal bars and there is a gate that appears to be closed. The ground is covered with gravel and there are no visible people or moving objects throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.9333,
+      "actual_end_seconds": 47.0667
+    },
+    "fused_caption": "A person walks down a set of stairs in a fenced area with a palm tree in the background, surrounded by gravel and a closed gate.",
+    "caption": "A person walks down a set of stairs in a fenced area with a palm tree in the background, surrounded by gravel and a closed gate."
+  }
+}

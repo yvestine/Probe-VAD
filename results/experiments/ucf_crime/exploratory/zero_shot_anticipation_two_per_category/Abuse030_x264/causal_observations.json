@@ -1,0 +1,972 @@
+{
+  "0": {
+    "caption": "A white van is driving down a street. The van passes by a house with a brick wall and a window. There is a blue trash bin next to the house.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a residential street with a white van parked on the side. There is a blue trash bin and a wooden pallet on the sidewalk. The footage appears to be taken from a surveillance camera, as indicated by the timestamp and the \"RSPCA\" watermark. No other actions or interactions are visible in this segment of the video.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A white van is parked on the street. A person walks across the street.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A white van is driving down the street. A black dog is running across the street.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a static view of a residential street with a white van parked on the side. There is a blue recycling bin and a wooden bench in the foreground. The footage is grainy, suggesting it might be from an older security camera. No significant actions or interactions are observed, and there is no visible escalation or instability.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a static view of a residential street with a white van parked on the side. The footage is taken from a window, and the camera angle remains fixed throughout the sequence. There are no visible actions or interactions between entities, and there is no motion change or escalation in the scene.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a static view of a residential street with a white van parked on the side. There is a blue recycling bin and a wooden bench in the foreground. The background includes a brick building and a hedge. No significant motion or interaction is observed throughout the video.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a residential area with a narrow alleyway between two buildings. The alley is bordered by a fence on one side and a brick wall on the other. There are blue bins placed against the fence, and a white van is parked on the street in the background. The footage is timestamped at 1:31:52 PM. No people or animals are visible in the video.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's view of a residential street. The footage captures a white van parked on the left side of the frame, with a person walking on the sidewalk in the background. There is a blue recycling bin and a wooden bench visible on the right side of the frame. The person appears to be walking away from the camera's viewpoint. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. There is a blue trash bin and a wooden bench in the foreground, and a green hedge runs along the right side of the frame. The sky is overcast, and there are no visible people or moving objects throughout the duration of the video.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. There is a blue trash bin and a wooden bench in the foreground. The background includes houses and a hedge. No significant actions or interactions are observed, and there is no visible escalation or instability.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. There is a fenced area in the foreground with a blue trash bin and a wooden bench. The background includes houses and greenery. No significant actions or interactions are observed, and there is no visible escalation or instability.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A dog is walking down the street. A white van is parked on the side of the road.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a dog is seen running across the street. The dog appears to be in motion and is moving quickly. There are no other visible entities or actions in the video.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A dog is running across the street.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The camera angle is from a window, looking out onto the street and a small garden area in front of the house. There are no visible actions or interactions between entities, and there is no motion change or escalation.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A white van is parked on the street. A person walks by the van.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a residential street with a white van parked on the left side. The camera is positioned at an angle, capturing a narrow alleyway between two buildings. The ground is covered with multicolored confetti or small pieces of paper. There are no visible people or animals in the scene. The timestamp indicates the time as 1:31:59 PM.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera view of a residential street. The footage is timestamped and includes the logo of the RSPCA, indicating that the footage may be related to an animal welfare concern. The camera angle remains static throughout the video, capturing a section of the street with a sidewalk, a grassy area, and a parked white van on the left side. There are no visible people or animals in the frame. The video does not show any significant motion or interaction between entities.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The camera angle is from an elevated position, possibly a window, looking down onto the pavement and road. There are no visible actions or interactions between entities, and there is no motion change or escalation. The environment appears calm and stable throughout the video.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The camera is positioned from an elevated angle, looking down onto a driveway and a garden area. There are no visible actions or interactions between entities, and there is no motion or escalation in the scene.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a static scene captured from a surveillance camera. The setting appears to be a residential area with a narrow pathway or alleyway in front of a building. There is a white van parked on the left side of the frame, and a black cat is visible walking across the pathway. The cat moves from the right side of the frame towards the left, passing by a colorful object that looks like a pile of toys or decorations. The timestamp indicates the footage was recorded at 1:32:01 PM. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a residential street with a white van parked on the left side. The van is stationary throughout the sequence. There are no visible people or moving objects in the frame. The time stamp indicates that the footage was captured at 1:32 PM.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the left side. The time is 1:32:02 PM, and the footage is timestamped by the RSPCA (Royal Society for the Prevention of Cruelty to Animals). There are no visible actions or interactions between entities, and there is no motion change or escalation in the scene.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. The timestamp indicates it's 1:32:03 PM. There is no visible movement or interaction between entities, and no escalation or instability occurs throughout the segment.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability occurs throughout the segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. The camera is positioned at an angle, capturing a narrow alleyway between two buildings. There are no visible people or moving objects in the frame. The timestamp indicates that the footage was recorded at 1:32:04 PM.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A white van is parked on the street. A person walks by in the background.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, there is a white van parked on the street. A person wearing a green jacket and dark pants is walking across the street from left to right. The person appears to be carrying something in their hand. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person is walking down the street. A white van is parked on the side of the road. There are colorful decorations on the fence in front of a house.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, there is a white van parked on the side of the road. A person wearing a light-colored top and dark pants is walking across the street from left to right. The person appears to be carrying something in their hand. There are no other visible actions or interactions between entities.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A white van is parked on the street. A person is walking on the sidewalk.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability occurs.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability occurs throughout the segment.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a residential street with a white van parked on the side. There is a colorful object, possibly a toy or decoration, lying on the ground near the sidewalk. The camera angle remains static throughout the video.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a residential street with a white van parked on the side. The camera is positioned from an elevated angle, likely from a window or balcony. There are colorful decorations hanging along the fence in the foreground. No people or animals are visible in the footage. The van remains stationary throughout the segment.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a static view of a residential street with a white van parked on the side. The footage is taken from a window, and there are colorful decorations visible in the foreground. No significant actions or interactions occur throughout the video's duration.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a residential street with a white van parked on the side. The van is stationary throughout the sequence of images. There are no visible people or moving objects in the immediate vicinity of the van. The images are taken from a fixed camera angle, and there is no significant motion or interaction between entities.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The van is stationary throughout the sequence. There are no visible actions or interactions between entities, and there is no motion change or escalation. The environment appears stable without any visible instability.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "A white van is parked on the street. A person is standing near the van. There are colorful objects scattered on the ground.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "A white van is parked on the street. A person is standing next to the van. There are colorful objects on the ground near the van.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A white van is parked on the street. A person is standing next to the van. There are colorful balloons tied to a fence in the foreground. The scene is static and there is no motion or interaction between the entities.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A white van is parked on the street. A person is walking on the sidewalk. There are colorful balloons tied to a fence.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a white van is parked on the street. There is a person walking on the sidewalk. The person is wearing a blue shirt and black pants. They are carrying a bag in their right hand. The person walks past a building with a red brick wall. There is a window on the building. The window has a white frame. The person continues walking down the sidewalk.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A white van is parked on the street. A person is walking on the sidewalk. There are colorful balloons tied to a fence. The camera is stationary.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. The camera is positioned from an elevated angle, possibly from a window, overlooking a narrow alleyway between two buildings. There are no visible people or moving objects in the frame. The timestamp indicates the time as 1:32:14 PM.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. There are no visible actions or interactions, and no motion changes occur throughout the segment. The scene remains stable without any escalation or instability.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. The camera is positioned at an angle, capturing a narrow alleyway between two buildings. There are no visible people or moving objects in the scene. The timestamp indicates that the footage was recorded at 1:32:15 PM.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. There are no visible actions or interactions, and no motion changes occur throughout the segment. The scene is stable without any escalation or instability.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. The camera is positioned at an angle, capturing a narrow alleyway between two buildings. The alley is decorated with colorful streamers and balloons, suggesting a celebration or event. There is no visible movement or interaction in the scene.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a static shot of a residential street with no visible movement or action. The entities present include a white van parked on the side of the road, a brick building with a window, and a narrow alleyway between the building and the road. There are no interactions or motion changes, and no escalation or instability is observed in this segment.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There are no visible actions or interactions, and no motion changes occur throughout the segment. The entities present include the van, the street, and the surrounding buildings. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The van is stationary throughout the sequence. There are no visible people or moving objects in the frame. The environment appears calm and there is no indication of any escalation or instability.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. The footage is taken from a security camera, and the timestamp indicates it's around 1:32 PM. There are no visible actions or interactions between entities, and there is no motion change or escalation in the scene.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There are no visible actions or interactions between entities, and there is no motion change or escalation. The environment appears stable without any visible instability.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. There are no visible actions or interactions, and no motion changes occur throughout the segment. The scene remains stable without any escalation or instability.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The camera angle is from a window, looking out onto the street. There are no visible actions or interactions between entities, and there is no motion change or escalation.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A white van is parked on the street. A person walks by the van.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "The video shows a residential street with a white van parked on the side. The camera is positioned from an elevated angle, capturing the front of a house and a narrow driveway. There are colorful decorations hanging across the street, possibly for a celebration or event. The scene remains static throughout the video, with no visible movement or interaction between entities.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A white van is parked on the street. A person walks by in the background.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability occurs during the observed segment.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "A white van is parked on the street. A person walks past the van.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the side. The timestamp indicates it's 1:32:23 PM. There are no visible actions or interactions, and no motion changes occur throughout the segment.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There are no visible actions or interactions, and no motion changes occur throughout the segment. The environment appears stable without any escalation or instability.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The camera is positioned from an elevated angle, possibly from a window, overlooking a narrow alleyway between two buildings. The alley is decorated with colorful balloons and streamers, suggesting a celebration or event. There are no visible people or moving objects in the frame.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a static shot of a residential street with a white van parked on the left side. The time displayed is 1:32:24 PM, and there is no visible movement or interaction between entities.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the left side. The time is 1:32:24 PM, and there is no visible movement or interaction between entities.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a residential street with a white van parked on the side. The van is stationary, and there are no visible people or moving objects in the immediate vicinity. The timestamp indicates that the footage was recorded at 1:32:25 PM.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. The van is positioned near the curb, and there are no visible people or moving objects in the frame. The time displayed on the video is 1:32:26 PM. There is no discernible change in the scene throughout the video segment provided.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "A white van is parked on the street. A person wearing a blue jacket and black pants walks from the left side of the frame to the right, passing in front of the van. The person appears to be carrying something in their hand.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "A white van is parked on the street. A person wearing a dark jacket and light pants walks from the left side of the frame to the right, passing in front of the van.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "A person is walking down the street. They are wearing a black jacket and blue jeans. They are carrying a bag in their right hand. They are walking towards the camera. There is a white van parked on the side of the road. There is a fence with colorful balloons attached to it. The person walks past the fence.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A person is walking down the street. They are wearing a black jacket and blue jeans. They are carrying a bag in their right hand. They are walking towards the camera. There is a white van parked on the side of the road. There is a fence with colorful balls on it. The person walks past the fence.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, a person is seen walking down the street. They are wearing a dark-colored jacket and pants. The person is walking at a steady pace and appears to be looking straight ahead. There is a white van parked on the side of the road. The person walks past the van and continues down the street.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A person is walking down the street. They are wearing a gray jacket and black pants. They are carrying a black bag in their right hand. They are walking from left to right. There is a white van parked on the side of the road. There is a blue trash can on the sidewalk. There is a fence with colorful beads on it. The person walks past the fence and continues down the street.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, a person is seen walking down a street. They are wearing a dark jacket and pants. The person is walking at a steady pace and appears to be looking straight ahead. There is a white van parked on the side of the road. The street is lined with houses and there are trees visible in the background.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "A person is seen walking down the street. They are wearing a blue jacket and black pants. They are carrying a bag in their right hand. The person is walking at a steady pace. There is a white van parked on the side of the road. The van is not moving. The person walks past the van.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, a person is seen walking on the sidewalk. They are wearing a dark jacket and light-colored pants. The person is walking from left to right across the frame. There is a white van parked on the street in the background. The van is stationary. The person's pace appears steady as they walk.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "In the video, a person is seen walking down a street. They are wearing a blue shirt and black pants. The person is carrying a bag in their right hand. They walk past a parked white van and a blue trash can. The person continues walking down the street until they reach a corner and turn left.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "A person is seen walking down the street. They are wearing a yellow jacket and blue jeans. They are carrying a black bag in their right hand. The person is walking from left to right across the frame. There is a white van parked on the side of the road. There is a blue trash can on the sidewalk. There is a green bush next to the building.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a residential street with a white van parked on the side of the road. There is a person walking across the street, and another individual standing near the sidewalk. The surroundings include houses, a fence, and a blue trash bin. No significant motion or interaction between entities is observed.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a residential street with a white van parked on the side. A person is seen walking across the street, moving from left to right in the frame. The surroundings include houses, a fence, and a blue trash bin. There are no visible interactions or escalations, and the scene remains static throughout the video.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a white van parked on the street, with a person standing near it. The person appears to be interacting with the van, possibly loading or unloading items. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "In the video, a person is seen walking on the sidewalk. They are wearing dark clothing and carrying a bag. The person walks from left to right across the frame. There is a white van parked on the street in the background. The video is taken from a surveillance camera mounted on a building.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "A person is seen walking down the street. They are wearing a white shirt and blue jeans. They are carrying a black bag. The person walks past a parked van and a building with a red brick wall.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A white van is parked on the street. A person walks by the van.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "A white van is parked on the street. A person walks by the van.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A white van is parked on the street. A person walks into the frame from the left side of the screen and walks towards the right side of the screen.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, a person is seen walking down a street with a dog. The person is wearing a white shirt and dark pants. The dog is medium-sized and has a light-colored coat. They are walking on the sidewalk next to a row of houses. There is a white van parked on the street in front of them. The person and the dog continue walking down the street, passing by other houses and a fence.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "A person is walking a dog on a leash. The dog is black and white. The person is wearing a green shirt and blue jeans. They are walking on a sidewalk next to a street. There is a white van parked on the street.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "A person is walking a dog on a leash. The dog is black and white. The person is wearing a white shirt and blue jeans. They are walking on a sidewalk next to a street. There is a white van parked on the street.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "A person is walking a dog on a leash. The dog is black and white. The person is wearing a black jacket and blue jeans. They are walking on a sidewalk next to a street. There is a white van parked on the street. The person and the dog walk past a chain-link fence and continue down the sidewalk.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "A dog is seen running across the street.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a static scene of a residential street with a white van parked on the side. The camera angle is from a window, looking out onto the street. There are no visible actions or interactions between entities. The only noticeable change is the time on the video, which progresses from 1:32:40 PM to 1:32:42 PM.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

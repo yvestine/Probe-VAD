@@ -1,0 +1,1560 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person is seen walking down a street.",
+    "caption_5s": "A person is seen walking towards a car in the video.",
+    "caption_10s": "A person is seen walking down a street, followed by another person. The first person then gets into a car and drives away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person walks down a street, then gets into a car and drives away, followed by another person walking down the street.",
+    "caption": "A person walks down a street, then gets into a car and drives away, followed by another person walking down the street."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "caption_5s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "caption_10s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars and buildings.",
+    "caption": "A person walks down a street, passing by parked cars and buildings."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with no discernible movement or action taking place.",
+    "caption_5s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "caption_10s": "A person is seen walking down a street, followed by another person. The first person then gets into a car and drives away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars and buildings, then gets into a car and drives away, followed by another person walking behind them.",
+    "caption": "A person walks down a street, passing by parked cars and buildings, then gets into a car and drives away, followed by another person walking behind them."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked in it. There is no significant action or movement throughout the video.",
+    "caption_5s": "A person is seen walking down a street, followed by another person. The first person then walks towards a car and gets in.",
+    "caption_10s": "A person is seen walking towards a car in the video.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person walks down a street, followed by another person, then walks towards a car and gets in, in a parking lot with several cars parked nearby.",
+    "caption": "A person walks down a street, followed by another person, then walks towards a car and gets in, in a parking lot with several cars parked nearby."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked in it. There is no significant action or movement observed throughout the video.",
+    "caption_5s": "A person is seen walking towards a car in the video.",
+    "caption_10s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars and buildings, eventually approaching a car in a parking lot.",
+    "caption": "A person walks down a street, passing by parked cars and buildings, eventually approaching a car in a parking lot."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a static view of a parking lot with several parked cars and a building in the background. There is no significant movement or action taking place throughout the sequence of images.",
+    "caption_5s": "The video shows a static scene of a parking lot with several cars parked in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_10s": "A person is seen walking towards a car in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A static view of a parking lot with several parked cars and a building in the background shows a person walking towards a car.",
+    "caption": "A static view of a parking lot with several parked cars and a building in the background shows a person walking towards a car."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with several parked cars and a building in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. The footage is taken from a stationary camera angle, and there are no significant actions or movements observed throughout the video.",
+    "caption_10s": "A person is seen walking down a street and then gets into a car.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person walks down a street, enters a car, and is parked in a lot with several other cars, with a building visible in the background.",
+    "caption": "A person walks down a street, enters a car, and is parked in a lot with several other cars, with a building visible in the background."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a static view of a parking lot with several parked cars. There is no movement or action taking place in the video.",
+    "caption_5s": "The video shows a static view of a parking lot with several parked cars. There is no significant movement or action taking place throughout the sequence of images.",
+    "caption_10s": "A person is seen walking down a street, passing by parked cars.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars in a parking lot, with no significant movement or action taking place elsewhere in the scene.",
+    "caption": "A person walks down a street, passing by parked cars in a parking lot, with no significant movement or action taking place elsewhere in the scene."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a static view of a parking lot with several parked cars and a building in the background. The timestamp indicates the footage was captured on \"2015-03-19 13:35:40\". There is no movement or action within the video, suggesting it is a still shot from a surveillance camera.",
+    "caption_5s": "The video shows a static scene of a parking lot with multiple cars parked on both sides. The cars are of various colors and models, and there is a building in the background. There is no significant movement or action throughout the video.",
+    "caption_10s": "A car is seen driving down a street and then parking.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A car is seen driving down a street, parking in a parking lot with multiple cars, and coming to a stop, with a building visible in the background, captured on \"2015-03-19 13:35:40\".",
+    "caption": "A car is seen driving down a street, parking in a parking lot with multiple cars, and coming to a stop, with a building visible in the background, captured on \"2015-03-19 13:35:40\"."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with multiple parked cars and a building in the background. There is no movement or action taking place throughout the sequence of images.",
+    "caption_5s": "The video shows a static view of a parking lot with several parked cars and a building in the background. The timestamp indicates that the footage was recorded on 29-05-2015 at 13:39:30. There is no significant movement or action within the video, as it appears to be a surveillance recording capturing the stillness of the parking area.",
+    "caption_10s": "A car is seen driving down a street in the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A surveillance recording from 29-05-2015 at 13:39:30 shows a static view of a parking lot with several parked cars and a building in the background, with a car driving down a street in the distance.",
+    "caption": "A surveillance recording from 29-05-2015 at 13:39:30 shows a static view of a parking lot with several parked cars and a building in the background, with a car driving down a street in the distance."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a static view of a parking lot with several parked cars and a building in the background. The timestamp indicates it is 13:59:30 on the 26th of May, 2015. There are no visible actions or movements within the scene.",
+    "caption_5s": "The video shows a static view of a parking lot with multiple parked cars. The cars are of various colors and models, and they are parked in an orderly fashion. There is no significant movement or action within the video.",
+    "caption_10s": "The video shows a narrow street lined with parked cars on both sides. The cars are of various colors and models, and there is a small building or structure on the left side of the street. The footage is taken from a fixed camera angle, and no significant movement or action occurs throughout the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A static view of a parking lot with multiple parked cars of various colors and models, parked in an orderly fashion, with a small building or structure on the left side of the street, taken from a fixed camera angle, with no significant movement or action, on May 26, 2015, at 13:59:30.",
+    "caption": "A static view of a parking lot with multiple parked cars of various colors and models, parked in an orderly fashion, with a small building or structure on the left side of the street, taken from a fixed camera angle, with no significant movement or action, on May 26, 2015, at 13:59:30."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with multiple cars parked on both sides. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a parking lot with several cars parked in the background. A person is seen walking from the left side of the frame towards the center, passing by a white car and a black car. The person appears to be wearing dark clothing. There are no other significant actions or events in the video.",
+    "caption_10s": "The video shows a parking lot with several cars parked in the background. The camera is stationary and captures the scene from a fixed position. There are no significant actions or movements throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A parking lot with multiple cars parked on both sides, a person in dark clothing walks from the left towards the center, passing by a white car and a black car, in a scene with no other significant actions or events.",
+    "caption": "A parking lot with multiple cars parked on both sides, a person in dark clothing walks from the left towards the center, passing by a white car and a black car, in a scene with no other significant actions or events."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked in it. There is no significant movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a parking lot with multiple cars parked on both sides of the frame. The camera is stationary, and there are no significant movements or actions taking place throughout the video.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked in rows. The footage is taken from a stationary security camera, and the time displayed on the camera reads 13:59:30. There are no visible people or significant movements throughout the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A stationary security camera captures a parking lot with multiple cars parked in rows, taken at 13:59:30, with no visible people or significant movements.",
+    "caption": "A stationary security camera captures a parking lot with multiple cars parked in rows, taken at 13:59:30, with no visible people or significant movements."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with several cars parked on the right side and a building on the left. There is no significant movement or action throughout the video.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. The footage is taken from a stationary camera angle, and there are no significant actions or movements observed throughout the video.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A parking lot with several cars parked on the right side and a building on the left, with a person walking towards the camera and then another person walking away from the camera, from a stationary camera angle.",
+    "caption": "A parking lot with several cars parked on the right side and a building on the left, with a person walking towards the camera and then another person walking away from the camera, from a stationary camera angle."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "A car is seen driving down a street in the video.",
+    "caption_5s": "A car is seen driving down a street and then parking.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A car is seen driving down a street, parking, and then the scene shifts to a parking lot with several cars parked, where two people are seen walking in opposite directions.",
+    "caption": "A car is seen driving down a street, parking, and then the scene shifts to a parking lot with several cars parked, where two people are seen walking in opposite directions."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A car is seen driving down a street in the video.",
+    "caption_5s": "A car is seen driving down a street in the video.",
+    "caption_10s": "A car is seen driving down a narrow street. The car is moving slowly and carefully, as if it is trying to avoid hitting something. The car eventually comes to a stop and the driver gets out.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A car drives down a narrow street, moving slowly and carefully, before stopping and the driver exiting.",
+    "caption": "A car drives down a narrow street, moving slowly and carefully, before stopping and the driver exiting."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "A car is seen driving down a street in the video.",
+    "caption_5s": "A car is seen driving down a street in a parking lot.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A car is seen driving down a street in a parking lot, with several cars parked nearby, as a person walks towards the camera and another person walks away.",
+    "caption": "A car is seen driving down a street in a parking lot, with several cars parked nearby, as a person walks towards the camera and another person walks away."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "A person is seen walking down a street, passing by parked cars and a building.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. There is no significant action or movement in the video.",
+    "caption_10s": "A car is seen driving down a street in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars and a building, while a car drives by in the distance.",
+    "caption": "A person walks down a street, passing by parked cars and a building, while a car drives by in the distance."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked in it. There is no significant movement or action taking place throughout the duration of the video.",
+    "caption_5s": "A car is seen driving down a street in a parking lot.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. The camera is stationary and captures the scene from a fixed position. There are no significant actions or movements in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A car drives down a street in a parking lot, passing by stationary vehicles.",
+    "caption": "A car drives down a street in a parking lot, passing by stationary vehicles."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A person is seen walking down a street in the video.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. There is no significant action or movement throughout the video.",
+    "caption_10s": "A car is seen driving down a street in a parking lot.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person walks down a street, then a parking lot with several cars is shown, before a car drives down the same street in the parking lot.",
+    "caption": "A person walks down a street, then a parking lot with several cars is shown, before a car drives down the same street in the parking lot."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with several cars parked in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a static shot of a parking lot with several parked cars and a building in the background. There is no significant movement or action throughout the video.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked in it. The footage is taken from a stationary camera angle, and there are no significant movements or actions taking place throughout the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A parking lot with multiple cars parked in it, taken from a stationary camera angle, with no significant movements or actions.",
+    "caption": "A parking lot with multiple cars parked in it, taken from a stationary camera angle, with no significant movements or actions."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a series of still images from a surveillance camera. The images depict a parking lot with several cars parked in the background and a building to the left. There is no movement or action within the frames, suggesting a static scene without any significant events occurring.",
+    "caption_5s": "The video shows a static shot of a parking lot with several cars parked in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. The camera is stationary and captures the scene from a fixed position. There are no significant actions or movements in the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A stationary surveillance camera captures a parking lot with several cars parked in the background and a building to the left, showing no movement or action over the duration of the video.",
+    "caption": "A stationary surveillance camera captures a parking lot with several cars parked in the background and a building to the left, showing no movement or action over the duration of the video."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a static scene of a parking lot with several cars parked in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a static shot of a parking lot with several cars parked in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked in it. A person is seen walking towards the camera, and there are no other significant actions or events taking place.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A parking lot with several cars parked in the background, a person walks towards the camera, and no other movement or action occurs.",
+    "caption": "A parking lot with several cars parked in the background, a person walks towards the camera, and no other movement or action occurs."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a static view of a narrow street lined with parked cars on both sides. The timestamp indicates the footage was taken on May 29, 2015, at 13:35:12. There is no significant movement or action within the scene, and the environment appears calm and undisturbed.",
+    "caption_5s": "The video shows a static shot of a parking lot with multiple cars parked on the left side and a building on the right. There is no movement or action within the scene.",
+    "caption_10s": "The video shows a parking lot with several parked cars and a building in the background. The timestamp indicates that the footage was recorded on May 29, 2015, at 13:39:30. There is no significant movement or action throughout the video; it appears to be a static scene with no discernible changes or events taking place.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A static view of a parking lot with parked cars and a building in the background, recorded on May 29, 2015, at 13:39:30, shows no significant movement or action, with the environment appearing calm and undisturbed.",
+    "caption": "A static view of a parking lot with parked cars and a building in the background, recorded on May 29, 2015, at 13:39:30, shows no significant movement or action, with the environment appearing calm and undisturbed."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a static shot of a parking lot with several parked cars and a building in the background. There is no movement or action taking place throughout the duration of the video.",
+    "caption_5s": "The video shows a static view of a parking lot with several parked cars and a building in the background. The timestamp indicates that the footage was recorded on May 29, 2015, at 13:51:30. There is no significant movement or action throughout the video.",
+    "caption_10s": "The video shows a parking lot with several parked cars and a building in the background. A person is seen walking from the left side of the frame towards the center, passing by a parked car. The person appears to be wearing dark clothing and moves at a steady pace.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A parking lot with several parked cars and a building in the background, recorded on May 29, 2015, at 13:51:30, shows a person walking from the left side towards the center, passing a parked car, wearing dark clothing and moving at a steady pace.",
+    "caption": "A parking lot with several parked cars and a building in the background, recorded on May 29, 2015, at 13:51:30, shows a person walking from the left side towards the center, passing a parked car, wearing dark clothing and moving at a steady pace."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a static view of a parking lot with several parked cars and a building in the background. There is no movement or action taking place throughout the sequence of images.",
+    "caption_5s": "The video shows a static shot of a parking lot with several cars parked in the background. The foreground features a narrow alleyway with a metal gate on the left and a white car parked on the right. There is no significant movement or action throughout the video.",
+    "caption_10s": "The video shows a parking lot with several parked cars and a building on the left side. The timestamp indicates it is 13:59:02 on 29-05-2015. There are no significant actions or movements observed throughout the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A static view of a parking lot with several parked cars and a building in the background, featuring a narrow alleyway with a metal gate and a white car, with no movement or action observed from 13:59:02 on 29-05-2015.",
+    "caption": "A static view of a parking lot with several parked cars and a building in the background, featuring a narrow alleyway with a metal gate and a white car, with no movement or action observed from 13:59:02 on 29-05-2015."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a static shot of a parking lot with several cars parked on the left side and a building on the right. There is no movement or action taking place in the scene.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the gate of the parking lot, opening it, and then walking through.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person walks towards the gate of a parking lot, opens it, and then walks through, with two other people visible walking in the opposite direction.",
+    "caption": "A person walks towards the gate of a parking lot, opens it, and then walks through, with two other people visible walking in the opposite direction."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A parking lot with several cars is shown. A person walks towards the camera, then another person walks away from the camera.",
+    "caption": "A parking lot with several cars is shown. A person walks towards the camera, then another person walks away from the camera."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a parking lot with several cars parked on the left side and a building on the right. A person is seen walking from the left side of the frame towards the center, passing by a white car. The person appears to be wearing dark clothing and moves at a steady pace.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera.",
+    "caption_10s": "The video shows a parking lot with cars parked on both sides of the road. A person is seen walking towards the camera, and another person is seen walking away from the camera. The video ends with a shot of the parking lot.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A parking lot with cars on both sides of the road, a building on the right, and a person in dark clothing walking towards the center, passing by a white car, before continuing towards the camera, while another person walks away from the camera, with the scene ending on a shot of the parking lot.",
+    "caption": "A parking lot with cars on both sides of the road, a building on the right, and a person in dark clothing walking towards the center, passing by a white car, before continuing towards the camera, while another person walks away from the camera, with the scene ending on a shot of the parking lot."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A person is seen walking down a street in the video.",
+    "caption_5s": "A man is seen walking down a street and then proceeds to throw something at a parked car.",
+    "caption_10s": "The video shows a man walking down the street, passing by parked cars. He then turns around and walks back towards the camera.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars, turns around, and walks back towards the camera.",
+    "caption": "A person walks down a street, passing by parked cars, turns around, and walks back towards the camera."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A man is seen walking down a street in a parking lot. He is wearing a white shirt and black pants. He walks towards the camera, then turns around and walks away.",
+    "caption_5s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the gate of the parking lot, and then proceeds to open the gate and walk through it.",
+    "caption_10s": "A man is seen walking down a street and then proceeds to jump over a fence.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A man in a white shirt and black pants walks down a street, turns around, and walks away, then proceeds to jump over a fence, after first walking towards the gate of a parking lot and opening it to walk through.",
+    "caption": "A man in a white shirt and black pants walks down a street, turns around, and walks away, then proceeds to jump over a fence, after first walking towards the gate of a parking lot and opening it to walk through."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A man is seen walking down a street, and a car drives by.",
+    "caption_5s": "A man is seen walking down a street and then proceeds to jump over a fence.",
+    "caption_10s": "A man is seen walking down a street, passing by parked cars. He then turns around and walks back towards the camera.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A man walks down a street, passing by parked cars, turns around, and walks back towards the camera, then jumps over a fence as a car drives by.",
+    "caption": "A man walks down a street, passing by parked cars, turns around, and walks back towards the camera, then jumps over a fence as a car drives by."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "A man is seen walking down a street, and he suddenly falls to the ground.",
+    "caption_5s": "The video shows a man walking down a street, passing by parked cars and buildings. He is wearing a white shirt and dark pants. The camera angle remains stationary throughout the video.",
+    "caption_10s": "A man is seen walking down a street and then proceeds to throw an object at a car.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A man, wearing a white shirt and dark pants, walks down a street, passing by parked cars and buildings, before falling to the ground.",
+    "caption": "A man, wearing a white shirt and dark pants, walks down a street, passing by parked cars and buildings, before falling to the ground."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a street, passing by parked cars and buildings.",
+    "caption_5s": "A man is seen walking down a street, and then he throws something at another person.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked in it. A person is seen walking towards the camera, and then another person appears to be running away from the camera.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person walks down a street, passing by parked cars and buildings, before throwing something at another person, who then runs away from the camera, in a parking lot with multiple cars.",
+    "caption": "A person walks down a street, passing by parked cars and buildings, before throwing something at another person, who then runs away from the camera, in a parking lot with multiple cars."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "A person is seen walking down a street, passing by parked cars and buildings.",
+    "caption_5s": "The video shows a man walking down a street, passing by parked cars and buildings. He continues walking until he reaches the end of the street.",
+    "caption_10s": "A man is seen walking down a street, passing by parked cars and a building. He continues walking until he reaches the end of the street, where he disappears from view.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A man walks down a street, passing by parked cars and a building, continuing until he disappears from view at the end of the street.",
+    "caption": "A man walks down a street, passing by parked cars and a building, continuing until he disappears from view at the end of the street."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a street with parked cars on both sides. The person is wearing dark clothing and appears to be walking at a steady pace. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a person walking down a street, passing by parked cars and buildings. The person is wearing dark clothing and appears to be walking at a normal pace. There are no other people or vehicles in motion.",
+    "caption_10s": "The video shows a parking lot with several cars parked in the background. A person is seen walking towards the camera, and another person is standing near a car. The video ends with a black screen.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person walks down a street with parked cars on both sides, wearing dark clothing, at a steady pace, passing by buildings with no other people or vehicles in motion, before walking towards the camera in a parking lot with other cars parked in the background.",
+    "caption": "A person walks down a street with parked cars on both sides, wearing dark clothing, at a steady pace, passing by buildings with no other people or vehicles in motion, before walking towards the camera in a parking lot with other cars parked in the background."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a street with parked cars on both sides. The person is wearing dark clothing and appears to be walking at a steady pace. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a person walking down a street with parked cars on both sides. The person is wearing a dark-colored top and light-colored pants. They are walking at a steady pace, and there is no interaction with any other objects or people in the video.",
+    "caption_10s": "The video shows a parking lot with several cars parked in it. A person is seen walking towards the camera, and then another person is seen walking away from the camera. The video ends with a black screen.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person walks down a street with parked cars on both sides, wearing dark clothing, at a steady pace, with no interaction with other objects or people, in a parking lot with several cars.",
+    "caption": "A person walks down a street with parked cars on both sides, wearing dark clothing, at a steady pace, with no interaction with other objects or people, in a parking lot with several cars."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 21.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a person walking down a street with parked cars on both sides. The person is wearing dark clothing and appears to be walking at a normal pace. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a parking lot with multiple cars parked in the background. A person is seen walking towards the camera, and another person is standing near a car. The video ends abruptly with a black screen.",
+    "caption_10s": "The video shows a person walking down a street, passing by parked cars and buildings. The person is wearing dark clothing and appears to be walking at a steady pace.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person in dark clothing walks down a street with parked cars and buildings, passing by at a steady pace, before the video ends abruptly with a black screen.",
+    "caption": "A person in dark clothing walks down a street with parked cars and buildings, passing by at a steady pace, before the video ends abruptly with a black screen."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 21.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a timestamped surveillance footage of a parking lot with several parked cars and a building in the background. The scene is relatively static, with no significant movement or action taking place.",
+    "caption_5s": "The video shows a surveillance camera's perspective of a parking lot. The footage captures a person walking across the frame from left to right, passing by parked cars and a building with an open gate. The timestamp indicates the date as 29-05-2015 at 13:38:47. The person is wearing dark clothing and appears to be carrying something in their hand. The scene is relatively static, with no significant movement or activity other than the person walking.",
+    "caption_10s": "The video shows a parking lot with several parked cars and a building in the background. A person is seen walking across the parking lot from left to right. The timestamp indicates that the footage was recorded on 29-05-2015 at 13:35:47.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person wearing dark clothing walks across a parking lot from left to right, passing by parked cars and a building with an open gate, on 29-05-2015 at 13:38:47.",
+    "caption": "A person wearing dark clothing walks across a parking lot from left to right, passing by parked cars and a building with an open gate, on 29-05-2015 at 13:38:47."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.5667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 21.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video shows a timestamped security camera footage of a parking lot with several parked cars and a building in the background. The footage is shaky, suggesting it was taken from a moving vehicle or handheld device. There are no significant actions or events captured in the video.",
+    "caption_5s": "The video shows a surveillance camera's view of a parking lot with several parked cars and a building in the background. The timestamp indicates the footage was taken on 29-05-2015 at 13:38:47. There is no significant movement or action throughout the sequence of images, suggesting a static scene with no notable events occurring.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked in the background. A person is seen walking towards the camera, passing by a white car parked on the left side of the frame. The person appears to be wearing dark clothing and is walking at a steady pace. The environment suggests it might be daytime due to the natural light present.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.5667
+    },
+    "fused_caption": "A parking lot with several parked cars and a building in the background is shown on a surveillance camera's view, taken on 29-05-2015 at 13:38:47. A person, wearing dark clothing, walks towards the camera, passing by a white car, at a steady pace in a daytime environment.",
+    "caption": "A parking lot with several parked cars and a building in the background is shown on a surveillance camera's view, taken on 29-05-2015 at 13:38:47. A person, wearing dark clothing, walks towards the camera, passing by a white car, at a steady pace in a daytime environment."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 21.5667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 21.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 21.5667
+      }
+    },
+    "caption_2s": "The video consists of a series of black frames, indicating no visible content or action taking place.",
+    "caption_5s": "The video shows a surveillance camera's view of a parking lot with several cars parked on the right side. The timestamp indicates the footage was taken on 29-05-2015 at 13:30:30. There is no significant movement or action within the frame, and the scene remains static throughout the duration of the video.",
+    "caption_10s": "The video shows a parking lot with multiple cars parked on both sides of the frame. The timestamp indicates it is 13:35:30 on 29-05-2015. A person wearing dark clothing is seen walking from the left side of the frame towards the center, passing by a white car parked in the foreground. The person appears to be carrying something in their right hand. The scene is captured from an elevated angle, possibly from a security camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 21.5667
+    },
+    "fused_caption": "A parking lot is shown from a security camera's elevated angle, with cars parked on both sides. On 29-05-2015 at 13:30:30, the scene is static with no movement. At 13:35:30, a person in dark clothing walks from the left towards the center, passing a white car, carrying something in their right hand.",
+    "caption": "A parking lot is shown from a security camera's elevated angle, with cars parked on both sides. On 29-05-2015 at 13:30:30, the scene is static with no movement. At 13:35:30, a person in dark clothing walks from the left towards the center, passing a white car, carrying something in their right hand."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "task": "frame-level anomaly detection",
+  "selection": "experiments/anticipation_two_per_category_28.json",
+  "videos": 28,
+  "protocol": {
+    "evaluator": "src.eval",
+    "frame_interval": 16,
+    "gaussian_smoothing_sigma": 10.0,
+    "aggregation": "pooled frame-level micro"
+  },
+  "integrity": {
+    "anchors": 2658,
+    "fused_captions": 2658,
+    "candidates": 140,
+    "review_scales": 420,
+    "missing_or_incomplete_outputs": 0,
+    "invalid_direct_visual_scores": 0,
+    "invalid_semantic_scores": 0,
+    "invalid_review_semantic_scores": 0,
+    "fusion_refusal_patterns": 0
+  },
+  "methods": {
+    "author": {
+      "roc_auc": 0.838192365964827,
+      "pr_auc": 0.7784267451162287,
+      "max_f1": 0.7124087541368677
+    },
+    "modify2_single_2s_caption": {
+      "roc_auc": 0.8493072733434498,
+      "pr_auc": 0.6975832871925255,
+      "max_f1": 0.757410127445189
+    },
+    "modify2_multiscale_caption_fusion": {
+      "roc_auc": 0.8366290510084873,
+      "pr_auc": 0.7330381268321682,
+      "max_f1": 0.736214939411516,
+      "roc_youden_j_threshold": 0.4928058944683733,
+      "pr_max_f1_threshold": 0.4928058944683733
+    }
+  },
+  "delta_multiscale_vs_single_2s": {
+    "roc_auc": -0.0126782223349625,
+    "pr_auc": 0.0354548396396427,
+    "max_f1": -0.021195188033673
+  },
+  "delta_multiscale_vs_author": {
+    "roc_auc": -0.0015633149563397,
+    "pr_auc": -0.0453886182840605,
+    "max_f1": 0.0238061852746483
+  },
+  "control_check": {
+    "regenerated_2s_caption_exact_matches": 563,
+    "regenerated_2s_caption_total": 2658,
+    "regenerated_2s_caption_exact_match_rate": 0.211813,
+    "regenerated_2s_visual_score_exact_matches": 2014,
+    "regenerated_2s_visual_score_total": 2658,
+    "regenerated_2s_visual_score_exact_match_rate": 0.757713,
+    "interpretation": "This from-scratch exploratory run includes VideoLLaMA regeneration variance, so its entire metric delta cannot be attributed solely to multi-scale caption fusion."
+  }
+}

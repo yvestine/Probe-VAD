@@ -1,0 +1,202 @@
+{
+  "0": {
+    "caption": "A black car is driving down a residential street. The car's headlights are on, and it appears to be moving at a moderate speed. There are no other vehicles or pedestrians visible in the video segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a black car driving down a street. The car is moving from left to right across the frame. There are no other visible entities or actions in this segment of the video.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A black car is parked on the side of a street. The car's headlights are on, and it appears to be stationary. There are no visible actions or interactions with other entities. No motion changes or escalations are observed in this segment.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A black car is parked on the side of a street. The car's headlights are on, and it appears to be stationary. There are no visible actions or interactions with other entities. The scene is stable without any noticeable motion changes or escalations.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a stationary black car parked on the side of a street. The car's headlights are on, and there is no visible movement or interaction with other entities. The surroundings include a sidewalk and a grassy area adjacent to the road.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a black car parked on the side of a street. The car's headlights are on, and there is no visible movement or interaction with other entities. The surroundings include a sidewalk and a grassy area. There is no escalation or instability observed in the video segment provided.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a stationary black car parked on the side of a street. The car's headlights are on, and there is no visible movement or interaction with other entities. The background includes a sidewalk and a grassy area, but no people or additional vehicles are present in the frame.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a black car with its headlights on, parked on the side of a street. The car is stationary and there are no visible actions or interactions occurring. There is no escalation or instability in the scene.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a black car with its headlights on, parked on the side of a street. The car is stationary and there are no visible actions or interactions occurring. The surroundings include a sidewalk, grassy areas, and a curb. There are no other vehicles or people in the immediate vicinity of the car.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a street scene with two cars, one black and one dark-colored, parked on the side of the road. The black car is closer to the camera, and its headlights are on. There is no visible movement or interaction between the vehicles or any other entities in the frame. The environment appears to be a residential area with houses and trees in the background.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a street scene with two cars, one black and one dark blue, parked on the side of the road. The black car is closer to the camera, and its headlights are on. The dark blue car is parked behind it. There is no visible movement or interaction between the vehicles or any other entities in the frame.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a street scene with two cars, one black and one blue, parked on the side of the road. The black car is closer to the camera, and its headlights are on. The blue car is parked behind it, slightly further away. There is no visible movement or interaction between the vehicles or any other entities in the frame.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a street scene with two cars parked on the side of the road. The first car is a dark-colored sedan, and the second car is a blue SUV. The sedan's headlights are on, and the SUV's driver's side door opens. A person exits the SUV and walks towards the front of the vehicle. There is no visible interaction between the person and the sedan. The person then closes the SUV's door and walks away from the vehicle.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A black car is parked on the side of the road. A person gets out of a blue van and walks towards the black car. The person opens the driver's side door and gets into the car.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, there are two cars parked on the side of the road. One car is black and the other is blue. A person wearing a dark jacket and pants is seen walking towards the blue car from the sidewalk. The person opens the driver's side door and gets into the car.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person is seen walking towards a parked car. The person opens the door and gets inside the car.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, there are two cars parked on the side of a street. The first car is black and parked facing the camera. The second car is blue and parked perpendicular to the first car. There is no visible motion or interaction between the cars.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A black car is parked on the side of a street. A person is standing next to the car, opening the door and getting inside. The car remains stationary throughout the video.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a black car parked on the side of a street. The car's headlights are on, and it appears to be stationary. There is no visible motion or interaction with other entities in this segment.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a stationary black car parked on the side of a street. The car's headlights are on, and there is no visible movement or interaction with other entities. The surroundings include a sidewalk and a grassy area adjacent to the road. No escalation or instability is observed in this segment.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

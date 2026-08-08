@@ -1,0 +1,151 @@
+[
+  {
+    "candidate_id": "candidate_1",
+    "candidate": {
+      "center_frame": 32,
+      "quality": 0.653125,
+      "support_scales": [
+        4,
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 0,
+          "end_frame": 64,
+          "center_frame": 32,
+          "quality": 0.653125
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 0,
+          "end_frame": 32,
+          "center_frame": 16,
+          "quality": 0.650781
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 0,
+          "end_frame": 128,
+          "center_frame": 64,
+          "quality": 0.62793
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 0,
+      "focus_end_frame": 96
+    },
+    "verified_score": 0.35,
+    "evidence_gate": 0.790165,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.790165,
+    "verified_center_frame": 32,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.3,
+      "6s": 0.44,
+      "10s": 0.34
+    }
+  },
+  {
+    "candidate_id": "candidate_2",
+    "candidate": {
+      "center_frame": 51,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 0,
+      "focus_end_frame": 115
+    },
+    "verified_score": 0.242,
+    "evidence_gate": 0.893028,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.893028,
+    "verified_center_frame": 51,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.26,
+      "6s": 0.2,
+      "10s": 0.26
+    }
+  },
+  {
+    "candidate_id": "candidate_3",
+    "candidate": {
+      "center_frame": 77,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 13,
+      "focus_end_frame": 141
+    },
+    "verified_score": 0.34,
+    "evidence_gate": 0.612467,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.612467,
+    "verified_center_frame": 77,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.36,
+      "6s": 0.2,
+      "10s": 0.5
+    }
+  },
+  {
+    "candidate_id": "candidate_4",
+    "candidate": {
+      "center_frame": 102,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 38,
+      "focus_end_frame": 155
+    },
+    "verified_score": 0.312,
+    "evidence_gate": 0.877534,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.877534,
+    "verified_center_frame": 102,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.34,
+      "6s": 0.3,
+      "10s": 0.26
+    }
+  },
+  {
+    "candidate_id": "candidate_5",
+    "candidate": {
+      "center_frame": 124,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 60,
+      "focus_end_frame": 155
+    },
+    "verified_score": 0.308,
+    "evidence_gate": 0.741313,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.741313,
+    "verified_center_frame": 124,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.38,
+      "6s": 0.26,
+      "10s": 0.2
+    }
+  }
+]

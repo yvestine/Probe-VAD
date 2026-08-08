@@ -1,0 +1,192 @@
+{
+  "task": "training-free causal anomaly anticipation with current-state survival gate",
+  "formula": "S_h(t) = (1 - D_t) * R_h(t)",
+  "inference_inputs": [
+    "strictly causal direct-branch current and future predictions"
+  ],
+  "not_used": [
+    "author outputs",
+    "ground truth during score generation",
+    "future frames"
+  ],
+  "quality_checks": {
+    "prediction_anchors": 89,
+    "source_parse_status_counts": {
+      "bracket_list": 89
+    },
+    "invalid_source_predictions": 0,
+    "future_frame_violations": 0
+  },
+  "overall": {
+    "2s": {
+      "base": {
+        "samples": 84,
+        "positive_samples": 4,
+        "mean_score": 0.150361,
+        "roc_auc": 0.775,
+        "average_precision": 0.116427,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 2,
+        "false_alarms_per_minute": 2.549575,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 84,
+        "positive_samples": 4,
+        "mean_score": 0.074648,
+        "roc_auc": 0.8375,
+        "average_precision": 0.172751,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 1,
+        "false_alarms_per_minute": 1.274788,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.0625,
+        "average_precision": 0.056324
+      }
+    },
+    "5s": {
+      "base": {
+        "samples": 84,
+        "positive_samples": 10,
+        "mean_score": 0.164084,
+        "roc_auc": 0.519595,
+        "average_precision": 0.135319,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 2,
+        "false_alarms_per_minute": 2.549575,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 84,
+        "positive_samples": 10,
+        "mean_score": 0.081945,
+        "roc_auc": 0.541216,
+        "average_precision": 0.157894,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 1,
+        "false_alarms_per_minute": 1.274788,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.021621,
+        "average_precision": 0.022575
+      }
+    },
+    "10s": {
+      "base": {
+        "samples": 84,
+        "positive_samples": 11,
+        "mean_score": 0.174951,
+        "roc_auc": 0.475716,
+        "average_precision": 0.138687,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 3,
+        "false_alarms_per_minute": 3.824363,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "survival_gate": {
+        "samples": 84,
+        "positive_samples": 11,
+        "mean_score": 0.088203,
+        "roc_auc": 0.491905,
+        "average_precision": 0.154201,
+        "events": 1,
+        "events_warned": 0,
+        "event_recall": 0.0,
+        "mean_lead_seconds": null,
+        "median_lead_seconds": null,
+        "false_alarm_episodes": 2,
+        "false_alarms_per_minute": 2.549575,
+        "threshold": 0.5,
+        "persistence_anchors": 2
+      },
+      "delta": {
+        "roc_auc": 0.016189,
+        "average_precision": 0.015514
+      }
+    }
+  },
+  "per_video": [
+    {
+      "video_name": "Abuse028_x264",
+      "category": "Abuse",
+      "horizons": {
+        "2s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 4,
+            "mean_score": 0.150361,
+            "roc_auc": 0.775,
+            "average_precision": 0.116427
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 4,
+            "mean_score": 0.074648,
+            "roc_auc": 0.8375,
+            "average_precision": 0.172751
+          }
+        },
+        "5s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 10,
+            "mean_score": 0.164084,
+            "roc_auc": 0.519595,
+            "average_precision": 0.135319
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 10,
+            "mean_score": 0.081945,
+            "roc_auc": 0.541216,
+            "average_precision": 0.157894
+          }
+        },
+        "10s": {
+          "base": {
+            "samples": 84,
+            "positive_samples": 11,
+            "mean_score": 0.174951,
+            "roc_auc": 0.475716,
+            "average_precision": 0.138687
+          },
+          "survival_gate": {
+            "samples": 84,
+            "positive_samples": 11,
+            "mean_score": 0.088203,
+            "roc_auc": 0.491905,
+            "average_precision": 0.154201
+          }
+        }
+      }
+    }
+  ]
+}

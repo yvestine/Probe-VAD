@@ -1,0 +1,892 @@
+{
+  "0": {
+    "caption": "A person is walking a dog on a leash in a residential area. The dog is small and black, and the person is wearing a white shirt and blue shorts. They are walking on a sidewalk next to a street with cars parked on it. There are trees and houses in the background.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a small building with a green roof, and some trees. There is a person walking on the sidewalk in the background. The camera angle remains static throughout the segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person is walking on a sidewalk next to a fence. They are wearing a white shirt and black pants. The person is walking from left to right. There is a puddle of water on the sidewalk. There is a palm tree in the background.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence, a small structure, and a palm tree. The ground is paved with stones. At 10:54:52, a person wearing dark clothing walks from the left side of the frame towards the right, passing behind the fence. The person's shadow is visible on the ground. There are no other significant actions or interactions in the video.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a walkway, and some greenery. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. The individual appears to be carrying something in their hand. The person's shadow is visible on the ground due to the sunlight. There are no other discernible actions or interactions between entities.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a walkway, and some greenery. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. The person appears to be carrying something in their hand. There is no visible interaction with other entities or objects, and the motion is consistent throughout the sequence.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence and a pathway. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right, passing by the fence. The ground appears to be made of concrete or stone, and there are shadows indicating that it is daytime. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. The person appears to be carrying something in their hand. As they approach the center of the frame, they bend down, possibly to pick up or place something on the ground. The person then stands back up and continues walking towards the right side of the frame.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. The timestamp indicates the footage was taken on September 28, 2015, at 19:57:43. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. They appear to be carrying something in their hands. As they approach the fence, they bend down and interact with an object on the ground, which could be a small animal or a piece of litter. The person then stands up and continues walking away from the fence.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. The person appears to be carrying something in their hand. There are no other visible entities or actions in the video.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the center, where a black dog is standing. The person appears to be holding something in their hand, possibly food, as they approach the dog. The dog remains stationary throughout the interaction. The environment includes a paved ground, some greenery, and a palm tree in the background.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence. A person wearing a white shirt and dark pants is seen walking from the left side of the frame towards the right, passing by the fence. The ground appears to be made of concrete, and there are shadows indicating it might be daytime. There is no visible interaction with other entities or objects, and the person's actions do not show any escalation or instability.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence. There is a person wearing a red shirt and dark pants walking from left to right across the frame. The ground appears to be made of concrete, and there are shadows indicating it might be daytime. The person walks at a steady pace without any noticeable interactions or changes in motion.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person wearing a red shirt and blue jeans is walking on a sidewalk. They are carrying a black bag. The person walks from left to right across the frame. There is a metal fence in the foreground and a palm tree in the background.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a person wearing a blue shirt and dark pants walking on a sidewalk. They are carrying a bag in their right hand. The person is walking towards the camera, and there is a metal fence on the left side of the frame. There is a palm tree in the background. The person's motion is steady and purposeful.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person is seen walking on a sidewalk next to a metal fence. They are wearing a hat and carrying a bag. The person walks from left to right across the frame.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a person is seen walking on a sidewalk. The person is wearing a red shirt and blue jeans. They are walking towards a metal gate. The gate is located in front of a building with a green roof. There is a palm tree next to the building. The person walks through the gate and enters the building.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing a white shirt and dark pants. The person walks down the stairs and out of frame.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence, a walkway, and some greenery. There is no visible movement or interaction between entities in the video segment.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area with a metal fence, a concrete ground, and a palm tree. There is no visible movement or interaction between entities in the video. The timestamp indicates that the footage was recorded on September 28, 2015, at 10:20:02 AM.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area with a metal fence, a concrete ground, and a palm tree. The timestamp indicates the footage was recorded on September 28, 2015, at 10:03:47 AM. There is no visible movement or interaction between entities in this segment.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. There is a palm tree visible in the background. The timestamp indicates the footage was recorded on September 28, 2015, at 10:03:47 AM. A person wearing a red shirt and dark pants walks from left to right across the frame, passing behind the fence. The person's pace appears steady, and there are no other significant actions or interactions observed in the video segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the right. The person appears to be carrying something in their hand. There is no visible interaction with other entities or objects, and there are no significant motion changes or escalations.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a red shirt and dark pants, walking along a pathway bordered by a metal fence. The person is carrying an object that appears to be a bag or a box. The ground is covered with gravel, and there are some green plants visible in the background. The person's pace is steady, and they do not interact with any other objects or people during the segment shown.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete ground, and a palm tree. A person wearing a red shirt and dark pants is seen walking from the left side of the frame towards the center. The individual appears to be carrying something in their hands. There is no visible interaction with other entities or objects, and the person's motion is steady and purposeful. No escalation or instability is observed in this segment.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a surveillance camera capturing a person wearing a red shirt and dark pants. The individual is seen climbing over a metal fence, moving from the left side of the frame to the right. The person's actions are deliberate and focused on the task of crossing the fence. There is no visible interaction with other entities or objects in the immediate vicinity. The environment appears to be a residential area with a palm tree and a building in the background. The timestamp indicates the footage was recorded on September 28, 2015, at 10:06:07 AM.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence. A person wearing a red shirt and dark pants is seen climbing over the fence from the right side of the frame towards the left. The person appears to be in motion, moving quickly and deliberately. There are no other visible entities or actions in the video.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete ground, and a palm tree. The timestamp indicates the footage was recorded on September 28, 2015, at 10:07:07 AM. There is no visible movement or interaction in the scene throughout the duration of the video.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area. The scene includes a metal fence, a small structure with a green roof, and a palm tree. There is no visible movement or interaction in the scene.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence, a concrete ground, and a palm tree. There is no visible movement or interaction in the scene.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "The video shows a surveillance camera view of an outdoor area. The scene includes a metal fence, a small structure with a green roof, and a palm tree. The ground is covered in gravel or small stones. There is no visible movement or interaction between entities. The camera remains stationary throughout the video segment.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a surveillance camera view of a fenced area with a palm tree in the background. The fence is made of metal bars and there is a gate at the entrance. The ground appears to be paved with concrete. There are no visible people or moving objects in the scene.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person is walking down a set of stairs. They are wearing dark clothing and have short hair. The stairs are made of concrete and have a metal railing on the side. There is a palm tree in the background.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence, a concrete walkway, and a palm tree. The timestamp indicates the footage was recorded on September 28, 2015, at 10:20:10. There is no visible movement or interaction in the scene, and no escalation or instability occurs during the segment shown.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. There is a shadow of a palm tree visible on the ground. The camera remains stationary throughout the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a surveillance camera capturing a scene with a metal fence, a concrete walkway, and a patch of grass. There is a shadow of a palm tree visible on the ground. The camera remains stationary throughout the video, and there are no discernible actions or interactions between entities.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. There is a palm tree visible in the background. The camera remains stationary throughout the video, capturing no movement or interaction between entities.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete walkway, and a patch of grass. A black cat is seen walking along the fence from left to right. The timestamp indicates the footage was recorded on September 28, 2015, at 10:20:12 AM. There are no other discernible actions or interactions in the video.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete floor, and a palm tree in the background. The time on the footage is 10:20:12 on 28-09-2015. Initially, there is no movement or activity. At 10:20:14, a person wearing dark clothing enters the frame from the right side and walks towards the center. They appear to be carrying something in their hand. The person then turns around and exits the frame to the left at 10:20:16.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a concrete floor, and a palm tree in the background. A person wearing a blue shirt and dark pants is seen walking from the left side of the frame towards the center. The person appears to be carrying something in their right hand. There are no other visible entities or actions in the video.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, a person is seen walking towards a metal gate. The individual appears to be wearing a dark-colored top and light-colored pants. They open the gate and proceed to walk through it. The surroundings include a paved area with some greenery and a palm tree visible in the background. The gate is situated between two buildings, and there's a small patch of grass on the ground.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "A man wearing a blue shirt and dark pants is seen walking towards a metal gate. He opens the gate and proceeds to walk through it. The gate is located on a concrete platform with a railing. There are palm trees visible in the background.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person is seen walking towards a metal gate. They reach out and open the gate, then proceed to walk through it.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person is seen walking towards a metal gate. They reach out and open the gate, then proceed to walk through it.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "A person is seen walking up a set of stairs. They are wearing a light-colored shirt and dark pants. The person is walking at a steady pace and appears to be alone. There is a metal railing on the right side of the stairs. The ground is made of concrete and there is a small patch of grass on the left side of the stairs.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person is standing in front of a metal gate. They are wearing a light-colored shirt and dark pants. The person is looking down at the gate. There is a palm tree in the background. The person does not move or interact with any other objects.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a person is seen standing on a balcony or terrace. They are facing away from the camera and appear to be looking out over a fence or railing. The person's actions are limited to standing still and occasionally shifting their weight or posture. There is no visible interaction with other entities or objects, and there are no significant motion changes or escalations in the scene.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "A person is standing on a balcony, looking down at the ground below. They are wearing a light-colored shirt and dark pants. The balcony has a metal railing and there is a palm tree visible in the background. The person remains stationary throughout the video.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there is a person standing on a balcony or terrace. The individual appears to be wearing a light-colored shirt and dark pants. They are facing away from the camera, looking out over a metal railing that separates the balcony from a steep drop or cliff. The ground below is rocky and uneven, with some vegetation visible in the distance. There is no significant motion or interaction with other entities in this segment of the video.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "In the video, a person is seen standing on a staircase. The individual appears to be wearing a light-colored shirt and dark pants. They are facing away from the camera, looking down the stairs. The surroundings include a metal railing, a concrete ground, and some greenery in the background. There is no significant motion or interaction with other entities visible in this segment of the video.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, a person is seen standing on a balcony. The individual appears to be wearing a light-colored shirt and dark pants. They are facing away from the camera, looking out over a railing. The surroundings include a palm tree and a rocky landscape. The person remains stationary throughout the video, with no significant motion or interaction with other entities.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, a person is seen walking on a sidewalk. The individual is wearing a light-colored shirt and dark pants. They are walking from left to right across the frame. There is a metal fence on the right side of the sidewalk, and a palm tree can be seen in the background. The ground appears to be made of concrete or stone. The person's pace is steady, and they do not appear to be interacting with anything else in the scene.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area. A person is seen walking towards a metal gate, which they proceed to open and step through. The individual appears to be wearing a light-colored shirt and dark pants. The surroundings include a paved ground, a palm tree, and a building with a green roof. The timestamp on the footage indicates it was recorded on September 28, 2015, at 10:20:20 AM.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence. A person wearing a light-colored shirt and dark pants is seen walking towards the fence, then bending down to interact with something on the ground near the fence. The person appears to be engaged in an activity that involves bending over and reaching towards the ground. The surroundings include a paved walkway, greenery, and a palm tree. The time stamp indicates the footage was captured on September 28, 2015, at 10:20:19 PM.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "In the video, a person is seen attempting to climb over a metal fence. The individual is wearing a light-colored shirt and dark pants. They are using their hands and feet to pull themselves up and over the fence. The motion is slow and deliberate, with the person carefully placing their limbs on the fence for support. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "In the video, a person is seen attempting to climb over a metal fence. The individual is wearing dark clothing and appears to be in motion as they try to navigate the fence. The surroundings include a paved area with some greenery visible in the background.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "In the video, a person is seen crouching down near a metal fence. The individual appears to be interacting with something on the ground, possibly picking up or placing an object. The surroundings include a paved area and some greenery in the background. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a person wearing a blue shirt and dark pants, crouching near a metal fence. The individual appears to be interacting with the fence, possibly attempting to open or close it. The surroundings include a paved area with a palm tree in the background. The person's actions are deliberate and focused on the fence.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person wearing a blue shirt and red pants is seen climbing over a metal fence. They successfully climb over the fence and land on the other side.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, a person is seen attempting to open a metal gate. The individual is wearing a blue shirt and dark pants. They are bending down and using their hands to manipulate the gate's locking mechanism. The surrounding area includes a paved ground with some greenery in the background.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person wearing a gray jacket and dark pants is seen attempting to open a metal gate. They struggle with the gate for a few moments before successfully opening it and walking through.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a person is seen walking towards a gate. The individual appears to be wearing a light-colored top and dark pants. They open the gate and proceed to walk through it. The surroundings include a paved area with a palm tree visible in the background.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "A person wearing a blue jacket and dark pants is seen walking up a set of stairs. They are carrying a white bag in their right hand. The person is walking at a steady pace and appears to be focused on their destination.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a person wearing a dark jacket and pants, walking briskly towards a metal gate. The individual appears to be in a hurry as they reach the gate and attempt to open it. The surroundings include a paved area with a palm tree visible in the background. The timestamp on the footage indicates that it was recorded on September 28, 2015, at 10:26:26 AM.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a person walking on a sidewalk next to a metal fence. The person is wearing dark clothing and appears to be carrying something in their hand. They walk from left to right across the frame, passing by a palm tree and a building with a green roof. The ground is paved, and there are shadows indicating it is daytime. The person's pace is steady, and they do not interact with any other objects or people.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area with a metal fence and a palm tree. A person is seen walking from the left side of the frame towards the right, passing by the fence. The person appears to be wearing dark clothing and moves at a steady pace. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a surveillance camera's perspective of an outdoor area with a metal fence, a paved ground, and some greenery in the background. The timestamp indicates the footage was captured on September 28, 2015, at around 10:27 AM. There is no visible movement or action occurring throughout the segment.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a surveillance camera's view of an outdoor area with a metal fence, a concrete walkway, and a palm tree. The timestamp indicates the footage was recorded on September 28, 2015, at 10:29:28 AM. There is no visible movement or interaction between entities in the video segment provided.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a surveillance camera's perspective of a fenced area with a concrete floor. The fence is made of metal bars and there is a small structure, possibly a guardhouse or utility box, to the left. A palm tree is visible in the background, indicating an outdoor setting. The ground appears to be wet, suggesting recent rain. There are no people or moving objects visible in the footage.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a surveillance camera's perspective of a fenced area with a palm tree and a building in the background. The fence is made of metal bars, and there are no visible people or moving objects throughout the sequence. The timestamp indicates the footage was recorded on September 28, 2015, at 10:29:23 AM.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area. The scene includes a metal fence, a paved ground with visible cracks, and a palm tree to the right. There is no movement or interaction within the frame throughout the duration of the video.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area with a metal fence, a concrete ground, and a palm tree in the background. There is no visible movement or interaction between entities. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows a stationary view of an outdoor area with a metal fence, a concrete walkway, and a palm tree. There is no visible movement or interaction between entities in the scene.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no visible motion or interaction between entities. The scene remains unchanged throughout the segment.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "The video shows a stationary view of a fenced area with a palm tree in the background. The fence is made of metal bars and there is a small structure on the left side. The ground appears to be covered in gravel or dirt. There are no visible actions, interactions, or motion changes throughout the video segment.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area. The scene includes a metal fence, a concrete ground with visible cracks, and a palm tree to the right. There is no movement or interaction within the frame, and no escalation or instability is observed.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area. The scene includes a metal fence, a concrete walkway, and a small patch of grass with a palm tree. There is no visible movement or interaction between entities in the video.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "The video shows a stationary view of a fenced area with a palm tree and a building in the background. There is no visible motion or interaction between entities.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "The video shows a stationary view of a fenced area with a palm tree in the background. The fence is made of metal bars and there are no visible people or moving objects. The ground appears to be covered in dirt or gravel, and there is a small structure with a green roof on the left side of the frame. The timestamp indicates that the footage was recorded on September 28, 2015, at 10:34:07 AM.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a stationary surveillance camera capturing a fenced area with a palm tree and a building in the background. There is no visible movement or interaction within the frame, and the scene remains unchanged throughout the duration of the provided footage.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "The video shows a surveillance camera view of an outdoor area with a metal fence, a palm tree, and a building. The camera remains stationary throughout the video, capturing the scene without any significant motion or interaction between entities.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area with a metal fence, a palm tree, and a paved ground. There is no visible movement or interaction between entities in the video segment provided.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area with a metal fence, a palm tree, and a paved ground. There are no visible actions or interactions, and the scene remains unchanged throughout the video.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a static shot of a metal gate with a fence behind it. The gate is closed, and there are no visible actions or interactions taking place. The environment appears to be a residential area with a palm tree in the background. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a static shot of an outdoor area with a metal fence, a palm tree, and a building in the background. There is no visible movement or interaction between entities. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a stationary surveillance camera view of an outdoor area with a metal fence, a palm tree, and a building in the background. There is no visible movement or interaction between entities. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a surveillance camera's view of a fenced area with a gate. The time is 10:39:38 on September 28, 2015. There are no visible actions or interactions in the video. The fence and gate remain stationary throughout the footage.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a stationary view of an outdoor area with a metal fence, a small structure resembling a gazebo, and a palm tree. The ground is covered with gravel or small stones. There are no visible actions or interactions, and the scene remains unchanged throughout the segment.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A person is seen walking down a set of stairs. They are wearing a white shirt and black pants. They are carrying a black bag in their right hand. The person walks down the stairs and out of frame.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

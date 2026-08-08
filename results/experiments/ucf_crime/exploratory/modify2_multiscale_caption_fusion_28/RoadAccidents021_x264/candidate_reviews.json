@@ -1,0 +1,266 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 80,
+      "quality": 0.762868,
+      "support_scales": [
+        8,
+        2,
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 16,
+          "end_frame": 144,
+          "center_frame": 80,
+          "quality": 0.762868
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 112,
+          "end_frame": 144,
+          "center_frame": 128,
+          "quality": 0.744118
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 80,
+          "end_frame": 144,
+          "center_frame": 112,
+          "quality": 0.694118
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 16,
+      "focus_end_frame": 144
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a parking lot with several vehicles, including a black pickup truck in the foreground. A person is seen walking towards the truck from the right side of the frame. The timestamp on the footage indicates it was recorded at 07:28:16.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "6s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 25,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 0,
+      "focus_end_frame": 89
+    },
+    "scales": {
+      "2s": {
+        "caption": "A person is seen walking towards a car, while another person is standing nearby.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.8333
+      },
+      "6s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.8333
+      },
+      "10s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 51,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 0,
+      "focus_end_frame": 115
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a parking lot with two trucks and a car parked in it. A person is seen walking towards the camera, while another person is standing near the black truck. The scene appears to be captured by a security camera.",
+        "direct_visual_score": 0.7,
+        "direct_visual_response": "[0.7]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 2.7
+      },
+      "6s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.7
+      },
+      "10s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 102,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 38,
+      "focus_end_frame": 155
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a parking lot with several vehicles parked. A black pickup truck is prominently visible in the foreground, and there are other cars parked nearby. The footage appears to be from a security camera, as indicated by the timestamp and the quality of the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.4,
+        "actual_end_seconds": 4.4
+      },
+      "6s": {
+        "caption": "The video shows a black pickup truck parked in a lot with two other vehicles. A person is seen walking towards the truck, followed by another individual carrying a bag. The first person opens the driver's side door and gets into the truck, while the second person walks away from the vehicle.",
+        "direct_visual_score": 0.4,
+        "direct_visual_response": "[0.4]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.4,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "caption": "A person walks towards a black truck, gets in, and drives away.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 128,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 64,
+      "focus_end_frame": 155
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a parking lot with several vehicles, including a black pickup truck in the foreground and a silver sedan parked behind it. The footage is taken from a stationary camera angle, and there are no significant movements or actions occurring throughout the sequence of images.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.1667
+      },
+      "6s": {
+        "caption": "The video shows a parking lot with several vehicles, including a black pickup truck in the foreground. The footage captures a person walking from the left side of the frame towards the right, passing by the parked vehicles. The person appears to be wearing dark clothing and is walking at a steady pace. The environment suggests it might be daytime due to the natural light present.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "caption": "A person is seen walking towards a car, while another person is walking away from the car.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1667
+      }
+    }
+  }
+}

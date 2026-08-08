@@ -1,0 +1,752 @@
+{
+  "0": {
+    "caption": "A person wearing a backpack is walking down a street. They are carrying a white object in their right hand. There are cars parked on both sides of the street. A motorcycle is parked on the right side of the street. The person walks past the parked cars and continues down the street.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "In the video, there is a person wearing a black jacket and carrying a backpack walking on a street. They are passing by parked cars, including a red car and a white car. There is also a bicycle parked on the side of the street. The person appears to be walking at a normal pace and does not interact with any other objects or people in the scene.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person wearing a black shirt and black pants is walking in a parking lot. They are carrying a black bag on their shoulder. There are several cars parked in the background, including a red car, a white car, and a silver car. A motorcycle is parked on the right side of the frame. The person walks from the left side of the frame to the right side of the frame.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A person wearing a black shirt and black pants with a backpack is walking down a street. They are carrying a white bag in their right hand. There are cars parked on both sides of the street. The person walks past a red car and a silver car. They continue walking down the street until they are out of frame.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car behind it. A person wearing dark clothing and carrying a backpack is walking from left to right across the frame. The person appears to be looking down at something in their hands. There is no visible interaction with other objects or people. The scene is static with no significant motion changes or escalations.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car behind it. A person wearing dark clothing and carrying a backpack is walking from the left side of the frame towards the center. The person appears to be looking around as they walk. There is no visible interaction with other entities or objects, and there are no significant motion changes or escalations.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car directly behind it. A person wearing dark clothing and carrying a backpack is walking from the left side of the frame towards the center. The person appears to be looking at something on the ground or possibly interacting with an object that is not visible in the footage. The person's pace is steady, and there is no indication of any unusual activity or interaction with other individuals or objects.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car directly behind it. A person wearing dark clothing is seen walking from the left side of the frame towards the center, where the red car is parked. The person appears to be carrying something in their right hand. The surroundings include a yellow chair on the right and a motorcycle parked further back. The ground is a light grey color, and the sky is not visible in the frame.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car directly behind it. A person wearing dark clothing is seen walking from the left side of the frame towards the center, where the red car is parked. The person appears to be carrying something in their right hand. The environment is mostly static with no significant motion or interaction between objects.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a white car in the foreground and a red car directly behind it. A person wearing dark clothing is walking towards the red car from the left side of the frame. The person appears to be carrying something in their right hand. The person reaches the red car and seems to interact with it, possibly opening the door or reaching inside. The person then walks away from the car towards the right side of the frame.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a parking lot with several parked cars, including a white car in the foreground and a red car directly behind it. A person wearing dark clothing is seen walking towards the red car from the left side of the frame. The person appears to be carrying something in their right hand. There is no visible interaction with other objects or people in the video segment provided.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a parking lot with several cars parked. A person wearing dark clothing is seen walking towards the camera, then turns and walks away. The person appears to be carrying something in their hand. There are no other significant actions or interactions visible in the video.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, a person is seen walking towards a red car parked in a lot. The individual appears to be wearing dark clothing and carrying a bag. The car is surrounded by other vehicles, including a white car parked directly behind it. There is also a motorcycle parked further away from the red car. The person seems to be approaching the car with purpose, possibly to open the door or retrieve something from inside.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A man wearing a white shirt and black pants is walking in a parking lot. He is carrying a black bag on his shoulder. He walks towards a red car parked next to a white car. There are other cars parked in the background.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a man is seen standing in front of a red car parked on the side of the road. He appears to be wearing a white shirt and black pants. The man is holding something in his hand and seems to be interacting with the car. There are other cars parked nearby, including a white car and a silver car. A motorcycle is also visible in the background. The man's actions suggest that he may be trying to open the car door or retrieve something from inside the vehicle.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A man in a white shirt and black pants is standing next to a red car. He is looking at his phone. There are two other cars parked nearby. A motorcycle is parked on the sidewalk. The man does not move from his position throughout the video.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, there is a man wearing a white shirt and black pants standing in a parking lot. He appears to be looking at something on the ground. There are several cars parked around him, including a red car directly behind him. The man does not move much throughout the video, but he seems to be inspecting the area.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A man is standing in a parking lot, looking at his phone. He is wearing a white shirt and black pants. There are cars parked on both sides of him. He takes a few steps forward and then stops. He looks around and then takes a few more steps forward. He stops again and looks at his phone. He then turns and walks away.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, a person is seen walking in a parking lot. The individual is wearing a white shirt and dark pants. They are carrying a bag on their shoulder. The parking lot has several cars parked, including a red car directly behind the person. There is also a motorcycle parked to the right side of the frame. The person walks from the left side of the frame towards the center, passing by the red car.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a parking lot with several parked cars. A person wearing a white shirt and dark pants is seen walking towards the camera. As they approach, two individuals on a motorcycle come into view from the right side of the frame. The person on the motorcycle appears to be gesturing or speaking to the person walking. The interaction seems casual, with no signs of aggression or unusual behavior.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a red car and a silver car. A person wearing a white shirt and dark pants is seen walking towards the red car. Another individual on a scooter approaches from the right side of the frame. The person on the scooter stops near the red car, and the two individuals appear to engage in a conversation. The person on the scooter then rides away, leaving the person in the white shirt standing by the red car.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a parking lot with several cars parked. A person on a scooter is seen approaching from the right side of the frame, moving towards the center where two individuals are standing. The person on the scooter stops near the two individuals, and they appear to engage in a conversation. The person on the scooter then turns around and rides away, exiting the frame to the left.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a silver car in the foreground and a red car behind it. A person on a scooter is seen approaching from the right side of the frame. The scooter rider appears to be wearing a blue shirt and dark pants. As the scooter gets closer, another individual, dressed in a white shirt and dark pants, is seen walking towards the scooter from the left side of the frame. The two individuals appear to interact briefly before the scooter rider continues moving forward. No other significant actions or interactions are visible in this segment of the video.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a street scene with parked cars and a person on a scooter. The individual on the scooter is wearing a blue shirt and dark pants, while the person walking alongside is dressed in a white shirt and dark pants. The scooter moves from left to right across the frame, and the pedestrian walks parallel to it. There are no other significant actions or interactions visible in this segment of the video.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are several parked cars, including a silver car in the foreground and a red car behind it. A person on a scooter is seen riding past the silver car from right to left. Another individual, wearing a white shirt and dark pants, is walking in the same direction as the scooter rider, carrying what appears to be a bag or briefcase. The person walking is closer to the camera than the scooter rider. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "In the video, there is a person riding a motorcycle with another person seated behind them. They are moving along a street lined with parked cars. A woman is walking alongside them, holding a phone to her ear. The motorcycle and the woman continue moving forward at a steady pace.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "In the video, there is a person on a motorcycle and another person standing next to a car. The person on the motorcycle is wearing a helmet and appears to be preparing to ride away. The person standing next to the car is holding a phone and seems to be engaged in a conversation. There are other vehicles parked nearby, including a red car and a white van. The scene takes place in a parking lot with a building in the background.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "In the video, there are two individuals standing next to a parked car. One person is wearing a white shirt and dark pants, while the other is dressed in a light-colored outfit. The person in the white shirt appears to be holding a phone to their ear, possibly engaged in a conversation. The individual in the light-colored outfit is standing beside a scooter, which is parked adjacent to the car. There is no visible motion or interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person is walking down the street. They are wearing a white shirt and black pants. They are carrying a black bag. There are cars parked on the side of the street. A man on a motorcycle approaches the person. The man on the motorcycle is wearing a helmet. The man on the motorcycle stops next to the person.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, there are three individuals and a motorcycle. The first person is standing next to a parked car, talking on a mobile phone. The second person is walking towards the motorcycle, while the third person is already seated on it. The motorcycle is stationary throughout the video. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A man on a motorcycle is stopped in the middle of a parking lot. A man in a blue shirt walks up to him and they begin talking. The man on the motorcycle gets off and continues talking with the man in the blue shirt.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, there are three individuals and a motorcycle. One person is standing next to a parked car, another is walking towards the motorcycle, and the third is already seated on the motorcycle. The person walking towards the motorcycle appears to be carrying something in their hand. There is no visible interaction between the individuals or any escalation of events.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A man in a blue shirt is walking towards the camera. He is carrying a black bag. A man on a motorcycle is parked next to him. The man on the motorcycle is wearing a white shirt and a black hat. There are cars parked in the background.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, there are three individuals in a parking lot. One person is wearing a white shirt and black pants, another is wearing a blue shirt and dark pants, and the third is wearing a light-colored outfit. The person in the white shirt appears to be holding something in their hand and is gesturing towards the other two. The person in the blue shirt seems to be walking away from the scene, while the person in the light-colored outfit is standing still. There are cars parked in the background, and a motorcycle is visible on the right side of the frame.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "In the video, there are three individuals and a motorcycle. The first person is standing next to a white car, facing away from the camera. The second person is standing beside the motorcycle, facing the first person. The third person is walking towards the motorcycle from the left side of the frame. There is no visible interaction between the individuals or any motion changes in the scene.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, there are three individuals and a motorcycle. The first person is standing next to a silver car, facing away from the camera. The second person is standing beside the motorcycle, facing the first person. The third person is standing behind the motorcycle, facing the first person. The motorcycle is stationary throughout the video. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "In the video, there are three individuals and a motorcycle. One person is standing next to a silver car, another is seated on the motorcycle, and the third is approaching them from the right side of the frame. The person on the motorcycle appears to be wearing a light-colored outfit, while the other two individuals are dressed in darker clothing. The person on the motorcycle seems to be stationary, and the individual approaching is walking towards them. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "In the video, there are three individuals and a motorcycle in a parking lot. One person is standing next to the motorcycle, another is standing beside a white car, and the third person is walking towards them. The person by the motorcycle appears to be wearing a light-colored shirt and dark pants, while the individual by the car is dressed in darker clothing. The person approaching is wearing a light-colored shirt and dark pants as well. There is no visible motion or interaction between the individuals, and the scene remains static throughout the video.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a parking lot with several cars parked, including a white car in the foreground and a red car behind it. There are two individuals visible: one wearing a light-colored shirt and dark pants, and another in a darker outfit. The person in the lighter attire is standing next to the white car, while the other individual is near a motorcycle. Both appear to be engaged in a conversation or interaction. The environment suggests an urban setting, possibly residential, with buildings and a clear sky visible in the background.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a parking lot with several cars parked. There are two individuals, one wearing a backpack and the other in traditional attire, standing near a white car. The person in traditional attire is holding a motorcycle helmet. They appear to be engaged in a conversation or interaction. The individual with the backpack seems to be gesturing towards the motorcycle. The scene is static with no significant motion or escalation.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, there are two men standing next to a parked car. One of them is wearing a backpack and appears to be talking to the other man who is sitting on a motorcycle. The man on the motorcycle then starts riding away, leaving the other man standing by the car.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, there are two men standing next to a parked car. One man is wearing a blue shirt and the other is wearing a white shirt. They appear to be engaged in a conversation. Then, a third person on a motorcycle approaches them from behind. The person on the motorcycle stops near the two men, and they all seem to interact briefly.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person is riding a motorcycle with another person on the back. They are driving down a street lined with parked cars. The person in front is steering the motorcycle, while the person behind is holding on. They continue to ride down the street, passing by other vehicles and buildings.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person is riding a motorcycle in a parking lot. There are several cars parked in the lot, including a white car, a red car, and a silver car. The person on the motorcycle is wearing a helmet and a backpack. They are riding slowly and carefully.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, there is a person riding a motorcycle in a parking lot. The person is wearing a helmet and is carrying a bag on their back. They are riding between two parked cars. There is another person standing next to a car, watching the motorcycle rider. The motorcycle rider passes by the person standing next to the car.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A man is riding a motorcycle in a parking lot. He is wearing a blue shirt and black pants. He is riding the motorcycle in a straight line. There are cars parked on both sides of the parking lot. The man rides the motorcycle past the parked cars.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, there are two men standing in a parking lot. One man is wearing a blue shirt and the other is wearing a white shirt. The man in the blue shirt is holding a gun and pointing it at the man in the white shirt. The man in the white shirt is standing still and looking at the man with the gun. There are several cars parked in the background.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A person on a motorcycle is seen riding down the street, passing by the parked cars. The person appears to be wearing a helmet and is riding at a moderate speed. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A red car is positioned in the middle of the frame, and a white car is parked to its left. There is a bicycle leaning against a wall on the right side of the frame. The scene is static, with no visible motion or interaction between entities.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a static scene of a parking lot with several cars parked in a row. There is no visible movement or interaction between the objects. The cars are stationary, and there are no people or other entities present in the frame.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows a static scene of a parking lot with several cars parked in a row. There is no visible motion or interaction between the objects. The cars are parked parallel to each other, and there is a motorcycle parked on the side. The scene appears to be captured from a surveillance camera, as indicated by the timestamp and the quality of the footage.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a static scene of a parking lot with several parked cars. There is no visible movement or action taking place in the footage.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a static scene of a parking lot with three cars parked in a row. The first car is white, the second is red, and the third is silver. There is a motorcycle parked to the right of the silver car. The ground appears to be made of concrete, and there are no visible people or moving objects throughout the duration of the video.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a static scene of a parking area with three cars parked in a row against a wall. The first car is white, the second is red, and the third is silver. There is a motorcycle parked to the right of the silver car. The ground appears to be made of concrete, and there are no visible people or moving objects throughout the sequence.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a static scene of a parking area with three cars parked in a row. The first car is white, the second is red, and the third is silver. There is a motorcycle parked to the right of the silver car. The ground appears to be made of concrete, and there are no visible people or moving objects throughout the duration of the video.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a static scene of a parking lot with several parked cars. There is no visible motion or interaction between entities, and the environment appears stable without any escalation or instability.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A red car is positioned in the middle of the frame, and a white car is parked to its left. There is a motorcycle parked on the right side of the frame. The scene is static, with no visible motion or interaction between entities.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A red car is positioned in the middle of the frame, and a white car is parked to its left. There is a motorcycle parked on the right side of the frame. The scene is static, with no visible motion or interaction between entities.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A white car is parked in a parking lot. A person wearing a white shirt and black pants walks towards the car from the left side of the frame. The person stops next to the car.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, there are two people standing next to a white car parked in a parking lot. The car is positioned between a red car and a yellow car. There is also a motorcycle parked nearby. The people appear to be engaged in a conversation.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "In the video segment, there are two individuals walking in a parking lot. They are moving from left to right across the frame. The parking lot has several parked cars, including a white car and a red car. There is also a motorcycle parked on the right side of the frame. The individuals appear to be casually strolling and do not interact with each other or any objects in the scene.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, there are two individuals walking in a parking lot. They are both wearing white shirts and dark pants. The person on the left is slightly ahead of the other. There are several parked cars in the background, including a red car, a white car, and a silver car. A motorcycle is parked near the red car. The individuals appear to be walking at a normal pace, and there is no visible interaction between them or with any other objects in the scene.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A white car is parked next to a red car, and there is a motorcycle parked further down the row. The camera angle remains static throughout the video.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a parking lot with several cars parked in a row. There is a white car on the left, followed by a red car and a silver car. A person wearing a white shirt and dark pants is walking from the left side of the frame towards the right, passing by the parked cars. The person appears to be walking at a normal pace. There is no visible interaction between the person and any other objects or individuals in the scene.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A white car is parked closest to the camera, followed by a red car and then a silver car further away. There is a motorcycle parked on the right side of the frame. The ground appears to be made of concrete, and there are no visible people or moving objects in the scene.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a parking lot with several cars parked in a row. There is a white car on the left, followed by a red car, and then a silver car further back. A person wearing a white shirt and dark pants is walking from the left side of the frame towards the right, passing behind the white car. The person appears to be carrying something in their right hand. There is also a motorcycle parked on the far right side of the frame. The scene is static with no significant motion or interaction between entities.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a parking lot with several cars parked in a row. There is a white car on the left, followed by a red car, and then a silver car further back. A person wearing dark clothing is walking from the left side of the frame towards the right, passing behind the white car. The person appears to be carrying something in their hand. There is also a motorcycle parked on the far right side of the frame. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a parking lot with several cars parked in a row. A white car is parked closest to the camera, followed by a red car and a silver car further back. There is a motorcycle parked on the right side of the frame. The ground appears to be made of concrete, and there are some scattered objects on the ground. No people or significant movement are visible in the frames provided.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a narrow alleyway with parked cars on both sides. There are at least three visible vehicles: a white car in the foreground, a red car behind it, and another white car further back. A person is seen walking from the left side of the frame towards the right, passing by the parked cars. The person appears to be wearing dark clothing. The ground is paved, and there is a motorcycle parked on the right side of the frame. No significant motion or interaction between objects or people is observed.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. There are three cars parked in the lot: a white car on the left, a red car in the center, and a silver car on the right. A person wearing a dark jacket and light pants is walking from the left side of the frame towards the red car. Another individual, dressed in a light-colored shirt and dark pants, appears from the right side of the frame and approaches the first person. The second person seems to be carrying a bag. Both individuals appear to engage in a conversation near the red car.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a parking lot with several cars parked in a row. There are two individuals standing near the white car on the left side of the frame, and one person is walking towards them from the right side. The person walking appears to be carrying a bag. The scene is static with no significant motion or interaction between the entities.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, there are two individuals standing near a white car parked on the side of the road. A red car is parked behind the white car. There is also a person walking on the sidewalk in the background. The individuals near the white car appear to be engaged in a conversation. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "In the video, there are two individuals standing near a white car parked on the side of the road. One person is wearing a light-colored shirt and dark pants, while the other is dressed in a dark jacket and light pants. The person in the dark jacket appears to be holding something in their hand. There is also a red car parked behind the white car. The scene is static with no significant motion or interaction between the individuals or objects.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A person is walking down a street. There are cars parked on the side of the road. A man is standing on a balcony, watching the person walk. The man is wearing a backpack and carrying a bag. He is looking down at the person walking.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, there are two individuals standing near a white car parked in a parking lot. A red car is parked behind the white car. There is also a person walking on the sidewalk next to the parking lot. The person walking is wearing a backpack and carrying a bag.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

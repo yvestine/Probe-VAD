@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 64,
+      "quality": 0.698707,
+      "support_scales": [
+        4,
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 32,
+          "end_frame": 96,
+          "center_frame": 64,
+          "quality": 0.698707
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 48,
+          "end_frame": 80,
+          "center_frame": 64,
+          "quality": 0.697414
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 32,
+          "end_frame": 160,
+          "center_frame": 96,
+          "quality": 0.555948
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 0,
+      "focus_end_frame": 128
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person walking through an empty classroom. The camera is positioned above the desks, providing a bird's eye view of the room. The person walks from one end of the room to the other, passing by rows of blue chairs and wooden desks.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "6s": {
+        "caption": "A man in a red shirt walks across the room, followed by another man. The first man stops and turns around, while the second man continues walking.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.1333
+      },
+      "10s": {
+        "caption": "Two men are walking in a classroom. One man is wearing a red shirt and the other is wearing a white shirt. The man in the red shirt walks to the right side of the room, turns around, and walks back to the left side of the room.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 1024,
+      "quality": 0.538146,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 896,
+          "end_frame": 1152,
+          "center_frame": 1024,
+          "quality": 0.538146
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 928,
+          "end_frame": 1248,
+          "center_frame": 1088,
+          "quality": 0.526121
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 960,
+      "focus_end_frame": 1088
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a red shirt standing in front of a counter. He is not moving or interacting with anyone.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "6s": {
+        "caption": "The video shows a man in a red shirt standing in front of a counter. He is seen adjusting his pants and then crossing his arms.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1333,
+        "actual_end_seconds": 37.1333
+      },
+      "10s": {
+        "caption": "The video shows a man in a red shirt standing in a room with chairs. He is seen leaning against a counter, then crossing his arms and looking around.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 39.1333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 331,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 267,
+      "focus_end_frame": 395
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person walking through a classroom.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.0333,
+        "actual_end_seconds": 12.0333
+      },
+      "6s": {
+        "caption": "The video shows a man walking through a classroom. He is seen walking down the aisle, then turning around and walking back.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.0333,
+        "actual_end_seconds": 14.0333
+      },
+      "10s": {
+        "caption": "A man in a grey shirt walks into a classroom and sits down at a desk.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 16.0333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 662,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 598,
+      "focus_end_frame": 726
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person sitting at a table in an empty room.",
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.0667,
+        "actual_end_seconds": 23.0667
+      },
+      "6s": {
+        "caption": "The video shows a man sitting at a table in an empty room. He is reading a book and occasionally looking up.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.0667,
+        "actual_end_seconds": 25.0667
+      },
+      "10s": {
+        "caption": "The video shows a man sitting at a table in an empty room. He is reading a book and occasionally looking up. The camera angle changes to show the room from above, revealing multiple tables and chairs.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.0667,
+        "actual_end_seconds": 27.0667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1323,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1259,
+      "focus_end_frame": 1387
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a room with tables and chairs. A person walks through the room.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.1,
+        "actual_end_seconds": 45.1
+      },
+      "6s": {
+        "caption": "The video shows a man in a red shirt leaning against a wall with his arms crossed. He then walks away from the camera and enters a room with tables and chairs. The man picks up a book from one of the tables and begins reading it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.1,
+        "actual_end_seconds": 47.1
+      },
+      "10s": {
+        "caption": "The video shows a man in a red shirt standing with his arms crossed, then walking away. Another man in a white shirt enters the room and sits down at a table.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.1,
+        "actual_end_seconds": 49.1
+      }
+    }
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "inference_inputs": [
+    "raw videos",
+    "VideoLLaMA3 model weights",
+    "Llama-3.1-8B-Instruct model weights"
+  ],
+  "comparison_inputs_used_only_after_prediction": [
+    "author refined scores",
+    "ground-truth temporal annotations"
+  ],
+  "overall": {
+    "author": {
+      "frames": 13936,
+      "positive_frames": 2999,
+      "mean_score": 0.243047,
+      "max_score": 1.0,
+      "peak_frame": 2708,
+      "peak_in_ground_truth": true,
+      "roc_auc": 0.611429,
+      "trapezoid_pr_auc": 0.304478,
+      "average_precision": 0.293888
+    },
+    "modify2_independent": {
+      "frames": 13936,
+      "positive_frames": 2999,
+      "mean_score": 0.327052,
+      "max_score": 0.915146,
+      "peak_frame": 13917,
+      "peak_in_ground_truth": false,
+      "roc_auc": 0.627656,
+      "trapezoid_pr_auc": 0.297413,
+      "average_precision": 0.300392
+    }
+  },
+  "per_video": [
+    {
+      "video_name": "Abuse028_x264",
+      "category": "Abuse",
+      "ground_truth_intervals": [
+        [
+          165,
+          240
+        ]
+      ],
+      "author": {
+        "frames": 1412,
+        "positive_frames": 76,
+        "mean_score": 0.205099,
+        "max_score": 0.7,
+        "peak_frame": 1008,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.531437,
+        "trapezoid_pr_auc": 0.043182,
+        "average_precision": 0.086364
+      },
+      "modify2_independent": {
+        "frames": 1412,
+        "positive_frames": 76,
+        "mean_score": 0.289784,
+        "max_score": 0.714096,
+        "peak_frame": 720,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.484045,
+        "trapezoid_pr_auc": 0.049069,
+        "average_precision": 0.060087
+      }
+    },
+    {
+      "video_name": "Arrest001_x264",
+      "category": "Arrest",
+      "ground_truth_intervals": [
+        [
+          1185,
+          1485
+        ]
+      ],
+      "author": {
+        "frames": 2374,
+        "positive_frames": 301,
+        "mean_score": 0.239511,
+        "max_score": 1.0,
+        "peak_frame": 1296,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.966442,
+        "trapezoid_pr_auc": 0.708324,
+        "average_precision": 0.694528
+      },
+      "modify2_independent": {
+        "frames": 2374,
+        "positive_frames": 301,
+        "mean_score": 0.311024,
+        "max_score": 0.837639,
+        "peak_frame": 1472,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.991302,
+        "trapezoid_pr_auc": 0.923862,
+        "average_precision": 0.925289
+      }
+    },
+    {
+      "video_name": "Arson009_x264",
+      "category": "Arson",
+      "ground_truth_intervals": [
+        [
+          220,
+          315
+        ]
+      ],
+      "author": {
+        "frames": 743,
+        "positive_frames": 96,
+        "mean_score": 0.372544,
+        "max_score": 0.7,
+        "peak_frame": 160,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.627512,
+        "trapezoid_pr_auc": 0.172635,
+        "average_precision": 0.187925
+      },
+      "modify2_independent": {
+        "frames": 743,
+        "positive_frames": 96,
+        "mean_score": 0.422833,
+        "max_score": 0.690479,
+        "peak_frame": 64,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.368882,
+        "trapezoid_pr_auc": 0.095411,
+        "average_precision": 0.111787
+      }
+    },
+    {
+      "video_name": "Assault011_x264",
+      "category": "Assault",
+      "ground_truth_intervals": [
+        [
+          375,
+          960
+        ]
+      ],
+      "author": {
+        "frames": 2288,
+        "positive_frames": 586,
+        "mean_score": 0.168531,
+        "max_score": 0.9,
+        "peak_frame": 304,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.557792,
+        "trapezoid_pr_auc": 0.299992,
+        "average_precision": 0.300801
+      },
+      "modify2_independent": {
+        "frames": 2288,
+        "positive_frames": 586,
+        "mean_score": 0.240639,
+        "max_score": 0.707459,
+        "peak_frame": 304,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.69557,
+        "trapezoid_pr_auc": 0.369987,
+        "average_precision": 0.383774
+      }
+    },
+    {
+      "video_name": "Burglary092_x264",
+      "category": "Burglary",
+      "ground_truth_intervals": [
+        [
+          240,
+          420
+        ]
+      ],
+      "author": {
+        "frames": 625,
+        "positive_frames": 181,
+        "mean_score": 0.12544,
+        "max_score": 1.0,
+        "peak_frame": 480,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.667967,
+        "trapezoid_pr_auc": 0.415128,
+        "average_precision": 0.415729
+      },
+      "modify2_independent": {
+        "frames": 625,
+        "positive_frames": 181,
+        "mean_score": 0.224007,
+        "max_score": 0.620206,
+        "peak_frame": 272,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.910663,
+        "trapezoid_pr_auc": 0.817365,
+        "average_precision": 0.824273
+      }
+    },
+    {
+      "video_name": "Explosion025_x264",
+      "category": "Explosion",
+      "ground_truth_intervals": [
+        [
+          260,
+          420
+        ]
+      ],
+      "author": {
+        "frames": 505,
+        "positive_frames": 161,
+        "mean_score": 0.076436,
+        "max_score": 0.5,
+        "peak_frame": 96,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.376995,
+        "trapezoid_pr_auc": 0.236262,
+        "average_precision": 0.322325
+      },
+      "modify2_independent": {
+        "frames": 505,
+        "positive_frames": 161,
+        "mean_score": 0.162626,
+        "max_score": 0.313053,
+        "peak_frame": 448,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.369556,
+        "trapezoid_pr_auc": 0.247838,
+        "average_precision": 0.272617
+      }
+    },
+    {
+      "video_name": "Fighting033_x264",
+      "category": "Fighting",
+      "ground_truth_intervals": [
+        [
+          570,
+          840
+        ]
+      ],
+      "author": {
+        "frames": 1105,
+        "positive_frames": 271,
+        "mean_score": 0.462534,
+        "max_score": 0.9,
+        "peak_frame": 96,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.748058,
+        "trapezoid_pr_auc": 0.428086,
+        "average_precision": 0.420213
+      },
+      "modify2_independent": {
+        "frames": 1105,
+        "positive_frames": 271,
+        "mean_score": 0.562114,
+        "max_score": 0.898912,
+        "peak_frame": 944,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.756305,
+        "trapezoid_pr_auc": 0.359563,
+        "average_precision": 0.380788
+      }
+    },
+    {
+      "video_name": "Normal_Videos_345_x264",
+      "category": "Normal",
+      "ground_truth_intervals": [],
+      "author": {
+        "frames": 209,
+        "positive_frames": 0,
+        "mean_score": 0.076555,
+        "max_score": 0.2,
+        "peak_frame": 0,
+        "peak_in_ground_truth": false,
+        "roc_auc": null,
+        "trapezoid_pr_auc": null,
+        "average_precision": null
+      },
+      "modify2_independent": {
+        "frames": 209,
+        "positive_frames": 0,
+        "mean_score": 0.077849,
+        "max_score": 0.120776,
+        "peak_frame": 208,
+        "peak_in_ground_truth": false,
+        "roc_auc": null,
+        "trapezoid_pr_auc": null,
+        "average_precision": null
+      }
+    },
+    {
+      "video_name": "RoadAccidents021_x264",
+      "category": "RoadAccidents",
+      "ground_truth_intervals": [
+        [
+          30,
+          90
+        ]
+      ],
+      "author": {
+        "frames": 155,
+        "positive_frames": 61,
+        "mean_score": 0.227742,
+        "max_score": 0.4,
+        "peak_frame": 48,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.587984,
+        "trapezoid_pr_auc": 0.626036,
+        "average_precision": 0.552618
+      },
+      "modify2_independent": {
+        "frames": 155,
+        "positive_frames": 61,
+        "mean_score": 0.262629,
+        "max_score": 0.271504,
+        "peak_frame": 32,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.8515,
+        "trapezoid_pr_auc": 0.817879,
+        "average_precision": 0.826332
+      }
+    },
+    {
+      "video_name": "Robbery106_x264",
+      "category": "Robbery",
+      "ground_truth_intervals": [
+        [
+          480,
+          600
+        ]
+      ],
+      "author": {
+        "frames": 1197,
+        "positive_frames": 121,
+        "mean_score": 0.193066,
+        "max_score": 0.9,
+        "peak_frame": 656,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.365599,
+        "trapezoid_pr_auc": 0.070079,
+        "average_precision": 0.084693
+      },
+      "modify2_independent": {
+        "frames": 1197,
+        "positive_frames": 121,
+        "mean_score": 0.274353,
+        "max_score": 0.590918,
+        "peak_frame": 304,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.211247,
+        "trapezoid_pr_auc": 0.062231,
+        "average_precision": 0.070404
+      }
+    },
+    {
+      "video_name": "Shooting037_x264",
+      "category": "Shooting",
+      "ground_truth_intervals": [
+        [
+          140,
+          260
+        ]
+      ],
+      "author": {
+        "frames": 305,
+        "positive_frames": 121,
+        "mean_score": 0.252459,
+        "max_score": 0.5,
+        "peak_frame": 272,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.521649,
+        "trapezoid_pr_auc": 0.376388,
+        "average_precision": 0.417084
+      },
+      "modify2_independent": {
+        "frames": 305,
+        "positive_frames": 121,
+        "mean_score": 0.236853,
+        "max_score": 0.340066,
+        "peak_frame": 16,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.133646,
+        "trapezoid_pr_auc": 0.251745,
+        "average_precision": 0.278943
+      }
+    },
+    {
+      "video_name": "Shoplifting031_x264",
+      "category": "Shoplifting",
+      "ground_truth_intervals": [
+        [
+          120,
+          330
+        ]
+      ],
+      "author": {
+        "frames": 447,
+        "positive_frames": 211,
+        "mean_score": 0.143177,
+        "max_score": 0.4,
+        "peak_frame": 352,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.444945,
+        "trapezoid_pr_auc": 0.438363,
+        "average_precision": 0.443042
+      },
+      "modify2_independent": {
+        "frames": 447,
+        "positive_frames": 211,
+        "mean_score": 0.146923,
+        "max_score": 0.206373,
+        "peak_frame": 384,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.887792,
+        "trapezoid_pr_auc": 0.75154,
+        "average_precision": 0.786633
+      }
+    },
+    {
+      "video_name": "Stealing062_x264",
+      "category": "Stealing",
+      "ground_truth_intervals": [
+        [
+          360,
+          1050
+        ]
+      ],
+      "author": {
+        "frames": 1560,
+        "positive_frames": 691,
+        "mean_score": 0.253333,
+        "max_score": 0.6,
+        "peak_frame": 336,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.529377,
+        "trapezoid_pr_auc": 0.454892,
+        "average_precision": 0.465594
+      },
+      "modify2_independent": {
+        "frames": 1560,
+        "positive_frames": 691,
+        "mean_score": 0.353773,
+        "max_score": 0.625894,
+        "peak_frame": 496,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.590268,
+        "trapezoid_pr_auc": 0.556481,
+        "average_precision": 0.564451
+      }
+    },
+    {
+      "video_name": "Vandalism017_x264",
+      "category": "Vandalism",
+      "ground_truth_intervals": [
+        [
+          270,
+          330
+        ],
+        [
+          780,
+          840
+        ]
+      ],
+      "author": {
+        "frames": 1011,
+        "positive_frames": 122,
+        "mean_score": 0.415232,
+        "max_score": 1.0,
+        "peak_frame": 304,
+        "peak_in_ground_truth": true,
+        "roc_auc": 0.693236,
+        "trapezoid_pr_auc": 0.239482,
+        "average_precision": 0.198274
+      },
+      "modify2_independent": {
+        "frames": 1011,
+        "positive_frames": 122,
+        "mean_score": 0.620238,
+        "max_score": 0.915146,
+        "peak_frame": 992,
+        "peak_in_ground_truth": false,
+        "roc_auc": 0.670029,
+        "trapezoid_pr_auc": 0.165287,
+        "average_precision": 0.201793
+      }
+    }
+  ]
+}

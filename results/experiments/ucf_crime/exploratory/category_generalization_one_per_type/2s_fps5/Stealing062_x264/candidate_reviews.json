@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 400,
+      "quality": 0.721429,
+      "support_scales": [
+        2,
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 384,
+          "end_frame": 416,
+          "center_frame": 400,
+          "quality": 0.721429
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 256,
+          "end_frame": 512,
+          "center_frame": 384,
+          "quality": 0.53125
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 224,
+          "end_frame": 544,
+          "center_frame": 384,
+          "quality": 0.521166
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 336,
+      "focus_end_frame": 464
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road with its tailgate down. A person wearing dark clothing is seen walking towards the back of the truck, while another individual in a lighter-colored outfit stands near the front of the vehicle. The person at the back of the truck appears to be interacting with the contents of the open tailgate area.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road with its tailgate down. There are at least three individuals present, two standing near the truck and one walking away from it. The person closest to the truck appears to be interacting with the open tailgate, possibly loading or unloading items. The environment is an outdoor setting with a dirt ground and sparse vegetation.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3333,
+        "actual_end_seconds": 16.3333
+      },
+      "10s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road with its tailgate down. There are three individuals in the scene: one person is standing near the open tailgate, another is walking towards the vehicle from the right side of the frame, and the third is walking away from the vehicle towards the left side of the frame. The ground appears to be dirt or gravel, and there are no other vehicles or significant objects in the immediate vicinity.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 976,
+      "quality": 0.61875,
+      "support_scales": [
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 944,
+          "end_frame": 1008,
+          "center_frame": 976,
+          "quality": 0.61875
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 944,
+          "end_frame": 1072,
+          "center_frame": 1008,
+          "quality": 0.585937
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 912,
+      "focus_end_frame": 1040
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person wearing blue overalls is seen standing next to the open tailgate of the truck, appearing to be engaged in some activity with items on the ground. The surroundings include a dirt area and a paved road.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "6s": {
+        "caption": "The video shows a white truck parked on the side of the road. A man in blue clothing is seen standing next to the truck, while another person is inside the truck's cargo area. The man in blue appears to be loading or unloading items from the truck.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5333,
+        "actual_end_seconds": 35.5333
+      },
+      "10s": {
+        "caption": "The video shows a white truck parked on the side of the road. A man in blue clothing is seen getting into the back of the truck. Another man, wearing a yellow shirt, is standing next to the truck. The man in blue then walks away from the truck.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 312,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 248,
+      "focus_end_frame": 376
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white van parked on the side of a road. Two individuals are standing near the back of the van, while another person is walking away from it. The scene appears to be captured by a security camera, as indicated by the timestamp and camera label visible in the footage.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 11.4
+      },
+      "6s": {
+        "caption": "In the video, a man is seen walking towards a parked truck. He then opens the back of the truck and retrieves something from it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.4,
+        "actual_end_seconds": 13.4
+      },
+      "10s": {
+        "caption": "The video shows a person walking towards a parked vehicle. Another person is seen standing near the vehicle, and a third person approaches from the opposite direction. The first person then opens the back of the vehicle and appears to be placing or retrieving something from it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 15.4
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 624,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 560,
+      "focus_end_frame": 688
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white truck parked on the side of a road. A person is seen standing next to the truck, while another person is inside the truck's cargo area. The person outside appears to be interacting with the person inside the truck.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen standing next to the open back of the truck, and another individual is standing nearby. The person at the back of the truck appears to be loading or unloading items from the truck bed.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.8,
+        "actual_end_seconds": 23.8
+      },
+      "10s": {
+        "caption": "The video shows a white truck parked on the side of the road. A person is seen getting into the back of the truck, and another person is standing nearby. The person in the back of the truck appears to be loading or unloading something from the truck bed.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1248,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1184,
+      "focus_end_frame": 1312
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white truck parked on the side of the road. A person is seen getting out of the truck and walking towards the camera.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.6,
+        "actual_end_seconds": 42.6
+      },
+      "6s": {
+        "caption": "The video shows a white pickup truck parked on the side of a road. A person is seen walking away from the vehicle, while another individual is standing near the open back of the truck. The surroundings appear to be a dirt area with some vegetation in the background.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.6,
+        "actual_end_seconds": 44.6
+      },
+      "10s": {
+        "caption": "The video shows a white van parked on the side of the road. A man is seen walking towards the van, while another person is standing next to it. The man approaches the van and appears to be interacting with the person standing there.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.6,
+        "actual_end_seconds": 46.6
+      }
+    }
+  }
+}

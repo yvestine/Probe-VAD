@@ -1,0 +1,43 @@
+{
+  "selection": "experiments/anticipation_two_per_category_28.json",
+  "num_videos": 28,
+  "num_anomaly_videos": 26,
+  "num_normal_videos": 2,
+  "evaluation": {
+    "implementation": "src.eval",
+    "frame_interval": 16,
+    "gaussian_sigma": 10.0,
+    "normal_label": 7
+  },
+  "methods": {
+    "author": {
+      "roc_auc": 0.838192365964827,
+      "pr_auc": 0.7784267451162287,
+      "max_f1": 0.7124087541368677
+    },
+    "modify2": {
+      "roc_auc": 0.8493072733434498,
+      "pr_auc": 0.6975832871925255,
+      "max_f1": 0.757410127445189
+    },
+    "vlm_only_dense_2s": {
+      "roc_auc": 0.7941636078836608,
+      "pr_auc": 0.5973872009585993,
+      "max_f1": 0.6675271147611253,
+      "roc_youden_threshold": 0.46090301899534036,
+      "pr_max_f1_threshold": 0.46090301899534036
+    }
+  },
+  "vlm_only_delta": {
+    "versus_author": {
+      "roc_auc": -0.0440287580811662,
+      "pr_auc": -0.1810395441576294,
+      "max_f1": -0.0448816393757424
+    },
+    "versus_modify2": {
+      "roc_auc": -0.055143665459789,
+      "pr_auc": -0.1001960862339262,
+      "max_f1": -0.0898830126840637
+    }
+  }
+}

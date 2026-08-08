@@ -1,0 +1,284 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 256,
+      "quality": 0.743015,
+      "support_scales": [
+        4,
+        2,
+        8,
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 224,
+          "end_frame": 288,
+          "center_frame": 256,
+          "quality": 0.743015
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 256,
+          "end_frame": 288,
+          "center_frame": 272,
+          "quality": 0.741912
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 208,
+          "end_frame": 336,
+          "center_frame": 272,
+          "quality": 0.66636
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 176,
+          "end_frame": 432,
+          "center_frame": 304,
+          "quality": 0.563172
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 64,
+          "end_frame": 384,
+          "center_frame": 224,
+          "quality": 0.525858
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 192,
+      "focus_end_frame": 320
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person walking through a store, passing by various items on display.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "6s": {
+        "caption": "The video shows a man in a blue shirt and hat standing at a counter. He is seen looking at something on the counter, then he turns around and walks away. The camera angle is from above, providing a bird's eye view of the scene.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5333,
+        "actual_end_seconds": 11.5333
+      },
+      "10s": {
+        "caption": "The video shows a person in a blue shirt and checkered hat standing at a counter, facing away from the camera. They appear to be interacting with someone or something on the counter. The environment suggests an indoor setting, possibly a store or office, with shelves stocked with various items in the background.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 91,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 27,
+      "focus_end_frame": 155
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a blue shirt and checkered hat standing at a counter. He is interacting with someone behind the counter, possibly making a purchase or asking for assistance. The man remains stationary throughout the video, while another person in a red shirt walks by in the background.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.0333,
+        "actual_end_seconds": 4.0333
+      },
+      "6s": {
+        "caption": "A man is sitting at a desk in an office, while two people are standing in front of him. The man gets up from his chair and walks towards the two people.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0333,
+        "actual_end_seconds": 6.0333
+      },
+      "10s": {
+        "caption": "A man is sitting at a desk in an office. He gets up and walks away from the desk.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.0333
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 152,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 88,
+      "focus_end_frame": 216
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man standing at a counter, while another person walks behind him.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 6.0667
+      },
+      "6s": {
+        "caption": "The video shows a man in a blue shirt and cap standing at a counter. He is interacting with someone off-camera. The man appears to be handling some items on the counter, possibly making a purchase or transaction.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.0667,
+        "actual_end_seconds": 8.0667
+      },
+      "10s": {
+        "caption": "The video shows a man in a blue shirt and hat standing at a counter. He is seen looking at something on the counter, then he turns around and walks away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 10.0667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 304,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 240,
+      "focus_end_frame": 368
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person in a store, with another person approaching them. The person in the store is seen standing at a counter, while the other person moves closer to them.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "6s": {
+        "caption": "A person is seen walking into a store and approaching the counter. They then proceed to grab something from the counter and run away with it.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1333,
+        "actual_end_seconds": 13.1333
+      },
+      "10s": {
+        "caption": "The video shows a man in a store. He is seen walking around and then sitting down at a desk.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 366,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 302,
+      "focus_end_frame": 430
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person in a store, who appears to be a customer, interacting with an employee. The customer is seen approaching the counter and engaging in a conversation with the employee. The customer then proceeds to take items from the counter and places them into a bag.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.2,
+        "actual_end_seconds": 13.2
+      },
+      "6s": {
+        "caption": "The video shows a person in a store, interacting with another individual. The person is seen handling items on the counter and then walking away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2,
+        "actual_end_seconds": 15.2
+      },
+      "10s": {
+        "caption": "The video shows a person in a store, who appears to be a customer, interacting with another individual, presumably an employee. The customer is seen approaching the counter and engaging in what seems to be a transaction or conversation. The employee is standing behind the counter, facing the customer. The customer's actions suggest they are either purchasing something or asking for assistance.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.2,
+        "actual_end_seconds": 15.2333
+      }
+    }
+  }
+}

@@ -1,0 +1,3384 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A man is standing in the doorway of a store, looking outside.",
+    "caption_5s": "A man is standing in the doorway of a store, looking outside. He appears to be waiting for someone or something.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He appears to be waiting for someone or something.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A man stands in the doorway of a store, looking outside, waiting for someone or something.",
+    "caption": "A man stands in the doorway of a store, looking outside, waiting for someone or something."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door. He remains stationary throughout the entire duration of the video, with no significant actions or movements taking place.",
+    "caption_5s": "A man is standing in the doorway of a store, looking outside. He appears to be waiting for someone or something.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He appears to be waiting for someone or something.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A man stands in the doorway of a store, looking outside, waiting for someone or something.",
+    "caption": "A man stands in the doorway of a store, looking outside, waiting for someone or something."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A man is standing in front of a store door, looking outside. He appears to be waiting for someone or something.",
+    "caption_5s": "A man is standing in a store, looking out the window. He is wearing a striped shirt and jeans. He is standing on a black and white checkered floor. There is a door mat in front of him. He is looking out the window for a few seconds before turning around and walking away.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He remains in this position for several seconds before turning around and walking away.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A man stands in the doorway of a store, wearing a striped shirt and jeans, on a black and white checkered floor with a door mat in front of him, looking outside for several seconds before turning around and walking away.",
+    "caption": "A man stands in the doorway of a store, wearing a striped shirt and jeans, on a black and white checkered floor with a door mat in front of him, looking outside for several seconds before turning around and walking away."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting or looking around, but there are no significant actions or events taking place.",
+    "caption_5s": "A man is standing in a store, looking out the window. He is wearing a striped shirt and jeans. He is standing still and looking out the window for a few seconds.",
+    "caption_10s": "The video shows a man standing in front of a glass door. He is seen looking outside the door for a while before finally opening it and stepping out.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in front of a store entrance, looking out the window for several seconds before opening the door and stepping out.",
+    "caption": "A man in a striped shirt and jeans stands in front of a store entrance, looking out the window for several seconds before opening the door and stepping out."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still with his hands in his pockets. There is no significant movement or action in the video.",
+    "caption_5s": "A man is standing in the doorway of a store, looking outside. He then turns around and walks away.",
+    "caption_10s": "A man is standing in a store, looking out the window. He then turns around and walks away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in a store doorway, looking outside, then turns around and walks away.",
+    "caption": "A man in a striped shirt and jeans stands in a store doorway, looking outside, then turns around and walks away."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The store's interior has checkered flooring and various items on display.",
+    "caption_5s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting or looking outside the store. There are no significant actions or movements observed in the video.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He remains still for a while before turning around and walking away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in the doorway of a store with checkered flooring, looking outside, before turning around and walking away.",
+    "caption": "A man in a striped shirt and jeans stands in the doorway of a store with checkered flooring, looking outside, before turning around and walking away."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a man standing at the entrance of a store, looking outside. He is wearing a striped shirt and jeans. The store has a checkered floor and there are shelves with products on them. The man appears to be waiting or observing something outside.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, looking outside. The individual appears to be waiting or observing something outside the store.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He remains in this position for the duration of the video.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A man stands in the doorway of a store, wearing a striped shirt and jeans, looking outside at a checkered floor with shelves of products behind him.",
+    "caption": "A man stands in the doorway of a store, wearing a striped shirt and jeans, looking outside at a checkered floor with shelves of products behind him."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The store's interior is visible with checkered flooring and various items on display.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, looking outside. The individual is wearing a striped shirt and dark pants. The store has a checkered black and white floor, and there are shelves with products visible in the background. The person remains stationary throughout the sequence, with no significant movement or interaction with other objects or people.",
+    "caption_10s": "The video shows a man standing in front of a glass door. He is looking outside and then turns around to face the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person stands at the entrance of a store, wearing a striped shirt and dark pants, looking outside with the store's checkered black and white floor and shelves with products visible in the background.",
+    "caption": "A person stands at the entrance of a store, wearing a striped shirt and dark pants, looking outside with the store's checkered black and white floor and shelves with products visible in the background."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual is wearing a horizontally striped shirt with alternating dark and light colors, paired with dark pants. The floor has a checkered pattern, predominantly black and white. There are shelves stocked with various items to the left of the entrance, and a blue trash bin is visible on the right side. The timestamp indicates the footage was captured on June 2nd, 2016, at 4:26 PM.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The store's interior has a checkered floor pattern and there are shelves with products visible in the background. The timestamp on the footage indicates it was recorded on June 2nd, 2016, at approximately 4:26 PM.",
+    "caption_10s": "The video shows a man standing in front of a glass door. He is wearing a striped shirt and jeans. The man is looking out the door, seemingly observing something outside. He remains stationary throughout the video, with no significant movement or action taking place.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A man stands in front of a store's glass door, wearing a horizontally striped shirt and jeans, looking out at something outside. The store's interior has a checkered floor pattern and shelves with products in the background. The footage was recorded on June 2nd, 2016, at approximately 4:26 PM.",
+    "caption": "A man stands in front of a store's glass door, wearing a horizontally striped shirt and jeans, looking out at something outside. The store's interior has a checkered floor pattern and shelves with products in the background. The footage was recorded on June 2nd, 2016, at approximately 4:26 PM."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The environment suggests an indoor setting with a checkered floor pattern and various items on shelves in the background.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, facing away from the camera. He is wearing a horizontally striped shirt with alternating colors and dark pants. The floor has a checkered pattern, and there are shelves with products on the left side of the frame. The timestamp indicates that the footage was recorded in the evening.",
+    "caption_10s": "A man is standing in the doorway of a store, looking outside. He then turns around and walks away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A man in a horizontally striped shirt and dark pants stands at the entrance of a store, facing away from the camera, in an indoor setting with a checkered floor and shelves in the background, before turning around and walking away.",
+    "caption": "A man in a horizontally striped shirt and dark pants stands at the entrance of a store, facing away from the camera, in an indoor setting with a checkered floor and shelves in the background, before turning around and walking away."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The store's interior has a checkered black and white floor, and there are shelves with products on the left side. The timestamp indicates that the footage was captured in the evening.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, facing away from the camera. He is wearing a horizontally striped shirt with alternating colors and dark pants. The floor has a checkered pattern of black and white tiles. There are no significant movements or actions taking place throughout the sequence of images.",
+    "caption_10s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the frame. The store's interior has a checkered black and white floor pattern, and there are shelves with various items on the left side. The timestamp indicates that the footage was recorded in the evening.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person, wearing a horizontally striped shirt and dark pants, stands at the entrance of a store, facing away from the camera, waiting or observing something outside, in the evening, with a checkered black and white floor and shelves with products on the left side.",
+    "caption": "A person, wearing a horizontally striped shirt and dark pants, stands at the entrance of a store, facing away from the camera, waiting or observing something outside, in the evening, with a checkered black and white floor and shelves with products on the left side."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, looking outside. The individual appears to be waiting or observing something outside the store.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, looking outside. He is wearing a striped shirt and dark pants. The floor has a checkered pattern, and there are shelves with products on the left side. The timestamp indicates that the footage was recorded in the evening.",
+    "caption_10s": "The video shows a person standing in front of a glass door, which appears to be the entrance to a store. The individual is wearing a striped shirt and dark pants. They are facing the door and seem to be waiting or observing something outside. The floor has a checkered pattern, and there are shelves with products on the left side of the frame. The timestamp indicates that the footage was recorded on June 2nd, 2016, at approximately 4:25 PM.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person, wearing a striped shirt and dark pants, stands in front of a glass door, which appears to be the entrance to a store, with checkered-patterned floor and shelves with products on the left side, looking outside on June 2nd, 2016, at approximately 4:25 PM.",
+    "caption": "A person, wearing a striped shirt and dark pants, stands in front of a glass door, which appears to be the entrance to a store, with checkered-patterned floor and shelves with products on the left side, looking outside on June 2nd, 2016, at approximately 4:25 PM."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting or observing something outside the store. There are no significant actions or movements throughout the video.",
+    "caption_5s": "The video shows a man standing in front of a glass door, looking outside. He is wearing a striped shirt and dark pants. The floor has a checkered pattern, and there are shelves with products on the left side. The timestamp indicates the date as June 2nd, 2016, and the time ranges from 4:26 PM to 4:28 PM.",
+    "caption_10s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the store. The footage is timestamped and seems to be taken from a security camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person, wearing a striped shirt and dark pants, stands in front of a store entrance, looking outside, on June 2nd, 2016, between 4:26 PM and 4:28 PM, with a checkered floor and shelves with products visible to the left.",
+    "caption": "A person, wearing a striped shirt and dark pants, stands in front of a store entrance, looking outside, on June 2nd, 2016, between 4:26 PM and 4:28 PM, with a checkered floor and shelves with products visible to the left."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a man standing at the entrance of a store, looking outside. He remains stationary throughout the sequence of images.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, looking outside. He remains stationary throughout the video, with no significant movement or change in his position.",
+    "caption_10s": "The video shows a man standing at the entrance of a store, looking outside. He is wearing a striped shirt and dark pants. The store has a checkered floor pattern, and there are shelves with products on the left side. The timestamp indicates that the footage was recorded on June 2nd, 2016, at 4:26 PM.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A man in a striped shirt and dark pants stands at the entrance of a store with a checkered floor, looking outside, wearing a stationary expression, with shelves of products on the left, on June 2nd, 2016, at 4:26 PM.",
+    "caption": "A man in a striped shirt and dark pants stands at the entrance of a store with a checkered floor, looking outside, wearing a stationary expression, with shelves of products on the left, on June 2nd, 2016, at 4:26 PM."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance, looking outside. He remains stationary throughout the video.",
+    "caption_5s": "A man is standing in a store, looking out the window. He is wearing a striped shirt and jeans. He is standing with his hands in his pockets. The store has a checkered floor.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still with his hands in his pockets. The store has a checkered floor and there are shelves with various items on them.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A man stands in front of a store's glass door, wearing a striped shirt and jeans, with his hands in his pockets, waiting in a store with a checkered floor and shelves with items.",
+    "caption": "A man stands in front of a store's glass door, wearing a striped shirt and jeans, with his hands in his pockets, waiting in a store with a checkered floor and shelves with items."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A man is standing in front of a glass door, looking outside.",
+    "caption_5s": "The video shows a man standing in front of a store entrance, looking out. He remains stationary throughout the video.",
+    "caption_10s": "A man is standing in a store, looking out the window. He is wearing a striped shirt and jeans. He is standing still for a few seconds, then he starts to walk towards the door. He opens the door and walks outside.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A man, wearing a striped shirt and jeans, stands in front of a store entrance, looking out the window. He remains stationary for a few seconds before walking towards the door, opening it, and exiting.",
+    "caption": "A man, wearing a striped shirt and jeans, stands in front of a store entrance, looking out the window. He remains stationary for a few seconds before walking towards the door, opening it, and exiting."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a man standing in front of a store, waiting for the door to open. He is seen repeatedly opening and closing the door while looking outside.",
+    "caption_10s": "The video shows a man standing in front of a glass door, looking outside. He is wearing a striped shirt and jeans. The floor has a checkered pattern. There are no other significant actions or events in the video.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in front of a store entrance, wearing a checkered floor, repeatedly opening and closing the glass door while looking outside.",
+    "caption": "A man in a striped shirt and jeans stands in front of a store entrance, wearing a checkered floor, repeatedly opening and closing the glass door while looking outside."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door. He remains stationary throughout the entire duration of the footage.",
+    "caption_5s": "The video shows a man standing in front of a store entrance, looking outside. He remains stationary throughout the video, with no significant movement or action taking place.",
+    "caption_10s": "A man is standing in a store, looking out the window. He then turns around and walks towards the door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A man stands in front of a store entrance, looking outside, then turns around and walks towards the door.",
+    "caption": "A man stands in front of a store entrance, looking outside, then turns around and walks towards the door."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door, looking outside. He remains stationary throughout the sequence of images.",
+    "caption_5s": "A man is standing in front of a glass door, looking outside. He then turns around and walks away.",
+    "caption_10s": "The video shows a man standing in front of a glass door, attempting to open it. He struggles with the door for a while before eventually managing to open it and stepping outside.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A man stands in front of a glass door, looking outside, then turns around, walks away, and later struggles to open the door before successfully stepping outside.",
+    "caption": "A man stands in front of a glass door, looking outside, then turns around, walks away, and later struggles to open the door before successfully stepping outside."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A man is standing in front of a store, looking out the window. He appears to be waiting for someone or something.",
+    "caption_5s": "The video shows a man standing in front of a glass door, attempting to open it. He is unsuccessful in his attempts and remains in the same position throughout the video.",
+    "caption_10s": "The video shows a man standing in front of a store, attempting to open the door. He tries multiple times but fails to do so. Eventually, he gives up and walks away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A man stands in front of a store, attempting to open the glass door, trying multiple times before giving up and walking away.",
+    "caption": "A man stands in front of a store, attempting to open the glass door, trying multiple times before giving up and walking away."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, presumably waiting to enter a building. The individual appears to be stationary and is not engaged in any other actions.",
+    "caption_5s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The store has a checkered floor, and there are shelves with products on the left side. The man appears to be waiting or looking outside.",
+    "caption_10s": "The video shows a man standing in front of a glass door, attempting to open it. He is unsuccessful at first, but eventually manages to push the door open and enters the building.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in front of a store entrance with a checkered floor, wearing a glass door with shelves of products on the left, waiting or looking outside before attempting to push the door open and entering the building.",
+    "caption": "A man in a striped shirt and jeans stands in front of a store entrance with a checkered floor, wearing a glass door with shelves of products on the left, waiting or looking outside before attempting to push the door open and entering the building."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still with his hands in his pockets.",
+    "caption_5s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still with his hands in his pockets. The store has a checkered floor pattern and there are shelves with products visible in the background.",
+    "caption_10s": "The video shows a man standing in front of a store entrance. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he stands still for a while. Eventually, he opens the door and steps outside.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands still with his hands in his pockets in front of a store's glass door with a checkered floor and shelves in the background, waiting for someone or something, before eventually opening the door and stepping outside.",
+    "caption": "A man in a striped shirt and jeans stands still with his hands in his pockets in front of a store's glass door with a checkered floor and shelves in the background, waiting for someone or something, before eventually opening the door and stepping outside."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door, holding it open with his right hand. He appears to be waiting for someone or something outside the door.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, looking outside. He appears to be waiting for someone or something. The store has a checkered floor and there are shelves with products visible in the background.",
+    "caption_10s": "The video shows a man standing in front of a glass door, attempting to open it. He seems to be struggling and eventually gives up, turning away from the door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A man stands in front of a glass door, holding it open with his right hand, waiting for someone or something outside, in a store with a checkered floor and shelves with products in the background.",
+    "caption": "A man stands in front of a glass door, holding it open with his right hand, waiting for someone or something outside, in a store with a checkered floor and shelves with products in the background."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and dark pants standing at the entrance of a store. The individual appears to be holding the door open with one hand while using the other hand to interact with something outside the frame, possibly a phone or another object. The store's interior has a checkered floor pattern, and there are shelves stocked with various items in the background.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, facing the glass door. The individual appears to be attempting to open the door by pushing against it with their hands. The person is wearing a horizontally striped shirt and dark pants. The floor has a checkered pattern, and there are shelves with products visible in the background.",
+    "caption_10s": "The video shows a person standing at the entrance of a store, facing outward. The individual is wearing a horizontally striped shirt with alternating colors and dark pants. They are standing on a black and white checkered floor mat. The store's interior has shelves stocked with various items, and there is a blue bin to the right. The person appears to be waiting or observing something outside the frame.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A person wearing a horizontally striped shirt and dark pants stands at the entrance of a store, facing outward on a black and white checkered floor mat, with shelves stocked with various items in the background, and appears to be waiting or observing something outside the frame.",
+    "caption": "A person wearing a horizontally striped shirt and dark pants stands at the entrance of a store, facing outward on a black and white checkered floor mat, with shelves stocked with various items in the background, and appears to be waiting or observing something outside the frame."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, attempting to open it. The individual is wearing a horizontally striped shirt with alternating colors and dark pants. They are facing the door, which has a handle and a sign above it. The floor has a checkered pattern, and there are various items on shelves in the background. The person's actions suggest they are trying to gain entry through the door.",
+    "caption_5s": "The video shows a person standing in front of a glass door, which appears to be the entrance to a store. The individual is wearing a horizontally striped shirt with alternating colors and dark pants. They are facing away from the camera, looking out through the glass door. The floor has a checkered pattern, and there are shelves with various items on them visible in the background. The timestamp indicates that the footage was recorded in the evening.",
+    "caption_10s": "The video shows a person standing at the entrance of a store, holding the door open. The individual appears to be waiting for someone or something outside. The store's interior has a checkered floor pattern and various items are visible on shelves. The timestamp indicates the footage was recorded in the evening.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person, wearing a horizontally striped shirt and dark pants, stands in front of a glass door, which has a handle and a sign above it, at the entrance of a store with a checkered floor and shelves with items in the background, recorded in the evening.",
+    "caption": "A person, wearing a horizontally striped shirt and dark pants, stands in front of a glass door, which has a handle and a sign above it, at the entrance of a store with a checkered floor and shelves with items in the background, recorded in the evening."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a horizontally striped shirt and dark pants standing in front of a glass door. The individual appears to be attempting to open the door, but it seems to be locked or stuck, as they are unable to push it open. The setting is an indoor space with a checkered black-and-white floor, and there are various items on shelves in the background. The timestamp on the footage indicates that it was recorded on June 2nd, 2016, at approximately 4:26 PM.",
+    "caption_5s": "The video shows a person standing in front of a glass door, attempting to open it. The individual is wearing a striped shirt and jeans. The door appears to be locked or stuck, as the person struggles to push it open. The surrounding area includes a checkered floor pattern and various items on shelves.",
+    "caption_10s": "The video shows a person standing inside a store, facing the glass door. The individual appears to be waiting or observing something outside. The store has a checkered floor pattern and various items are visible on shelves in the background. The person is wearing a horizontally striped shirt with alternating colors of red and white. The timestamp indicates that the footage was recorded in the evening.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person wearing a horizontally striped shirt and dark pants stands in front of a glass door in an indoor space with a checkered black-and-white floor, surrounded by items on shelves, on June 2nd, 2016, at approximately 4:26 PM, attempting to open the door, which appears to be locked or stuck.",
+    "caption": "A person wearing a horizontally striped shirt and dark pants stands in front of a glass door in an indoor space with a checkered black-and-white floor, surrounded by items on shelves, on June 2nd, 2016, at approximately 4:26 PM, attempting to open the door, which appears to be locked or stuck."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, attempting to open it. The individual is wearing a striped shirt and jeans. The setting appears to be a store with a checkered floor pattern. The person's actions are repetitive, as they seem to be struggling or hesitating before finally entering the store.",
+    "caption_5s": "The video shows a man standing in front of a store entrance, holding the door open. He appears to be waiting for someone or something.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He appears to be waiting for someone or something. As the video progresses, he opens the door and steps outside.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person, wearing a striped shirt and jeans, stands in front of a store's glass door, initially struggling or hesitating before finally entering, then later waits for someone or something, holding the door open, before stepping outside.",
+    "caption": "A person, wearing a striped shirt and jeans, stands in front of a store's glass door, initially struggling or hesitating before finally entering, then later waits for someone or something, holding the door open, before stepping outside."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, attempting to open it. The individual is wearing a striped shirt and jeans. The door appears to be locked or stuck, as the person struggles to push it open.",
+    "caption_5s": "The video shows a person standing in front of a glass door, holding it open. They are wearing a striped shirt and jeans. The floor is checkered black and white. The person appears to be waiting for someone or something outside the door.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something, as he repeatedly looks out the door. At one point, he opens the door slightly and looks outside.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in front of a store's glass door, wearing a checkered black and white floor, waiting for someone or something, occasionally looking out the door and attempting to open it, which appears to be locked or stuck.",
+    "caption": "A man in a striped shirt and jeans stands in front of a store's glass door, wearing a checkered black and white floor, waiting for someone or something, occasionally looking out the door and attempting to open it, which appears to be locked or stuck."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, looking outside. They are wearing a striped shirt and dark pants. The floor has a checkered pattern. The person appears to be waiting or observing something outside the door.",
+    "caption_5s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something. As the video progresses, he opens the door and steps outside.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is holding the door open and appears to be waiting for someone. Suddenly, a person runs towards the door and tries to break it down. The man quickly closes the door, preventing the intruder from entering the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A man stands in front of a store's glass door, wearing a striped shirt and jeans, waiting for someone. He holds the door open, then quickly closes it as a person runs towards it, trying to break it down.",
+    "caption": "A man stands in front of a store's glass door, wearing a striped shirt and jeans, waiting for someone. He holds the door open, then quickly closes it as a person runs towards it, trying to break it down."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "A man is standing in a store, pointing at something outside.",
+    "caption_5s": "A man is standing in the doorway of a store, pointing at someone outside. Suddenly, he is shot and falls to the ground.",
+    "caption_10s": "The video shows a man standing in front of a store, holding the door open. Suddenly, two men rush into the store and grab something from inside before running away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A man stands in front of a store, holding the door open, before two men rush in, grab something, and run away.",
+    "caption": "A man stands in front of a store, holding the door open, before two men rush in, grab something, and run away."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A man is standing in a store, pointing at the door. Suddenly, a person with a gun enters the store and points it at the man.",
+    "caption_5s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be waiting for someone or something. As the video progresses, he opens the door and steps outside.",
+    "caption_10s": "A man is seen standing in front of a store, holding the door open. Suddenly, two men rush into the store and steal something from the counter. The man who was holding the door open then closes it, preventing the robbers from escaping.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A man stands in front of a store, wearing a striped shirt and jeans, holding the door open. Two men rush in, steal from the counter, and the door holder closes it, blocking their exit.",
+    "caption": "A man stands in front of a store, wearing a striped shirt and jeans, holding the door open. Two men rush in, steal from the counter, and the door holder closes it, blocking their exit."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "A man is standing in a store, pointing at the door. Suddenly, a person enters the store and points a gun at him. The man remains still, seemingly unfazed by the situation.",
+    "caption_5s": "A man is standing in a store, pointing at the door. Suddenly, two people rush into the store and steal something from the counter.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is holding the door open and appears to be waiting for someone. Suddenly, a person runs towards the door and tries to break it down. The man quickly closes the door and prevents the intruder from entering the store.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A man stands in front of a store, holding the door open. He quickly closes it as a person runs towards it, attempting to break it down.",
+    "caption": "A man stands in front of a store, holding the door open. He quickly closes it as a person runs towards it, attempting to break it down."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A person is seen standing in front of a store, pointing at someone outside.",
+    "caption_5s": "The video shows a person standing in front of a store entrance, pointing at something outside. Another person enters the store and approaches the first person. The second person then exits the store and walks towards the first person.",
+    "caption_10s": "The video shows a man standing in front of a store, holding the door open. Suddenly, two armed robbers enter the store and start demanding items from the shelves. The man tries to stop them, but they overpower him and take what they want.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A person stands in front of a store, holding the door open, as another person enters and approaches them. The second person exits and walks towards the first, who is then seen being overpowered by two armed individuals who enter the store and demand items.",
+    "caption": "A person stands in front of a store, holding the door open, as another person enters and approaches them. The second person exits and walks towards the first, who is then seen being overpowered by two armed individuals who enter the store and demand items."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store and pointing a gun at the cashier.",
+    "caption_5s": "A man is seen standing in front of a store, pointing at something outside. He then proceeds to open the door and steps out, engaging in a physical altercation with another individual.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is wearing a striped shirt and jeans. The man appears to be trying to open the door, but it seems to be locked. He then tries to push the door open, but it doesn't budge. The man continues to struggle with the door for a few seconds before giving up and walking away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A man in a striped shirt and jeans stands in front of a store's glass door, trying to open it, but it's locked, so he struggles with it for a few seconds before walking away.",
+    "caption": "A man in a striped shirt and jeans stands in front of a store's glass door, trying to open it, but it's locked, so he struggles with it for a few seconds before walking away."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A man is seen standing in front of a store, holding the door open for someone.",
+    "caption_5s": "The video shows a man standing in front of a store's glass door. He is holding a gun and pointing it at someone outside the door. The man appears to be threatening the person outside, who is not visible in the video.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is holding the door open and appears to be waiting for someone. Another person approaches the door, and the man gestures towards them. The second person then enters the store, and the man closes the door behind them.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A man stands in front of a store's glass door, initially holding it open for someone, then gestures to another person who enters the store, and finally closes the door behind them.",
+    "caption": "A man stands in front of a store's glass door, initially holding it open for someone, then gestures to another person who enters the store, and finally closes the door behind them."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt and jeans standing at the entrance of a store. They are holding a gun and pointing it towards someone outside the door. The person outside appears to be trying to open the door, but the person inside is preventing them from entering by holding the door closed with one hand while aiming the gun with the other.",
+    "caption_5s": "The video shows a man in a striped shirt standing at the entrance of a store. He is holding a gun and pointing it towards someone outside. The person outside appears to be trying to open the door, but the man in the striped shirt is blocking their way.",
+    "caption_10s": "The video shows a person standing inside a store, facing the entrance. They are wearing a striped shirt and jeans. The person appears to be holding something in their hand and is looking outside. There is no significant movement or action taking place.",
+    "direct_visual_score": 0.8,
+    "direct_visual_response": "[0.8]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person in a striped shirt and jeans stands at the entrance of a store, holding a gun and aiming it towards someone outside, while blocking their entry with one hand.",
+    "caption": "A person in a striped shirt and jeans stands at the entrance of a store, holding a gun and aiming it towards someone outside, while blocking their entry with one hand."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt attempting to open a glass door. The individual struggles with the door, pushing and pulling at it. Eventually, they manage to open the door and exit the building.",
+    "caption_5s": "The video shows a person in a striped shirt attempting to open a glass door. They are unsuccessful at first, but eventually manage to open it and exit the building.",
+    "caption_10s": "The video shows a person standing in front of a store's glass door, pointing at something outside. Another person enters the frame and appears to be interacting with the first person. The second person then exits the frame, and the first person continues to point at something outside.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person in a striped shirt stands in front of a store's glass door, initially struggling to open it, but eventually succeeding and exiting the building after another person briefly interacts with them.",
+    "caption": "A person in a striped shirt stands in front of a store's glass door, initially struggling to open it, but eventually succeeding and exiting the building after another person briefly interacts with them."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt standing at the entrance of a store. They are holding the door open for someone outside, who is wearing a dark jacket and jeans. The person outside appears to be struggling with the door handle, trying to open it.",
+    "caption_5s": "The video shows a person in a striped shirt and dark pants standing at the entrance of a store. They are holding a gun and pointing it towards someone outside the store. The person outside is wearing a light-colored jacket and jeans. The person inside the store appears to be trying to open the door while still aiming the gun.",
+    "caption_10s": "The video shows a person standing in front of a store entrance, holding the door open. Another person enters the store and then exits. The person holding the door remains stationary throughout the video.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, initially holding the door open for someone outside who is struggling with the door handle. The person inside then points a gun at the person outside, who is wearing a light-colored jacket and jeans. The person inside remains stationary, still holding the door and aiming the gun, while the person outside enters and exits the store.",
+    "caption": "A person in a striped shirt stands at the entrance of a store, initially holding the door open for someone outside who is struggling with the door handle. The person inside then points a gun at the person outside, who is wearing a light-colored jacket and jeans. The person inside remains stationary, still holding the door and aiming the gun, while the person outside enters and exits the store."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 25.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and dark pants standing inside a store with a checkered floor. The individual is facing the entrance, where another person is seen outside attempting to break in through the glass door. The person inside reacts by pushing against the door, trying to prevent the intruder from entering. The struggle continues for a few moments before the intruder manages to get inside.",
+    "caption_5s": "The video shows a person in a striped shirt and dark pants standing inside a store with a checkered floor. They are facing the entrance door, which has a glass panel and a metal frame. The person appears to be holding something in their hand and is making gestures towards the outside. There is no clear indication of what is happening outside or why the person is behaving this way.",
+    "caption_10s": "The video shows a person standing inside a store, facing the entrance. The individual is wearing a striped shirt and dark pants. They are holding an object in their right hand, which they point towards the entrance. The entrance has a glass door with a metal frame, and there is a black mat on the floor in front of it. The interior of the store has checkered flooring and various items on shelves. The timestamp indicates that the footage was recorded in the evening.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "A person in a striped shirt and dark pants stands inside a store with a checkered floor, facing the entrance with a glass door and metal frame. They hold an object in their right hand and point it towards the entrance, where another person is attempting to break in through the glass door. The individual inside reacts by pushing against the door, trying to prevent the intruder from entering, and the struggle continues for a few moments before the intruder manages to get inside.",
+    "caption": "A person in a striped shirt and dark pants stands inside a store with a checkered floor, facing the entrance with a glass door and metal frame. They hold an object in their right hand and point it towards the entrance, where another person is attempting to break in through the glass door. The individual inside reacts by pushing against the door, trying to prevent the intruder from entering, and the struggle continues for a few moments before the intruder manages to get inside."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 25.8
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt and jeans entering a store through the front door. They are followed by another individual wearing a dark jacket. The person in the striped shirt appears to be holding something in their hand as they enter, and both individuals seem to be in a hurry.",
+    "caption_5s": "The video shows a person wearing a striped shirt and dark pants standing inside a store with a checkered floor. They are facing the glass door, which has a sign on it. The individual appears to be attempting to open the door by pushing against it with their hands. The person's actions suggest they might be trying to gain entry or exit through the door.",
+    "caption_10s": "The video shows a person inside a store, standing near the entrance. They are holding an object and appear to be interacting with someone outside the door. The person's actions suggest they might be trying to open or close the door, or possibly engaging in some form of communication with the individual outside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person in a striped shirt and jeans enters a store through the front door, followed by another individual in a dark jacket, and appears to be holding something in their hand as they enter, with both individuals seeming to be in a hurry. They are standing inside the store with a checkered floor, facing the glass door with a sign, and attempting to open it by pushing against it with their hands. The person is holding an object and interacting with someone outside the door, possibly",
+    "caption": "A person in a striped shirt and jeans enters a store through the front door, followed by another individual in a dark jacket, and appears to be holding something in their hand as they enter, with both individuals seeming to be in a hurry. They are standing inside the store with a checkered floor, facing the glass door with a sign, and attempting to open it by pushing against it with their hands. The person is holding an object and interacting with someone outside the door, possibly"
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 26.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and jeans, who appears to be attempting to open a glass door. The individual is seen pushing against the door with both hands, but it seems to be locked or stuck. The person's actions are repetitive, and they seem to be struggling with the door.",
+    "caption_5s": "The video shows a person in a striped shirt and jeans standing at the entrance of a store. They are holding a long, thin object, possibly a stick or a tool, and appear to be using it to interact with the glass door. The person's actions suggest they might be trying to open the door or manipulate something on it.",
+    "caption_10s": "The video shows a person inside a store, wearing a striped shirt and dark pants, standing near the entrance. The individual is seen holding an object in their right hand and appears to be interacting with someone outside the door. The person's actions suggest they are either handing something over or receiving an item from someone outside. The store has a checkered black and white floor, and there are shelves with products visible in the background. The timestamp on the footage indicates it was recorded in the afternoon of June 2nd, 2016.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A person in a striped shirt and dark pants, standing near the entrance of a store with a checkered black and white floor, is interacting with someone outside the door, possibly handing or receiving an item, while holding an object in their right hand, as they were previously seen struggling to open the glass door with both hands.",
+    "caption": "A person in a striped shirt and dark pants, standing near the entrance of a store with a checkered black and white floor, is interacting with someone outside the door, possibly handing or receiving an item, while holding an object in their right hand, as they were previously seen struggling to open the glass door with both hands."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    },
+    "caption_2s": "The video shows a man entering a store through the front door. He then proceeds to push the door open and walks inside.",
+    "caption_5s": "The video shows a man in a striped shirt attempting to open a glass door. He struggles with the door handle and eventually manages to open it.",
+    "caption_10s": "The video shows a person in a striped shirt attempting to open a glass door. They are unsuccessful at first, but eventually manage to open it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person in a striped shirt struggles to open a glass door, eventually succeeding after a brief effort.",
+    "caption": "A person in a striped shirt struggles to open a glass door, eventually succeeding after a brief effort."
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt and jeans attempting to break into a store. He uses a tool to pry open the glass door, but ultimately fails.",
+    "caption_5s": "The video shows a man in a striped shirt attempting to open a glass door. He uses his hands and body weight to push the door open, but it doesn't budge. He tries various techniques, including leaning against the door and using his legs, but the door remains closed.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door, attempting to open it. He uses his hands and body weight to push the door open, but it remains closed. The man continues to struggle with the door for several seconds before eventually giving up and walking away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A man in a striped shirt stands in front of a store's glass door, using various techniques to try and open it, including pushing with his hands and body weight, leaning against the door, and using his legs, but ultimately fails and walks away.",
+    "caption": "A man in a striped shirt stands in front of a store's glass door, using various techniques to try and open it, including pushing with his hands and body weight, leaning against the door, and using his legs, but ultimately fails and walks away."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 25.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 27.9333
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt and jeans attempting to break into a store. He uses a hammer to strike the glass door multiple times, but is unsuccessful in breaking it.",
+    "caption_5s": "A man is seen standing in front of a store, attempting to open the door. He tries multiple times, but the door remains closed. Eventually, he gives up and walks away.",
+    "caption_10s": "The video shows a person in a striped shirt standing inside a store, facing the entrance. They are holding an object and appear to be aiming it towards the outside. The person's stance suggests they are trying to protect the store or its contents.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person in a striped shirt stands in front of a store, attempting to open the door multiple times, but it remains closed. They eventually give up and walk away, then later return and try to break the glass door with a hammer, but are unsuccessful.",
+    "caption": "A person in a striped shirt stands in front of a store, attempting to open the door multiple times, but it remains closed. They eventually give up and walk away, then later return and try to break the glass door with a hammer, but are unsuccessful."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 25.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 28.4667
+      }
+    },
+    "caption_2s": "The video shows a man attempting to break into a store. He uses a hammer to strike the glass door multiple times, but ultimately fails to break it.",
+    "caption_5s": "A man is seen standing in front of a store, holding a gun and pointing it at someone outside. He then proceeds to shoot the person, who falls to the ground.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is holding a gun and pointing it at someone outside the door. The man appears to be trying to intimidate or threaten the person outside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A man stands in front of a store, holding a gun and pointing it at someone outside the door, attempting to intimidate or threaten them.",
+    "caption": "A man stands in front of a store, holding a gun and pointing it at someone outside the door, attempting to intimidate or threaten them."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 25.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 26.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 29.0
+      }
+    },
+    "caption_2s": "A man is seen standing in front of a store, holding a gun and pointing it at someone outside. He then proceeds to shoot the person.",
+    "caption_5s": "The video shows a man standing in front of a store's glass door. He is holding a gun and pointing it outside the door. The man appears to be trying to intimidate someone or something outside.",
+    "caption_10s": "A man is seen holding a gun and pointing it at someone outside the door. He then proceeds to shoot the person outside, who falls to the ground.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 25.0
+    },
+    "fused_caption": "A man stands in front of a store, holding a gun and pointing it at someone outside the glass door. He shoots the person, who falls to the ground.",
+    "caption": "A man stands in front of a store, holding a gun and pointing it at someone outside the glass door. He shoots the person, who falls to the ground."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 25.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 27.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 29.5333
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt standing at the entrance of a store. He is holding a gun and pointing it outside the door. The man appears to be aiming at someone or something outside the frame.",
+    "caption_5s": "A man is seen kneeling down in front of a store door, holding a gun and pointing it outside. He then stands up and continues to point the gun while looking outside.",
+    "caption_10s": "A man is seen standing in front of a store, holding a gun and pointing it at someone outside. He then proceeds to shoot the person outside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 25.5333
+    },
+    "fused_caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it outside. He kneels down, then stands up, continuing to point the gun while looking outside. He shoots someone outside before standing in front of the store, still holding the gun.",
+    "caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it outside. He kneels down, then stands up, continuing to point the gun while looking outside. He shoots someone outside before standing in front of the store, still holding the gun."
+  },
+  "752": {
+    "center_frame": 752,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.0667,
+        "actual_end_seconds": 26.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.5667,
+        "actual_end_seconds": 27.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.0667,
+        "actual_end_seconds": 30.0667
+      }
+    },
+    "caption_2s": "A man is seen standing in front of a store, holding the door open. Suddenly, another man runs towards him and pushes him to the ground.",
+    "caption_5s": "The video shows a man in a striped shirt and jeans standing at the entrance of a store. He is holding a gun and pointing it outside. Another person, wearing a dark jacket, approaches the entrance from the outside. The man with the gun remains stationary, aiming his weapon.",
+    "caption_10s": "A man is seen holding a gun and pointing it at someone outside the door. He then proceeds to shoot the person outside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.0667,
+      "actual_end_seconds": 26.0667
+    },
+    "fused_caption": "A man stands at the entrance of a store, holding a gun and aiming it outside. He remains stationary for a moment before shooting the person in the doorway.",
+    "caption": "A man stands at the entrance of a store, holding a gun and aiming it outside. He remains stationary for a moment before shooting the person in the doorway."
+  },
+  "768": {
+    "center_frame": 768,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 24.6,
+        "actual_end_seconds": 26.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.1,
+        "actual_end_seconds": 28.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 20.6,
+        "actual_end_seconds": 30.6
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a man standing in front of a store, holding a gun and pointing it at someone outside. The person outside is seen running away from the scene.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door. He is holding a phone and appears to be recording or taking pictures. Another person walks by outside the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 24.6,
+      "actual_end_seconds": 26.6
+    },
+    "fused_caption": "A person enters a store through the front door, while a man stands outside, holding a phone and recording or taking pictures, as another person walks by.",
+    "caption": "A person enters a store through the front door, while a man stands outside, holding a phone and recording or taking pictures, as another person walks by."
+  },
+  "784": {
+    "center_frame": 784,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.1333,
+        "actual_end_seconds": 27.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.6333,
+        "actual_end_seconds": 28.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.1333,
+        "actual_end_seconds": 31.1333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person standing in front of a glass door, holding a phone and looking at it. They then proceed to open the door and walk outside.",
+    "caption_10s": "The video shows a man standing in front of a store, holding the door open. He then proceeds to punch the glass of the door.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.1333,
+      "actual_end_seconds": 27.1333
+    },
+    "fused_caption": "A person enters a store through the front door, then stands in front of the same door, holding a phone and looking at it before opening it and walking outside. Later, the same door is held open by a man, who then punches the glass.",
+    "caption": "A person enters a store through the front door, then stands in front of the same door, holding a phone and looking at it before opening it and walking outside. Later, the same door is held open by a man, who then punches the glass."
+  },
+  "800": {
+    "center_frame": 800,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 25.6667,
+        "actual_end_seconds": 27.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.1667,
+        "actual_end_seconds": 29.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 21.6667,
+        "actual_end_seconds": 31.6667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person entering a store through the front door. The person is wearing a striped shirt and jeans. They are carrying a bag in their right hand. The person walks towards the counter and stops.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door, holding it open. He is wearing a striped shirt and jeans. The floor has a checkered pattern. The man appears to be waiting for someone or something.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 25.6667,
+      "actual_end_seconds": 27.6667
+    },
+    "fused_caption": "A person, wearing a striped shirt and jeans, enters a store through the front door, carrying a bag in their right hand, walks towards the counter, and stops in front of a checkered floor.",
+    "caption": "A person, wearing a striped shirt and jeans, enters a store through the front door, carrying a bag in their right hand, walks towards the counter, and stops in front of a checkered floor."
+  },
+  "816": {
+    "center_frame": 816,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.2,
+        "actual_end_seconds": 28.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 24.7,
+        "actual_end_seconds": 29.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.2,
+        "actual_end_seconds": 32.2
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door. The person is wearing a striped shirt and jeans. They are carrying a bag in their right hand. The person walks towards the counter and appears to be paying for something.",
+    "caption_5s": "The video shows a person entering a store through the front door. The person is wearing a striped shirt and jeans. They walk towards the counter, where another person is standing. The person at the counter appears to be interacting with the person who entered the store.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door, holding it open. He is wearing a striped shirt and jeans. Another person enters the frame from the right side and appears to be in distress or agitated. The first man then closes the door, preventing the second person from entering.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.2,
+      "actual_end_seconds": 28.2
+    },
+    "fused_caption": "A person wearing a striped shirt and jeans enters a store through the front door, carrying a bag in their right hand. They walk towards the counter, where another person is standing, and appear to be interacting. The scene is set in front of a store with a glass door, which is held open by a man in a striped shirt and jeans.",
+    "caption": "A person wearing a striped shirt and jeans enters a store through the front door, carrying a bag in their right hand. They walk towards the counter, where another person is standing, and appear to be interacting. The scene is set in front of a store with a glass door, which is held open by a man in a striped shirt and jeans."
+  },
+  "832": {
+    "center_frame": 832,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 26.7333,
+        "actual_end_seconds": 28.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.2333,
+        "actual_end_seconds": 30.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 22.7333,
+        "actual_end_seconds": 32.7333
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person entering a store through the front door. The store has a checkered floor and there is a mat in front of the door. The person appears to be alone and is wearing casual clothing.",
+    "caption_10s": "The video shows a man standing in front of a store's glass door, holding a phone and recording. He is wearing a striped shirt and jeans. Another person enters the frame from the right side, and they appear to be engaged in a conversation or interaction. The man with the phone continues to record while the other person gestures with their hands.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 26.7333,
+      "actual_end_seconds": 28.7333
+    },
+    "fused_caption": "A person enters a store through the front door, standing in front of a glass door with a checkered floor and a mat, wearing a striped shirt and jeans, while another person enters the frame and engages in a conversation or interaction, with the first person continuing to record on their phone.",
+    "caption": "A person enters a store through the front door, standing in front of a glass door with a checkered floor and a mat, wearing a striped shirt and jeans, while another person enters the frame and engages in a conversation or interaction, with the first person continuing to record on their phone."
+  },
+  "848": {
+    "center_frame": 848,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.2667,
+        "actual_end_seconds": 29.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7667,
+        "actual_end_seconds": 30.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.2667,
+        "actual_end_seconds": 33.2667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and dark pants standing inside a store, facing the entrance. The individual appears to be holding something in their right hand and is looking outside through the glass door. The floor has a checkered pattern, and there are various items on shelves in the background. The timestamp indicates that the footage was recorded on June 2nd, 2016, at 4:26 PM.",
+    "caption_5s": "The video shows a person in a striped shirt and dark pants standing at the entrance of a store. They are holding a device, possibly a phone or camera, and appear to be recording or taking pictures of something outside. The person's actions are deliberate and focused on capturing footage.",
+    "caption_10s": "The video shows a person in a striped shirt standing inside a store, facing the entrance. The floor has a checkered pattern and there is a mat at the entrance. The person appears to be holding something in their hand and looking outside. Another individual enters the frame from the outside, walking towards the person inside. The second person seems to be carrying an object that resembles a bag or package. The interaction between the two individuals is not clear due to the resolution of the images.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.2667,
+      "actual_end_seconds": 29.2667
+    },
+    "fused_caption": "A person in a striped shirt and dark pants stands inside a store, facing the entrance, holding a device and looking outside through the glass door. The floor has a checkered pattern, and there are items on shelves in the background. At 4:26 PM on June 2nd, 2016, another individual enters the frame from outside, walking towards the person inside, carrying a bag or package.",
+    "caption": "A person in a striped shirt and dark pants stands inside a store, facing the entrance, holding a device and looking outside through the glass door. The floor has a checkered pattern, and there are items on shelves in the background. At 4:26 PM on June 2nd, 2016, another individual enters the frame from outside, walking towards the person inside, carrying a bag or package."
+  },
+  "864": {
+    "center_frame": 864,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 27.8,
+        "actual_end_seconds": 29.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.3,
+        "actual_end_seconds": 31.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 23.8,
+        "actual_end_seconds": 33.8
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and dark pants, standing at the entrance of a store. They are holding a long object, possibly a stick or a tool, and appear to be using it to interact with the door or the area just outside the entrance. The person's actions suggest they might be trying to open the door, adjust something on the door frame, or perform some other task related to the door mechanism.",
+    "caption_5s": "The video shows a person wearing a striped shirt and dark pants standing inside a store with checkered flooring. The individual is holding an object in their right hand, which they extend towards the glass door. They appear to be interacting with someone outside the door, who is partially visible through the glass. The person inside the store seems to be gesturing or pointing at the individual outside.",
+    "caption_10s": "The video shows a person in a striped shirt standing inside a store, holding the door open. Another individual enters the frame from outside and appears to be in distress or agitated. The person in the striped shirt seems to be trying to assist or calm the individual down.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 27.8,
+      "actual_end_seconds": 29.8
+    },
+    "fused_caption": "A person in a striped shirt and dark pants stands at the entrance of a store, holding a long object and interacting with the door or area outside. They are later seen standing inside the store, holding the door open and attempting to calm down an agitated individual who enters from outside, while gesturing to someone outside the door.",
+    "caption": "A person in a striped shirt and dark pants stands at the entrance of a store, holding a long object and interacting with the door or area outside. They are later seen standing inside the store, holding the door open and attempting to calm down an agitated individual who enters from outside, while gesturing to someone outside the door."
+  },
+  "880": {
+    "center_frame": 880,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.3333,
+        "actual_end_seconds": 30.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 26.8333,
+        "actual_end_seconds": 31.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.3333,
+        "actual_end_seconds": 34.3333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a striped shirt and dark pants standing at the entrance of a store. The individual is seen opening the door, stepping outside briefly, and then returning inside. The floor has a checkered pattern, and there are various items on display within the store.",
+    "caption_5s": "The video shows a person in a striped shirt standing at the entrance of a store, holding a gun and pointing it outside. Another individual approaches from the outside, and they engage in a physical altercation. During the struggle, a third person enters the scene and appears to intervene.",
+    "caption_10s": "The video shows a person in a striped shirt standing inside a store, facing the entrance. The floor has a checkered pattern and there is a mat at the entrance. The person appears to be holding something in their hand and seems to be interacting with someone outside the door. As the video progresses, two more individuals enter the frame from the outside, approaching the person inside. The interaction between the individuals is not clear due to the resolution of the images.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.3333,
+      "actual_end_seconds": 30.3333
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, holding something in their hand and interacting with someone outside. The floor has a checkered pattern and a mat at the entrance. Two more individuals enter from the outside, approaching the person inside, as a third person enters the scene and appears to intervene.",
+    "caption": "A person in a striped shirt stands at the entrance of a store, holding something in their hand and interacting with someone outside. The floor has a checkered pattern and a mat at the entrance. Two more individuals enter from the outside, approaching the person inside, as a third person enters the scene and appears to intervene."
+  },
+  "896": {
+    "center_frame": 896,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 28.8667,
+        "actual_end_seconds": 30.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.3667,
+        "actual_end_seconds": 32.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 24.8667,
+        "actual_end_seconds": 34.8667
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt and dark pants standing at the entrance of a store. They are holding a door open for another individual who is wearing a light-colored jacket and dark pants. The second person steps inside the store, and the first person closes the door behind them.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, pointing a gun at someone outside. Another person enters the scene and tries to intervene, but the situation escalates as more people arrive.",
+    "caption_10s": "The video shows a man standing in front of a store, pointing at something. Another man enters the store and points at something as well. The first man then walks out of the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 28.8667,
+      "actual_end_seconds": 30.8667
+    },
+    "fused_caption": "A person in a striped shirt and dark pants stands at the entrance of a store, holding the door open for another individual. The second person steps inside, and the first person closes the door. A man then stands at the entrance, pointing a gun at someone outside. Another person enters, and the situation escalates as more people arrive. The man with the gun is later seen walking out of the store, after another man points at something inside.",
+    "caption": "A person in a striped shirt and dark pants stands at the entrance of a store, holding the door open for another individual. The second person steps inside, and the first person closes the door. A man then stands at the entrance, pointing a gun at someone outside. Another person enters, and the situation escalates as more people arrive. The man with the gun is later seen walking out of the store, after another man points at something inside."
+  },
+  "912": {
+    "center_frame": 912,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.4,
+        "actual_end_seconds": 31.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.9,
+        "actual_end_seconds": 32.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.4,
+        "actual_end_seconds": 35.4
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt standing at the entrance of a store. He is holding the door open for another person who is entering the store. The man in the striped shirt then closes the door behind the other person.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, holding a device and pointing it towards the outside. Another individual enters the frame from the right side and approaches the first person. A third person then joins them, and all three individuals seem to be engaged in some form of interaction or exchange.",
+    "caption_10s": "The video shows a man standing in front of a store, pointing at something. Another man enters the store and approaches him. The first man then pushes the second man out of the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.4,
+      "actual_end_seconds": 31.4
+    },
+    "fused_caption": "A man in a striped shirt stands at the entrance of a store, holding the door open for another person who enters, then closes the door behind them. Later, a person stands at the entrance, holding a device and interacting with two others who approach and join them. The scene unfolds with a man standing in front of the store, pointing, before a second man enters and is pushed out by the first.",
+    "caption": "A man in a striped shirt stands at the entrance of a store, holding the door open for another person who enters, then closes the door behind them. Later, a person stands at the entrance, holding a device and interacting with two others who approach and join them. The scene unfolds with a man standing in front of the store, pointing, before a second man enters and is pushed out by the first."
+  },
+  "928": {
+    "center_frame": 928,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 29.9333,
+        "actual_end_seconds": 31.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.4333,
+        "actual_end_seconds": 33.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 25.9333,
+        "actual_end_seconds": 35.9333
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt entering a store, followed by another man in a suit. The man in the suit appears to be holding something in his hand and is being confronted by the man in the striped shirt. A third person is also present in the scene.",
+    "caption_5s": "The video shows a man standing at the entrance of a store, holding a gun and pointing it towards someone outside. Another person enters the scene and tries to disarm him. A third person intervenes and helps to take the gun away from the first man.",
+    "caption_10s": "The video shows a man standing at the entrance of a store, pointing a gun at someone outside. Another person enters the scene and tries to take the gun from him. A third person also joins in, attempting to disarm the armed individual.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 29.9333,
+      "actual_end_seconds": 31.9333
+    },
+    "fused_caption": "A man in a striped shirt enters a store, followed by a man in a suit holding something in his hand. The man in the suit is confronted by the man in the striped shirt, while a third person is also present. The man in the suit is holding a gun and pointing it towards someone outside, prompting another person to enter and try to disarm him. A third person intervenes, helping to take the gun away from the first man.",
+    "caption": "A man in a striped shirt enters a store, followed by a man in a suit holding something in his hand. The man in the suit is confronted by the man in the striped shirt, while a third person is also present. The man in the suit is holding a gun and pointing it towards someone outside, prompting another person to enter and try to disarm him. A third person intervenes, helping to take the gun away from the first man."
+  },
+  "944": {
+    "center_frame": 944,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 30.4667,
+        "actual_end_seconds": 32.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 28.9667,
+        "actual_end_seconds": 33.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 26.4667,
+        "actual_end_seconds": 36.4667
+      }
+    },
+    "caption_2s": "A man in a striped shirt is seen holding a gun and pointing it at another man who is standing outside the door. The man with the gun then pushes the other man inside the building.",
+    "caption_5s": "A man in a striped shirt is standing at the entrance of a store, holding a gun and pointing it at someone outside. Another man approaches the entrance and tries to talk to him. The man with the gun then points it at the second man, who raises his hands in surrender.",
+    "caption_10s": "The video shows a man standing in front of a store, pointing at something. Another man enters the store and hands him something. The first man then hands the item to a third man who is standing outside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 30.4667,
+      "actual_end_seconds": 32.4667
+    },
+    "fused_caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it at someone outside. He then points it at another man who approaches, prompting the second man to raise his hands in surrender. The man with the gun then pushes the first man he was pointing at inside the building. The man in the striped shirt hands an item to a third man standing outside, who had previously entered the store and handed something to the man with the gun.",
+    "caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it at someone outside. He then points it at another man who approaches, prompting the second man to raise his hands in surrender. The man with the gun then pushes the first man he was pointing at inside the building. The man in the striped shirt hands an item to a third man standing outside, who had previously entered the store and handed something to the man with the gun."
+  },
+  "960": {
+    "center_frame": 960,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.5,
+        "actual_end_seconds": 34.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 37.0
+      }
+    },
+    "caption_2s": "A man in a suit is being held by two other men at gunpoint. They force him to go outside, and he complies.",
+    "caption_5s": "In the video, a man is seen entering a store. He then proceeds to attack another man who was inside the store. The attacker uses a stick to hit the victim multiple times.",
+    "caption_10s": "A man is seen standing in front of a store, pointing a gun at the door. Another man enters the store and points a gun at the first man. A third man then intervenes and disarms the second man.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.0,
+      "actual_end_seconds": 33.0
+    },
+    "fused_caption": "A man in a suit is being held by two other men at gunpoint and forced outside. He is then seen entering a store, where he attacks another man with a stick. The scene shifts to a man standing in front of the store, pointing a gun at the door, when another man enters and points a gun at him. A third man intervenes, disarming the second man, and the situation is resolved.",
+    "caption": "A man in a suit is being held by two other men at gunpoint and forced outside. He is then seen entering a store, where he attacks another man with a stick. The scene shifts to a man standing in front of the store, pointing a gun at the door, when another man enters and points a gun at him. A third man intervenes, disarming the second man, and the situation is resolved."
+  },
+  "976": {
+    "center_frame": 976,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 31.5333,
+        "actual_end_seconds": 33.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.0333,
+        "actual_end_seconds": 35.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 27.5333,
+        "actual_end_seconds": 37.5333
+      }
+    },
+    "caption_2s": "In the video, a man is seen holding a gun and pointing it at another person. The person being pointed at is standing in front of a store.",
+    "caption_5s": "A man in a striped shirt is seen holding the door open for another man who is wearing a suit. The man in the suit then walks through the door and exits the building.",
+    "caption_10s": "In the video, a man is seen standing in front of a store. He then proceeds to open the door and enters the store. Another man follows him inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 31.5333,
+      "actual_end_seconds": 33.5333
+    },
+    "fused_caption": "A man in a striped shirt holds the door open for another man in a suit, who then exits the building.",
+    "caption": "A man in a striped shirt holds the door open for another man in a suit, who then exits the building."
+  },
+  "992": {
+    "center_frame": 992,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.0667,
+        "actual_end_seconds": 34.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 30.5667,
+        "actual_end_seconds": 35.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.0667,
+        "actual_end_seconds": 38.0667
+      }
+    },
+    "caption_2s": "The video shows a man in a suit being held at gunpoint by two other men. They force him to enter a store and then proceed to rob it.",
+    "caption_5s": "The video shows a man in a striped shirt entering a store, followed by another man in a suit. The man in the suit appears to be holding something in his hand and is being confronted by the man in the striped shirt. The man in the suit then exits the store, followed by the man in the striped shirt.",
+    "caption_10s": "In the video, a man is seen standing in front of a store. He then proceeds to open the door and enters the store. Another man follows him inside, and they both stand at the entrance.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.0667,
+      "actual_end_seconds": 34.0667
+    },
+    "fused_caption": "A man in a striped shirt stands in front of a store, opens the door, and enters. He is followed by a man in a suit, who appears to be holding something in his hand. The two men stand at the entrance, then the man in the striped shirt confronts the man in the suit, who exits the store, followed by the man in the striped shirt.",
+    "caption": "A man in a striped shirt stands in front of a store, opens the door, and enters. He is followed by a man in a suit, who appears to be holding something in his hand. The two men stand at the entrance, then the man in the striped shirt confronts the man in the suit, who exits the store, followed by the man in the striped shirt."
+  },
+  "1008": {
+    "center_frame": 1008,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 32.6,
+        "actual_end_seconds": 34.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.1,
+        "actual_end_seconds": 36.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 28.6,
+        "actual_end_seconds": 38.6
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt and another in a dark suit standing at the entrance of a store. The person in the striped shirt is holding a gun and pointing it towards the person in the suit, who appears to be complying with the demands. The person in the striped shirt then moves away from the entrance, and the person in the suit follows.",
+    "caption_5s": "The video shows a man in a suit entering a store and approaching the cashier. He then proceeds to punch the cashier in the face, causing him to fall back. The man in the suit then walks away from the scene.",
+    "caption_10s": "The video shows a man in a striped shirt standing at the entrance of a store. He is holding a gun and pointing it towards someone outside. Another man, wearing a white shirt, approaches the entrance and tries to disarm him. The man in the striped shirt resists and pushes the other man away. The man in the white shirt then pulls out his own gun and points it at the man in the striped shirt. The two men stand face-to-face, both armed and ready to shoot.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 32.6,
+      "actual_end_seconds": 34.6
+    },
+    "fused_caption": "A man in a striped shirt points a gun at a man in a dark suit at the entrance of a store, who complies. The man in the striped shirt moves away, followed by the man in the suit. The man in the suit then enters the store, punches the cashier, and walks away. A man in a striped shirt stands at the entrance, holding a gun and pointing it at someone outside. A man in a white shirt approaches, tries to disarm him,",
+    "caption": "A man in a striped shirt points a gun at a man in a dark suit at the entrance of a store, who complies. The man in the striped shirt moves away, followed by the man in the suit. The man in the suit then enters the store, punches the cashier, and walks away. A man in a striped shirt stands at the entrance, holding a gun and pointing it at someone outside. A man in a white shirt approaches, tries to disarm him,"
+  },
+  "1024": {
+    "center_frame": 1024,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.1333,
+        "actual_end_seconds": 35.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.6333,
+        "actual_end_seconds": 36.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.1333,
+        "actual_end_seconds": 39.1333
+      }
+    },
+    "caption_2s": "The video shows a man in a white shirt entering a store, followed by two other men. The man in the white shirt then proceeds to hit another man with an object, causing him to fall to the ground.",
+    "caption_5s": "The video shows a person in a striped shirt standing at the entrance of a store, holding a device and interacting with two other individuals. The person in the striped shirt appears to be using the device to scan or interact with the other two individuals.",
+    "caption_10s": "In the video, a man is seen holding a gun and pointing it at another man who is standing in front of him. The man with the gun then proceeds to shoot the other man, causing him to fall to the ground.",
+    "direct_visual_score": 0.9,
+    "direct_visual_response": "[0.9]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.1333,
+      "actual_end_seconds": 35.1333
+    },
+    "fused_caption": "A man in a white shirt enters a store, followed by two others, and then strikes one of them with an object, causing him to fall. The incident occurs in a store, where a person in a striped shirt is seen interacting with others, possibly using a device to scan or communicate. The store setting is one where a violent confrontation unfolds, with a man shooting another man with a gun, resulting in the victim falling to the ground.",
+    "caption": "A man in a white shirt enters a store, followed by two others, and then strikes one of them with an object, causing him to fall. The incident occurs in a store, where a person in a striped shirt is seen interacting with others, possibly using a device to scan or communicate. The store setting is one where a violent confrontation unfolds, with a man shooting another man with a gun, resulting in the victim falling to the ground."
+  },
+  "1040": {
+    "center_frame": 1040,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 33.6667,
+        "actual_end_seconds": 35.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.1667,
+        "actual_end_seconds": 37.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 29.6667,
+        "actual_end_seconds": 39.6667
+      }
+    },
+    "caption_2s": "The video shows a person in a white shirt and dark pants entering a store through a glass door. They are followed by another individual wearing a black suit. The person in the white shirt appears to be holding something in their hand, possibly money or an item. The person in the black suit seems to be following closely behind.",
+    "caption_5s": "The video shows a person in a red and white striped shirt standing at the entrance of a store. Another individual, wearing a dark suit, is seen approaching from behind. The person in the striped shirt appears to be holding something in their hand, possibly money or an item. The person in the suit reaches out towards the person in the striped shirt, who then turns around and seems to be handing over the item. The person in the suit takes the item and steps back slightly.",
+    "caption_10s": "The video shows a man in a striped shirt entering a store. He is followed by another man wearing a suit, and then a third man in a white shirt. The man in the white shirt appears to be holding a gun and pointing it at the man in the striped shirt.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 33.6667,
+      "actual_end_seconds": 35.6667
+    },
+    "fused_caption": "A person in a striped shirt enters a store, followed by a man in a suit, and then a third man in a white shirt, who appears to be holding a gun and points it at the person in the striped shirt, as the man in the suit steps back slightly.",
+    "caption": "A person in a striped shirt enters a store, followed by a man in a suit, and then a third man in a white shirt, who appears to be holding a gun and points it at the person in the striped shirt, as the man in the suit steps back slightly."
+  },
+  "1056": {
+    "center_frame": 1056,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.2,
+        "actual_end_seconds": 36.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 32.7,
+        "actual_end_seconds": 37.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.2,
+        "actual_end_seconds": 40.2
+      }
+    },
+    "caption_2s": "The video shows a person in a white shirt and dark pants standing at the entrance of a store, holding a long object that appears to be a stick or a rod. The person is facing away from the camera, and there are two other individuals inside the store, one wearing a red and white striped shirt and the other in a black suit. The person with the stick seems to be interacting with the others, possibly in a confrontational manner.",
+    "caption_5s": "The video shows a person in a striped shirt and another in a white shirt entering a store. The person in the striped shirt appears to be holding something in their hand, while the person in the white shirt is holding a bag. They both seem to be looking at something inside the store.",
+    "caption_10s": "The video shows a man in a striped shirt entering a store, followed by another man in a dark jacket. The man in the striped shirt appears to be holding something in his hand and is gesturing towards the other man. The man in the dark jacket seems to be responding to the gestures of the first man.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.2,
+      "actual_end_seconds": 36.2
+    },
+    "fused_caption": "A person in a striped shirt enters a store, followed by a man in a white shirt holding a bag, and a third individual in a dark jacket. The person in the striped shirt is holding something in their hand and gestures towards the man in the dark jacket, who responds. The scene is set at the entrance of a store, where two other individuals, one in a red and white striped shirt and the other in a black suit, are visible inside.",
+    "caption": "A person in a striped shirt enters a store, followed by a man in a white shirt holding a bag, and a third individual in a dark jacket. The person in the striped shirt is holding something in their hand and gestures towards the man in the dark jacket, who responds. The scene is set at the entrance of a store, where two other individuals, one in a red and white striped shirt and the other in a black suit, are visible inside."
+  },
+  "1072": {
+    "center_frame": 1072,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 34.7333,
+        "actual_end_seconds": 36.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.2333,
+        "actual_end_seconds": 38.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 30.7333,
+        "actual_end_seconds": 40.7333
+      }
+    },
+    "caption_2s": "The video shows a man in a white shirt and dark pants standing at the entrance of a store, holding a long object that appears to be a stick or a rod. He is interacting with another person who is partially visible behind the counter. The man at the entrance seems to be gesturing or pointing with the object while talking to the person inside.",
+    "caption_5s": "The video shows a person in a striped shirt and another in a white shirt standing at the entrance of a store. The person in the striped shirt appears to be holding something in their hand, while the person in the white shirt is reaching out towards them. There is also a third person in a dark suit standing behind them.",
+    "caption_10s": "In the video, a man is seen entering a store and approaching the cashier. He then proceeds to pull out a gun and points it at the cashier. The man demands money from the cashier, who complies with his demands.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 34.7333,
+      "actual_end_seconds": 36.7333
+    },
+    "fused_caption": "A man in a white shirt and dark pants stands at the entrance of a store, holding a long object, and interacts with a person behind the counter, gesturing or pointing while talking. The scene is set in a store with a cashier, where a man in a white shirt enters, pulls out a gun, and demands money from the cashier, who complies.",
+    "caption": "A man in a white shirt and dark pants stands at the entrance of a store, holding a long object, and interacts with a person behind the counter, gesturing or pointing while talking. The scene is set in a store with a cashier, where a man in a white shirt enters, pulls out a gun, and demands money from the cashier, who complies."
+  },
+  "1088": {
+    "center_frame": 1088,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.2667,
+        "actual_end_seconds": 37.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.7667,
+        "actual_end_seconds": 38.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.2667,
+        "actual_end_seconds": 41.2667
+      }
+    },
+    "caption_2s": "The video shows a sequence of events where two individuals are seen at the entrance of a store. One person, wearing a striped shirt, is standing inside the store near the door, while another person, dressed in a light-colored top and dark pants, is outside the store. The person outside appears to be attempting to enter the store, but the person inside seems to be blocking or preventing them from entering. The interaction between the two individuals is the main focus of the video.",
+    "caption_5s": "The video shows a sequence of events where an individual is seen entering a store through a glass door. The person appears to be in a hurry and pushes the door open forcefully, causing it to swing back towards the interior. Another individual inside the store seems to be reacting to this action, possibly trying to prevent the door from swinging too far or to stabilize it.",
+    "caption_10s": "The video shows a sequence of events where three individuals are present in what appears to be a convenience store. The person wearing a striped shirt is standing near the entrance, while another individual in a dark jacket is facing them. A third person, dressed in a light-colored shirt, is also present and seems to be involved in the interaction. The person in the dark jacket appears to be gesturing or pointing towards the individual in the striped shirt. The environment includes checkered flooring, a glass door with signage, and various items on shelves in the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.2667,
+      "actual_end_seconds": 37.2667
+    },
+    "fused_caption": "Two individuals are seen at the entrance of a store: one person, wearing a striped shirt, is standing inside near the door, while another person, dressed in a light-colored top and dark pants, is outside, attempting to enter. The person inside seems to be blocking or preventing them from entering. The interaction is focused on the entrance, where a glass door with signage is located, amidst checkered flooring and various items on shelves in the background.",
+    "caption": "Two individuals are seen at the entrance of a store: one person, wearing a striped shirt, is standing inside near the door, while another person, dressed in a light-colored top and dark pants, is outside, attempting to enter. The person inside seems to be blocking or preventing them from entering. The interaction is focused on the entrance, where a glass door with signage is located, amidst checkered flooring and various items on shelves in the background."
+  },
+  "1104": {
+    "center_frame": 1104,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 35.8,
+        "actual_end_seconds": 37.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.3,
+        "actual_end_seconds": 39.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 31.8,
+        "actual_end_seconds": 41.8
+      }
+    },
+    "caption_2s": "The video shows a person in a striped shirt standing at the entrance of a store, holding the door open. Another individual, wearing a white shirt, is seen entering the store. The person in the striped shirt appears to be assisting or guiding the person in the white shirt inside.",
+    "caption_5s": "The video shows a sequence of events where a person is seen entering a store through a glass door. The individual appears to be wearing a light-colored shirt and dark pants. They are greeted by another person who is standing inside the store, dressed in a striped shirt. The two individuals engage in a brief interaction at the entrance before the person in the striped shirt steps aside, allowing the first person to enter the store.",
+    "caption_10s": "The video shows a sequence of events where three individuals are present in what appears to be a store. The first person, wearing a striped shirt, is seen holding an object and pointing it towards the second person, who is dressed in a dark suit. The third person, wearing a light-colored shirt, stands nearby observing the interaction. The first person then moves closer to the second person, who reacts by stepping back slightly. The third person remains stationary throughout the interaction.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 35.8,
+      "actual_end_seconds": 37.8
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, holding the door open, and is joined by another individual in a white shirt, who enters the store after a brief interaction.",
+    "caption": "A person in a striped shirt stands at the entrance of a store, holding the door open, and is joined by another individual in a white shirt, who enters the store after a brief interaction."
+  },
+  "1120": {
+    "center_frame": 1120,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.3333,
+        "actual_end_seconds": 38.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 34.8333,
+        "actual_end_seconds": 39.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.3333,
+        "actual_end_seconds": 42.3333
+      }
+    },
+    "caption_2s": "The video shows a timestamped security camera footage of an incident occurring at the entrance of a store. Two individuals are seen standing at the door, one wearing a striped shirt and the other in a white shirt. They appear to be engaged in a physical altercation, with the person in the striped shirt pushing against the door while the individual in the white shirt seems to be resisting or trying to hold the door closed. The floor has a checkered pattern, and there is a blue bin visible on the right side of the frame.",
+    "caption_5s": "The video shows a man in a white shirt and dark pants standing at the entrance of a store. He is holding a long object, possibly a stick or a tool, and appears to be using it to interact with the door or the area around it. Another person, wearing a striped shirt, is present inside the store, facing the man. The interaction seems to involve some form of manual labor or maintenance work near the door.",
+    "caption_10s": "The video shows a sequence of events where three individuals are present in what appears to be a store. The first person, wearing a striped shirt and jeans, is standing near the entrance. The second person, dressed in a dark suit, is positioned slightly behind the first person. The third individual, wearing a light-colored shirt, is seen approaching the entrance from outside. The person in the striped shirt opens the door for the person in the light-colored shirt, who then enters the store. The person in the dark suit remains stationary throughout the interaction.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.3333,
+      "actual_end_seconds": 38.3333
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, with a blue bin visible on the right side of the frame. They are joined by another individual, wearing a white shirt, who is holding a long object and appears to be interacting with the door or the area around it. A third person, dressed in a dark suit, is positioned behind the person in the striped shirt. The person in the white shirt enters the store, and the person in the striped shirt",
+    "caption": "A person in a striped shirt stands at the entrance of a store, with a blue bin visible on the right side of the frame. They are joined by another individual, wearing a white shirt, who is holding a long object and appears to be interacting with the door or the area around it. A third person, dressed in a dark suit, is positioned behind the person in the striped shirt. The person in the white shirt enters the store, and the person in the striped shirt"
+  },
+  "1136": {
+    "center_frame": 1136,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 36.8667,
+        "actual_end_seconds": 38.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.3667,
+        "actual_end_seconds": 40.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 32.8667,
+        "actual_end_seconds": 42.8667
+      }
+    },
+    "caption_2s": "The video shows a man in a red and white striped shirt standing at the entrance of a store. He is holding a gun and pointing it towards another man who is standing outside the door. The man outside appears to be unarmed and is standing still, facing the man with the gun.",
+    "caption_5s": "The video shows a man in a white shirt and dark pants entering a store through a glass door. He is followed by another man wearing a striped shirt. The first man appears to be holding something in his hand, which he hands over to the second man. The two men then engage in a brief conversation before the first man exits the store.",
+    "caption_10s": "The video shows a person entering a store through the front door. They are wearing a striped shirt and dark pants. The individual appears to be carrying something in their hand as they walk inside.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 36.8667,
+      "actual_end_seconds": 38.8667
+    },
+    "fused_caption": "A man in a striped shirt enters a store, handing something to another man in a white shirt, before exiting, while a third man stands outside the door, facing the man in the striped shirt, who is holding a gun.",
+    "caption": "A man in a striped shirt enters a store, handing something to another man in a white shirt, before exiting, while a third man stands outside the door, facing the man in the striped shirt, who is holding a gun."
+  },
+  "1152": {
+    "center_frame": 1152,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.4,
+        "actual_end_seconds": 39.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.9,
+        "actual_end_seconds": 40.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.4,
+        "actual_end_seconds": 43.4
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt and another man in a white shirt standing at the entrance of a store. The man in the striped shirt is holding a gun and pointing it at the other man, who appears to be complying with his demands.",
+    "caption_5s": "The video shows a man in a striped shirt entering a store, followed by another man in a white shirt. The man in the striped shirt appears to be holding something in his hand and is seen interacting with the cashier. The man in the white shirt stands nearby, observing the interaction.",
+    "caption_10s": "The video shows a person in a striped shirt standing at the entrance of a store, holding a phone to their ear. Another individual in a dark jacket is seen approaching from behind and appears to be speaking to the person on the phone. The person in the striped shirt then turns around and seems to be engaged in a conversation with the person in the dark jacket.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.4,
+      "actual_end_seconds": 39.4
+    },
+    "fused_caption": "A man in a striped shirt stands at the entrance of a store, initially holding a gun and pointing it at another man in a white shirt, who appears to be complying. The man in the striped shirt then interacts with the cashier, followed by a conversation with the person in a dark jacket, who approaches from behind and speaks on the phone.",
+    "caption": "A man in a striped shirt stands at the entrance of a store, initially holding a gun and pointing it at another man in a white shirt, who appears to be complying. The man in the striped shirt then interacts with the cashier, followed by a conversation with the person in a dark jacket, who approaches from behind and speaks on the phone."
+  },
+  "1168": {
+    "center_frame": 1168,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 37.9333,
+        "actual_end_seconds": 39.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.4333,
+        "actual_end_seconds": 41.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 33.9333,
+        "actual_end_seconds": 43.9333
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt and another man in a white shirt standing at the entrance of a store. The man in the striped shirt is holding a phone, and they appear to be engaged in a conversation. There is no significant movement or action throughout the video.",
+    "caption_5s": "In the video, a man is seen entering a store and approaching the cashier. He then proceeds to punch the cashier in the face.",
+    "caption_10s": "The video shows a person entering a store through the front door, followed by another individual. The first person appears to be in distress and is being supported by the second person as they walk inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 37.9333,
+      "actual_end_seconds": 39.9333
+    },
+    "fused_caption": "A man in a striped shirt and another man in a white shirt stand at the entrance of a store, engaged in a conversation, with the man in the striped shirt holding a phone. The man in the striped shirt is later seen entering the store, appearing distressed, and being supported by the man in the white shirt. The man in the striped shirt then proceeds to punch the cashier in the face.",
+    "caption": "A man in a striped shirt and another man in a white shirt stand at the entrance of a store, engaged in a conversation, with the man in the striped shirt holding a phone. The man in the striped shirt is later seen entering the store, appearing distressed, and being supported by the man in the white shirt. The man in the striped shirt then proceeds to punch the cashier in the face."
+  },
+  "1184": {
+    "center_frame": 1184,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 38.4667,
+        "actual_end_seconds": 40.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.9667,
+        "actual_end_seconds": 41.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 34.4667,
+        "actual_end_seconds": 44.4667
+      }
+    },
+    "caption_2s": "The video shows a man in a white shirt and black pants standing in front of a store. He is seen bending over and picking something up from the ground. The man then stands up and walks towards the camera, holding an object in his hand.",
+    "caption_5s": "The video shows a man in a red and white striped shirt standing at the entrance of a store. He is holding a gun and pointing it at another man who is standing outside the door. The man with the gun appears to be demanding something from the other man, who is standing still and looking at him.",
+    "caption_10s": "The video shows a man standing in front of a store entrance, holding the door open for another person. The person then enters the store and walks towards the counter.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 38.4667,
+      "actual_end_seconds": 40.4667
+    },
+    "fused_caption": "A man stands in front of a store, bending over to pick something up from the ground, then stands up and walks towards the camera, holding an object in his hand. He is wearing a white shirt and black pants. The store entrance is visible, and a person enters the store, walking towards the counter.",
+    "caption": "A man stands in front of a store, bending over to pick something up from the ground, then stands up and walks towards the camera, holding an object in his hand. He is wearing a white shirt and black pants. The store entrance is visible, and a person enters the store, walking towards the counter."
+  },
+  "1200": {
+    "center_frame": 1200,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.0,
+        "actual_end_seconds": 41.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.5,
+        "actual_end_seconds": 42.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.0,
+        "actual_end_seconds": 45.0
+      }
+    },
+    "caption_2s": "The video shows a man in a red and white striped shirt standing at the entrance of a store. He is holding a cell phone and appears to be engaged in a conversation with another person who is partially visible. The man in the striped shirt then turns around and walks away from the entrance, followed by the other person.",
+    "caption_5s": "In the video, a man is seen standing in front of a store. He then proceeds to enter the store and approaches another man who is already inside. The two men engage in a conversation, with the first man gesturing towards the second man's pants. The second man appears to be uncomfortable and tries to leave the store, but the first man follows him and continues to talk to him.",
+    "caption_10s": "A man is seen standing in front of a store, holding a gun and pointing it at the cashier. The cashier is standing behind the counter, seemingly complying with the man's demands.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.0,
+      "actual_end_seconds": 41.0
+    },
+    "fused_caption": "A man in a red and white striped shirt stands at the entrance of a store, holding a cell phone and engaged in a conversation with another person. He turns around and walks away, followed by the other person. The man then enters the store, approaches another man, and they engage in a conversation. The man gestures towards the other man's pants, who appears uncomfortable and tries to leave. The man follows him and continues to talk. The scene is set in a store,",
+    "caption": "A man in a red and white striped shirt stands at the entrance of a store, holding a cell phone and engaged in a conversation with another person. He turns around and walks away, followed by the other person. The man then enters the store, approaches another man, and they engage in a conversation. The man gestures towards the other man's pants, who appears uncomfortable and tries to leave. The man follows him and continues to talk. The scene is set in a store,"
+  },
+  "1216": {
+    "center_frame": 1216,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 39.5333,
+        "actual_end_seconds": 41.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.0333,
+        "actual_end_seconds": 43.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 35.5333,
+        "actual_end_seconds": 45.5333
+      }
+    },
+    "caption_2s": "The video shows a man in a striped shirt standing at the entrance of a store, holding a phone and seemingly engaged in a conversation with another person. The man appears to be waiting for someone or something while occasionally looking at his phone.",
+    "caption_5s": "The video shows a man in a red and white striped shirt standing at the entrance of a store. He is holding a gun and pointing it at another man who is standing nearby. The man with the gun appears to be threatening the other man, who is standing still.",
+    "caption_10s": "In the video, a man is seen standing in front of a store. He then proceeds to punch another man who is inside the store. The man who was punched falls to the ground.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 39.5333,
+      "actual_end_seconds": 41.5333
+    },
+    "fused_caption": "A man in a red and white striped shirt stands at the entrance of a store, occasionally looking at his phone while holding it, before punching another man inside the store, causing him to fall to the ground.",
+    "caption": "A man in a red and white striped shirt stands at the entrance of a store, occasionally looking at his phone while holding it, before punching another man inside the store, causing him to fall to the ground."
+  },
+  "1232": {
+    "center_frame": 1232,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.0667,
+        "actual_end_seconds": 42.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.5667,
+        "actual_end_seconds": 43.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.0667,
+        "actual_end_seconds": 46.0667
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a door, while another person is seen walking away.",
+    "caption_5s": "The video shows a man in a striped shirt standing at the entrance of a store, holding a phone to his ear. Another man approaches him from behind and appears to be speaking to him. The man in the striped shirt then turns around and walks away from the entrance.",
+    "caption_10s": "The video shows a man in a white shirt and black pants entering a store. He is followed by another man wearing a striped shirt. The man in the white shirt appears to be holding something in his hand, possibly a weapon. The two men then engage in a physical altercation inside the store.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.0667,
+      "actual_end_seconds": 42.0667
+    },
+    "fused_caption": "A man in a white shirt and black pants enters a store, followed by a man in a striped shirt, who appears to be holding a phone to his ear. The man in the striped shirt turns around and walks away, then reappears and engages in a physical altercation with the man in the white shirt inside the store.",
+    "caption": "A man in a white shirt and black pants enters a store, followed by a man in a striped shirt, who appears to be holding a phone to his ear. The man in the striped shirt turns around and walks away, then reappears and engages in a physical altercation with the man in the white shirt inside the store."
+  },
+  "1248": {
+    "center_frame": 1248,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 40.6,
+        "actual_end_seconds": 42.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.1,
+        "actual_end_seconds": 44.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 36.6,
+        "actual_end_seconds": 46.6
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a store entrance, holding a gun and pointing it at someone inside. He appears to be demanding something from the person inside the store.",
+    "caption_5s": "The video shows a man standing in front of a store, holding a gun and pointing it at another person. The person is standing with their hands up, while the man with the gun appears to be demanding something.",
+    "caption_10s": "The video shows a man entering a store and approaching the cashier. He then proceeds to punch the cashier in the face, causing the cashier to fall back.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 40.6,
+      "actual_end_seconds": 42.6
+    },
+    "fused_caption": "A man enters a store, approaches the cashier, punches them in the face, causing them to fall back, and then stands in front of the store entrance, holding a gun and pointing it at another person inside, who is standing with their hands up.",
+    "caption": "A man enters a store, approaches the cashier, punches them in the face, causing them to fall back, and then stands in front of the store entrance, holding a gun and pointing it at another person inside, who is standing with their hands up."
+  },
+  "1264": {
+    "center_frame": 1264,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.1333,
+        "actual_end_seconds": 43.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 39.6333,
+        "actual_end_seconds": 44.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.1333,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a man standing in front of a glass door, holding a gun. He appears to be pointing it at someone inside the building. The scene is captured from a security camera, and there are other people present in the background.",
+    "caption_5s": "The video shows a man in a striped shirt standing at the entrance of a store, holding a gun and pointing it towards someone inside. Another person is seen standing nearby, while a third person is partially visible in the background. The scene appears to be taking place during the day, as natural light is coming through the glass door.",
+    "caption_10s": "In the video, a man is seen standing in front of a store. He then proceeds to open the door and enters the store.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.1333,
+      "actual_end_seconds": 43.1333
+    },
+    "fused_caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it towards someone inside, while another person stands nearby and a third person is partially visible in the background, during the day with natural light coming through the glass door.",
+    "caption": "A man in a striped shirt stands at the entrance of a store, holding a gun and pointing it towards someone inside, while another person stands nearby and a third person is partially visible in the background, during the day with natural light coming through the glass door."
+  },
+  "1280": {
+    "center_frame": 1280,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 41.6667,
+        "actual_end_seconds": 43.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.1667,
+        "actual_end_seconds": 45.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 37.6667,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, holding a device and looking outside. The person is wearing a striped shirt and jeans. There are no other significant actions or events in the video.",
+    "caption_5s": "The video shows a man standing in front of a store entrance, holding a gun and pointing it at someone inside the store. He appears to be demanding something from the person inside.",
+    "caption_10s": "The video shows a man in a striped shirt standing at the entrance of a store, holding a phone to his ear. He appears to be engaged in a conversation while another person stands nearby. The man occasionally shifts his weight and gestures with his free hand.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 41.6667,
+      "actual_end_seconds": 43.6667
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, holding a phone to their ear and engaged in a conversation, occasionally shifting their weight and gesturing with their free hand, while another person stands nearby.",
+    "caption": "A person in a striped shirt stands at the entrance of a store, holding a phone to their ear and engaged in a conversation, occasionally shifting their weight and gesturing with their free hand, while another person stands nearby."
+  },
+  "1296": {
+    "center_frame": 1296,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.2,
+        "actual_end_seconds": 44.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.7,
+        "actual_end_seconds": 45.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.2,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door. The person is wearing a striped shirt and jeans. They walk towards the counter where another individual, presumably a store employee, is standing. The customer appears to be making a purchase or asking for assistance.",
+    "caption_5s": "The video shows a person standing in front of a glass door, holding it open. Another person is seen approaching the door from the outside. The person inside the building then closes the door, trapping the other person outside.",
+    "caption_10s": "The video shows a person in a striped shirt standing near the entrance of a store, holding an object that resembles a weapon. Another individual is seen approaching from the outside, and there's a third person inside the store who appears to be observing the situation. The person with the weapon seems to be gesturing or pointing it towards the approaching individual.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.2,
+      "actual_end_seconds": 44.2
+    },
+    "fused_caption": "A person in a striped shirt stands near the entrance of a store, holding an object that resembles a weapon, while another individual approaches from the outside and a third person inside the store observes the situation.",
+    "caption": "A person in a striped shirt stands near the entrance of a store, holding an object that resembles a weapon, while another individual approaches from the outside and a third person inside the store observes the situation."
+  },
+  "1312": {
+    "center_frame": 1312,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 42.7333,
+        "actual_end_seconds": 44.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.2333,
+        "actual_end_seconds": 46.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 38.7333,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, with another individual approaching from the left. The person at the door appears to be holding something and is facing the approaching individual.",
+    "caption_5s": "The video shows a person standing in front of a glass door, holding a device and looking at it. Another person is sitting on a chair nearby. The person standing appears to be interacting with the device, possibly taking a photo or recording a video.",
+    "caption_10s": "The video shows a person in a striped shirt standing at the entrance of a store, holding a phone to their ear. They are engaged in a conversation with another individual who is partially visible and wearing a dark-colored top. The person in the striped shirt appears to be gesturing with their free hand while talking. The setting includes a checkered floor pattern and a glass door with signage indicating the store's name.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 42.7333,
+      "actual_end_seconds": 44.7333
+    },
+    "fused_caption": "A person in a striped shirt stands at the entrance of a store, holding a phone to their ear and gesturing with their free hand while engaged in a conversation with another individual, partially visible in a dark-colored top, in a setting with a checkered floor pattern and a glass door with signage.",
+    "caption": "A person in a striped shirt stands at the entrance of a store, holding a phone to their ear and gesturing with their free hand while engaged in a conversation with another individual, partially visible in a dark-colored top, in a setting with a checkered floor pattern and a glass door with signage."
+  },
+  "1328": {
+    "center_frame": 1328,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.2667,
+        "actual_end_seconds": 45.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 41.7667,
+        "actual_end_seconds": 46.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.2667,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the frame. The store's interior has a checkered floor pattern and there are various items on display, including what seems to be a newspaper stand. The timestamp indicates the recording took place on June 2nd, 2016, at 4:26 PM.",
+    "caption_5s": "The video shows a person standing in front of a glass door, holding it open with one hand while using the other to interact with someone or something outside. The individual appears to be wearing a striped shirt and dark pants. The setting is an indoor area with a checkered floor pattern, and there are various items on shelves in the background.",
+    "caption_10s": "The video shows a sequence of events where two individuals are present in what appears to be a store. One person is standing near the entrance, while the other is seated on a bench or counter. The standing individual seems to be interacting with the seated one, possibly in a confrontational manner. The environment includes typical retail items and signage, and the lighting suggests it's daytime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.2667,
+      "actual_end_seconds": 45.2667
+    },
+    "fused_caption": "A person stands at the entrance of a store, wearing a striped shirt and dark pants, holding the glass door open with one hand while interacting with someone or something outside with the other. The store's interior has a checkered floor pattern, with various items on display, including a newspaper stand, and shelves in the background. The scene unfolds in a typical retail setting, with the individual standing near the entrance, possibly in a confrontational manner, while the other person is seated on",
+    "caption": "A person stands at the entrance of a store, wearing a striped shirt and dark pants, holding the glass door open with one hand while interacting with someone or something outside with the other. The store's interior has a checkered floor pattern, with various items on display, including a newspaper stand, and shelves in the background. The scene unfolds in a typical retail setting, with the individual standing near the entrance, possibly in a confrontational manner, while the other person is seated on"
+  },
+  "1344": {
+    "center_frame": 1344,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 43.8,
+        "actual_end_seconds": 45.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.3,
+        "actual_end_seconds": 46.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 39.8,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing at the entrance of a store, holding the door open for another individual who is entering. The person outside is wearing a striped shirt and jeans, while the person inside is dressed in dark clothing. The floor has a checkered pattern, and there are various items on display in the background.",
+    "caption_5s": "The video shows a person wearing a striped shirt and dark pants standing at the entrance of a store. They are holding a device, possibly a phone or a scanner, and appear to be scanning or looking at something on the door. The floor has a checkered pattern, and there is a blue bin to the right side of the frame. The timestamp indicates that the footage was recorded in the evening.",
+    "caption_10s": "The video shows a person standing at the entrance of a store, holding a device in their hand. They appear to be interacting with another individual who is partially visible and seems to be engaged in a conversation or transaction. The setting includes a checkered floor pattern and a glass door with signage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 43.8,
+      "actual_end_seconds": 45.8
+    },
+    "fused_caption": "A person wearing a striped shirt and dark pants stands at the entrance of a store, holding a device and interacting with another individual, while the floor has a checkered pattern and a blue bin is visible to the right.",
+    "caption": "A person wearing a striped shirt and dark pants stands at the entrance of a store, holding a device and interacting with another individual, while the floor has a checkered pattern and a blue bin is visible to the right."
+  },
+  "1360": {
+    "center_frame": 1360,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.3333,
+        "actual_end_seconds": 46.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.8333,
+        "actual_end_seconds": 46.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.3333,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing near the entrance of a store, facing away from the camera. The individual appears to be waiting or observing something outside the frame. The store's interior has a checkered floor pattern and there are various items on display in the background.",
+    "caption_5s": "The video shows a person standing at the entrance of a store, holding the door open for another individual who is entering. The person outside is wearing a striped shirt and dark pants, while the person inside is dressed in a dark-colored jacket and light-colored pants. The floor has a checkered pattern, and there are various items on display inside the store.",
+    "caption_10s": "The video shows a person wearing a striped shirt and dark pants standing at the entrance of a store. They appear to be holding something in their hand, possibly a phone or a wallet, and are interacting with another individual who is partially visible from the back. The floor has a checkered pattern, and there are various items on display inside the store. The timestamp indicates that the footage was recorded in the afternoon.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.3333,
+      "actual_end_seconds": 46.3333
+    },
+    "fused_caption": "A person wearing a striped shirt and dark pants stands at the entrance of a store, holding the door open for another individual who is entering, while interacting with them and possibly holding a phone or wallet, in a store with a checkered floor and various items on display, recorded in the afternoon.",
+    "caption": "A person wearing a striped shirt and dark pants stands at the entrance of a store, holding the door open for another individual who is entering, while interacting with them and possibly holding a phone or wallet, in a store with a checkered floor and various items on display, recorded in the afternoon."
+  },
+  "1376": {
+    "center_frame": 1376,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 44.8667,
+        "actual_end_seconds": 46.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.3667,
+        "actual_end_seconds": 46.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 40.8667,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store through the front door.",
+    "caption_5s": "The video shows a person entering a store through the front door. The store has a checkered floor and there is a sign on the door. The person appears to be wearing a striped shirt and jeans.",
+    "caption_10s": "The video shows a man standing in front of a glass door, holding it open with one hand while using his other hand to interact with someone outside. He appears to be engaged in a conversation or transaction.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 44.8667,
+      "actual_end_seconds": 46.8667
+    },
+    "fused_caption": "A person enters a store through the front door, which is held open by a man wearing a striped shirt and jeans, standing in front of a glass door with a checkered floor and a sign visible.",
+    "caption": "A person enters a store through the front door, which is held open by a man wearing a striped shirt and jeans, standing in front of a glass door with a checkered floor and a sign visible."
+  },
+  "1392": {
+    "center_frame": 1392,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.4,
+        "actual_end_seconds": 46.9667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 43.9,
+        "actual_end_seconds": 46.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.4,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person standing in front of a glass door, possibly waiting to enter or exit. The person is wearing a striped shirt and dark pants. The door has a sign on it, but the content of the sign is not visible. The person appears to be stationary throughout the video.",
+    "caption_5s": "The video shows a person standing in front of a glass door, with another individual seated inside the building. The person outside is gesturing and appears to be speaking, while the seated individual remains still.",
+    "caption_10s": "The video shows a man standing in front of a store entrance, holding a gun and pointing it at another person inside the store. The person inside the store is standing still, while the man with the gun appears to be demanding something.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.4,
+      "actual_end_seconds": 46.9667
+    },
+    "fused_caption": "A person stands in front of a glass door, wearing a striped shirt and dark pants, possibly waiting to enter or exit. The door has a sign, but its content is not visible. The person is stationary, but appears to be gesturing and speaking to someone inside the building. The person inside remains still. The scene is a store entrance, where a man is holding a gun and pointing it at another person, who is also standing still.",
+    "caption": "A person stands in front of a glass door, wearing a striped shirt and dark pants, possibly waiting to enter or exit. The door has a sign, but its content is not visible. The person is stationary, but appears to be gesturing and speaking to someone inside the building. The person inside remains still. The scene is a store entrance, where a man is holding a gun and pointing it at another person, who is also standing still."
+  },
+  "1408": {
+    "center_frame": 1408,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 45.9333,
+        "actual_end_seconds": 46.9667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.4333,
+        "actual_end_seconds": 46.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 41.9333,
+        "actual_end_seconds": 46.9667
+      }
+    },
+    "caption_2s": "The video shows a person entering a store and being greeted by the cashier. The person then proceeds to make a purchase.",
+    "caption_5s": "The video shows a man and a woman standing in front of a store. The woman is pointing at something outside the store, while the man is looking in that direction.",
+    "caption_10s": "The video shows a man standing in front of a store entrance, holding the door open for another person who is entering.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 45.9333,
+      "actual_end_seconds": 46.9667
+    },
+    "fused_caption": "A person enters a store, being greeted by the cashier, and makes a purchase. The man holds the door open for another person entering, while a woman points at something outside, drawing the man's attention.",
+    "caption": "A person enters a store, being greeted by the cashier, and makes a purchase. The man holds the door open for another person entering, while a woman points at something outside, drawing the man's attention."
+  }
+}

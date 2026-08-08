@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 1376,
+      "quality": 0.832857,
+      "support_scales": [
+        4,
+        8,
+        2
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 1344,
+          "end_frame": 1408,
+          "center_frame": 1376,
+          "quality": 0.832857
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 1328,
+          "end_frame": 1443,
+          "center_frame": 1392,
+          "quality": 0.736562
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 1360,
+          "end_frame": 1392,
+          "center_frame": 1376,
+          "quality": 0.72625
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 1312,
+      "focus_end_frame": 1440
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a store, who is seen taking items from the counter and placing them into his bag.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 44.8667,
+        "actual_end_seconds": 46.8667
+      },
+      "6s": {
+        "caption": "The video shows a person entering a store, walking towards the counter, and then exiting the frame.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 42.8667,
+        "actual_end_seconds": 48.1
+      },
+      "10s": {
+        "caption": "The video shows a person entering a store and approaching the counter. They then proceed to grab something from the counter and run away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.8667,
+        "actual_end_seconds": 48.1
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 656,
+      "quality": 0.583125,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 528,
+          "end_frame": 784,
+          "center_frame": 656,
+          "quality": 0.583125
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 512,
+          "end_frame": 832,
+          "center_frame": 672,
+          "quality": 0.57525
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 592,
+      "focus_end_frame": 720
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person in a store, with a Coca-Cola machine and other items visible. The person is seen reaching for something on the counter.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "6s": {
+        "caption": "The video shows a person entering a store, walking towards the counter, and then falling to the ground. The person appears to be in distress and is seen struggling to get up.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8667,
+        "actual_end_seconds": 24.8667
+      },
+      "10s": {
+        "caption": "A man enters a store, takes items from the counter, and throws them on the floor. He then runs away.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 26.8667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 289,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 225,
+      "focus_end_frame": 353
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man standing in a store, with a Coca-Cola cooler and other products visible in the background. The man is not wearing a shirt and appears to be looking at something on the counter.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.6333,
+        "actual_end_seconds": 10.6333
+      },
+      "6s": {
+        "caption": "The video shows a man standing in front of a counter in a store. He is shirtless and appears to be waiting for something or someone. There are various items on the counter, including a cash register, a Coca-Cola cooler, and other products. The man does not move or interact with anyone during the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "caption": "The video shows a person standing in front of a counter with a Coca-Cola cooler behind them. The person appears to be interacting with the cashier, possibly making a purchase or asking for assistance.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.6333,
+        "actual_end_seconds": 14.6333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 866,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 802,
+      "focus_end_frame": 930
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person in a store, standing behind the counter. The person is wearing a white shirt and has dark hair. They are seen handling money and interacting with the cash register. The store has a Coca-Cola vending machine and various items on display.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.8667,
+        "actual_end_seconds": 29.8667
+      },
+      "6s": {
+        "caption": "The video shows a person entering a store, walking towards the counter, and then exiting.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.8667,
+        "actual_end_seconds": 31.8667
+      },
+      "10s": {
+        "caption": "The video shows a person in a white shirt entering a store and approaching the counter. They then proceed to grab something from the refrigerator and walk away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.8667,
+        "actual_end_seconds": 33.8667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1154,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1090,
+      "focus_end_frame": 1218
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a store with a Coca-Cola machine and a counter. The camera is positioned above the counter, providing a bird's eye view of the scene. There are no people present in the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.4667,
+        "actual_end_seconds": 39.4667
+      },
+      "6s": {
+        "caption": "The video shows a person walking through a store, passing by a Coca-Cola machine and a counter. The person is wearing a white shirt and black pants.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.4667,
+        "actual_end_seconds": 41.4667
+      },
+      "10s": {
+        "caption": "The video shows a person in a store, interacting with the cashier. The person appears to be making a purchase or asking for assistance.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.4667,
+        "actual_end_seconds": 43.4667
+      }
+    }
+  }
+}

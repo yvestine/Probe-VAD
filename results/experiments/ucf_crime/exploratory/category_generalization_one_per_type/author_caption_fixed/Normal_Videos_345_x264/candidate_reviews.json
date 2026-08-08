@@ -1,0 +1,296 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 144,
+      "quality": 0.98125,
+      "support_scales": [
+        2,
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 128,
+          "end_frame": 160,
+          "center_frame": 144,
+          "quality": 0.98125
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 128,
+          "end_frame": 192,
+          "center_frame": 160,
+          "quality": 0.621875
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 96,
+          "end_frame": 209,
+          "center_frame": 160,
+          "quality": 0.554688
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 80,
+      "focus_end_frame": 208
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.8,
+        "actual_end_seconds": 6.9667
+      },
+      "10s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 144,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 42,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 0,
+      "focus_end_frame": 106
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.4,
+        "direct_visual_response": "[0.4]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 48,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.4,
+        "actual_end_seconds": 2.4
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 48,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.4
+      },
+      "10s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing in front of a reception desk. He is seen talking to the receptionist, who is sitting behind the desk. The man appears to be checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 48,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.4
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 69,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 5,
+      "focus_end_frame": 133
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing at a reception desk. He is seen talking to the receptionist and then walking away from the desk.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.3,
+        "actual_end_seconds": 3.3
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing at a reception desk. He is seen talking to the receptionist and then walking away from the desk.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.3
+      },
+      "10s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a suit standing at a reception desk. He is seen talking to the receptionist and then walking away from the desk.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 64,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 104,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 40,
+      "focus_end_frame": 168
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a black suit standing in front of a reception desk. He is seen talking to the receptionist, who is seated behind the desk. The man appears to be engaged in a conversation with the receptionist, possibly checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 4.4667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man in a black suit standing in front of a reception desk. He is seen talking to the receptionist, who is seated behind the desk. The man appears to be engaged in a conversation with the receptionist, possibly checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.4667,
+        "actual_end_seconds": 6.4667
+      },
+      "10s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a man in a black suit standing in front of a reception desk. He is seen talking to the receptionist, who is seated behind the desk. The man appears to be engaged in a conversation with the receptionist, possibly checking in or asking for assistance.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 173,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 109,
+      "focus_end_frame": 209
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other individuals in the background, one of whom appears to be waiting or observing. The setting includes comfortable seating and a coffee table, suggesting a lobby or waiting area.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 176,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "6s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other individuals in the background, one of whom appears to be waiting or observing. The setting includes comfortable seating and a coffee table, suggesting a lobby or waiting area.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 176,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.7667,
+        "actual_end_seconds": 6.9667
+      },
+      "10s": {
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "caption": "The video shows a reception area with a person seated behind the desk, interacting with another individual who is standing. There are two other individuals in the background, one of whom appears to be waiting or observing. The setting includes comfortable seating and a coffee table, suggesting a lobby or waiting area.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 176,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7667,
+        "actual_end_seconds": 6.9667
+      }
+    }
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "0": {
+    "caption": "A person is walking through a convenience store. They are wearing a white shirt and blue jeans. They walk past the Coca-Cola refrigerator and continue down the aisle.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a convenience store with a Coca-Cola cooler at the front. There are shelves stocked with various items in the background. A person is standing near the counter, and there is a cash register visible. The scene is static without any significant motion or interaction between entities.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person is walking through a convenience store. They are wearing dark pants and no shirt. They walk past the checkout counter and continue down the aisle.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A shirtless man walks into a convenience store. He is wearing dark pants and has a beard. He walks towards the back of the store, passing by a Coca-Cola vending machine and a display of snacks. He appears to be looking at the items on the shelves.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a person, who appears to be a male, standing in the aisle of a convenience store. He is shirtless and wearing shorts. The store has a Coca-Cola refrigerator on the right side and various shelves stocked with products on the left. The individual seems to be looking at items on the shelves. There are no other people visible in the frame.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a person walking through a convenience store. The individual is shirtless and wearing dark pants. They walk past the checkout counter, which has a cash register and various items on display. There are refrigerators with beverages visible in the background. The lighting is artificial, typical of indoor settings. No other people are seen in the immediate vicinity.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a person walking through a convenience store. The individual is shirtless and wearing dark pants. They are moving from the left side of the frame towards the right, passing by the checkout counter and refrigerated sections stocked with various products. The environment is well-lit, and the store appears to be moderately busy with other customers in the background.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a person, whose gender is not clearly identifiable due to the camera angle and quality, walking through a convenience store. The individual appears to be shirtless and is moving from the back of the store towards the front, where the checkout counter is located. The store has a Coca-Cola branded cooler on the right side of the frame, and there are shelves stocked with various items in the background. The person's motion is steady and purposeful, suggesting they may be looking to make a purchase.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a person, whose gender is not clearly identifiable due to the camera angle and quality, standing at a checkout counter in what appears to be a convenience store. The individual is wearing dark pants and a light-colored shirt. The counter has a cash register, various items for sale, and promotional materials including a Coca-Cola advertisement. The person interacts with the cashier, presumably making a purchase, as they reach out towards the counter. The surroundings include shelves stocked with products, and there are other customers visible in the background.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a person standing at a checkout counter in a convenience store. The individual appears to be shirtless and is facing the camera. The counter has a cash register, a display of various items, and a Coca-Cola cooler in the background. There are no visible actions or interactions with other entities, and no motion changes or escalations can be observed.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a person standing at a counter in what appears to be a convenience store. The individual is shirtless and seems to be interacting with the cashier, possibly making a purchase. There are various items on the counter, including a cash register, a Coca-Cola cooler, and other products. The person's actions are limited to standing and reaching towards the counter, suggesting they may be handing over money or selecting an item.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a person standing at the checkout counter of a convenience store. The individual appears to be shirtless and is facing away from the camera, towards the cashier. There are various items on the counter, including what seems to be a cash register, a Coca-Cola cooler, and other merchandise. The person's actions are not clearly visible due to their orientation.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "In the video, a person is standing at a counter in what appears to be a convenience store. The individual is shirtless and seems to be interacting with the cashier or the items on the counter. There are various products visible on the shelves and refrigerators in the background, including a prominent Coca-Cola branding. The person's actions are limited to standing and reaching out towards the counter, possibly making a transaction or selecting an item.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A shirtless man is standing at a counter in a store. He is looking at the camera and talking. There are shelves of products behind him and a Coca-Cola cooler to his right.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a person is seen standing in front of a counter. The individual appears to be shirtless and is positioned behind the counter. There are various items on the counter, including what seems to be a cash register and some other objects. The person remains stationary throughout the video, with no significant movement or interaction with any objects.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A shirtless man is standing at a counter in a store. He is looking at the camera and talking. There are shelves of products behind him.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a person is seen standing at a counter in what appears to be a convenience store. The individual is shirtless and seems to be interacting with someone off-camera. There are various items on the counter, including what looks like a cash register and some products. The person's actions are not clearly visible due to the quality of the footage.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person is standing in a convenience store. They are shirtless and appear to be looking around the store. There is a Coca-Cola cooler behind them.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "In the video, a person is seen standing at a counter in a store. The individual appears to be shirtless and is positioned behind the counter. There are various items on the counter, including what looks like a cash register and some products. The person seems to be interacting with someone off-camera, possibly a customer or an employee. The surroundings include shelves stocked with products and a Coca-Cola vending machine. The scene remains static throughout the video, with no significant motion or interaction between the person and other entities.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "In the video, a shirtless man is standing at a checkout counter in a convenience store. He appears to be interacting with the cashier, possibly making a purchase. The man's actions are deliberate and focused on the transaction. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a person standing in front of a counter with various items on it, including what appears to be a cash register. The individual is shirtless and seems to be engaged in an activity that involves their hands near their face or head. There are no significant changes in motion or interaction with other entities throughout the visible segment of the video.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "In the video, a person is seen standing at a checkout counter in a convenience store. The individual appears to be shirtless and is interacting with the cashier. There are various items on the counter, including what seems to be a beverage cooler with Coca-Cola branding. The person's actions are not aggressive or threatening, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a person standing at the checkout counter of a convenience store. The individual appears to be shirtless and is facing away from the camera, towards the cashier. The surroundings include shelves stocked with various products, a Coca-Cola refrigerator, and a display of snacks. The person's actions are not clearly visible due to their orientation. There is no apparent motion or interaction with other entities in the frame.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a person standing at the counter of a convenience store. The individual appears to be shirtless and is facing away from the camera, looking towards the shelves stocked with various products. There are multiple refrigerators in the background, one prominently displaying the Coca-Cola logo. The counter has a cash register and some items on it, including what seems to be a bottle of water. The lighting is bright, typical of a retail environment, and there is no visible movement or interaction with other people or objects.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a person standing at the checkout counter of a convenience store. The individual appears to be shirtless and is facing away from the camera, towards the cashier. The surroundings include shelves stocked with various products, a Coca-Cola refrigerator, and a cash register on the counter. There are no visible actions or interactions between entities, and no motion changes or escalations can be observed in this segment.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "In the video, a person is seen standing at a counter in a store. The individual appears to be shirtless and is facing away from the camera. There are various items on the counter, including what seems to be a cash register and some products. The person's actions are not clearly visible due to the angle of the surveillance footage.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "In the video, a shirtless man is standing in front of a counter in a store. He appears to be holding something in his hand and looking at it. There are various items on the counter, including a cash register, a Coca-Cola cooler, and other products. The man does not move significantly throughout the video.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "In the video, a person is seen standing at a counter in what appears to be a convenience store. The individual is shirtless and seems to be interacting with someone off-camera. There are various items on the counter, including a cash register, a Coca-Cola cooler, and other products. The person's actions are limited to standing and possibly conversing or handling an item. No significant motion changes or escalations are observed.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A shirtless man is standing at a counter in a convenience store. He is looking at his phone and appears to be waiting for something. There are various items on the counter, including a cash register, a soda machine, and some snacks. The man does not move or interact with anyone else during the video.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, a shirtless man is standing at a checkout counter in a store. He appears to be waiting for his transaction to be completed. There are various items on the counter, including a cash register and what seems to be a display of Coca-Cola products. The man's posture suggests he is patiently waiting.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A shirtless man is standing at a counter in a convenience store. He is looking at his phone and appears to be waiting for something. There are various items on the counter, including a cash register, a soda machine, and some snacks. The man does not move or interact with anyone else during the video.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, a shirtless man is standing at a counter in a store. He appears to be interacting with someone behind the counter, possibly making a purchase or asking for assistance. The man's actions are limited to standing and gesturing with his hands. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A man is standing in a convenience store. He is shirtless and wearing shorts. He is looking at his phone. There are shelves of snacks and drinks behind him. There is a Coca-Cola machine to his right.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, a person is seen standing at a counter in a store. The individual appears to be shirtless and is facing away from the camera. There are various items on the counter, including what looks like a cash register and some products. The person seems to be interacting with someone or something off-camera.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "In the video, a shirtless man is seen standing at a counter in what appears to be a convenience store. He is interacting with the cashier and seems to be making a purchase. The man's actions are deliberate and focused on the transaction. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, a shirtless man is seen standing at a counter in a store. He appears to be interacting with someone behind the counter. The man then turns around and walks away from the counter.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a person in a store, standing near the counter. The individual is shirtless and appears to be in motion, possibly walking or turning around. There are various items on the counter, including what looks like a cash register and some products. The background includes refrigerators with visible branding, such as Coca-Cola. No other significant actions or interactions are discernible from this segment of the video.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a person with no shirt on, walking through a convenience store. The individual appears to be in motion, possibly walking briskly or running. The surroundings include shelves stocked with various products, a checkout counter with a cash register, and a Coca-Cola vending machine. The lighting is artificial, typical of indoor commercial spaces.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a person in dark clothing inside a convenience store. The individual is seen walking towards the counter, then suddenly lunging at the cashier with an object that appears to be a weapon. The person then moves away from the counter and exits the frame. The store has a Coca-Cola vending machine and various items on shelves. The lighting is bright, and the store seems to be well-stocked.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera's perspective of a convenience store. There is a person wearing dark clothing who appears to be in motion, possibly walking or running, towards the back of the store. The person's actions are not entirely clear due to the angle and quality of the footage. The store has various items on display, including beverages and snacks, with a prominent Coca-Cola cooler visible. The counter area has a cash register and other items typically found in such establishments. No other individuals are seen in the immediate vicinity.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, a person is seen walking through a store. They are wearing a dark-colored top and light-colored pants. The person walks past a counter with various items on it, including what appears to be a cash register. There are also several beverage dispensers visible in the background. The person's motion is steady and purposeful as they navigate the store's interior.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, a person is seen walking through a store. The person walks from left to right across the frame. There are various items on display in the store, including a Coca-Cola vending machine and other products. The person appears to be browsing the store.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There are various items on the counter, including a cash register and some boxes. The camera is stationary and there is no visible movement or interaction between entities.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A person is seen walking through a store. They are carrying a bag and appear to be looking at items on the shelves. The person then puts the bag down and begins to look at items on the counter.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There are various items on the counter, including a cash register, a phone, and some papers. The camera is stationary and there is no visible motion or interaction between entities.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person is walking through a store. They are wearing a white shirt and black pants. They are carrying a black bag. They walk past a Coca-Cola machine and a display of snacks.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There is a person standing behind the counter, and another person is approaching the counter from the left side of the frame. The person at the counter appears to be interacting with the person approaching.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There is a person standing behind the counter, and another person approaching the counter from the left side of the frame. The person at the counter appears to be interacting with the person approaching.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, a person is seen standing behind a counter in a store. The individual appears to be interacting with items on the counter and possibly handling money or transactions. There are various objects visible on the counter, including what seems to be a cash register, some papers, and possibly merchandise. The person's actions suggest they might be a cashier or store employee.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "In the video, a person is seen standing behind a counter in what appears to be a convenience store. The individual is wearing a white shirt and is interacting with items on the counter. There are various products visible, including snacks and beverages. The person's actions suggest they might be organizing or restocking the items. The environment is well-lit, and there are promotional signs for Coca-Cola visible in the background.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, a person is seen standing at a counter in a store. They are wearing a white shirt and dark pants. The person appears to be interacting with the cashier, possibly making a purchase. There is a Coca-Cola vending machine next to the counter. The person's actions are deliberate and focused on the transaction.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "In the video, a person is seen standing behind a counter in a store. The counter has various items on it, including what appears to be a cash register and some scattered objects. There are also shelves with products and a Coca-Cola vending machine visible in the background. The person seems to be engaged in an activity, possibly handling money or organizing items.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a retail store's interior with a Coca-Cola vending machine prominently visible. The counter is cluttered with various items, including what appears to be a cash register and other merchandise. There are no people present in the scene.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a retail store's interior with a focus on the checkout counter area. There is a Coca-Cola vending machine to the right, and various items are scattered across the counter, including what appears to be a cash register, a calculator, and other small objects. The floor is littered with debris, suggesting a recent disturbance or accident. No people are visible in the footage.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a retail store's interior with a focus on the checkout counter area. There is a Coca-Cola vending machine to the right and a refrigerator stocked with beverages in the background. The counter has various items scattered across it, including what appears to be a cash register, a computer monitor, and other small objects. A person wearing a white shirt enters the frame from the left side and approaches the counter.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a store interior with a Coca-Cola vending machine on the right side. The counter is cluttered with various items, including what appears to be a cash register and some scattered papers or receipts. There are no visible people in the frame.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a store interior with a Coca-Cola vending machine on the left and a counter with various items on it. There is a person standing behind the counter, facing away from the camera. The person appears to be interacting with someone or something off-camera. No other significant actions or interactions are visible in the provided frames.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There is a person standing behind the counter, and there are various items on the counter, including what appears to be a cash register and some papers. The person seems to be interacting with someone off-camera, possibly a customer. There is no visible motion or interaction between other entities.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A person wearing a red jacket is seen entering a store. They walk towards the counter where another person is standing. The person in the red jacket appears to be interacting with the person at the counter, possibly making a purchase or asking for assistance.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. A person is seen approaching the counter, and another person is standing behind it. The person at the counter appears to be interacting with the person behind the counter.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person wearing a red shirt and a hat is standing at the counter of a store. They are looking at something on the counter. There is a Coca-Cola machine in the background. The person then turns around and walks away from the counter.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a person is seen standing at a counter in a store. They are wearing a striped shirt and appear to be interacting with the cashier. The person then turns around and walks away from the counter.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a store with a Coca-Cola vending machine in the background. A person wearing a hat and carrying a bag is seen walking towards the counter. The person appears to be interacting with the cashier, possibly making a purchase. There are various items on display, including snacks and drinks. The person then walks away from the counter.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "In the video, a person is seen standing at a counter in a store. They are wearing a striped shirt and appear to be interacting with someone behind the counter. The person then turns around and walks away from the counter.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a store interior with a Coca-Cola vending machine prominently visible. The counter is cluttered with various items, including what appears to be a cash register and some scattered objects. A person wearing dark clothing enters the frame from the right side and approaches the counter. They seem to interact with the cashier or the items on the counter. Another individual, also in dark clothing, enters from the left side and moves towards the vending machine. The actions of these individuals suggest they are either customers or employees.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "In the video, a person is seen standing at a counter in what appears to be a convenience store. The individual is wearing a dark-colored top and has their back turned towards the camera. They are interacting with items on the counter, possibly making a purchase or handling money. The counter is cluttered with various items, including what looks like snacks and drinks. There is a Coca-Cola vending machine visible in the background. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a store interior with a counter and a cashier. There are various items on the counter, including what appears to be a cash register, a soda machine, and other merchandise. The cashier is standing behind the counter. There is a person in the background who seems to be walking away from the counter.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a retail environment with a Coca-Cola cooler prominently displayed in the background. The store is stocked with various items, and there are at least two individuals present. One person appears to be a customer, while the other could be an employee or another customer. The customer is seen interacting with the cashier area, possibly making a purchase. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store's checkout area. The scene includes a cashier's counter with a cash register, various items on display, and a Coca-Cola vending machine to the right. There are multiple customers present, some standing in line while others are browsing the shelves. The customers appear to be engaged in typical shopping behavior, such as selecting items and waiting for their turn at the checkout. No unusual actions or interactions are observed.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a retail store with a Coca-Cola cooler in the background. The counter is cluttered with various items, including what appears to be snacks and possibly cash registers. There are no visible people or significant movements in the scene.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, providing an overhead perspective. The counter has various items on it, including what appears to be a cash register and some scattered objects. There are also shelves stocked with products in the background. The Coca-Cola logo is visible on a banner hanging from the ceiling. No people or significant movement are observed in this segment of the video.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, capturing the entire area. There are various items on display, including a Coca-Cola vending machine and other products. The counter has a cash register and some scattered items. No people or significant movement are visible in the footage.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows a surveillance camera view of a retail store's checkout area. There is a Coca-Cola cooler to the left and a payment terminal on the counter. The floor is littered with various items, including what appears to be clothing and other merchandise. No people are visible in the frame.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "The video shows a store with a Coca-Cola vending machine and a counter. There are no visible actions or interactions, and the scene remains static throughout the segment.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, providing an overhead perspective. There are various items on the counter, including what appears to be a cash register and some merchandise. To the right of the counter, there is a Coca-Cola vending machine. The scene is static with no visible movement or interaction between entities.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, providing an overhead perspective. On the counter, there are various items including what appears to be a cash register, a computer monitor, and some paperwork. Behind the counter, there are two refrigerators with Coca-Cola branding. The refrigerator on the left has its door open, revealing several bottles inside. The refrigerator on the right has its door closed. There is no visible movement or interaction within the frame.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "The video shows a static shot of a retail store's checkout area. There is a Coca-Cola cooler to the left, and a cash register on the counter in the foreground. The counter is cluttered with various items, including what appears to be a newspaper, a calculator, and some small objects that are not clearly identifiable. The scene does not show any movement or interaction between entities, and there is no visible escalation or instability.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "The video shows a static shot of a retail store's checkout area. There is a Coca-Cola vending machine on the left, and a payment terminal with various items scattered around it. The scene does not show any movement or interaction between entities.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "The video shows a static shot of a store's checkout counter. There is a Coca-Cola cooler to the left, and various items are scattered on the counter, including what appears to be a cash register, some papers, and possibly merchandise. The scene does not show any movement or interaction between entities.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a store's interior with a Coca-Cola vending machine on the right side. The counter is cluttered with various items, including what appears to be a cash register and other merchandise. There are no visible people or significant movements in the scene.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, providing an overhead perspective. The counter has various items on it, including what appears to be a cash register, some papers, and possibly merchandise. There are also two Coca-Cola vending machines visible in the background. No people or significant movement can be seen in the video segment provided.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a static shot of a retail store's checkout area. There is a Coca-Cola branded cooler on the left, and a payment terminal on the right. The counter has various items scattered across it, including what appears to be a cash register, some papers, and possibly merchandise. No movement or interaction is observed in the video.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store's checkout area. The scene is static, with no visible movement or interaction between entities. The counter has various items on it, including what appears to be a cash register, a computer monitor, and some paperwork. Behind the counter, there are two beverage coolers, one with a Coca-Cola logo and the other with a Pepsi logo. The environment suggests a typical retail setting with shelves stocked with products in the background. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store's checkout area. The scene includes a counter with a cash register, various items such as bags and boxes scattered on the surface, and a Coca-Cola branded cooler to the right. There are no visible people or movement in the frame, suggesting that the store is either closed or not busy at the time of recording.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store's checkout area. The counter is cluttered with various items, including what appears to be a cash register, a computer monitor, and assorted merchandise. There are also promotional materials and a Coca-Cola branded display visible in the background. No people or significant movement are observed in the provided frames.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a surveillance camera view of a store's interior. The camera is positioned above the counter, capturing the area where customers would typically interact with the cashier. There are various items on display, including a Coca-Cola cooler and other products. The scene is static until a person enters the frame from the left side. This individual appears to be in motion, possibly walking or running, as they move quickly across the frame.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a store interior with a Coca-Cola cooler and various items on shelves. A person wearing dark clothing enters the frame from the left, moves towards the counter, and appears to interact with items on the counter. The person's actions are not entirely clear due to the angle and quality of the footage.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a store interior with a Coca-Cola cooler and various items on the counter. A person is seen entering the frame from the left, walking towards the counter, and then exiting the frame to the right.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A person is seen in a store, standing behind the counter. They are wearing dark clothing and appear to be interacting with someone off-camera. The person moves around the counter, occasionally bending down or reaching for items. There are various products on display, including Coca-Cola coolers and other merchandise. The person's actions seem deliberate and focused on handling the items on the counter.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, a man is seen standing in front of a counter. He then proceeds to grab something from the counter and runs away.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A person is seen walking towards the counter of a store. They then turn around and walk away from the counter.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

@@ -1,0 +1,1572 @@
+{
+  "0": {
+    "caption": "At 05-29-2018 at 01:55:57 PM, the video shows a surveillance camera labeled \"Cam 01\" capturing a street scene. A parked car is visible on the right side of the frame, and a scooter is parked in front of it. There are no discernible actions or interactions occurring in this segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera view of a street scene. There is a parked car on the right side and a scooter parked on the left. The timestamp indicates the date as 05-2018 at 01:57 PM. No actions or interactions are visible, and there is no apparent motion or escalation.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows a surveillance camera view of a street scene. A parked car and a parked scooter are visible. There is no significant motion or interaction between entities, and the situation appears stable without any escalation.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a static scene of a narrow street with a parked car and a scooter. There are no visible actions, interactions, or motion changes. The entities present are the car, scooter, and the street itself. There is no visible escalation or instability in this segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car and a scooter. The car is silver, and the scooter is dark-colored. There are no visible actions or interactions between entities, and there is no motion change or escalation.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a scooter parked in front of it. The timestamp indicates the footage was captured at 05:20:18. There is no visible motion or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a parked scooter on the left. The timestamp indicates the footage was captured at 05-20-2018 at 15:57:55 PM. There is no visible movement or interaction between entities, and no escalation or instability can be observed in this segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a parked scooter on the left. The timestamp indicates the footage was captured at 15:57:54 PM on 05-20-2018. No movement or actions are observed in the video.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a static scene of a narrow street with a parked silver car on the right side and a stationary purple scooter in the foreground. The timestamp indicates the footage was captured at 05-20-2018 at 15:57:36 PM. There are no visible actions or interactions, and no escalation or instability can be observed.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a static scene of a narrow street with a parked car on the right side and a parked scooter on the left. The timestamp indicates the footage was captured at 05-20-2018 at 08:57:54 PM. There is no visible movement or interaction between entities, and no escalation or instability occurs during the segment shown.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a parked scooter on the left. The timestamp indicates the footage was captured on May 20, 2018, at 05:57:36 PM. There is no visible movement or interaction between entities in this segment.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a parked scooter on the left. The timestamp indicates the footage was captured on May 20, 2018, at 05:57:36 PM. There is no discernible movement or interaction between objects or people in the visible frame.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a stationary view of a narrow street with a parked car on the right side and a parked scooter on the left. There is no visible movement or interaction between entities, and the scene remains unchanged throughout the video.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows a static scene of a narrow street with a parked car and a parked scooter. There is no visible motion or interaction between entities in this segment.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a surveillance camera capturing a street scene. A parked car and a scooter are visible in the frame. The camera remains stationary throughout the video, and there is no significant motion or interaction between entities.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles. A scooter is parked in the center, and a car is parked on the right side. The timestamp indicates the date as 05-20-2018 at 01:55:27 PM. At 01:55:30 PM, a person wearing dark clothing enters the frame from the left side, walking towards the scooter. The person appears to be carrying something in their hand.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. There is no visible motion or interaction between entities in the frames provided.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person is seen walking down a street. They are wearing a white shirt and black pants. They are carrying a black bag. The person is walking towards the camera. There is a car parked on the side of the street. There is a scooter parked in front of the car. The person walks past the scooter and continues down the street.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a street scene with a parked car and a scooter. A person on a motorcycle is seen approaching from the right side of the frame, riding towards the left. The rider appears to be wearing a helmet and dark clothing. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. A person wearing a blue jacket and dark pants is seen walking from the left side of the frame towards the right, passing by the parked vehicles. The person's pace appears steady, and there are no other significant actions or interactions visible in the video.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles. A person on a scooter is seen riding down the street, moving from right to left across the frame. The scooter appears to be red or maroon in color. There are no other significant actions or interactions visible in the video.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles. A person on a scooter is seen riding down the street, moving from right to left across the frame. The scooter appears to be red or maroon in color. There are no other significant actions or interactions visible in this segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a narrow street with parked vehicles on both sides. A person wearing a helmet is seen riding a scooter from the left side of the frame towards the right, passing by a parked car and a stationary scooter. The rider's actions are smooth and continuous, indicating a steady pace. No other significant interactions or motion changes are observed in this segment.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a narrow street with a parked car on the right side and a scooter parked on the left. The timestamp indicates the footage was captured at 15:57:40 PM on 05-20-2018. There is no visible movement or interaction between entities in the video segment provided.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a narrow street with parked vehicles. A person wearing a striped shirt and dark pants is seen walking towards the camera, passing by a parked car and a scooter. The person appears to be carrying something in their right hand. The surroundings include buildings on either side of the street, and there are no other visible people or moving objects.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a stationary scene of a narrow street with parked vehicles. There is a red scooter in the foreground and a silver car parked behind it. A person wearing a blue jacket and helmet is seen riding a scooter from the left side of the frame towards the right, passing by the parked vehicles. The person's motion is smooth and continuous. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles. A scooter is parked on the left side, and a car is parked on the right side. There is no visible movement or interaction between entities in this segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a street scene with a parked car and a scooter. A person on a motorcycle approaches from the right side of the frame, rides past the parked vehicles, and exits the frame to the left. The person is wearing a helmet and a jacket. The motorcycle appears to be a standard model, and the rider's actions are smooth and controlled. There is no visible interaction between the rider and any other entity in the video.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person on a scooter is riding down a street. There are cars parked on the side of the street. The person on the scooter is wearing a helmet.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, a person is seen riding a motorcycle on a street. The rider is wearing a helmet and appears to be moving at a moderate speed. There are other vehicles parked along the side of the road, including cars and motorcycles. The street is lined with buildings, and there are some trees visible in the background. The weather appears to be clear, and the lighting suggests it is daytime.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "The video shows a street scene with multiple vehicles and people. There are three motorcycles visible: one is stationary in the foreground, another is moving away from the camera, and the third is stationary further down the street. A silver car is parked on the side of the road. Two individuals are standing next to the stationary motorcycle in the foreground, while another person is walking towards them. The person walking appears to be wearing a blue jacket and carrying a bag. The scene is captured by a surveillance camera labeled \"Cam 01\" with a timestamp indicating the date and time as \"05-20-2018 05:57:46PM.\"",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, there are two motorcycles and a car on a street. The motorcycles are parked on the side of the road, while the car is driving past them. There are no visible interactions or motion changes between the entities.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person wearing a blue shirt and a helmet is riding a scooter. They are moving forward on the street. There is another person on a scooter behind them, also moving forward. A car is parked on the side of the street. The person on the scooter in front is looking to their left.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, there are two motorbikes and a car. The motorbikes are parked on the side of the road, and the car is driving past them. There are no visible interactions or motion changes between the entities.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a surveillance camera view of a street scene. There are two motorbikes, one red and one blue, parked on the side of the road. A person wearing a blue jacket and helmet is seen sitting on the red motorbike, while another individual in a brown jacket and helmet stands beside it. The person on the motorbike appears to be adjusting something on their bike, possibly the handlebars or mirrors. The person standing next to the motorbike seems to be observing or waiting. There is no visible motion or interaction between the individuals and other objects in the frame.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, there are two motorbikes and a car on a street. The first motorbike is red and is being ridden by a person wearing a blue shirt and a helmet. The second motorbike is black and is being ridden by a person wearing a striped shirt and a helmet. The car is white and is parked on the side of the road. The motorbikes are moving slowly in the same direction as the car.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a street scene with two motorbikes and a car. The first motorbike, ridden by a person wearing a blue jacket and helmet, is stationary on the right side of the frame. The second motorbike, ridden by a person in a brown jacket and helmet, is moving from left to right across the frame. The car is parked on the left side of the frame. There are no visible interactions between the entities, and there is no apparent escalation or instability.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. A person wearing a brown coat is seen walking away from the camera, while another individual on a scooter approaches from the opposite direction. The scooter rider appears to be wearing a striped shirt and helmet. There are no visible interactions between the two individuals, and the scooter rider seems to be passing by without any incident.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a street scene with a silver car parked on the right side and a red scooter parked on the left. A person wearing a yellow jacket is walking away from the camera, while another individual in a striped shirt is riding a scooter towards the camera. The timestamp indicates the footage was captured at 05-29-2018 at 01:57:52 PM.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and two individuals. One person is walking away from the camera, while the other is sitting on a scooter. There are no significant actions or interactions between the entities, and the motion is minimal. The environment appears stable without any visible escalation.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and a person walking. The person is wearing a brown outfit and appears to be carrying something. There are no significant actions or interactions between the entities visible in this segment.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video segment, there is a street scene with parked vehicles, including a scooter and a car. A person on a motorcycle is seen riding away from the camera's viewpoint. The rider is wearing a helmet and appears to be moving at a moderate speed. There are no other significant actions or interactions visible in this segment.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "A person is walking down a street. They are wearing a blue shirt and black pants. They are carrying a bag in their right hand. There are cars parked on the side of the street. There is a scooter parked on the side of the street. The person walks past the scooter.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A man is walking down a street. He is wearing a blue shirt and jeans. He is carrying a black bag. There are cars parked on the side of the street. There is a scooter parked in front of a building. The man walks past the scooter and continues down the street.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, there is a man wearing a striped shirt and blue jeans. He is walking towards a parked car in a parking lot. There are other vehicles parked nearby, including a scooter and a motorcycle. The man appears to be carrying something in his hand as he walks.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A man in a striped shirt and jeans is walking towards a parked car. He is carrying a black bag. There are two scooters parked on the street. A person on a scooter is driving away from the camera.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a man is seen walking down a street. He is wearing a blue shirt and jeans. There are several vehicles parked on the side of the road, including a silver car and a black scooter. The man walks past these vehicles without any interaction.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and a person standing near the car. The person appears to be interacting with someone or something outside of the frame. There is no visible motion or interaction between the entities in this segment.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there is a person standing in the middle of a street. They are wearing a striped shirt and jeans. There are two parked cars behind them, one silver and one black. A red scooter is parked on the left side of the frame. The person appears to be looking around, but there is no significant movement or interaction with other objects or people.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two scooters. A person is standing near the car, facing away from the camera. The surroundings include a building on the left and a narrow alleyway leading further down the street. There are no visible actions or interactions between entities, and no motion changes or escalations occur within this segment of the video.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, there is a man standing in the middle of a street. He is wearing a striped shirt and jeans. There are several vehicles parked on the side of the road, including a silver car and two scooters. The man appears to be looking around, possibly waiting for someone or something. There is no visible motion or interaction between the man and other entities in this segment.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two scooters. A person is standing near the car, while another individual on a scooter approaches from the left side of the frame. The scooter rider appears to be in motion, heading towards the person by the car.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two scooters. A person wearing a striped shirt is standing next to one of the scooters. Another individual on a scooter approaches from the left side of the frame and stops near the person in the striped shirt. The person on the scooter then dismounts and engages in a brief interaction with the person standing by the scooter. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a street scene with multiple vehicles and pedestrians. There are at least three motorcycles parked on the side of the road, one of which is red and the other two are black. A silver car is parked behind the motorcycles. Several people are visible, including a man in a striped shirt standing near the motorcycles and another person walking past him. The timestamp indicates the footage was recorded on May 20, 2018, at 15:57:59 PM.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a street scene with multiple vehicles and people. There are at least three motorcycles, one car, and several individuals standing or walking around. The motorcycles are parked on the side of the road, while the car is parked perpendicular to them. People are seen interacting with each other, some standing close to the vehicles, and others walking by. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a street scene with multiple vehicles, including motorcycles and cars. There is a person standing near the center of the frame, facing away from the camera. The person appears to be stationary throughout the sequence. The motorcycles are parked on the side of the road, and there is no visible motion or interaction between the entities.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two scooters. A person is standing near the scooters, facing away from the camera. There are no significant actions or interactions visible in this segment. The environment appears calm with no visible escalation or instability.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and a person standing next to the scooter. The person appears to be wearing a striped shirt and jeans. There is no visible motion or interaction between entities in this segment of the video.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "A man is standing in the middle of a street. He is wearing a striped shirt and jeans. There are two motorcycles parked on the side of the street. A car is driving by in the background.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, there is a man standing on the sidewalk. He is wearing a striped shirt and jeans. There are two motorcycles parked on the street, one red and one black. A silver car is parked behind the motorcycles. The man is looking at his phone. There is a green trash can on the sidewalk. The video is taken from a security camera.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A man is standing in the middle of a street. He is wearing a striped shirt and jeans. There are cars and motorcycles parked on the side of the street. The man is looking around and appears to be waiting for someone.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "In the video, a man is standing in the middle of a street. There are two parked cars and a scooter on the side of the road. The man appears to be waiting for someone or something.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a scooter. A person is standing near the scooter, facing away from the camera. There are no significant actions or interactions occurring in this segment. The person remains stationary throughout the duration of the clip.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a surveillance camera view of an outdoor parking area. There are several parked vehicles, including motorcycles and cars. A person is seen walking towards the camera from the background. The person appears to be wearing a striped shirt and dark pants. The surroundings include buildings on either side of the parking area. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. A person is seen walking across the frame from left to right. The timestamp indicates the footage was captured on September 20, 2018, at 15:57:56 PM.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. A person is seen walking across the frame from right to left. The timestamp indicates the footage was captured on May 20, 2018, at 15:57:56 PM.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. A person wearing a striped shirt and dark pants is seen walking towards the car from the left side of the frame. Another individual, dressed in a blue shirt and jeans, approaches from the right side. The two individuals appear to be engaged in a conversation or interaction near the car. There are no visible signs of escalation or instability in the scene.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two scooters. A person wearing a blue shirt and dark pants is seen walking towards the car from the left side of the frame. Another individual, dressed in a patterned shirt and jeans, approaches from the right. The two individuals meet near the car, and there appears to be an interaction between them. The person in the blue shirt then walks away from the car towards the right side of the frame.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a street scene with a silver car parked on the right side. There are two individuals, one wearing a blue shirt and jeans, and the other in a dark outfit. The person in the blue shirt is walking towards the car, while the other individual appears to be standing still. A red scooter is parked on the left side of the frame. The timestamp indicates the footage was captured at 15:57:06 PM.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. There are two individuals walking on the sidewalk; one is wearing a blue shirt and dark pants, while the other is in a white shirt and light-colored pants. The person in the blue shirt appears to be carrying something in their hand. The surroundings include buildings, a green trash bin, and a wet patch on the ground. No significant motion or interaction between the individuals is observed.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "In the video, a man wearing a blue shirt and dark pants is seen walking down a street. He approaches another person who is standing near a parked car. The man in the blue shirt appears to be carrying something in his hand. As he gets closer to the other person, he seems to be gesturing or pointing at them. There are several vehicles parked along the street, including motorcycles and cars. The scene takes place during the day, and the weather appears to be clear.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, a man wearing a blue shirt and dark pants is seen walking down a street. He approaches another person who is standing near a parked car. The man in the blue shirt appears to be carrying something in his hand. As he gets closer to the other person, he seems to be gesturing or pointing at them. There are several vehicles parked along the street, including motorcycles and cars. The scene takes place during the day, and the weather appears to be clear.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "In the video, there is a man wearing a blue shirt and dark pants walking down a street. He is carrying a bag in his right hand. There are several parked vehicles on the side of the road, including a red scooter, a white car, and a black car. The man walks past these vehicles without interacting with them. The scene is captured from a surveillance camera mounted on a building.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "Two individuals are walking in a parking area. One person is wearing a dark shirt and pants, while the other is wearing a light-colored shirt and dark pants. They are walking towards each other from opposite directions. There is a parked car and a scooter visible in the background. The individuals appear to be engaged in a conversation as they walk past each other.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, there are two individuals walking down a street. One person is wearing a blue shirt and the other is wearing a white shirt. They are walking in the same direction. There is a parked car on the right side of the street and a scooter parked on the left side. The individuals do not interact with each other or with any objects in the scene.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "In the video segment, there are two individuals walking down a narrow street. One person is wearing a dark jacket and light pants, while the other is in a lighter-colored outfit. They walk past a parked car and a scooter. The camera angle remains static throughout the segment.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "The video shows a street scene with parked vehicles, including a car and two motorcycles. Two individuals are walking down the street, one of them carrying a bag. There is no visible interaction between the pedestrians and the vehicles. The motion of the pedestrians is steady and there is no escalation or instability in the scene.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "In the video, there is a street with parked vehicles including a silver car and two motorbikes. Two individuals are walking down the street. One of them is carrying a bag. A person on a motorbike approaches from behind and collides with the person carrying the bag, causing them to fall. The motorbike rider then speeds away.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, there are two men walking down a street. One of them is carrying a bag. They pass by a parked car and a scooter. The man with the bag then gets on the scooter and rides away.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and two motorcycles. A person on a white scooter is seen riding down the street, passing by the parked vehicles. There are also pedestrians walking on the sidewalk. The timestamp indicates that the footage was captured on May 5, 2018, at 15:57:14 PM.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "In the video, there is a street scene with parked cars and scooters. A person on a scooter is seen riding down the street. There are also people walking on the sidewalk. The person on the scooter appears to be moving at a moderate speed.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a street scene with parked vehicles, including a white scooter and a silver car. A person on a motorcycle is seen riding past the camera's view. There are also pedestrians walking in the background. The timestamp indicates the footage was captured on May 5, 2018, at 15:57:14.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. There are people walking and riding motorcycles. One person is seen walking towards the camera, while another is riding a motorcycle away from the camera. The motion of the motorcycle rider is steady, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows a street scene with parked vehicles, including a silver car and a red scooter. There are at least three individuals visible: one person is walking away from the camera, another is standing near the scooter, and a third person is approaching on a motorcycle. The motorcycle rider is wearing a helmet and appears to be in motion, heading towards the center of the frame. The timestamp indicates the footage was captured on August 5, 2018, at 15:57:16.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and several individuals. One person is seen riding a motorcycle, while another individual appears to be walking towards the motorcycle. There are no visible signs of escalation or instability in the provided frames.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "In the video, a person is seen riding a motorcycle in a parking lot. The motorcycle is black and the rider is wearing a helmet. There are other vehicles parked in the lot, including a silver car and a red scooter. The rider is moving slowly and carefully through the lot.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "In the video, a person is seen riding a motorcycle in a parking lot. The motorcycle is black and the rider is wearing a helmet. There are other vehicles parked in the lot, including a white car and a red scooter. The rider is moving slowly and carefully through the parking lot.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "In the video, there is a person wearing a helmet and riding a motorcycle. They are maneuvering around a parked car and a scooter on a street. The rider appears to be in motion, navigating through the space between the stationary vehicles.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A person wearing a helmet is sitting on a motorcycle in the middle of the street. There are other people and vehicles around, including a car parked nearby and a scooter parked on the side of the road. The person on the motorcycle remains stationary throughout the video.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, a person is seen riding a motorcycle on a street. There are other vehicles parked on the side of the road, including a car and a scooter. The rider is wearing a helmet and appears to be moving at a moderate speed.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A person wearing a yellow jacket and helmet is sitting on a motorcycle in the middle of the street. There are other vehicles parked on the side of the road, including a silver car and a scooter. The person on the motorcycle appears to be waiting for something or someone.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, a person is seen riding a motorcycle on a street. There are other vehicles parked on the side of the road, including a car and a scooter. The rider is wearing a helmet and appears to be maneuvering the motorcycle carefully. There is no visible interaction with other entities or any noticeable motion changes.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "A person is riding a motorcycle down a street. There are cars and other motorcycles parked on the side of the road. The person on the motorcycle is wearing a helmet and a jacket. They are riding in the same direction as the traffic.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "In the video, there is a person riding a motorcycle in a parking lot. The person is wearing a helmet and appears to be maneuvering the motorcycle around other parked vehicles. There are no visible interactions with other people or objects, and the motion of the motorcycle is steady and controlled.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and two individuals. One person is standing next to the car, while the other is walking towards it. There is no visible interaction between the two individuals, and the person walking appears to be carrying something. The scene remains static throughout the video, with no significant motion or changes in the environment.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "In the video, there is a person riding a motorcycle on a street. There are other vehicles parked on the side of the road, including a car and a scooter. The rider is wearing a helmet and appears to be moving at a moderate speed. There are no visible interactions between the rider and other individuals or objects in the scene.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a street scene with multiple vehicles and people. A person on a motorcycle is stationary in the center of the frame, while another individual is seen walking towards them from the right side. There are parked cars and scooters along the sides of the street. The timestamp indicates the footage was captured on May 20, 2018, at 15:57:23 PM.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. There are at least three individuals visible: one person is seated on a motorcycle, another is standing next to the motorcycle, and a third person is walking away from the scene. The timestamp indicates the footage was captured on May 20, 2018, at 15:57:23 PM. The camera angle remains static throughout the video.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows a street scene with multiple vehicles, including motorcycles and cars. There is a person wearing a helmet who appears to be interacting with another individual near a motorcycle. The surroundings include buildings, parked scooters, and a wet patch on the road. The timestamp indicates the footage was captured in the evening.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1584": {
+    "caption": "The video shows a street scene with multiple vehicles and people. A person on a motorcycle is seen riding towards the camera, while another individual is walking in the opposite direction. There are parked cars and scooters along the side of the road. The timestamp indicates the footage was captured on May 5th, 2018, at 15:57:23 PM.",
+    "anchor_frame": 1584,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.833333,
+    "observed_until_seconds": 52.833333,
+    "latest_available_frame": 1584,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1600": {
+    "caption": "The video shows a street scene with multiple vehicles, including motorcycles and cars. A person is seen riding a motorcycle in the foreground, while another individual is standing next to a parked car in the background. The motorcycle rider appears to be stationary, and there is no visible interaction between the individuals or vehicles.",
+    "anchor_frame": 1600,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.366667,
+    "observed_until_seconds": 53.366667,
+    "latest_available_frame": 1600,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1616": {
+    "caption": "In the video, a person is seen riding a motorcycle in a parking lot. The person is wearing a helmet and appears to be maneuvering the motorcycle around other parked vehicles. There are no visible interactions with other entities or significant motion changes. The scene remains stable throughout the video.",
+    "anchor_frame": 1616,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.9,
+    "observed_until_seconds": 53.9,
+    "latest_available_frame": 1616,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1632": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. A person on a motorcycle is seen riding past the camera's view. The timestamp indicates the footage was captured on May 20, 2018, at 15:57:26 PM.",
+    "anchor_frame": 1632,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.433333,
+    "observed_until_seconds": 54.433333,
+    "latest_available_frame": 1632,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1648": {
+    "caption": "A person wearing a helmet is riding a motorcycle down a street. There are other vehicles parked on the side of the road, including a car and a scooter. The person on the motorcycle is moving at a moderate speed.",
+    "anchor_frame": 1648,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.966667,
+    "observed_until_seconds": 54.966667,
+    "latest_available_frame": 1648,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1664": {
+    "caption": "In the video, there is a street with parked cars and scooters. A person wearing a helmet is riding a scooter down the street. There are other people walking on the sidewalk. The person on the scooter is moving at a moderate speed.",
+    "anchor_frame": 1664,
+    "video_fps": 30.0,
+    "observed_start_seconds": 53.5,
+    "observed_until_seconds": 55.5,
+    "latest_available_frame": 1664,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1680": {
+    "caption": "A person is walking down a street. There are cars and motorcycles parked on the side of the road. The person is wearing a white shirt and black pants. They are carrying a bag in their right hand. The person walks past a green trash can and a red scooter.",
+    "anchor_frame": 1680,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.033333,
+    "observed_until_seconds": 56.033333,
+    "latest_available_frame": 1680,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1696": {
+    "caption": "In the video, there is a street with parked vehicles including a car and two motorcycles. There are people walking on the sidewalk and crossing the street. The scene appears to be in a residential area with buildings on either side of the street. No significant actions or interactions are observed between the individuals or objects.",
+    "anchor_frame": 1696,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.566667,
+    "observed_until_seconds": 56.566667,
+    "latest_available_frame": 1696,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1712": {
+    "caption": "A person is walking down a street. There are cars and motorcycles parked on the side of the road. The person is wearing a white shirt and black pants. They are carrying a bag in their right hand. The person walks past a red scooter and a silver car.",
+    "anchor_frame": 1712,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.1,
+    "observed_until_seconds": 57.1,
+    "latest_available_frame": 1712,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1728": {
+    "caption": "The video shows a street scene with parked vehicles, including a car and two motorcycles. A person is walking on the sidewalk, moving from left to right across the frame. The person appears to be wearing dark clothing. There are no significant changes in motion or interactions between entities.",
+    "anchor_frame": 1728,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.633333,
+    "observed_until_seconds": 57.633333,
+    "latest_available_frame": 1728,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1744": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. There is a person walking in the background. The timestamp indicates the footage was captured on May 20, 2018, at 15:57:49 PM.",
+    "anchor_frame": 1744,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.166667,
+    "observed_until_seconds": 58.166667,
+    "latest_available_frame": 1744,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1760": {
+    "caption": "In the video, a person is seen walking towards a parked car in a narrow street. The car is parked on the right side of the street, and there is a scooter parked next to it. The person appears to be carrying something in their hand as they walk. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 1760,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.7,
+    "observed_until_seconds": 58.7,
+    "latest_available_frame": 1760,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1776": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles, including a car and two scooters. There are no visible actions or interactions between entities, and the scene remains static throughout the video.",
+    "anchor_frame": 1776,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.233333,
+    "observed_until_seconds": 59.233333,
+    "latest_available_frame": 1776,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1792": {
+    "caption": "The video shows a surveillance camera's perspective of a narrow street with parked vehicles, including a silver car and a red scooter. Two individuals are seen walking away from the camera's viewpoint. The person on the left is wearing dark clothing, while the one on the right is in lighter attire. There is no visible interaction between them or any other entities. The scene remains static with no significant motion changes or escalations.",
+    "anchor_frame": 1792,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.766667,
+    "observed_until_seconds": 59.766667,
+    "latest_available_frame": 1792,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1808": {
+    "caption": "The video shows a surveillance camera's perspective of a narrow street with parked vehicles, including a silver car and a red scooter. Two individuals are seen walking away from the camera towards the end of the street. The person on the left is wearing dark clothing, while the one on the right is in lighter attire. There is no visible interaction between them or any other entities in the frame. The scene remains static with no significant motion changes or escalations.",
+    "anchor_frame": 1808,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.3,
+    "observed_until_seconds": 60.3,
+    "latest_available_frame": 1808,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1824": {
+    "caption": "The video shows a surveillance camera view of a narrow street with parked vehicles, including a silver car and a red scooter. Two individuals are seen walking away from the camera's viewpoint. The person on the left is wearing dark clothing, while the one on the right is in lighter attire. There is no visible interaction between them or any other entities. The scene remains static with no significant motion changes or escalations.",
+    "anchor_frame": 1824,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.833333,
+    "observed_until_seconds": 60.833333,
+    "latest_available_frame": 1824,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1840": {
+    "caption": "In the video, there is a man wearing a white shirt and dark pants walking towards a silver car parked on the side of the street. There are two scooters parked nearby. A woman in a red dress and patterned shawl walks past the man from the right side of the frame to the left. The timestamp indicates that the footage was recorded on May 20, 2018, at 15:57:39 PM.",
+    "anchor_frame": 1840,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.366667,
+    "observed_until_seconds": 61.366667,
+    "latest_available_frame": 1840,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1856": {
+    "caption": "A man and a woman are walking down a street. The man is wearing a white shirt and black pants, while the woman is wearing a red dress. They are walking in the same direction. There is a car parked on the side of the street. A scooter is parked in front of the car. The man and woman are walking towards the camera.",
+    "anchor_frame": 1856,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.9,
+    "observed_until_seconds": 61.9,
+    "latest_available_frame": 1856,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1872": {
+    "caption": "A man and a woman are walking down a street. The man is wearing a blue shirt and the woman is wearing a red dress. There is a car parked on the side of the street. A scooter is parked in front of the car. The man and woman are walking away from the camera.",
+    "anchor_frame": 1872,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.433333,
+    "observed_until_seconds": 62.433333,
+    "latest_available_frame": 1872,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1888": {
+    "caption": "A man and a woman are walking down a street. The man is wearing a blue shirt and the woman is wearing a red dress. There is a car parked on the side of the street. A scooter is parked in front of the car. The man and woman are walking towards each other.",
+    "anchor_frame": 1888,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.966667,
+    "observed_until_seconds": 62.966667,
+    "latest_available_frame": 1888,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1904": {
+    "caption": "In the video, a woman is seen walking down a street. She is carrying a bag and appears to be in motion. There are parked cars on the side of the road, including a silver car and a scooter. The woman is walking towards the camera.",
+    "anchor_frame": 1904,
+    "video_fps": 30.0,
+    "observed_start_seconds": 61.5,
+    "observed_until_seconds": 63.5,
+    "latest_available_frame": 1904,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1920": {
+    "caption": "A woman in a red dress and a man in a blue shirt are walking down a street. The woman is carrying a bag. There are two motorcycles parked on the side of the street. A car is driving down the street.",
+    "anchor_frame": 1920,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.033333,
+    "observed_until_seconds": 64.033333,
+    "latest_available_frame": 1920,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1936": {
+    "caption": "In the video, a woman wearing a red and white patterned dress is seen walking down a street. She is carrying a bag on her shoulder. There are two parked cars and a scooter visible in the background. The woman appears to be walking at a normal pace, and there are no other people or significant movements in the scene.",
+    "anchor_frame": 1936,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.566667,
+    "observed_until_seconds": 64.566667,
+    "latest_available_frame": 1936,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1952": {
+    "caption": "In the video, there is a woman wearing a red and white outfit walking down a street. She is carrying a bag on her shoulder. There are two parked cars and a scooter visible in the scene. The woman appears to be walking at a normal pace, and there is no interaction with any other person or object.",
+    "anchor_frame": 1952,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.1,
+    "observed_until_seconds": 65.1,
+    "latest_available_frame": 1952,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1968": {
+    "caption": "In the video, there is a street scene with a parked car and two motorcycles. A person wearing red pants and a patterned top is seen walking towards another individual who is standing near the car. The person in red pants appears to be carrying something in their hand. There is no visible interaction between the two individuals, and the person in red pants continues walking past the other individual without any apparent change in motion or escalation of events.",
+    "anchor_frame": 1968,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.633333,
+    "observed_until_seconds": 65.633333,
+    "latest_available_frame": 1968,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1984": {
+    "caption": "In the video, a woman wearing a red dress is seen walking down a street. She approaches a parked car and interacts with a man who is standing next to it. The man is wearing a dark outfit. They appear to be engaged in a conversation. There are two motorcycles parked on the side of the road. The scene is captured from an elevated viewpoint, possibly from a nearby building or overpass.",
+    "anchor_frame": 1984,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.166667,
+    "observed_until_seconds": 66.166667,
+    "latest_available_frame": 1984,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2000": {
+    "caption": "In the video, a woman wearing a red dress is seen walking down a street. She approaches a man standing next to a parked car. The man is wearing a black shirt and blue jeans. They engage in a conversation, and the woman appears to be gesturing with her hands. There is a scooter parked on the side of the road. The scene takes place during the day, and the surroundings suggest an urban environment.",
+    "anchor_frame": 2000,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.7,
+    "observed_until_seconds": 66.7,
+    "latest_available_frame": 2000,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2016": {
+    "caption": "In the video, there is a street scene with a parked car and a scooter. Two individuals are standing near the car, one of them appears to be wearing a red outfit and the other in darker clothing. They seem to be engaged in a conversation or interaction. There is no visible motion change or escalation in the provided frames.",
+    "anchor_frame": 2016,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.233333,
+    "observed_until_seconds": 67.233333,
+    "latest_available_frame": 2016,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2032": {
+    "caption": "The video shows a street scene with a parked scooter on the left and a car in the background. Two individuals are standing near the scooter, one wearing a red outfit and the other in darker clothing. They appear to be engaged in a conversation or interaction. The person in red is facing the individual in dark clothing, who is turned slightly away from the camera. There is no significant motion or change in the scene throughout the provided frames.",
+    "anchor_frame": 2032,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.766667,
+    "observed_until_seconds": 67.766667,
+    "latest_available_frame": 2032,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2048": {
+    "caption": "The video shows a street scene with a parked scooter on the left, a silver car in the background, and two individuals standing near the scooter. One individual is wearing a red outfit, while the other is dressed in dark clothing. The person in red appears to be gesturing or talking to the other individual. There are no significant motion changes or escalations visible in this segment of the video.",
+    "anchor_frame": 2048,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.3,
+    "observed_until_seconds": 68.3,
+    "latest_available_frame": 2048,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2064": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and two individuals. One person is wearing a red outfit and standing near the car, while the other person, dressed in dark clothing, is interacting with the scooter. The person in dark clothing appears to be adjusting or inspecting something on the scooter. There are no significant motion changes or escalations visible in this segment of the video.",
+    "anchor_frame": 2064,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.833333,
+    "observed_until_seconds": 68.833333,
+    "latest_available_frame": 2064,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2080": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and two individuals standing near the scooter. One person is wearing a red outfit, while the other is in darker clothing. The person in red appears to be holding something in their hand, possibly a phone or wallet, and seems to be interacting with the other individual. There is no significant motion or interaction between the two people, and the scene remains static throughout the video.",
+    "anchor_frame": 2080,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.366667,
+    "observed_until_seconds": 69.366667,
+    "latest_available_frame": 2080,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2096": {
+    "caption": "In the video, there is a woman wearing a red dress standing on the sidewalk. She appears to be engaged in a conversation with a man who is bent over near a parked scooter. The man is wearing dark clothing. There is also a silver car parked behind them. The scene takes place on a street with buildings on either side. No significant motion or interaction changes are observed throughout the video segment.",
+    "anchor_frame": 2096,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.9,
+    "observed_until_seconds": 69.9,
+    "latest_available_frame": 2096,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2112": {
+    "caption": "In the video, there is a woman wearing a red dress and a man in a blue shirt. They are standing on a street next to a parked car and a scooter. The woman appears to be gesturing with her hands while talking to the man. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 2112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.433333,
+    "observed_until_seconds": 70.433333,
+    "latest_available_frame": 2112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2128": {
+    "caption": "A woman in a red dress and a man in a blue shirt are standing on a street. The woman is holding a white bag and the man is bending over to pick something up from the ground. There is a silver car parked behind them and a purple scooter parked in front of them.",
+    "anchor_frame": 2128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.966667,
+    "observed_until_seconds": 70.966667,
+    "latest_available_frame": 2128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2144": {
+    "caption": "In the video segment, there is a woman wearing a red dress and a man in a blue shirt. They are standing on a street next to a parked car and a scooter. The woman appears to be talking to the man, who is leaning against the scooter. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 2144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 69.5,
+    "observed_until_seconds": 71.5,
+    "latest_available_frame": 2144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2160": {
+    "caption": "A woman in a red dress and a man in a striped shirt are standing on the street. The woman is holding a bag and the man is holding a phone. They are talking to each other. There is a car parked behind them and a scooter parked in front of them.",
+    "anchor_frame": 2160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.033333,
+    "observed_until_seconds": 72.033333,
+    "latest_available_frame": 2160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2176": {
+    "caption": "In the video, there is a woman wearing a red dress and a man in a blue shirt standing on a street. They are next to a parked car and a scooter. The woman appears to be talking to the man, while the man listens attentively. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 2176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.566667,
+    "observed_until_seconds": 72.566667,
+    "latest_available_frame": 2176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2192": {
+    "caption": "In the video, there is a woman wearing a red dress and a man in a striped shirt standing on a street. They are next to a parked car and a scooter. The woman appears to be talking to the man, while he listens attentively. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 2192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.1,
+    "observed_until_seconds": 73.1,
+    "latest_available_frame": 2192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2208": {
+    "caption": "In the video, there is a man and a woman standing on a street. The woman is wearing a red dress and the man is wearing a striped shirt. They are standing next to a parked car and a scooter. There is no visible motion or interaction between the two individuals.",
+    "anchor_frame": 2208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.633333,
+    "observed_until_seconds": 73.633333,
+    "latest_available_frame": 2208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2224": {
+    "caption": "The video shows a street scene with two individuals standing next to each other. One person is wearing a red outfit, and the other is in a striped shirt. They appear to be engaged in a conversation. There is a parked car behind them and a scooter on the left side of the frame. The surroundings include a building facade and a green trash bin. The timestamp indicates the footage was captured at 15:57:46 PM on 05-20-2018.",
+    "anchor_frame": 2224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.166667,
+    "observed_until_seconds": 74.166667,
+    "latest_available_frame": 2224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2240": {
+    "caption": "In the video, there is a street scene with a parked car and a scooter. A person wearing a red outfit is standing next to another individual who is wearing a striped shirt. The person in red appears to be gesturing or pointing towards something off-camera. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 2240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.7,
+    "observed_until_seconds": 74.7,
+    "latest_available_frame": 2240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2256": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and two individuals standing near the car. One person is wearing a red garment, while the other is in a striped shirt. The person in red appears to be gesturing or pointing towards something off-camera. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 2256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.233333,
+    "observed_until_seconds": 75.233333,
+    "latest_available_frame": 2256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2272": {
+    "caption": "The video shows a street scene with parked vehicles, including a scooter and a car. There are at least three individuals visible: one person in red attire, another in a striped shirt, and a third in a red shirt. The person in red appears to be gesturing or interacting with the others. The actions are limited to standing and gesturing, with no significant motion changes or escalations.",
+    "anchor_frame": 2272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.766667,
+    "observed_until_seconds": 75.766667,
+    "latest_available_frame": 2272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2288": {
+    "caption": "The video shows a street scene with a parked scooter on the left and a car in the background. There are three individuals present: one person is standing near the scooter, another is walking towards the scooter, and the third person is approaching from the opposite direction. The person walking towards the scooter is wearing a red top and dark pants, while the person approaching from the opposite direction is wearing a blue shirt and jeans. The person near the scooter is wearing a white shirt and dark pants. No significant motion or interaction is observed between the individuals.",
+    "anchor_frame": 2288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.3,
+    "observed_until_seconds": 76.3,
+    "latest_available_frame": 2288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2304": {
+    "caption": "The video shows a street scene with a parked car, a scooter, and three individuals. One person is wearing a red shirt and appears to be in motion, walking towards the other two who are standing near the scooter. The person in red seems to be approaching the others with intent, but the nature of their interaction is not clear from the still images provided.",
+    "anchor_frame": 2304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.833333,
+    "observed_until_seconds": 76.833333,
+    "latest_available_frame": 2304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2320": {
+    "caption": "In the video, there are two men and a woman standing on a street. One man is wearing a red shirt and the other is wearing a striped shirt. The woman is wearing a white dress. They are standing near a parked car and a scooter. The man in the red shirt appears to be talking to the other two. There is no visible motion or interaction between the individuals.",
+    "anchor_frame": 2320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.366667,
+    "observed_until_seconds": 77.366667,
+    "latest_available_frame": 2320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2336": {
+    "caption": "In the video, there is a street scene with a parked car and a scooter. A person wearing a red shirt and black shorts walks towards the camera. Another person in a blue shirt and jeans stands near the car. There is also a person in a white shirt and dark pants standing near the scooter. The people are not interacting with each other.",
+    "anchor_frame": 2336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.9,
+    "observed_until_seconds": 77.9,
+    "latest_available_frame": 2336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2352": {
+    "caption": "In the video, there are three individuals standing on a street. One person is wearing a red shirt and black shorts, another is in a blue shirt and jeans, and the third is in a white shirt and dark pants. They appear to be engaged in a conversation. There is a parked car and a scooter visible in the background. The scene is static with no significant motion or interaction between the entities.",
+    "anchor_frame": 2352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.433333,
+    "observed_until_seconds": 78.433333,
+    "latest_available_frame": 2352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2368": {
+    "caption": "In the video segment, there are two men standing on a street. One man is wearing a red shirt and the other is wearing a striped shirt. They appear to be engaged in a conversation. There is a parked car behind them and a scooter parked on the side of the road. The man in the red shirt is holding a helmet. There is no visible motion or interaction between the entities.",
+    "anchor_frame": 2368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.966667,
+    "observed_until_seconds": 78.966667,
+    "latest_available_frame": 2368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2384": {
+    "caption": "In the video, there are two men standing on a street. One man is wearing a red shirt and the other is wearing a striped shirt. They are both holding helmets. There is a silver car parked behind them. A scooter is parked on the left side of the frame. The man in the red shirt is talking on his phone. The man in the striped shirt is looking at his phone. There is no visible motion or interaction between the two men.",
+    "anchor_frame": 2384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 77.5,
+    "observed_until_seconds": 79.5,
+    "latest_available_frame": 2384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2400": {
+    "caption": "In the video segment, there are two men standing on a street. One man is wearing a red shirt and the other is wearing a striped shirt. The man in the red shirt is holding a phone to his ear. There is a parked scooter and a car behind them. The scene is static with no significant motion or interaction between the entities.",
+    "anchor_frame": 2400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 78.033333,
+    "observed_until_seconds": 80.033333,
+    "latest_available_frame": 2400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2416": {
+    "caption": "In the video, there are two men standing on a street. One man is wearing a red shirt and the other is wearing a blue striped shirt. They appear to be engaged in a conversation. There is a parked scooter nearby. The scene is static with no significant motion or interaction between the entities.",
+    "anchor_frame": 2416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 78.566667,
+    "observed_until_seconds": 80.566667,
+    "latest_available_frame": 2416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2432": {
+    "caption": "In the video segment, there are three individuals standing on a street. One person is wearing a red shirt and appears to be talking on a mobile phone. Another individual is dressed in a striped shirt and is holding a helmet. The third person is partially obscured but seems to be engaged in conversation with the other two. There is a parked scooter nearby. No significant motion or interaction is observed between the individuals or objects.",
+    "anchor_frame": 2432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 79.1,
+    "observed_until_seconds": 81.1,
+    "latest_available_frame": 2432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2448": {
+    "caption": "In the video, there are three men standing on a street. One man is wearing a red shirt and black shorts, another is wearing a blue shirt and jeans, and the third is wearing a white shirt and black pants. They are standing near a parked car and a scooter. The man in the red shirt is talking on his phone, while the other two men are looking at their phones. There is no visible motion or interaction between the men.",
+    "anchor_frame": 2448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 79.633333,
+    "observed_until_seconds": 81.633333,
+    "latest_available_frame": 2448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2464": {
+    "caption": "In the video, there are three individuals standing on a street. One person is wearing a red shirt and appears to be gesturing with their hands. Another individual is dressed in a blue striped shirt and seems to be holding something in their hand. The third person is wearing a white shirt and is facing away from the camera. There is a parked scooter on the left side of the frame and a car parked further back on the right. The scene is static with no significant motion or interaction between the individuals.",
+    "anchor_frame": 2464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 80.166667,
+    "observed_until_seconds": 82.166667,
+    "latest_available_frame": 2464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2480": {
+    "caption": "In the video, there are three men standing on a street. One man is wearing a red shirt and black pants, another is wearing a blue shirt and black pants, and the third is wearing a white shirt and black pants. They are standing near a parked car and a scooter. The man in the red shirt is holding a helmet. There is no visible motion or interaction between the individuals.",
+    "anchor_frame": 2480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 80.7,
+    "observed_until_seconds": 82.7,
+    "latest_available_frame": 2480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2496": {
+    "caption": "The video shows a street scene with a parked scooter in the foreground. There are two individuals standing near the scooter, one wearing a red shirt and the other in a striped shirt. A third person is seen walking away from the group towards the background of the frame. The environment appears to be a residential area with buildings on either side of the street. The timestamp indicates the footage was captured at 15:57:55 PM on 05-20-2018.",
+    "anchor_frame": 2496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 81.233333,
+    "observed_until_seconds": 83.233333,
+    "latest_available_frame": 2496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

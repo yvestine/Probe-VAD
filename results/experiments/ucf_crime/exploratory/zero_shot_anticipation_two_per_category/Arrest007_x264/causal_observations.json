@@ -1,0 +1,1972 @@
+{
+  "0": {
+    "caption": "The video segment begins with a close-up of the word \"touch\" in a stylized font, with the letters \"t\" and \"c\" partially visible. The background is blurred, making it difficult to discern any specific details. The focus is on the text itself, which appears to be the main subject of this segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video begins with a close-up of the word \"TOUCH\" in bold, white letters against a blurred background. The letters are slightly out of focus, and there is a blue circular design to the left of the text. The camera then zooms out to reveal more of the background, which appears to be a dark, urban environment with indistinct shapes and lights. There is no clear action or interaction between entities, and no motion changes or escalations can be observed.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows a logo with the text \"UCIT\" in white letters, accompanied by a blue circular design. The background is blurred, making it difficult to discern specific details. There are no visible actions, interactions, or motion changes within this segment.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a surveillance camera view of a building's exterior. The camera is stationary and captures the scene without any visible motion changes or interactions between entities. There are no visible escalations or instabilities in the scene.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video begins with a blurred image of a logo that reads \"UCIT\" in white letters, accompanied by a blue circular design. The background is indistinct but appears to be an urban setting. As the video progresses, the logo becomes clearer and more focused. Subsequently, the scene transitions to a grid of surveillance camera feeds showing various angles of a street with vehicles and pedestrians. The feeds are in black and white, and the timestamp on one of the feeds indicates the time as 12:07:31.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video begins with a blurred image of a logo, which is then revealed to be \"UCIT\" in white letters against a blue and teal circular background. The logo is superimposed over a series of black and white surveillance camera feeds showing various scenes such as a parking lot, a street, and indoor areas with people and vehicles. The camera feeds are arranged in a grid pattern around the logo.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video begins with a blurred image of a building, which quickly transitions to a logo with the text \"UCIT\" in white and blue. Following this, a grid of black-and-white surveillance camera feeds appears, showing various scenes such as indoor areas, outdoor streets, and vehicles. The images are static, with no discernible movement or action taking place.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video displays a grid of multiple surveillance camera feeds. The footage is in black and white, with varying levels of clarity and focus. Some frames show clear images of individuals, while others are blurry or obscured by motion blur. The scenes include indoor and outdoor environments, such as hallways, parking lots, and streets. There are no visible actions or interactions between the entities, and no discernible escalation or instability.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video consists of a series of surveillance camera feeds arranged in a grid format. Each feed shows different angles and locations, such as indoor areas, outdoor streets, and parking lots. The footage is in black and white, with varying levels of clarity and lighting conditions. There are no visible actions or interactions between entities, and the motion changes are limited to the camera's panning and zooming. No escalation or instability can be observed in the video.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video displays a grid of multiple surveillance camera feeds. Each feed shows different scenes, including indoor and outdoor environments, with varying levels of activity. The footage is in black and white, with timestamps visible on each feed. There are no discernible actions or interactions between entities, as the focus is on the static display of the surveillance feeds. No escalation or instability can be observed from the provided images.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video displays a montage of surveillance camera feeds, each showing different angles and locations within a building. The footage is in black and white, with timestamps visible on the bottom right corner of each feed. The feeds show various scenes including hallways, staircases, and rooms with people present. There are no significant actions or interactions between the entities visible in the video. The motion changes are limited to the movement of people walking through the hallways and stairs. No escalation or instability is observed in the video.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video displays a grid of multiple surveillance camera feeds. The feeds show various scenes, including indoor and outdoor environments, with different lighting conditions ranging from well-lit to dimly lit areas. Some feeds show vehicles, while others depict people walking or standing in different locations. There is no clear action or interaction between the entities visible in the footage. The motion changes are limited to the movement of people and vehicles within their respective environments. No escalation or instability is evident in the video.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a montage of surveillance footage with the logo \"UCIT\" prominently displayed in the center. The footage includes various scenes such as a parking lot, a street with vehicles, and individuals walking or standing in different locations. There are no visible actions or interactions between entities, and no motion changes or escalations can be observed.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows a montage of surveillance footage. The footage is in black and white, except for one frame where it transitions to color. The footage includes various scenes such as a parking lot with cars, a street scene with people walking, and a building entrance. There are no visible actions or interactions between entities. The footage does not show any motion changes or escalations.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a surveillance camera view of a room with a couch and a table. The camera is stationary and captures the room from a fixed position. There are no visible actions or interactions between entities in the video.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows a surveillance camera view of a room with a bench and a row of lockers. A person wearing a white shirt and dark pants enters the room from the right side, walks towards the lockers, opens one, and appears to be searching for something inside. The person then closes the locker and exits the room through the same door they entered.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a surveillance camera view of a room with a bench and a row of lockers. The room is empty for most of the video, but at one point, a person enters the room from the right side and walks towards the lockers. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "The video shows a laundry room with several washing machines lined up against the wall. There is a bench in the corner of the room. The room appears to be empty and there are no visible actions or interactions taking place.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a laundry room with several washing machines lined up against the wall. There is a bench in the center of the room and a door on the right side. The room appears to be empty, with no visible movement or activity.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a static shot of an empty laundry room with beige walls and flooring. There are several washing machines lined up against the wall on the right side, and a row of lockers is visible in the background. A black bench is positioned against the left wall. No people or significant movement are observed throughout the video.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor laundry room. The room has beige walls, a tiled floor, and is equipped with several washing machines lined up against the wall. There are two chairs placed near the entrance, and a fire extinguisher is mounted on the wall. No people or significant movement are observed in the video segment.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a laundry room with beige walls and flooring. There are several washing machines lined up against the wall, and a row of lockers is visible in the background. A person wearing a white shirt and dark pants enters the frame from the right side and walks towards the washing machines. They appear to be carrying a small object in their hand. The person stops at one of the washing machines and seems to interact with it, possibly starting a cycle or adding detergent. After a brief moment, they turn and walk out of the frame to the left.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a laundry room with beige walls and flooring. There are several washing machines lined up against the wall, and a bench is visible in the foreground. A person wearing dark clothing enters the frame from the right side and walks towards the washing machines. The person appears to be carrying a bag or some items. The individual then proceeds to interact with one of the washing machines, possibly opening it or placing something inside. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a laundry room with beige walls and flooring. There are several washing machines lined up against the wall, and a bench is visible in the foreground. A person wearing a white tank top and dark shorts enters the frame from the right side, walks towards the washing machines, and then exits the frame on the left side. The lighting is artificial, and there are no other discernible objects or people in the room.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera's perspective of a laundry room. The room has beige walls, a tiled floor, and is equipped with several washing machines lined up against the wall. There are two benches in the room, one on each side. A person wearing a white tank top and dark shorts enters the frame from the right side, walks towards the center of the room, and then turns to face the washing machines. The individual appears to be interacting with the machines, possibly loading or unloading them. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a surveillance camera's perspective of a laundry room. A person wearing a white tank top and dark shorts is seen walking across the room from left to right. The individual appears to be carrying something in their hands, but it is not clear what it is due to the resolution of the footage. There are several washing machines lined up against the wall on the right side of the frame. The floor is a light color, and there is a bench along the left wall. The walls are a neutral color, and there is a door visible in the background. No other significant actions or interactions occur during this segment of the video.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera view of a laundry room. A person wearing a white tank top and dark shorts is seen walking towards the washing machines. The individual opens one of the washing machines, places an item inside, and then closes the machine. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a surveillance camera's perspective of a laundry room. A person wearing a white tank top and dark shorts is seen walking towards the washing machines. They proceed to interact with one of the machines, opening its lid and placing an item inside. The individual then closes the lid and starts the machine. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A man in a white tank top and dark shorts is standing in front of a row of washing machines. He is facing the machines and appears to be interacting with one of them, possibly loading or unloading clothes. The room has beige walls and flooring, and there are several empty chairs lined up against the wall opposite the washing machines. There is no visible motion change or escalation in this segment.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "In the video, a man is seen standing in front of a row of washing machines. He appears to be interacting with one of the machines, possibly loading or unloading clothes. The man is wearing a white tank top and dark shorts. The room has a beige color scheme, and there are lockers along the wall. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A man is standing in a laundry room. He is wearing a white tank top and black shorts. He is putting clothes into a washing machine. There are several other washing machines and dryers in the room. There are also lockers and a bench in the room. The man is moving his arms and legs as he puts the clothes into the washing machine.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "In the video, a man is seen standing in a laundry room. He is wearing a white tank top and black shorts. The room has several washing machines and dryers lined up against the wall. The man is interacting with one of the washing machines, possibly loading or unloading clothes. There are no other people visible in the room.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A man is standing in a laundry room. He is wearing a white tank top and black shorts. He is looking at the washing machine. The washing machine is white and has a black lid. There are two other washing machines in the room, one on each side of the man. There is a bench in the corner of the room. The man opens the lid of the washing machine and puts something inside.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "In the video, a man is seen standing in a laundry room. He is wearing a white tank top and black shorts. He is interacting with a washing machine, placing clothes inside it. The room has beige walls and flooring, and there are several other washing machines and dryers visible in the background. There is also a bench against the wall. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a man in a white tank top and dark pants standing in a room with beige walls and flooring. He is positioned near a row of machines, possibly printers or copiers, and appears to be interacting with one of them. The man's actions are deliberate and focused on the machine. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "In the video, a man is seen in a laundry room. He is wearing a white tank top and dark shorts. He is standing next to a washing machine and appears to be interacting with it. The room has beige walls and flooring, and there are several chairs lined up against one wall. There is also a door visible in the background.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There are two black chairs, a whiteboard on the wall, and a door at the far end. A person wearing a white tank top and dark shorts is seen interacting with a white appliance, possibly a washing machine or dryer, located in the center of the room. The individual appears to be performing tasks related to the appliance, such as opening it, placing items inside, or removing them. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor laundry room. The room has beige walls, a gray floor, and is equipped with several washing machines and dryers lined up against the wall. There are two black chairs placed in the room, one near the entrance and another closer to the machines. A person wearing a white tank top and dark shorts is seen interacting with the washing machines, bending over and reaching into them. The individual appears to be loading or unloading laundry. No other significant actions or interactions are observed in this segment of the video.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor laundry room. The room has beige walls, a tiled floor, and is equipped with several washing machines and dryers lined up against the wall. There are also a few chairs and a bench in the room. A person wearing a white tank top and dark shorts is seen interacting with one of the washing machines. They appear to be loading or unloading laundry from the machine. No other significant actions or interactions are visible in the provided frames.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the wall, a white refrigerator to the right, and a white cabinet with drawers in the center. A person wearing a white tank top and dark shorts is seen bending over the cabinet, interacting with its contents. The person's actions are repetitive, suggesting they are either organizing or searching for something within the cabinet. No other significant movement or interaction is observed in the video.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, there is a man wearing a white tank top and dark shorts. He is standing in front of a row of lockers in what appears to be a break room or similar facility. The man is bending over and reaching into one of the lockers. There are several other lockers visible, as well as a bench and a trash can. The man's actions suggest he may be retrieving or storing something inside the locker.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "The video shows a surveillance camera view of an office space. There is a man wearing a white tank top and dark shorts, leaning over a desk with papers on it. He appears to be writing or filling out some documents. The room has beige walls, a black bench against the wall, and several filing cabinets. There are no other people visible in the frame. The man's actions are limited to his interaction with the papers on the desk.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "In the video, a man is seen in a room with a washing machine. He is wearing a white tank top and dark shorts. The man is bending over the washing machine, appearing to be interacting with it. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A man is seen in a laundry room, bending over a washing machine. He appears to be struggling with the machine, possibly trying to open or close it. The man's actions are focused on the washing machine and his interaction with it.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a man is seen in a laundry room. He is wearing a white tank top and dark shorts. He is bending over a washing machine, appearing to be loading or unloading clothes. The room has beige walls and flooring, with a bench against one wall and a fire extinguisher mounted on another. There are several washing machines and dryers lined up along the wall opposite the bench. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A man is seen in a laundry room. He is bending over and appears to be putting something into a washing machine.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a man is seen standing in front of a washing machine. He appears to be interacting with the machine, possibly loading or unloading clothes. The man's actions are deliberate and focused on the task at hand. There are no other visible entities or interactions in the scene.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "In the video, a person is seen standing in an office environment. They are wearing a white shirt and dark pants. The individual is interacting with a printer, possibly retrieving or placing documents. The office has beige walls, a black bench against the wall, and a white printer on a desk. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, a person is seen in an office setting. They are wearing a white shirt and dark pants. The individual is bending over a desk, interacting with objects on it. There is a chair against the wall, a filing cabinet, and a trash can visible in the room. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows a surveillance camera view of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door in the back. A person wearing a white shirt and dark shorts enters the frame from the right, walks towards the desk, and appears to interact with something on it. The person's actions are deliberate and focused on the desk area.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "In the video, a person is seen in an office setting. They are wearing a white shirt and dark pants. The individual is bending over a desk, appearing to be engaged in some activity on the desk's surface. There is a chair positioned against the wall, and a printer or similar device is visible on the desk. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows a surveillance camera view of an indoor room with beige walls and flooring. There is a black bench against the wall, a white desk with a computer monitor on it, and a door to the right. A person wearing a white shirt and dark pants is seen bending over the desk, interacting with something on it. The person's actions are repetitive, suggesting they are either organizing or searching for something. No other significant motion or interaction is observed in the video segment.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door in the background. The room appears to be empty except for a person who enters from the right side of the frame. This individual is wearing dark clothing and moves towards the desk, bending over it as if to interact with something on or near the desk. No other actions or interactions are visible in this segment of the video.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door in the background. The person in the video is wearing dark clothing and appears to be bending over the desk, possibly interacting with the computer or items on it. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door at the back. A person wearing dark shorts and a light-colored shirt is seen bending over the desk, interacting with something on it. The person's actions are repetitive, suggesting they are either organizing or searching for items. No other entities or significant interactions are visible in this segment.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door at the back. A person wearing dark shorts enters the frame from the right, walks towards the desk, and appears to interact with something on it. The person then turns around and exits the frame to the right. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door at the back. A person wearing a white shirt and dark shorts enters the frame from the right, walks towards the desk, and appears to interact with something on it. The person then turns around and exits the frame through the same door they entered.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows a surveillance camera view of an indoor space, possibly a break room or office area. There is a person wearing a white shirt and dark shorts standing near a counter with what appears to be a coffee machine. The person seems to be interacting with the machine, perhaps preparing a beverage. The room has beige walls, a bench, and a trash can visible in the background. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "In the video segment, a man is seen walking into an office building. He is wearing a white shirt and black shorts. He walks towards the reception desk and appears to be interacting with someone behind the desk. The man then turns around and walks back towards the entrance of the building.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "The video shows a surveillance camera view of an indoor room with beige walls and flooring. There are two black chairs, a white desk with a computer monitor, and a white filing cabinet in the room. A person wearing a white shirt and dark pants is seen walking from the right side of the frame towards the left, passing by the desk and chairs. The person appears to be carrying something in their hand.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "The video shows a surveillance camera's view of an empty room with beige walls and flooring. There is a black bench against the left wall, a white counter with a computer on it in the center, and a vending machine in the back right corner. The room appears to be a break room or waiting area. No actions or interactions are visible, and there are no motion changes or escalations.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a room with beige walls and flooring. There is a black bench against the left wall, and a white desk with a computer on it in the center of the room. A person wearing a white shirt and dark pants is standing near the desk. The person appears to be interacting with something on the desk.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "The video shows a surveillance camera view of an office space. The room has beige walls, a tiled floor, and is furnished with a black bench against the left wall, a white desk with a computer on the right side, and a filing cabinet in the back right corner. There are two windows on the left wall, and a door is visible in the back right corner. A person wearing a white shirt and dark pants enters the frame from the right side, walks towards the center of the room, and then exits through the door on the right. No other actions or interactions are observed.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows a surveillance camera's perspective of an office space. The room has beige walls, a gray floor, and is furnished with a black bench against the left wall, a white desk with a computer on the right side, and a door at the back. There are no visible people or significant movements in the room throughout the video segment.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with drawers on the right side, and a door at the back. A person wearing a light-colored shirt and dark shorts enters the frame from the right, walks towards the center of the room, and then turns to face the door. The person appears to be holding something in their hands but it is not clear what it is. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the left wall, a white desk with a computer on the right side, and a door at the back. A person wearing a white tank top and dark shorts enters the frame from the right, walks towards the desk, and appears to interact with something on it. The person then turns around and exits the frame to the right.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There are two black chairs, a white desk with a computer monitor, and a printer on the right side of the frame. A person wearing a white tank top and dark shorts enters the room from the left side of the frame, walks towards the desk, and interacts with the computer monitor. The person's actions are deliberate and focused on the computer.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There are two black chairs, a white desk with a computer monitor, and a printer on the right side of the frame. A person wearing a white tank top and dark shorts enters the room from the left side of the frame and approaches the desk. The individual interacts with the computer monitor and the desk area, possibly typing or using the mouse. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space, likely a break room or office area. The room has beige walls and flooring, with a black bench against the wall on the left side. There are white cabinets and a black printer on the right side. A person wearing a sleeveless top and shorts is seen standing in front of the printer, interacting with it. The individual appears to be pressing buttons or adjusting settings on the printer. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the wall, a white door on the right, and a white cabinet with drawers in the center. A person wearing a white tank top and dark shorts is standing at the cabinet, facing away from the camera. The individual appears to be interacting with the cabinet, possibly opening or closing drawers. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a surveillance camera view of an indoor space, possibly an office or a public building. The room has beige walls and flooring, with a row of white desks against one wall. There are black chairs placed in front of the desks. A person is standing at one of the desks, facing away from the camera, and appears to be interacting with something on the desk, possibly a computer or paperwork. The person's actions are limited to this interaction, and there is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "The video shows a man in a white tank top and dark pants standing in an office environment. He is positioned near a desk with a printer on it. The man appears to be interacting with the printer, possibly placing or removing items from it. There are no other visible actions or interactions in this segment of the video.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "In the video, a man is seen standing in an office area. He is wearing a white tank top and dark pants. The man is interacting with a printer, placing papers into it. There are chairs and a filing cabinet visible in the background. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A man is standing in a room with a washing machine. He is wearing a white tank top and black shorts. He is looking at the washing machine. He then bends down and puts something into the washing machine.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "The video shows a man in a white tank top and black shorts standing in a room with a washing machine. He is seen bending over the washing machine, interacting with it, and then standing up. The room has beige walls, a black bench against the wall, and a door on the right side. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A man is standing in a room with lockers. He is wearing a white tank top and black shorts. He is bending over and appears to be looking at something on the floor.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, a man wearing a white tank top and dark shorts is seen in a laundry room. He is bending over and appears to be interacting with a washing machine or dryer. The room has beige walls, a gray floor, and several white appliances lined up against one wall. There are also two black chairs and a whiteboard on the wall. The man's actions are repetitive, suggesting he may be loading or unloading laundry.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "A man in a white tank top and dark shorts is seen bending over a washing machine in a laundry room. He appears to be interacting with the machine, possibly loading or unloading clothes. The room has several other washing machines and dryers lined up against the wall, as well as a bench and a door. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, a man is seen in a laundry room. He is wearing a white tank top and dark shorts. He is bending over a washing machine, appearing to be loading or unloading clothes. The room has beige walls and flooring, with several washing machines and dryers lined up against one wall. There are also lockers and a bench visible in the room. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "The video shows a man in a white tank top and dark shorts standing in a laundry room. He is bending over, reaching into a washing machine. The room has beige walls, a gray floor, and several washing machines lined up against the wall. There are also lockers and a bench visible in the room. The man appears to be interacting with the washing machine, possibly loading or unloading clothes.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "The video shows a man in a white tank top and dark shorts standing in a laundry room. He is bending over and appears to be interacting with the washing machines. The room has beige walls, a bench, and several washing machines lined up against one wall. There are no other people visible in the room.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "The video shows a man in a white tank top and dark shorts standing in a laundry room. He is interacting with a washing machine, possibly loading or unloading clothes. The room has beige walls, a bench, and several other washing machines lined up against the wall. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows a surveillance camera view of an indoor laundry room. The room has beige walls, a tiled floor, and several washing machines lined up against the wall. There is a bench in the center of the room and a door on the far side. A person wearing a white tank top and dark shorts is seen interacting with one of the washing machines. They appear to be placing or removing items from the machine. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows an indoor setting, likely a laundry room, with a person wearing a white tank top and dark shorts. The individual is seen bending over a washing machine, interacting with it, possibly loading or unloading clothes. The room has a bench against the wall, a door, and several other washing machines lined up in the background. The lighting is artificial, and the floor appears to be tiled. No other people are visible in the footage.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a single black bench against the left wall, and a white door is visible in the background. In the foreground, there is a white table with a person wearing a white tank top and dark pants leaning over it. The person appears to be interacting with something on the table, but the specific actions are not clear due to the angle and distance of the camera. No other significant movement or interaction is observed in the video segment provided.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with a beige floor and walls. There is a bench against the left wall, a door on the right side, and a row of lockers along the back wall. A person wearing a white tank top and dark shorts is standing at the counter, facing away from the camera, and appears to be washing their hands or face. The person's actions are repetitive, suggesting they are engaged in a routine task. No other significant movement or interaction is observed in the video segment.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "The video shows a surveillance camera view of an indoor laundry room. A man wearing a white tank top and dark shorts is seen standing in front of a washing machine. He appears to be interacting with the machine, possibly loading or unloading clothes. The room has beige walls, a bench, and several other washing machines lined up against the wall. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "The video shows a surveillance camera view of a laundry room. A man wearing a white tank top and dark shorts is seen standing in front of a washing machine. He appears to be interacting with the machine, possibly loading or unloading clothes. The room has beige walls, a bench, and several other washing machines lined up against the wall. There are no visible signs of any escalation or instability.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A man in a white tank top and dark shorts is standing in front of a row of washing machines. He is bending over and appears to be putting something into one of the machines. The room has beige walls and a tiled floor. There are two black chairs against the wall on the left side of the room.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, a man is seen standing in front of a row of washing machines. He appears to be interacting with one of the machines, possibly loading or unloading clothes. The man's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A man in a white tank top and black shorts is standing in front of a row of copiers. He is wearing headphones and appears to be scanning or copying something. The room has beige walls and a tiled floor. There are two chairs against the wall and a door on the far side of the room.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, a man is seen standing in front of a printer. He appears to be interacting with the machine, possibly pressing buttons or retrieving documents. The man's actions are deliberate and focused on the printer.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "In the video, a man is seen standing in front of a row of washing machines. He is wearing a white tank top and dark shorts. The man is interacting with the washing machines, possibly loading or unloading them. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "In the video, a person is seen in a room with a washing machine. The individual is wearing a white tank top and dark shorts. They are bending over the washing machine, appearing to interact with it. The room has beige walls, a black bench against one wall, and a door on the opposite side. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "The video shows a surveillance camera view of an indoor space, possibly a break room or office area. There is a person wearing a white tank top and dark shorts who appears to be in motion, possibly walking or running. The individual interacts with a row of machines that could be printers or copiers. The person's actions are repetitive, suggesting they may be performing a task such as retrieving or placing items on the machines. The environment is static, with no other individuals visible, and the lighting is consistent throughout the video.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "In the video, a person is seen in an office setting. They are wearing a white shirt and dark pants. The individual is bending over a desk, interacting with objects on it. There is a chair against the wall, and a door is visible in the background. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "The video shows a surveillance camera view of an office space. A person is seen walking towards a printer, bending down to pick up a document from the floor, and then placing it into the printer. The individual appears to be wearing a light-colored shirt and dark pants. The office has beige walls, a black bench against the wall, and several white cabinets and printers. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor office space. The room is furnished with a bench, a desk, and a printer. A person wearing a light-colored shirt and dark pants enters the frame from the right side and approaches the desk. They appear to interact with the desk, possibly using the printer or handling paperwork. The individual then moves towards the left side of the frame and exits the scene. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space, likely an office or a similar facility. The room is sparsely furnished with a bench against the wall and a desk with a computer on it. There are several chairs around the desk, and a door is visible in the background. The lighting is artificial, and the walls are painted in a neutral color. No people are present in the footage, and there are no significant actions or interactions taking place.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1584": {
+    "caption": "The video shows a surveillance camera view of an office space. There is a desk with a computer and a printer on the right side, and a bench against the wall on the left. The floor is carpeted in a light color. A person wearing a white shirt and dark pants enters the frame from the right, walks towards the desk, and appears to interact with the computer or printer. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 1584,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.833333,
+    "observed_until_seconds": 52.833333,
+    "latest_available_frame": 1584,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1600": {
+    "caption": "The video shows a surveillance camera view of an office space. A person is seen walking towards a printer, then bending over to interact with it. The individual appears to be struggling with the machine, as they are seen on the floor next to the printer. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 1600,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.366667,
+    "observed_until_seconds": 53.366667,
+    "latest_available_frame": 1600,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1616": {
+    "caption": "In the video, a person is seen walking in an office area. They approach a desk with a printer on it and bend down to interact with the printer. The person then sits down on the floor next to the desk.",
+    "anchor_frame": 1616,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.9,
+    "observed_until_seconds": 53.9,
+    "latest_available_frame": 1616,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1632": {
+    "caption": "In the video, a person is seen lying on the floor in an office setting. They are wearing dark clothing and appear to be motionless. The room has beige walls, a gray carpet, and several pieces of office furniture, including a desk with a computer, chairs, and filing cabinets. There is no visible movement or interaction with other objects or people.",
+    "anchor_frame": 1632,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.433333,
+    "observed_until_seconds": 54.433333,
+    "latest_available_frame": 1632,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1648": {
+    "caption": "In the video segment, a person is seen lying on the floor in an office-like room. The room has beige walls and flooring, with a black bench against one wall and a white printer on a desk. There are also several white cabinets along the wall. The person appears to be motionless throughout the duration of the video. No other actions or interactions are visible, and there is no apparent escalation or instability in the scene.",
+    "anchor_frame": 1648,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.966667,
+    "observed_until_seconds": 54.966667,
+    "latest_available_frame": 1648,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1664": {
+    "caption": "In the video, a person is seen lying on the floor in an office setting. The individual appears to be motionless and unresponsive. There are chairs and desks visible in the room, along with a door that seems to be closed. No other actions or interactions are observed in this segment of the video.",
+    "anchor_frame": 1664,
+    "video_fps": 30.0,
+    "observed_start_seconds": 53.5,
+    "observed_until_seconds": 55.5,
+    "latest_available_frame": 1664,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1680": {
+    "caption": "In the video segment, there is a surveillance camera view of an office room. A person is lying on the floor near a desk. Another individual enters the room and approaches the person on the floor. The second person appears to be holding a firearm and points it at the person on the floor. There is no visible movement from the person on the floor.",
+    "anchor_frame": 1680,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.033333,
+    "observed_until_seconds": 56.033333,
+    "latest_available_frame": 1680,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1696": {
+    "caption": "In the video, a person is seen lying on the floor in an office setting. Two individuals approach the person and begin to interact with them. One of the individuals appears to be using a flashlight to shine light on the person's face. The person on the floor remains motionless throughout the interaction.",
+    "anchor_frame": 1696,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.566667,
+    "observed_until_seconds": 56.566667,
+    "latest_available_frame": 1696,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1712": {
+    "caption": "A person is lying on the floor in an office. Two people are standing over them, one of whom appears to be holding a flashlight. The person on the floor remains motionless throughout the video.",
+    "anchor_frame": 1712,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.1,
+    "observed_until_seconds": 57.1,
+    "latest_available_frame": 1712,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1728": {
+    "caption": "In the video, there is a room with beige walls and a white floor. There are two chairs, one on the left side of the room and another on the right side. A desk is located in the center of the room. Two individuals are standing near the door, while another person is lying on the floor. The person on the floor appears to be motionless.",
+    "anchor_frame": 1728,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.633333,
+    "observed_until_seconds": 57.633333,
+    "latest_available_frame": 1728,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1744": {
+    "caption": "In the video, there is a room with beige walls and a light-colored floor. There are two chairs, one desk with a computer, and a printer on the right side of the room. A person is lying on the floor near the desk, while another person stands over them. The standing person appears to be interacting with the person on the floor, possibly in a confrontational manner. The standing person moves around the person on the floor, sometimes bending down towards them.",
+    "anchor_frame": 1744,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.166667,
+    "observed_until_seconds": 58.166667,
+    "latest_available_frame": 1744,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1760": {
+    "caption": "In the video, there is a room with beige walls and flooring. There are two chairs, a desk with a computer, and a printer on the right side of the room. A person is lying on the floor near the desk, while another person is standing over them. The person standing appears to be interacting with the person on the floor.",
+    "anchor_frame": 1760,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.7,
+    "observed_until_seconds": 58.7,
+    "latest_available_frame": 1760,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1776": {
+    "caption": "In the video, there is a room with beige walls and flooring. There are two chairs, one desk with a computer, and a printer on the desk. A person is lying on the floor near the desk, while another person is standing over them. The standing person appears to be interacting with the person on the floor, but the nature of their interaction is unclear.",
+    "anchor_frame": 1776,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.233333,
+    "observed_until_seconds": 59.233333,
+    "latest_available_frame": 1776,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1792": {
+    "caption": "The video shows a surveillance camera's perspective of an office room. There are two individuals on the floor, one lying down and the other kneeling beside them. The standing individual appears to be in a defensive posture, with their hands raised near their head. The kneeling person is reaching towards the other individual, possibly in an attempt to restrain or assist them. The room contains office furniture such as desks, chairs, and a printer. No significant motion changes or escalations are visible in this segment.",
+    "anchor_frame": 1792,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.766667,
+    "observed_until_seconds": 59.766667,
+    "latest_available_frame": 1792,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1808": {
+    "caption": "The video shows a surveillance camera's perspective of an office room. There are two individuals present: one is seated at a desk, and the other is standing nearby. The standing individual appears to be interacting with the seated person, possibly in a confrontational manner. The room contains office furniture such as desks, chairs, and a printer. The walls are a light color, and there is a door visible in the background. No significant motion or escalation is observed throughout the video segment.",
+    "anchor_frame": 1808,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.3,
+    "observed_until_seconds": 60.3,
+    "latest_available_frame": 1808,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1824": {
+    "caption": "The video shows a surveillance camera's perspective of an office space. There are two individuals present: one is seated on the floor, and the other is standing over them. The standing individual appears to be interacting with the seated person, possibly in a confrontational manner. The room contains office furniture such as desks, chairs, and a printer. No significant motion or interaction changes are observed throughout the segment.",
+    "anchor_frame": 1824,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.833333,
+    "observed_until_seconds": 60.833333,
+    "latest_available_frame": 1824,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1840": {
+    "caption": "In the video, there is a room with beige walls and flooring. There are two chairs, one black and one white, positioned against the wall. A desk with a computer monitor and keyboard is also visible. Two individuals are present in the room; one is seated on the floor while the other stands over them. The standing individual appears to be restraining or holding down the seated person. No significant motion changes or escalations are observed throughout the video segment.",
+    "anchor_frame": 1840,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.366667,
+    "observed_until_seconds": 61.366667,
+    "latest_available_frame": 1840,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1856": {
+    "caption": "In the video, there is a room with beige walls and flooring. There are two chairs, one black and one white, positioned against the wall. A desk with a computer monitor and keyboard is also visible. Two individuals are present in the room. One person is standing while the other is kneeling on the floor. The standing individual appears to be interacting with the kneeling person, possibly restraining or assisting them. The actions of the individuals suggest a potential conflict or altercation.",
+    "anchor_frame": 1856,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.9,
+    "observed_until_seconds": 61.9,
+    "latest_available_frame": 1856,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1872": {
+    "caption": "In the video, a person is seen lying on the floor in an office setting. Another individual is standing over them, and there is a third person nearby. The person on the floor appears to be struggling or resisting. The standing person seems to be exerting force on the person on the floor. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1872,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.433333,
+    "observed_until_seconds": 62.433333,
+    "latest_available_frame": 1872,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1888": {
+    "caption": "In the video segment, there are two individuals in a room with beige walls and flooring. One person is seated on the floor while the other stands nearby. The standing individual appears to be interacting with the seated person, possibly restraining or assisting them. There is a chair, a desk with a computer, and a filing cabinet in the room. The interaction between the two individuals seems to involve some form of physical contact or assistance.",
+    "anchor_frame": 1888,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.966667,
+    "observed_until_seconds": 62.966667,
+    "latest_available_frame": 1888,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1904": {
+    "caption": "In the video, there are two individuals in a room. One person is standing while the other is kneeling on the floor. The standing person appears to be holding or interacting with something on the floor near the kneeling individual. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1904,
+    "video_fps": 30.0,
+    "observed_start_seconds": 61.5,
+    "observed_until_seconds": 63.5,
+    "latest_available_frame": 1904,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1920": {
+    "caption": "In the video segment, there are two individuals in dark clothing standing near a door. One person is kneeling on the floor while the other stands beside them. The kneeling individual appears to be interacting with something on the floor. There is a bench and a desk with office equipment in the room. The scene remains static throughout the video segment.",
+    "anchor_frame": 1920,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.033333,
+    "observed_until_seconds": 64.033333,
+    "latest_available_frame": 1920,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1936": {
+    "caption": "In the video, there are two individuals in a room with beige walls and flooring. One person is seated on the floor while the other stands nearby. The standing individual appears to be wearing dark clothing, and the seated person is dressed in lighter attire. There is a desk with papers and a computer monitor on it, as well as a chair and a filing cabinet. The room has a door on one side and a window on the opposite wall. No significant motion or interaction is observed between the two people throughout the video segment.",
+    "anchor_frame": 1936,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.566667,
+    "observed_until_seconds": 64.566667,
+    "latest_available_frame": 1936,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1952": {
+    "caption": "In the video, there are two individuals in a room with beige walls and flooring. One person is seated on the floor while the other stands nearby. The standing individual appears to be interacting with the seated person, possibly in a confrontational manner. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1952,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.1,
+    "observed_until_seconds": 65.1,
+    "latest_available_frame": 1952,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1968": {
+    "caption": "In the video, there is a room with beige walls and a light-colored floor. There are two chairs, one desk with a computer, and a printer on the desk. A person is sitting on the floor near the door, while another person is standing nearby. The person on the floor appears to be in distress or injured, and the standing person seems to be trying to help them.",
+    "anchor_frame": 1968,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.633333,
+    "observed_until_seconds": 65.633333,
+    "latest_available_frame": 1968,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1984": {
+    "caption": "The video shows a surveillance camera's perspective of an office space. There are two individuals seated on the floor, one appears to be in distress or incapacitated. Two uniformed officers are standing nearby, one is holding what seems to be a firearm. The officers are engaged in a conversation with each other and occasionally look towards the seated individuals. There is no significant motion or interaction between the entities, and the situation appears to be stable without any visible escalation.",
+    "anchor_frame": 1984,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.166667,
+    "observed_until_seconds": 66.166667,
+    "latest_available_frame": 1984,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2000": {
+    "caption": "In the video, there is a room with beige walls and a white floor. There are two black chairs, a white desk with a computer on it, and a printer on the desk. A person wearing a black shirt and pants is sitting on the floor next to the desk. Another person wearing a black shirt and pants is standing behind the seated person. The standing person appears to be holding something in their hand.",
+    "anchor_frame": 2000,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.7,
+    "observed_until_seconds": 66.7,
+    "latest_available_frame": 2000,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2016": {
+    "caption": "The video shows a surveillance camera view of an office space. There are several desks with computers and chairs, and a few people are visible in the room. One person is sitting at a desk, while another is standing nearby. The individuals appear to be engaged in a conversation or interaction. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 2016,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.233333,
+    "observed_until_seconds": 67.233333,
+    "latest_available_frame": 2016,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2032": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space, likely an office or a similar facility. The room is furnished with a bench, a desk with a computer, and several chairs. There are at least three individuals present in the room. One person is seated on the floor near the desk, while two others stand nearby. The standing individuals appear to be engaged in a conversation or interaction with the seated person. The actions are limited to these interactions, and there is no visible escalation or instability in the scene.",
+    "anchor_frame": 2032,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.766667,
+    "observed_until_seconds": 67.766667,
+    "latest_available_frame": 2032,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2048": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor room with beige walls and flooring. There is a black bench against the wall, a white printer on a counter, and a door to the right. Three individuals are present: two appear to be in a physical altercation, with one person on the ground and the other standing over them. The third individual is standing nearby, observing the situation. The motion of the individuals suggests a struggle or confrontation.",
+    "anchor_frame": 2048,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.3,
+    "observed_until_seconds": 68.3,
+    "latest_available_frame": 2048,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2064": {
+    "caption": "The video shows a surveillance camera view of an indoor space, possibly an office or a public building. There are two individuals present: one person is wearing a dark-colored top and light-colored pants, while the other is dressed in a lighter-colored top and darker pants. The first individual appears to be holding a piece of paper or a document. They are standing near a counter with what seems to be a printer or copier machine on it. The second individual is facing the first person, and they seem to be engaged in a conversation or an exchange of the document. The environment is static, with no significant motion or changes occurring throughout the segment.",
+    "anchor_frame": 2064,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.833333,
+    "observed_until_seconds": 68.833333,
+    "latest_available_frame": 2064,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2080": {
+    "caption": "In the video, there are three individuals in a room with beige walls and flooring. One person is wearing a white shirt and dark pants, another is in a black shirt and dark pants, and the third is in a light-colored top and dark pants. The person in the white shirt appears to be holding an object that could be a phone or a small device. The person in the black shirt seems to be reaching towards the other individual, possibly in a confrontational manner. The third person is standing slightly apart from the other two, observing the situation. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 2080,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.366667,
+    "observed_until_seconds": 69.366667,
+    "latest_available_frame": 2080,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2096": {
+    "caption": "The video shows a surveillance camera view of an indoor room with beige walls and flooring. There is a black bench against the wall, a white counter with a printer on it, and a black refrigerator to the right of the counter. Three individuals are present in the room: one person wearing a light-colored shirt and dark pants, another person wearing a dark shirt and light-colored pants, and a third person whose clothing is not clearly visible. The individuals appear to be engaged in a conversation or interaction near the counter. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 2096,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.9,
+    "observed_until_seconds": 69.9,
+    "latest_available_frame": 2096,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2112": {
+    "caption": "The video shows a room with beige walls and flooring. There is a black bench against the wall, a whiteboard on the opposite wall, and a row of desks with computers along the right side. Two individuals are standing near the whiteboard, engaged in a conversation. One person is wearing a dark-colored top, while the other is in a lighter-colored top. The person in the darker top appears to be gesturing with their hands during the discussion. No significant motion or interaction changes occur throughout the segment.",
+    "anchor_frame": 2112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.433333,
+    "observed_until_seconds": 70.433333,
+    "latest_available_frame": 2112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2128": {
+    "caption": "In the video segment, there are two individuals standing in a room with beige walls and flooring. The room contains a black bench against the wall, a white counter with a black appliance on it, and a row of lockers along one wall. One individual is wearing a dark-colored shirt and pants, while the other is wearing a lighter-colored top and dark pants. They appear to be engaged in a conversation, with the person in the darker clothing gesturing with their hands. There is no visible motion change or escalation in this segment.",
+    "anchor_frame": 2128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.966667,
+    "observed_until_seconds": 70.966667,
+    "latest_available_frame": 2128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2144": {
+    "caption": "In the video, there are two people standing in a room. One person is wearing a black shirt and the other person is wearing a white shirt. They appear to be engaged in a conversation. There is a bench on the left side of the room and a printer on the right side. The person in the black shirt is holding a piece of paper.",
+    "anchor_frame": 2144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 69.5,
+    "observed_until_seconds": 71.5,
+    "latest_available_frame": 2144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2160": {
+    "caption": "In the video segment, there are two individuals standing in a room with beige walls and flooring. The room contains a bench against the wall, a printer or copier on a table, and several mailboxes along the wall. One individual is wearing a dark-colored shirt and pants, while the other is wearing a lighter-colored shirt and dark pants. They appear to be engaged in a conversation, with occasional gestures and movements. There is no visible escalation or instability in this scene.",
+    "anchor_frame": 2160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.033333,
+    "observed_until_seconds": 72.033333,
+    "latest_available_frame": 2160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2176": {
+    "caption": "In the video, there are two individuals standing in a room. One person is wearing a dark-colored shirt and pants, while the other is wearing a lighter-colored shirt and pants. They appear to be engaged in a conversation. The room has a bench against the wall, a desk with a computer on it, and a printer. There is no visible motion or interaction between the individuals, and no escalation or instability can be observed.",
+    "anchor_frame": 2176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.566667,
+    "observed_until_seconds": 72.566667,
+    "latest_available_frame": 2176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2192": {
+    "caption": "The video shows a surveillance camera view of an office space. There are two individuals standing near a door, engaged in conversation. One person is wearing a dark shirt and the other is wearing a lighter-colored shirt. They appear to be stationary throughout the segment. The office has beige walls, a gray floor, and there is a black bench against the wall. There is also a white printer on a desk to the right. No significant motion or interaction occurs during this segment.",
+    "anchor_frame": 2192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.1,
+    "observed_until_seconds": 73.1,
+    "latest_available_frame": 2192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2208": {
+    "caption": "The video shows a surveillance camera view of an office space. There are two individuals, one wearing a dark shirt and the other in a lighter shirt, standing near a counter with office equipment. The person in the dark shirt appears to be holding something in their hand and is gesturing towards the other individual. The person in the lighter shirt seems to be listening or responding to the gestures. There is no significant motion or interaction between the two individuals, and the scene remains static throughout the video segment.",
+    "anchor_frame": 2208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.633333,
+    "observed_until_seconds": 73.633333,
+    "latest_available_frame": 2208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2224": {
+    "caption": "The video shows a surveillance camera view of an office break room. There are two individuals, one wearing a dark shirt and the other in a lighter-colored shirt, standing near a row of photocopiers and printers. The person in the darker shirt appears to be gesturing or pointing towards something on the wall or equipment. The room is sparsely furnished with a bench against the wall and a trash can nearby. No significant motion or interaction between the individuals is observed beyond their initial positioning and gestures.",
+    "anchor_frame": 2224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.166667,
+    "observed_until_seconds": 74.166667,
+    "latest_available_frame": 2224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2240": {
+    "caption": "In the video, there is a room with beige walls and flooring. There are two black chairs against the wall on the left side of the room. On the right side, there is a counter with a white surface and a black chair behind it. Two people are standing near the counter, one wearing a dark shirt and the other in a lighter-colored shirt. They appear to be engaged in a conversation or interaction. The person in the darker shirt seems to be gesturing with their hands.",
+    "anchor_frame": 2240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.7,
+    "observed_until_seconds": 74.7,
+    "latest_available_frame": 2240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2256": {
+    "caption": "The video shows a surveillance camera's perspective of an office space. The room is furnished with a bench, a desk, and several chairs. There are also multiple printers on the desk. A person wearing dark clothing enters the room from the right side of the frame and walks towards the back of the room. They appear to interact with something or someone off-camera before exiting the frame to the left. No other significant actions or interactions are observed in this segment.",
+    "anchor_frame": 2256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.233333,
+    "observed_until_seconds": 75.233333,
+    "latest_available_frame": 2256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2272": {
+    "caption": "The video shows a surveillance camera's perspective of an office room. The room has beige walls, a dark-colored floor, and is furnished with a black bench against the wall, a white printer on a counter, and a black chair next to the printer. There is a door at the far end of the room. No people are visible in the footage.",
+    "anchor_frame": 2272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.766667,
+    "observed_until_seconds": 75.766667,
+    "latest_available_frame": 2272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2288": {
+    "caption": "The video shows a static shot of an office break room. There is a black bench on the left side, a white trash can in the center, and a white photocopier on the right. The walls are beige, and there is a door at the back. No movement or actions are observed throughout the video.",
+    "anchor_frame": 2288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.3,
+    "observed_until_seconds": 76.3,
+    "latest_available_frame": 2288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2304": {
+    "caption": "The video shows a static surveillance camera view of an office room. The room has beige walls, a dark-colored carpet, and is furnished with a black bench against the left wall, a white printer on a desk in the center, and a black chair next to the desk. There are no visible actions or interactions taking place, and no entities are moving within the frame. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 2304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.833333,
+    "observed_until_seconds": 76.833333,
+    "latest_available_frame": 2304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2320": {
+    "caption": "The video shows a surveillance camera view of an empty room with beige walls and flooring. There is a black bench against the left wall, a white printer on a desk in the center, and a door on the right side. The camera remains static throughout the video, capturing no movement or interaction between entities.",
+    "anchor_frame": 2320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.366667,
+    "observed_until_seconds": 77.366667,
+    "latest_available_frame": 2320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2336": {
+    "caption": "The video shows a surveillance camera view of an empty room with beige walls and flooring. There is a black bench against the left wall, a white printer on a desk in the center, and a dark-colored door on the right side. The room appears to be still and quiet throughout the video.",
+    "anchor_frame": 2336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.9,
+    "observed_until_seconds": 77.9,
+    "latest_available_frame": 2336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2352": {
+    "caption": "The video shows a static surveillance camera view of an empty room with beige walls and flooring. There is a black bench against the left wall, a row of white mailboxes on the right wall, and a black door at the far end. The room appears to be a waiting area or a break room. No actions or interactions are observed, and there is no visible escalation or instability.",
+    "anchor_frame": 2352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.433333,
+    "observed_until_seconds": 78.433333,
+    "latest_available_frame": 2352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2368": {
+    "caption": "The video shows a static shot of an empty room with beige walls and flooring. There is a black bench against the left wall, a row of white mailboxes along the back wall, and a black door on the right side. In the foreground, there are several white printers or copiers lined up against the wall. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 2368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.966667,
+    "observed_until_seconds": 78.966667,
+    "latest_available_frame": 2368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2384": {
+    "caption": "The video shows a surveillance camera view of an empty room with beige walls and flooring. There is a black bench against the left wall, a white printer on a desk in the center, and a black door on the right side. The camera remains stationary throughout the video, capturing no movement or interaction between entities.",
+    "anchor_frame": 2384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 77.5,
+    "observed_until_seconds": 79.5,
+    "latest_available_frame": 2384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2400": {
+    "caption": "The video shows a static surveillance camera view of an empty room with beige walls and flooring. There are two black chairs, a white printer on a desk, and a black door in the background. No actions or interactions occur throughout the segment.",
+    "anchor_frame": 2400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 78.033333,
+    "observed_until_seconds": 80.033333,
+    "latest_available_frame": 2400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2416": {
+    "caption": "The video shows a static surveillance camera view of an empty office space. There are no visible actions, interactions, or motion changes throughout the segment. The room contains a bench, a desk with a computer, and several chairs. The lighting is consistent, and there is no visible escalation or instability.",
+    "anchor_frame": 2416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 78.566667,
+    "observed_until_seconds": 80.566667,
+    "latest_available_frame": 2416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2432": {
+    "caption": "The video shows a static surveillance camera view of an empty office room. The room has beige walls, a gray floor, and is furnished with a black bench against the left wall, a white printer on a desk in the center, and a black chair next to the desk. There are no visible actions or interactions, and no entities enter or leave the frame. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 2432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 79.1,
+    "observed_until_seconds": 81.1,
+    "latest_available_frame": 2432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2448": {
+    "caption": "The video shows a surveillance camera view of an empty room with a bench, a printer, and a door. The camera remains stationary throughout the video. There are no visible actions or interactions between entities. No motion changes or escalations occur in the video.",
+    "anchor_frame": 2448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 79.633333,
+    "observed_until_seconds": 81.633333,
+    "latest_available_frame": 2448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2464": {
+    "caption": "The video shows a surveillance camera view of an office space. The room is empty, with a bench against the wall and a printer on a desk. The camera angle changes to show a close-up of a machine's interior, where a large amount of small, round objects are being processed. The objects are moving through the machine in a continuous flow.",
+    "anchor_frame": 2464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 80.166667,
+    "observed_until_seconds": 82.166667,
+    "latest_available_frame": 2464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2480": {
+    "caption": "The video shows a surveillance camera view of an office space. The room is empty, with a few chairs and a desk visible. There are no people or objects in motion. The camera angle remains static throughout the video.",
+    "anchor_frame": 2480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 80.7,
+    "observed_until_seconds": 82.7,
+    "latest_available_frame": 2480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2496": {
+    "caption": "The video shows a surveillance camera's view of an indoor area, possibly a corridor or hallway. The footage is in black and white, with the date and time displayed at the bottom. There are no visible people or moving objects; the focus is on a stationary object that appears to be a pile of debris or material on the floor. The object remains unchanged throughout the sequence, and there are no discernible actions or interactions.",
+    "anchor_frame": 2496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 81.233333,
+    "observed_until_seconds": 83.233333,
+    "latest_available_frame": 2496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2512": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor area. The footage is in black and white, with the date and time \"8/20/2016 3:51:11\" visible on the screen. The camera captures a static scene with no discernible movement or interaction between entities. There are no visible escalations or instabilities in the video segment provided.",
+    "anchor_frame": 2512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 81.766667,
+    "observed_until_seconds": 83.766667,
+    "latest_available_frame": 2512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2528": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor area, possibly a corridor or hallway. The footage is in black and white, with the timestamp \"8/20/2016 3:51:11\" visible at the bottom of each frame. The camera angle is fixed, and there are no discernible actions or interactions between entities. The environment appears to be static, with no visible motion changes or escalations.",
+    "anchor_frame": 2528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 82.3,
+    "observed_until_seconds": 84.3,
+    "latest_available_frame": 2528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2544": {
+    "caption": "The video shows a black and white surveillance footage of an indoor area. The camera angle is fixed, capturing a corner with a door on the left and a large piece of furniture or equipment on the right. There is no visible movement or action occurring in the scene. The timestamp indicates the footage was recorded on August 20, 2016, at 3:51:12 AM.",
+    "anchor_frame": 2544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 82.833333,
+    "observed_until_seconds": 84.833333,
+    "latest_available_frame": 2544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2560": {
+    "caption": "The video shows a black and white surveillance footage of an outdoor area with a door, a window, and a walkway. The timestamp indicates the date as August 20, 2016, at 3:51:12 AM. There is no visible movement or interaction between entities in the video segment provided.",
+    "anchor_frame": 2560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 83.366667,
+    "observed_until_seconds": 85.366667,
+    "latest_available_frame": 2560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2576": {
+    "caption": "The video shows a black and white surveillance footage of an outdoor area. The camera angle is tilted, capturing a section of the ground and a partial view of a structure with a window. There are no visible actions or interactions between entities. The timestamp on the footage reads \"8/20/2016 3:51:13\". No motion changes or escalations are observed in this segment.",
+    "anchor_frame": 2576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 83.9,
+    "observed_until_seconds": 85.9,
+    "latest_available_frame": 2576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2592": {
+    "caption": "The video shows a black and white surveillance camera view of a front door with a glass panel. The door is slightly ajar, and there is a visible gap between the door and the frame. The ground appears to be wet, suggesting recent rain or water spillage. No people or moving objects are visible in the footage.",
+    "anchor_frame": 2592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 84.433333,
+    "observed_until_seconds": 86.433333,
+    "latest_available_frame": 2592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2608": {
+    "caption": "A door is seen opening and closing.",
+    "anchor_frame": 2608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 84.966667,
+    "observed_until_seconds": 86.966667,
+    "latest_available_frame": 2608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2624": {
+    "caption": "The video shows a surveillance camera footage of a room with a door and a window. The timestamp on the footage is 8/20/2016 3:51:14. There are no visible actions or interactions in the footage, and there is no visible escalation or instability.",
+    "anchor_frame": 2624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 85.5,
+    "observed_until_seconds": 87.5,
+    "latest_available_frame": 2624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2640": {
+    "caption": "A person is seen walking down a hallway. They are wearing dark clothing and have short hair. They are walking at a steady pace and do not appear to be in a hurry. The person walks past a door on their right and continues down the hallway.",
+    "anchor_frame": 2640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 86.033333,
+    "observed_until_seconds": 88.033333,
+    "latest_available_frame": 2640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2656": {
+    "caption": "The video shows a surveillance camera view of a room. The camera is positioned above a door, capturing the area in front of it. There are no visible people or moving objects in the frame. The lighting is dim, and the scene appears to be static without any noticeable changes or actions taking place.",
+    "anchor_frame": 2656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 86.566667,
+    "observed_until_seconds": 88.566667,
+    "latest_available_frame": 2656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2672": {
+    "caption": "The video shows a surveillance camera's view of a room with a door slightly ajar. The timestamp indicates the footage was captured on August 20, 2016, at 3:51:16 AM. There is no visible movement or interaction within the frame. The lighting is dim, and the quality of the video is grainy.",
+    "anchor_frame": 2672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 87.1,
+    "observed_until_seconds": 89.1,
+    "latest_available_frame": 2672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2688": {
+    "caption": "The video shows a black and white surveillance footage of a room with a bed, a window, and a door. The timestamp on the footage is 8/20/2016 3:51:16. There are no visible actions or interactions between entities in this segment. The motion changes are limited to the movement of objects within the room, such as a person walking past the window. There is no visible escalation or instability in this segment.",
+    "anchor_frame": 2688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 87.633333,
+    "observed_until_seconds": 89.633333,
+    "latest_available_frame": 2688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2704": {
+    "caption": "The video shows a surveillance camera's perspective of a room. The room contains a bed, a nightstand with a lamp, and a door. The timestamp on the footage is August 20, 2016, at 3:51:17 AM. There are no visible actions or interactions between entities, and there is no motion change or escalation.",
+    "anchor_frame": 2704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 88.166667,
+    "observed_until_seconds": 90.166667,
+    "latest_available_frame": 2704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2720": {
+    "caption": "The video shows a surveillance camera view of a room with a door and a window. The timestamp indicates the date as August 20, 2016, at 3:51:17 AM. There is no visible movement or interaction between entities in the video segment provided.",
+    "anchor_frame": 2720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 88.7,
+    "observed_until_seconds": 90.7,
+    "latest_available_frame": 2720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2736": {
+    "caption": "The video shows a surveillance camera's perspective of a room. The footage is in black and white, with the date and time displayed at the bottom. There is a person lying on the floor, partially obscured by a large object that appears to be a piece of furniture or equipment. The person's position does not change significantly throughout the video.",
+    "anchor_frame": 2736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 89.233333,
+    "observed_until_seconds": 91.233333,
+    "latest_available_frame": 2736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2752": {
+    "caption": "The video shows a surveillance camera's perspective of a person lying on the ground, partially obscured by a large object that resembles a piece of furniture or equipment. The individual appears to be motionless and is not moving. The environment is dimly lit, and the timestamp indicates the footage was captured at 3:51:19 AM on August 20, 2016. There are no visible interactions with other entities, and the scene remains static throughout the video segment provided.",
+    "anchor_frame": 2752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 89.766667,
+    "observed_until_seconds": 91.766667,
+    "latest_available_frame": 2752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2768": {
+    "caption": "The video shows a surveillance camera's perspective of a person wearing a dark jacket and light-colored pants, bending over and reaching into a dumpster. The individual appears to be rummaging through the contents of the dumpster, which include various items such as bags and possibly organic waste. The dumpster is located on a sidewalk next to a building with a visible door and window. The timestamp on the footage indicates it was recorded at 3:51:19 AM on August 20, 2016.",
+    "anchor_frame": 2768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 90.3,
+    "observed_until_seconds": 92.3,
+    "latest_available_frame": 2768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2784": {
+    "caption": "The video shows a surveillance camera's perspective of a room with a door and a window. The timestamp indicates the date as August 20, 2016, at 3:51:20 AM. There is no visible movement or interaction between entities in this segment.",
+    "anchor_frame": 2784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 90.833333,
+    "observed_until_seconds": 92.833333,
+    "latest_available_frame": 2784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2800": {
+    "caption": "The video shows a surveillance camera footage of a person lying on the ground near a door. The person appears to be motionless and is not moving. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 2800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 91.366667,
+    "observed_until_seconds": 93.366667,
+    "latest_available_frame": 2800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2816": {
+    "caption": "In the video, a person is seen lying on the ground near a door. The individual appears to be motionless and there is no visible interaction with any other entities. The scene remains static throughout the video segment.",
+    "anchor_frame": 2816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 91.9,
+    "observed_until_seconds": 93.9,
+    "latest_available_frame": 2816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2832": {
+    "caption": "The video shows a surveillance camera view of a person lying on the ground near a door. The individual appears to be motionless and is not moving. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 2832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 92.433333,
+    "observed_until_seconds": 94.433333,
+    "latest_available_frame": 2832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2848": {
+    "caption": "A person is lying on the ground in front of a door. Another person approaches and appears to be trying to help them. The person on the ground remains motionless throughout the video.",
+    "anchor_frame": 2848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 92.966667,
+    "observed_until_seconds": 94.966667,
+    "latest_available_frame": 2848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2864": {
+    "caption": "The video shows a black and white security camera footage of a person wearing a light-colored top and dark pants. The person is seen walking towards the door, reaching for the handle, and opening it. They then proceed to enter the building.",
+    "anchor_frame": 2864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 93.5,
+    "observed_until_seconds": 95.5,
+    "latest_available_frame": 2864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2880": {
+    "caption": "A person is seen walking towards a door. The person opens the door and enters the building.",
+    "anchor_frame": 2880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 94.033333,
+    "observed_until_seconds": 96.033333,
+    "latest_available_frame": 2880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2896": {
+    "caption": "A person is seen approaching a door and attempting to open it. The person appears to be struggling with the door handle, and their movements are slow and deliberate. After a few moments, they manage to open the door and enter the building.",
+    "anchor_frame": 2896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 94.566667,
+    "observed_until_seconds": 96.566667,
+    "latest_available_frame": 2896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2912": {
+    "caption": "A person is seen walking down a street at night. They are wearing dark clothing and carrying a bag. The person walks past a parking meter and continues down the street.",
+    "anchor_frame": 2912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 95.1,
+    "observed_until_seconds": 97.1,
+    "latest_available_frame": 2912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2928": {
+    "caption": "The video shows a dark background with the text \"UCIT\" in white and blue. The letters are static and do not move. There is no interaction or motion change, and no escalation or instability is observed.",
+    "anchor_frame": 2928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 95.633333,
+    "observed_until_seconds": 97.633333,
+    "latest_available_frame": 2928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2944": {
+    "caption": "The video shows a static image of the UCIT logo, which is a combination of a circular symbol and the text \"UCIT\" in white. The background is dark, and there are no visible actions or interactions. There is no motion change or escalation. The only visible information is the logo and the contact number \"1 866 751 7847\" along with the website URL \"www.ucit.ca\".",
+    "anchor_frame": 2944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 96.166667,
+    "observed_until_seconds": 98.166667,
+    "latest_available_frame": 2944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2960": {
+    "caption": "The video shows a dark background with a logo in the center. The logo consists of a circular shape with a blue and green gradient, resembling a Wi-Fi symbol, followed by the text \"UCIT\" in white capital letters. The logo is static and does not show any motion or interaction. There are no visible entities or actions taking place in the video.",
+    "anchor_frame": 2960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 96.7,
+    "observed_until_seconds": 98.7,
+    "latest_available_frame": 2960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2976": {
+    "caption": "The video shows a dark background with the text \"UCIT\" in white and blue colors. Below the text, there is a phone number \"1 866.756.7841\" and a website address \"www.ucitonline.com\". The text and numbers are static and do not move or change throughout the video.",
+    "anchor_frame": 2976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 97.233333,
+    "observed_until_seconds": 99.233333,
+    "latest_available_frame": 2976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2992": {
+    "caption": "The video displays a static image of a logo with the text \"UCIT\" in bold white letters against a dark background. Below the logo, there is a phone number \"1 866.756.7847\" and a website address \"www.ucitonline.com\". The logo consists of a circular design with a blue and green color scheme. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 2992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 97.766667,
+    "observed_until_seconds": 99.766667,
+    "latest_available_frame": 2992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3008": {
+    "caption": "The video displays a static image with no movement or action. The image is a digital advertisement for UCIT, featuring a logo with a stylized 'C' and 'I' in blue and green, alongside the text \"UCIT\" in white. Below the logo, there's a phone number \"1 866.756.7847\" and a website URL \"www.ucitonline.com\". The background is dark, and the text and logo are well-lit, making them stand out. There are no interactions between entities, and no motion changes or escalations occur.",
+    "anchor_frame": 3008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 98.3,
+    "observed_until_seconds": 100.3,
+    "latest_available_frame": 3008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3024": {
+    "caption": "The video displays a static image with no visible entities, actions, interactions, motion changes, or escalations. The content is a logo with the text \"UCIT\" in white and blue colors, accompanied by a phone number \"1 866.756.7847\" and a website URL \"www.ucitonline.com\". There are no discernible changes or movements throughout the video.",
+    "anchor_frame": 3024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 98.833333,
+    "observed_until_seconds": 100.833333,
+    "latest_available_frame": 3024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3040": {
+    "caption": "The video shows a static image of a logo with the text \"UCIT\" in white letters against a dark background. Below the logo, there is a phone number \"1 866.756.7847\" and a website address \"www.ucitonline.com\". The logo consists of a circular design with a blue and green color scheme. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 3040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 99.366667,
+    "observed_until_seconds": 101.366667,
+    "latest_available_frame": 3040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3056": {
+    "caption": "The video shows a static image of the UCIT logo, which is displayed on a dark background. The logo consists of a stylized letter \"U\" with a circular design inside it, followed by the letters \"CIT\" in bold white font. Below the logo, there is a phone number and a website address. There are no actions, interactions, or motion changes visible in this segment.",
+    "anchor_frame": 3056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 99.9,
+    "observed_until_seconds": 101.9,
+    "latest_available_frame": 3056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3072": {
+    "caption": "The video shows a static image of a logo with the text \"UCIT\" in white letters on a dark background. The logo includes a blue and green circular design to the left of the text. Below the logo, there is a phone number \"1 866.756.7847\" and a website address \"www.ucitonline.com\". There are no visible actions, interactions, or motion changes in this segment.",
+    "anchor_frame": 3072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 100.433333,
+    "observed_until_seconds": 102.433333,
+    "latest_available_frame": 3072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3088": {
+    "caption": "The video segment shows a static image with the following visible elements:\n\n* A logo with the text \"UCIT\" in white letters, accompanied by a circular design incorporating shades of blue and green.\n* A phone number: 1 866.756.7847\n* A website URL: WWW.UCITONLINE.COM\n\nThere are no actions, interactions, motion changes, or escalations depicted in this segment.",
+    "anchor_frame": 3088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 100.966667,
+    "observed_until_seconds": 102.966667,
+    "latest_available_frame": 3088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3104": {
+    "caption": "The video shows a static image of a logo with the text \"UCIT\" in white letters. The logo is accompanied by a phone number and a website address. There are no visible actions, interactions, or motion changes in this segment.",
+    "anchor_frame": 3104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 101.5,
+    "observed_until_seconds": 103.5,
+    "latest_available_frame": 3104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3120": {
+    "caption": "The video shows a static image of the UCIT logo, which is displayed on a dark background. The logo consists of a stylized letter \"U\" with a circular design inside it, followed by the letters \"CIT\" in bold white font. Below the logo, there is a phone number \"1 866.756.7847\" and a website URL \"www.ucitonline.com\". There are no visible actions, interactions, or motion changes in this segment.",
+    "anchor_frame": 3120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 102.033333,
+    "observed_until_seconds": 104.033333,
+    "latest_available_frame": 3120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "3136": {
+    "caption": "The video shows a static image with no visible actions, interactions, or motion changes. The entities are the text \"UCIT,\" a phone number, and a website address. There is no visible escalation or instability in this segment.",
+    "anchor_frame": 3136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 102.566667,
+    "observed_until_seconds": 104.566667,
+    "latest_available_frame": 3136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

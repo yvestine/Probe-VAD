@@ -1,0 +1,412 @@
+{
+  "0": {
+    "caption": "The video shows a surveillance camera view of a narrow alleyway with parked cars on both sides. The timestamp indicates the date as 2015-13-19 at 13:59:40. There are no visible actions or interactions, and no entities are moving. The scene remains static throughout the provided segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera view of a parking lot. There are several parked cars, including a silver car in the foreground. The timestamp on the footage indicates it was recorded at 13:59:50 on 25-06-2015. No significant actions or interactions are visible, and there is no apparent escalation or instability.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person is walking down a street. They are wearing a black jacket and blue jeans. They are carrying a backpack. The person is walking towards the camera. There are cars parked on both sides of the street. There is a building in the background.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a static scene of a narrow alleyway with parked cars on both sides. There is no visible motion or interaction between entities. The scene remains unchanged throughout the segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a static scene of a parking lot with several parked cars. The cars are of various colors and models, and there is a building in the background. There is no visible motion or interaction between entities.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a static scene of a parking lot with several parked cars and a building in the background. There is no visible movement or action taking place throughout the duration of the video.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's view of a parking lot. The time and date are visible in the upper left corner, indicating it is 13:39 on Friday, 25th March 2016. The camera angle remains static throughout the video. There are several parked cars, including a silver car in the foreground and various other vehicles in the background. The cars are stationary, and there is no discernible movement or interaction between them.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a static view of a parking lot with multiple parked cars. The cars are of various colors and models, and there is a building on the left side of the frame. The time stamp indicates that the footage was captured in the morning. There is no visible movement or interaction between objects or people throughout the video.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot with several parked cars and a building in the background. The timestamp indicates the footage was recorded on Friday, 25th March 2016 at 13:39:48. There is no significant movement or action within the frame; the scene remains static throughout the video.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. The time displayed is 13:59:30 on 2015-08-26. There are multiple parked cars, including a silver car in the foreground and various other vehicles in the background. The cars are stationary, and there is no visible movement or interaction between them. The environment appears to be a typical outdoor parking area with a paved surface and some greenery along the edges.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a static scene of a parking lot with multiple parked cars. The cars are of various colors and models, and there is no visible movement or action taking place. The environment appears to be a commercial area with buildings in the background.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a static shot of a narrow alleyway with parked cars on both sides. The time stamp indicates it is 13:59:30 on the 26th of May, 2015. There are no visible actions or interactions between entities, and there is no motion or escalation. The scene remains unchanged throughout the video segment.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a static shot of a parking lot with several parked cars. There is no visible movement or interaction between entities, and the scene remains unchanged throughout the video.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows a static shot of a parking lot with several parked cars and a small building on the left side. There is no visible motion or interaction between entities in this segment.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a parking lot with several cars parked in it. There is a white car parked on the left side of the frame, and a black car parked on the right side of the frame. The camera is stationary and does not move throughout the video.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows a static surveillance view of a parking lot. There are several parked cars and a small building on the left side. The camera remains stationary throughout the segment, capturing no significant motion or interaction between entities.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a surveillance camera view of a parking lot. There are several parked cars and a building with an open gate on the left side. The timestamp indicates the date as 29-05-2015 at 13:53:57. No significant actions or interactions occur throughout the video segment.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A white car is parked on the side of a street. A person walks by the car.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a surveillance camera view of a parking lot. There are several parked cars and a building with a metal gate on the left side. The timestamp indicates the date as 29-05-2015 at 13:35:00. No significant actions or interactions occur throughout the video segment.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. The time is 13:59 on 29-05-2015. There are several parked cars, including a white car in the foreground and a black car in the background. A person wearing a white shirt and dark pants walks from the left side of the frame towards the center, passing by the white car. The person appears to be carrying something in their right hand. The surroundings include a building with a grey exterior on the left and a fence on the right. No other significant actions or interactions occur during this segment.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot. The time is 13:53:09 on 29-05-2015. There are multiple parked cars, including a white car in the foreground and several others in the background. A person wearing dark clothing walks from right to left across the frame. The person appears to be carrying something small in their hand. No other significant actions or interactions occur during this segment.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a static shot of a parking lot with several parked cars and a building in the background. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a static shot of a street with parked cars on both sides. The time is 13:51, and the date is 29-05-2015. There are no visible actions or interactions between entities, and there is no motion change or escalation.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a static shot of a narrow alleyway with parked cars on both sides. The time stamp indicates the footage was taken on May 29, 2015, at 13:51:30. There is no visible movement or interaction between entities in the video.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a static shot of a narrow alleyway with parked cars on both sides. The time displayed is 13:52:30, and the date is 29-05-2015. There are no visible actions or interactions between entities, and there is no motion or escalation.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a static shot of an alleyway with parked cars on both sides. There is no visible movement or interaction between entities, and the scene remains unchanged throughout the duration of the video.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a static shot of an alleyway with parked cars on both sides. There is no visible movement or interaction between entities, and the scene remains unchanged throughout the segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a static shot of a parking lot with several cars parked in the background. There is no visible movement or interaction between entities, and no escalation or instability can be observed.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "The video shows a static shot of a parking lot with several parked cars and a small building on the left side. There is no visible motion or interaction between entities, and no escalation or instability occurs during this segment.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a surveillance camera capturing a parking lot with several parked cars. The timestamp indicates the date as 29-05-2015 at 13:35:14. A person is seen walking from the left side of the frame towards the center, passing by a white car and a black car. The person appears to be wearing light-colored clothing. There are no other significant actions or interactions visible in this segment.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A person is walking down a street. There are cars parked on both sides of the street. The person is wearing a white shirt and black pants. They are carrying a black bag. The person walks past a building with a red sign that says \"LIVE\".",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a surveillance camera capturing a parking lot with several parked cars. The timestamp indicates the footage was taken on May 29, 2015, at 13:35:14. A person is seen walking from the left side of the frame towards the right, passing by a white car and a black car. The person appears to be wearing dark clothing and moves at a steady pace. There are no other significant actions or interactions visible in this segment of the video.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person is walking down a street. They are wearing a white shirt and black pants. They are carrying a bag in their right hand. There are cars parked on both sides of the street. There is a building on the left side of the street. There is a fence on the right side of the street. The person walks past the camera and continues down the street.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a surveillance camera capturing a parking lot with several parked cars. A person is seen walking towards the gate of the parking lot, and another person is standing near the gate. The person walking towards the gate appears to be carrying something in their hand. There are no visible interactions between the people or any escalation or instability in the scene.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a surveillance camera view of a parking lot. There are multiple cars parked in the lot, and a person is walking towards the camera. The person appears to be wearing dark clothing. The timestamp on the footage indicates that it was recorded on 29-05-2015 at 13:38:17.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a surveillance camera capturing a parking lot with multiple cars parked in the background. A person is seen walking towards the camera, and there is a building on the left side of the frame. The timestamp indicates that the footage was recorded on 29-05-2015 at 13:35:38.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a surveillance camera view of a parking lot with several parked cars. A person is seen walking from the left side of the frame towards the center, passing by a white car. The person appears to be wearing dark clothing and is walking at a steady pace. There are no other significant actions or interactions visible in this segment.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot with multiple parked cars and a building in the background. The timestamp indicates the footage was recorded on 29-05-2015 at 13:39:30. There is no significant motion or interaction between entities visible in the video segment provided.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a surveillance camera's perspective of a parking lot with several parked cars and a building in the background. The timestamp indicates the footage was taken on 29-05-2015 at 13:38:47. There is no significant movement or action occurring throughout the video; it remains static with no discernible changes in the environment or the objects within the frame.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a surveillance camera's view of a parking lot with several parked cars and a building in the background. The timestamp indicates the footage was taken on 29-05-2015 at 13:39:30. There is no significant movement or action visible throughout the video, except for a person walking from left to right across the frame in the first few seconds. The scene remains static until the video ends abruptly with a black screen.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a surveillance camera view of a parking lot. There are multiple cars parked in the lot, and a person is walking towards the camera. The person appears to be wearing dark clothing. The camera remains stationary throughout the video.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

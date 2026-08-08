@@ -1,0 +1,286 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 400,
+      "quality": 0.75,
+      "support_scales": [
+        2,
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 384,
+          "end_frame": 416,
+          "center_frame": 400,
+          "quality": 0.75
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 304,
+          "end_frame": 560,
+          "center_frame": 432,
+          "quality": 0.700833
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 288,
+          "end_frame": 608,
+          "center_frame": 448,
+          "quality": 0.626974
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 336,
+      "focus_end_frame": 464
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a series of images depicting a glass door with a visible bullet hole in the center. The door is part of a storefront, and the interior is dimly lit, with shelves stocked with various items. The bullet hole appears to be fresh, as there are no signs of cleaning or repair. The images do not show any movement or people present, suggesting that the event occurred before the footage was captured.",
+        "direct_visual_score": 1.0,
+        "direct_visual_response": "[1.0]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "6s": {
+        "caption": "The video shows a person wearing a dark jacket and patterned pants entering a store through a glass door. The individual appears to be carrying something in their hand, which they throw towards the glass door, causing it to shatter. The person then exits the scene, leaving behind a damaged glass door.",
+        "direct_visual_score": 1.0,
+        "direct_visual_response": "[1.0]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3333,
+        "actual_end_seconds": 16.3333
+      },
+      "10s": {
+        "caption": "The video begins with a view of the interior of a store, focusing on the glass entrance doors. A person wearing a dark jacket and patterned pants enters the frame from outside. The individual then proceeds to strike the glass door multiple times with an object, causing visible damage to the glass. After the assault, the person exits the frame, leaving behind a shattered section of the door.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 960,
+      "quality": 0.745278,
+      "support_scales": [
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 928,
+          "end_frame": 992,
+          "center_frame": 960,
+          "quality": 0.745278
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 896,
+          "end_frame": 1011,
+          "center_frame": 960,
+          "quality": 0.74
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 896,
+      "focus_end_frame": 1011
+    },
+    "scales": {
+      "2s": {
+        "caption": "A person is seen walking into a store and shooting a gun at the glass door.",
+        "direct_visual_score": 1.0,
+        "direct_visual_response": "[1.0]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 31.0,
+        "actual_end_seconds": 33.0
+      },
+      "6s": {
+        "caption": "A person is seen walking through a store and then suddenly, a bullet hits the glass door.",
+        "direct_visual_score": 1.0,
+        "direct_visual_response": "[1.0]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 29.0,
+        "actual_end_seconds": 33.7
+      },
+      "10s": {
+        "caption": "A person is seen walking into a store and then running out.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.0,
+        "actual_end_seconds": 33.7
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 202,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 138,
+      "focus_end_frame": 266
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a series of images depicting the entrance to a store with glass sliding doors. The interior is dimly lit, and there are shelves stocked with various items on the left side. The exterior is dark, suggesting it is nighttime. No people or significant movement are observed in the frames provided.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.7333,
+        "actual_end_seconds": 7.7333
+      },
+      "6s": {
+        "caption": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a patterned jacket, dark pants with a lighter pattern, and a hat. They appear to be carrying something in their right hand. The store's interior is visible, including shelves stocked with various items. The lighting inside the store is bright, contrasting with the darker exterior.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.7333,
+        "actual_end_seconds": 9.7333
+      },
+      "10s": {
+        "caption": "The video shows a person entering a store through automatic sliding doors. The individual is wearing a patterned outfit and appears to be carrying a bag. They walk into the store, pause briefly, and then exit through the same door they entered.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7333,
+        "actual_end_seconds": 11.7333
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 607,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 543,
+      "focus_end_frame": 671
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person entering a store through a glass door. They are wearing pajamas and appear to be carrying something in their hand. The person then proceeds to walk inside the store.",
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.2333,
+        "actual_end_seconds": 21.2333
+      },
+      "6s": {
+        "caption": "The video shows a person entering a store through the front door. They then proceed to walk towards the back of the store and exit through another door.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 23.2333
+      },
+      "10s": {
+        "caption": "The video shows a person entering a store through a glass door. They then proceed to walk inside the store, and the door closes behind them.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.2333,
+        "actual_end_seconds": 25.2333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 809,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 745,
+      "focus_end_frame": 873
+    },
+    "scales": {
+      "2s": {
+        "caption": "A man is dancing in front of a store's glass doors. He kicks his leg up and then throws an object at the glass, shattering it.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 5.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.9667,
+        "actual_end_seconds": 27.9667
+      },
+      "6s": {
+        "caption": "A person wearing a hat and animal print pants walks into a store, throws an object at the glass door, and then runs away.",
+        "direct_visual_score": 1.0,
+        "direct_visual_response": "[1.0]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.9667,
+        "actual_end_seconds": 29.9667
+      },
+      "10s": {
+        "caption": "A man wearing a hat and leopard print pants enters a store, throws a bag at the glass door, and then runs away.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.9667,
+        "actual_end_seconds": 31.9667
+      }
+    }
+  }
+}

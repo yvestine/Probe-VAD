@@ -1,0 +1,23 @@
+{
+  "variant": "author_caption_fixed_modify2",
+  "base_caption_source": "author precomputed captions, verbatim",
+  "new_caption_generation": false,
+  "scan_visual_window_seconds": 10,
+  "scan_visual_sample_fps": 2.0,
+  "scan_visual_max_frames": 10,
+  "candidate_review_caption": "nearest author precomputed caption",
+  "candidate_review_visual_sampling": {
+    "2s": {
+      "fps": 2.0,
+      "max_frames": 10
+    },
+    "6s": {
+      "fps": 2.0,
+      "max_frames": 10
+    },
+    "10s": {
+      "fps": 2.0,
+      "max_frames": 10
+    }
+  }
+}

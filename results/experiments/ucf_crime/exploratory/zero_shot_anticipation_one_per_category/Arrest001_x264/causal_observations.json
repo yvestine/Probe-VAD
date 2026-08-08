@@ -1,0 +1,1492 @@
+{
+  "0": {
+    "caption": "The video shows an office space with desks, computers, and office equipment. There are no visible people or significant actions occurring in the scene. The camera remains stationary throughout the segment.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows an office space with desks, computers, and office equipment. There are no visible people or movement in the scene. The camera angle is static, and there are no changes in motion or interaction between entities.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are no visible people or significant movements in the scene. The camera angle remains static throughout the segment.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "The video shows a static office environment with desks, computers, and office supplies. There are no visible actions or interactions occurring. The scene remains unchanged throughout the segment.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a static office environment with no visible movement or action. The office is furnished with desks, computers, and chairs. There are papers and other office supplies scattered on the desks. The walls are adorned with posters and notices. The lighting is artificial, typical of indoor office spaces.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are no visible people or movement in the scene. The lighting is artificial, and the colors are muted due to the indoor setting.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two individuals in the background near a door, one of whom appears to be wearing a white shirt and dark pants, while the other is less distinguishable. The room is well-lit, and there is no significant motion or interaction between the objects or people visible in the frame.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two individuals in the background near a door, one of whom appears to be wearing a white shirt and dark pants, while the other is less distinguishable. The office has a carpeted floor, and there are papers and other items scattered on the desks. The lighting is artificial, typical of indoor office environments. No significant motion or interaction between objects or people is observed throughout the video segment.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a static office environment with cubicles, computers, and office supplies. There are no visible people or significant movements. The lighting is consistent, suggesting the footage was taken during daytime hours. The office appears to be quiet and undisturbed.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two individuals standing near the entrance of the room, engaged in a conversation. The office is well-lit, and there is no significant movement or action taking place throughout the video.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There are two individuals standing near the entrance of the room, engaged in a conversation. The office is well-lit, and there are papers and other office supplies scattered on the desks. No significant motion or interaction is observed between the individuals or objects within the frame.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a static office environment with desks, computers, and office supplies. There are no visible people or significant movements in the scene. The lighting is consistent, and there are no noticeable changes in the environment throughout the video.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two individuals in the background near a door, one of whom appears to be wearing a light-colored shirt and dark pants. The other individual is partially obscured and their attire is not clearly visible. The room is well-lit, and there is no significant motion or interaction between the objects or people present.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people standing near the entrance of the room, engaged in a conversation. They appear to be discussing something, but the content of their conversation is not audible. The individuals remain stationary throughout the segment, and there is no significant movement or interaction between them.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "The video shows a room with desks and computers. There are two people in the background, one of whom is wearing a white shirt and the other is wearing a dark shirt. The person in the white shirt appears to be walking towards the door, while the person in the dark shirt remains stationary.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people standing near the entrance of the room, engaged in a conversation. One person is wearing a light-colored shirt, while the other is wearing a dark-colored shirt. They appear to be discussing something, but the content of their conversation is not audible. The individuals remain stationary throughout the segment, and there are no significant changes in motion or interaction.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a static office environment with no significant motion or interaction between objects. There are desks, computers, and office supplies visible. The lighting is consistent, and there are no visible changes in the scene throughout the video.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "The video shows a static office environment with no visible motion or interaction between entities. The office is furnished with desks, computers, and chairs. There are two individuals standing near the entrance, but their actions are not discernible. No escalation or instability is observed in this segment.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a static office environment with cubicles, desks, and computers. There are no visible actions or interactions taking place. The office appears to be empty, with no people present.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a static office environment with no significant movement or action. The office is furnished with desks, computers, and office supplies. There are two individuals standing near the entrance, engaged in conversation. The lighting is consistent, and there are no visible changes in the scene throughout the video.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two people walking in the background, one wearing a white shirt and the other in dark clothing. They appear to be exiting the room through a door on the left side of the frame. The camera is stationary, and there is no significant motion or interaction between objects or people.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There are two individuals standing near the entrance of the room, engaged in a conversation. They appear to be stationary throughout the segment. The office is well-lit, and there are no visible signs of movement or activity within the cubicles or on the desks.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows a static office environment with no discernible movement or action. The office is furnished with desks, computers, and office chairs. There are two individuals standing near the entrance of the room, but they do not move throughout the duration of the video. No other objects or people are visible in the footage.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a static office environment with cubicles, computers, and office supplies. There are two individuals standing near the entrance of the room, engaged in a conversation. The office is well-lit, and there is no significant movement or action taking place throughout the video.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two individuals standing near the entrance of the room, engaged in a conversation. They appear to be stationary throughout the sequence. The office is well-lit, and there are no visible signs of movement or activity other than the two individuals conversing.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a static office environment with no discernible movement or action. The office is furnished with desks, computers, and office supplies. There are two individuals standing near the entrance of the room, but they do not move throughout the duration of the video. The lighting is consistent, and there are no changes in the scene.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a static office environment with no significant motion or interaction. The office is furnished with desks, computers, and chairs. There are two individuals standing near the entrance, but their actions are not discernible. No escalation or instability is observed in this segment.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a static office environment with no discernible movement or action. The office is furnished with desks, computers, and chairs. There are two individuals standing near the entrance of the room, but they do not move throughout the duration of the video. No other objects or people are visible in the footage.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "The video shows a static office environment with desks, computers, and office supplies. There are no visible actions or interactions taking place. The scene remains unchanged throughout the segment.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two people walking through the office, one wearing a white shirt and the other in dark clothing. They walk past the camera's view without any interaction. The environment is static, with no significant motion or changes throughout the segment.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people visible in the background, one standing near the door and another walking towards the door. The person near the door appears to be wearing a white shirt and dark pants. The person walking towards the door is wearing a dark jacket and light-colored pants. The camera remains stationary throughout the video.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There is a person walking in the background, moving from left to right across the frame. The camera remains stationary throughout the video.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "The video shows a static office environment with no visible motion or interaction between entities. The office is furnished with desks, computers, and chairs. There are no people present in the scene.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people visible in the background, one standing near a door and another walking away from the camera. The room is well-lit, and there are no significant changes or movements throughout the video.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people walking through the doorway in the background. The camera is stationary and does not move throughout the video.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people standing near the entrance of the room, engaged in a conversation. They appear to be stationary throughout the segment. The office is well-lit, and there are no visible signs of movement or activity other than the two individuals conversing.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two individuals visible in the background near a door. One person is wearing a white shirt and dark pants, while the other is wearing a dark jacket and light-colored pants. The person in the white shirt appears to be walking towards the door, while the other individual remains stationary. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people visible in the background near a door. One person is wearing a dark jacket and light-colored pants, while the other is wearing a lighter jacket and darker pants. The person in the dark jacket walks from the left side of the frame towards the right, passing by the camera's viewpoint. The person in the lighter jacket remains stationary throughout the video. No significant actions or interactions occur between the individuals or objects in the scene.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There are two people visible in the frame; one is seated at a desk working on a computer, while the other is standing near the entrance of the room. The standing person appears to be engaged in a conversation or interaction with someone outside the frame. The office has a carpeted floor, and there are papers and other items scattered around the desks. The lighting is artificial, typical of indoor office environments.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows an office environment with cubicles and desks. A person is seen walking briskly across the room, passing by a desk with papers and a computer monitor on it. The individual appears to be in a hurry, as indicated by their quick pace and purposeful stride. There are no other visible actions or interactions between entities.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "In the video, there is a person wearing a dark jacket and light-colored pants walking across an office space. The individual appears to be moving from one side of the room to the other, passing by desks with computers and papers. There are no visible interactions with other people or objects in the immediate vicinity. The motion is steady and purposeful, suggesting the person is heading towards a specific destination within the office.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "In the video, a man is seen walking through an office space. He is wearing a dark jacket and light-colored pants. The office has cubicles with computers on the desks. There are papers scattered on the floor. The man walks past a trash can and continues down the aisle between the cubicles.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "In the video, a person is seen walking in an office environment. The individual is wearing a dark-colored jacket and light-colored pants. They are moving across the room from left to right. There are desks with computers and other office equipment visible in the background. The person's pace appears steady and purposeful.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "A man in a blue shirt and white pants is walking through an office. He is carrying a briefcase. There are other people in the office, but they are not interacting with him. The man walks from the left side of the frame to the right side of the frame.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "In the video, a man is seen walking through an office space. He is wearing a dark-colored jacket and light-colored pants. The office has cubicles on both sides of the hallway, with computers and other office equipment visible on the desks. There are also several chairs and a few people sitting at their desks. The man walks past the cubicles, heading towards the end of the hallway where there is a door.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A man in a blue shirt and white pants is walking through an office. He is carrying a briefcase. There are several desks and computers in the background. The man walks past a cubicle with a sign on it.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "In the video, a man is seen walking through an office space. He is wearing a dark jacket and light-colored pants. The office has cubicles on both sides of a central aisle. There are computers and other office equipment visible on the desks. The man walks past several cubicles without interacting with anyone or anything.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "752": {
+    "caption": "In the video, there is a man wearing a dark jacket and light-colored pants walking through an office space. He walks past cubicles and desks with computers on them. There are other people in the background, some of whom are standing near a counter or desk area. The man continues to walk towards the back of the room, passing by more desks and cubicles.",
+    "anchor_frame": 752,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.1,
+    "observed_until_seconds": 25.1,
+    "latest_available_frame": 752,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "768": {
+    "caption": "In the video, there is a man wearing a dark shirt and light-colored pants walking through an office space. He appears to be carrying a briefcase or a bag in his right hand. The office has cubicles on both sides of a central aisle, with desks, computers, and chairs visible. There are also some plants and decorations on the desks. The man walks past the camera, turns left at the end of the aisle, and exits the frame.",
+    "anchor_frame": 768,
+    "video_fps": 30.0,
+    "observed_start_seconds": 23.633333,
+    "observed_until_seconds": 25.633333,
+    "latest_available_frame": 768,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "784": {
+    "caption": "The video shows an office space with cubicles and desks. There are two people visible, one standing near the entrance and another walking away from the camera. The person at the entrance appears to be interacting with someone outside the frame. The person walking away is moving towards the right side of the frame.",
+    "anchor_frame": 784,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.166667,
+    "observed_until_seconds": 26.166667,
+    "latest_available_frame": 784,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "800": {
+    "caption": "The video shows an office space with cubicles and desks. There are two people visible in the frame, one standing near a desk and another walking towards the door. The person at the desk appears to be working on a computer, while the other person is carrying a bag and seems to be leaving the office. No significant motion changes or interactions are observed between the individuals.",
+    "anchor_frame": 800,
+    "video_fps": 30.0,
+    "observed_start_seconds": 24.7,
+    "observed_until_seconds": 26.7,
+    "latest_available_frame": 800,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "816": {
+    "caption": "The video shows an office space with cubicles and desks. There is a person standing near the entrance, facing away from the camera. The person appears to be interacting with something on the desk or counter. No other significant actions or interactions are visible in this segment of the video.",
+    "anchor_frame": 816,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.233333,
+    "observed_until_seconds": 27.233333,
+    "latest_available_frame": 816,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "832": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There is a person standing near the door, facing away from the camera. The individual appears to be wearing dark clothing and is stationary throughout the duration of the clip. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 832,
+    "video_fps": 30.0,
+    "observed_start_seconds": 25.766667,
+    "observed_until_seconds": 27.766667,
+    "latest_available_frame": 832,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "848": {
+    "caption": "The video shows an office environment with cubicles, computers, and office supplies. The walls are adorned with posters and notices. There is a person standing near the door, facing away from the camera. Another individual enters the room through the door and approaches the first person. They appear to engage in a conversation or exchange of some sort.",
+    "anchor_frame": 848,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.3,
+    "observed_until_seconds": 28.3,
+    "latest_available_frame": 848,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "864": {
+    "caption": "The video shows an office space with cubicles and desks. A person is seen walking through the office, passing by a reception desk. The individual appears to be wearing dark clothing and is moving at a steady pace. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 864,
+    "video_fps": 30.0,
+    "observed_start_seconds": 26.833333,
+    "observed_until_seconds": 28.833333,
+    "latest_available_frame": 864,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "880": {
+    "caption": "The video shows an office space with cubicles and desks. There are two people visible in the frame, one standing near a desk and another walking towards the door. The person at the desk appears to be working on a computer, while the other individual is moving around the room. No significant motion changes or escalations are observed.",
+    "anchor_frame": 880,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.366667,
+    "observed_until_seconds": 29.366667,
+    "latest_available_frame": 880,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "896": {
+    "caption": "The video shows an office space with desks, computers, and office supplies. There are two people visible in the frame, one standing near the entrance and another walking away from the camera. The person at the entrance appears to be stationary, while the other individual is moving towards the right side of the frame. No significant interactions or motion changes are observed between the two individuals.",
+    "anchor_frame": 896,
+    "video_fps": 30.0,
+    "observed_start_seconds": 27.9,
+    "observed_until_seconds": 29.9,
+    "latest_available_frame": 896,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "912": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There are two people visible in the frame, one standing near the entrance and another walking away from the camera. The person at the entrance appears to be stationary, while the other individual is moving across the room. No significant interactions or motion changes are observed between the two individuals.",
+    "anchor_frame": 912,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.433333,
+    "observed_until_seconds": 30.433333,
+    "latest_available_frame": 912,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "928": {
+    "caption": "In the video segment, there is an office space with desks and computers. A person is seen walking towards a door at the far end of the room. The person appears to be carrying something in their hand. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 928,
+    "video_fps": 30.0,
+    "observed_start_seconds": 28.966667,
+    "observed_until_seconds": 30.966667,
+    "latest_available_frame": 928,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "944": {
+    "caption": "In the video, there is a person wearing a dark jacket and light-colored pants walking through an office space. The office has cubicles on both sides of a central aisle. There are several desks with computers and other office equipment. The person walks from the left side of the frame to the right, passing by the cubicles.",
+    "anchor_frame": 944,
+    "video_fps": 30.0,
+    "observed_start_seconds": 29.5,
+    "observed_until_seconds": 31.5,
+    "latest_available_frame": 944,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "960": {
+    "caption": "A person is walking in an office. They are wearing a dark jacket and light pants. They walk from the left side of the frame to the right, passing by desks and computers. The person walks at a steady pace and does not interact with anyone or anything else in the office.",
+    "anchor_frame": 960,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.033333,
+    "observed_until_seconds": 32.033333,
+    "latest_available_frame": 960,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "976": {
+    "caption": "The video shows a room with desks and computers. A person is walking towards the door on the right side of the frame. The person appears to be wearing dark clothing. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 976,
+    "video_fps": 30.0,
+    "observed_start_seconds": 30.566667,
+    "observed_until_seconds": 32.566667,
+    "latest_available_frame": 976,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "992": {
+    "caption": "In the video, there is a person wearing a black jacket and blue jeans walking through an office space. The office has cubicles on both sides of the room, with desks and computers visible. There are also some plants and decorations on the walls. The person walks from the left side of the frame to the right, passing by the cubicles.",
+    "anchor_frame": 992,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.1,
+    "observed_until_seconds": 33.1,
+    "latest_available_frame": 992,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1008": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There is a person walking in the background, and another person is standing near a door. The lighting is bright, and there are papers and other office supplies scattered around.",
+    "anchor_frame": 1008,
+    "video_fps": 30.0,
+    "observed_start_seconds": 31.633333,
+    "observed_until_seconds": 33.633333,
+    "latest_available_frame": 1008,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1024": {
+    "caption": "The video shows an office space with cubicles and desks. There are two individuals present, one standing near the entrance and another walking through the office. The person at the entrance appears to be stationary, while the other individual is moving from left to right across the frame. No significant interactions or motion changes are observed between the two people.",
+    "anchor_frame": 1024,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.166667,
+    "observed_until_seconds": 34.166667,
+    "latest_available_frame": 1024,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1040": {
+    "caption": "The video shows an office space with cubicles, desks, and computers. There are two individuals present. One person is standing near the entrance, facing away from the camera, while the other is seated at a desk in the foreground, facing towards the camera. The standing individual appears to be engaged in some activity, possibly using a phone or computer, while the seated individual remains still. No significant motion or interaction between the two is observed.",
+    "anchor_frame": 1040,
+    "video_fps": 30.0,
+    "observed_start_seconds": 32.7,
+    "observed_until_seconds": 34.7,
+    "latest_available_frame": 1040,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1056": {
+    "caption": "The video shows an office space with cubicles and desks. There are computers, papers, and other office supplies visible on the desks. A person is seen walking through the office, passing by the cubicles. The person appears to be wearing a dark jacket and light-colored pants. The motion of the person is steady and purposeful as they navigate the office environment.",
+    "anchor_frame": 1056,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.233333,
+    "observed_until_seconds": 35.233333,
+    "latest_available_frame": 1056,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1072": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There is a person standing near the entrance, facing away from the camera. The person appears to be wearing a dark jacket and light-colored pants. They are stationary for most of the video, but at one point, they turn slightly towards the door before returning to their original position. No other significant actions or interactions occur in the video.",
+    "anchor_frame": 1072,
+    "video_fps": 30.0,
+    "observed_start_seconds": 33.766667,
+    "observed_until_seconds": 35.766667,
+    "latest_available_frame": 1072,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1088": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There is a person walking through the office, moving from one side to the other. The individual appears to be wearing dark clothing and is carrying a bag or briefcase. The office is well-lit, and there are no visible signs of distress or unusual activity.",
+    "anchor_frame": 1088,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.3,
+    "observed_until_seconds": 36.3,
+    "latest_available_frame": 1088,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1104": {
+    "caption": "The video shows an office space with cubicles and desks. There is a person in dark clothing walking towards the door at the far end of the room. The person appears to be carrying something in their hand. The office is well-lit, and there are papers and other office supplies scattered on the desks. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 1104,
+    "video_fps": 30.0,
+    "observed_start_seconds": 34.833333,
+    "observed_until_seconds": 36.833333,
+    "latest_available_frame": 1104,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1120": {
+    "caption": "The video shows a static scene of an office space with cubicles, desks, and computers. There is no visible movement or interaction between entities. The office appears to be empty, and there are no discernible changes in motion or escalation.",
+    "anchor_frame": 1120,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.366667,
+    "observed_until_seconds": 37.366667,
+    "latest_available_frame": 1120,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1136": {
+    "caption": "In the video, there is an office space with cubicles and desks. A person is seen walking towards a door at the far end of the room. The individual appears to be wearing dark clothing and has short hair. There are no other people visible in the scene. The person reaches the door and opens it, then proceeds to exit the room.",
+    "anchor_frame": 1136,
+    "video_fps": 30.0,
+    "observed_start_seconds": 35.9,
+    "observed_until_seconds": 37.9,
+    "latest_available_frame": 1136,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1152": {
+    "caption": "The video shows an office space with cubicles and desks. A person is seen walking towards the door, opening it, and exiting the room. Another individual is sitting at a desk in the background. The office appears to be empty except for these two people.",
+    "anchor_frame": 1152,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.433333,
+    "observed_until_seconds": 38.433333,
+    "latest_available_frame": 1152,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1168": {
+    "caption": "A man in a white shirt and black pants is walking through an office. He walks past a desk with a computer on it, then turns and walks towards the door. He opens the door and steps outside.",
+    "anchor_frame": 1168,
+    "video_fps": 30.0,
+    "observed_start_seconds": 36.966667,
+    "observed_until_seconds": 38.966667,
+    "latest_available_frame": 1168,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1184": {
+    "caption": "In the video, there is a person wearing a white shirt and dark pants who is seen walking in an office environment. The person is carrying a black bag and appears to be moving quickly. There are other people in the office, but they are not interacting with the person in the white shirt. The person in the white shirt is walking towards a door at the end of the hallway.",
+    "anchor_frame": 1184,
+    "video_fps": 30.0,
+    "observed_start_seconds": 37.5,
+    "observed_until_seconds": 39.5,
+    "latest_available_frame": 1184,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1200": {
+    "caption": "A man in a white shirt and dark pants is standing in an office. He is facing another man who is sitting at a desk. The man in the white shirt is holding a gun and pointing it at the other man. The man at the desk is raising his hands in the air.",
+    "anchor_frame": 1200,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.033333,
+    "observed_until_seconds": 40.033333,
+    "latest_available_frame": 1200,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1216": {
+    "caption": "In the video, there is a person wearing a white shirt and dark pants who appears to be in distress. They are seen struggling with another individual who is wearing a dark jacket and light-colored pants. The person in the white shirt seems to be trying to get away from the other individual, but they are being restrained. The struggle takes place in an office setting with desks, computers, and chairs visible in the background.",
+    "anchor_frame": 1216,
+    "video_fps": 30.0,
+    "observed_start_seconds": 38.566667,
+    "observed_until_seconds": 40.566667,
+    "latest_available_frame": 1216,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1232": {
+    "caption": "In the video, there are two individuals in an office setting. One person is wearing a white shirt and dark pants, while the other is dressed in a black shirt and dark pants. The person in the white shirt appears to be sitting on a chair, while the person in the black shirt is standing next to them. The person in the black shirt then proceeds to push the person in the white shirt onto the floor.",
+    "anchor_frame": 1232,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.1,
+    "observed_until_seconds": 41.1,
+    "latest_available_frame": 1232,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1248": {
+    "caption": "In the video, there are three individuals in an office setting. One person is seated at a desk while the other two are standing close by. The standing individuals appear to be engaged in a physical altercation with the seated person, pushing and shoving them. The motion of the individuals is forceful and aggressive, with the standing individuals exerting pressure on the seated person. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1248,
+    "video_fps": 30.0,
+    "observed_start_seconds": 39.633333,
+    "observed_until_seconds": 41.633333,
+    "latest_available_frame": 1248,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1264": {
+    "caption": "In the video, there are two individuals in an office setting. One person is wearing a dark jacket and the other is wearing a light-colored shirt. The person in the dark jacket appears to be restraining or holding back the person in the light-colored shirt. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1264,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.166667,
+    "observed_until_seconds": 42.166667,
+    "latest_available_frame": 1264,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1280": {
+    "caption": "In the video, two individuals are seen in an office environment. They engage in a physical altercation, with one person throwing punches at the other. The person receiving the punches falls to the ground and appears to be knocked unconscious. The attacker then walks away from the scene.",
+    "anchor_frame": 1280,
+    "video_fps": 30.0,
+    "observed_start_seconds": 40.7,
+    "observed_until_seconds": 42.7,
+    "latest_available_frame": 1280,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1296": {
+    "caption": "In the video, there are two individuals in an office setting. One person is wearing a dark jacket and appears to be in motion, possibly walking or running. The other individual is dressed in lighter clothing and seems to be standing still. There is no visible interaction between the two people, and the environment remains static throughout the video.",
+    "anchor_frame": 1296,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.233333,
+    "observed_until_seconds": 43.233333,
+    "latest_available_frame": 1296,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1312": {
+    "caption": "The video shows an office setting with cubicles and desks. There are at least three individuals present. One person is seated at a desk, while the other two are standing and appear to be engaged in a discussion or confrontation. The standing individuals are gesturing and moving around the seated person. The environment seems tense, with rapid movements and changes in posture indicating a possible altercation or heated exchange.",
+    "anchor_frame": 1312,
+    "video_fps": 30.0,
+    "observed_start_seconds": 41.766667,
+    "observed_until_seconds": 43.766667,
+    "latest_available_frame": 1312,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1328": {
+    "caption": "The video shows an indoor office setting with cubicles and desks. There are at least four individuals present, three of whom are clustered around a desk in the center of the room, while one is standing near the entrance. The individuals at the desk appear to be engaged in a physical altercation, with one person on the ground and others standing over them. The person on the ground is wearing a light-colored shirt, while the others are dressed in darker clothing. The individual near the entrance is observing the situation. The motion is dynamic, with the individuals involved in the altercation moving around the desk area.",
+    "anchor_frame": 1328,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.3,
+    "observed_until_seconds": 44.3,
+    "latest_available_frame": 1328,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1344": {
+    "caption": "In the video, there are several individuals in an office setting. One person is seen approaching another from behind and pushing them to the ground. The person on the ground struggles to get up while the other stands over them. There are desks with computers and papers scattered around the room.",
+    "anchor_frame": 1344,
+    "video_fps": 30.0,
+    "observed_start_seconds": 42.833333,
+    "observed_until_seconds": 44.833333,
+    "latest_available_frame": 1344,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1360": {
+    "caption": "In the video, there are several individuals in an office setting. One person is seen pushing another individual against a counter. The person being pushed falls to the ground. There are other people in the room who appear to be observing the situation.",
+    "anchor_frame": 1360,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.366667,
+    "observed_until_seconds": 45.366667,
+    "latest_available_frame": 1360,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1376": {
+    "caption": "In the video, there are several people in an office environment. Two individuals are engaged in a physical altercation, pushing and shoving each other. Other people in the room are observing the situation. The motion of the two individuals involved in the fight is aggressive and forceful. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1376,
+    "video_fps": 30.0,
+    "observed_start_seconds": 43.9,
+    "observed_until_seconds": 45.9,
+    "latest_available_frame": 1376,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1392": {
+    "caption": "In the video, there are several people in an office setting. One person is seen running towards another individual who is standing near a desk. The runner appears to be in a hurry and is moving quickly. The person at the desk seems to be surprised or taken aback by the runner's approach. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1392,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.433333,
+    "observed_until_seconds": 46.433333,
+    "latest_available_frame": 1392,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1408": {
+    "caption": "A group of people are gathered in an office setting. They are standing around a desk, and some are leaning over it. One person is walking towards the group from the left side of the frame. The people at the desk appear to be engaged in a conversation or discussion.",
+    "anchor_frame": 1408,
+    "video_fps": 30.0,
+    "observed_start_seconds": 44.966667,
+    "observed_until_seconds": 46.966667,
+    "latest_available_frame": 1408,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1424": {
+    "caption": "In the video, there are several people in an office setting. One person is seen running towards a group of people who are standing near a desk. The person who is running appears to be in a hurry and is moving quickly. The people near the desk seem to be engaged in a conversation or some sort of activity. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1424,
+    "video_fps": 30.0,
+    "observed_start_seconds": 45.5,
+    "observed_until_seconds": 47.5,
+    "latest_available_frame": 1424,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1440": {
+    "caption": "A person is seen running through an office space. They are wearing a dark jacket and pants. The person is running towards a group of people who are standing near a desk. The person runs past the group and continues running out of the frame.",
+    "anchor_frame": 1440,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.033333,
+    "observed_until_seconds": 48.033333,
+    "latest_available_frame": 1440,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1456": {
+    "caption": "In the video, there is a group of people in an office setting. One person is seen running towards another individual who is standing near a desk. The runner appears to be in a hurry and is moving quickly. The person being approached is standing still and seems to be waiting for the runner. There are other individuals in the background who are observing the interaction.",
+    "anchor_frame": 1456,
+    "video_fps": 30.0,
+    "observed_start_seconds": 46.566667,
+    "observed_until_seconds": 48.566667,
+    "latest_available_frame": 1456,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1472": {
+    "caption": "In the video, there is a group of people in an office setting. They are standing around a desk and appear to be engaged in a conversation or discussion. One person is seen walking towards the group from the right side of the frame. The office has cubicles, computers, and other typical office equipment. The lighting is bright, and the overall atmosphere seems casual.",
+    "anchor_frame": 1472,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.1,
+    "observed_until_seconds": 49.1,
+    "latest_available_frame": 1472,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1488": {
+    "caption": "In the video, there is a person wearing a gray hoodie and dark pants standing in an office environment. They are facing a desk with a computer monitor on it. There are two other individuals, one wearing a blue shirt and another wearing a black shirt, who appear to be engaged in a conversation with the person in the gray hoodie. The person in the blue shirt seems to be gesturing with their hands while talking. The person in the black shirt is standing slightly behind the person in the blue shirt. The office has cubicles on both sides of the room, and there are papers and office supplies scattered on the desks.",
+    "anchor_frame": 1488,
+    "video_fps": 30.0,
+    "observed_start_seconds": 47.633333,
+    "observed_until_seconds": 49.633333,
+    "latest_available_frame": 1488,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1504": {
+    "caption": "In the video, there are several people in an office setting. They appear to be engaged in a conversation or discussion. One person is standing near a desk with papers and a computer monitor, while others are standing around the room. There is no visible motion or interaction between the individuals, and the scene remains static throughout the video.",
+    "anchor_frame": 1504,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.166667,
+    "observed_until_seconds": 50.166667,
+    "latest_available_frame": 1504,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1520": {
+    "caption": "In the video, there are two individuals in an office setting. One person is standing near a desk, while the other is seated at the desk. The standing individual appears to be interacting with the seated individual, possibly handing over or receiving an object. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 1520,
+    "video_fps": 30.0,
+    "observed_start_seconds": 48.7,
+    "observed_until_seconds": 50.7,
+    "latest_available_frame": 1520,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1536": {
+    "caption": "In the video, there are two individuals in a room with desks and computers. One person is wearing a light-colored shirt and dark pants, while the other is dressed in dark clothing. The person in the light-colored shirt is standing near a desk, facing away from the camera, and appears to be interacting with something on the desk. The person in dark clothing is standing closer to the camera, facing the first person, and seems to be engaged in a conversation or interaction with them. There is no visible motion change or escalation in the scene.",
+    "anchor_frame": 1536,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.233333,
+    "observed_until_seconds": 51.233333,
+    "latest_available_frame": 1536,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1552": {
+    "caption": "The video shows an office environment with cubicles and desks. There are two individuals present, one wearing a dark jacket and the other in a lighter-colored jacket. The person in the dark jacket is seen bending over a desk, possibly interacting with items on it, while the other individual stands nearby. No significant motion changes or escalations are observed throughout the segment.",
+    "anchor_frame": 1552,
+    "video_fps": 30.0,
+    "observed_start_seconds": 49.766667,
+    "observed_until_seconds": 51.766667,
+    "latest_available_frame": 1552,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1568": {
+    "caption": "The video shows an indoor office space with cubicles and desks. There are two individuals present: one person is standing near a desk, facing away from the camera, while another individual is walking towards the desk from the right side of the frame. The person walking appears to be carrying something in their hands. The office has a carpeted floor, and there are papers and other items scattered on the desks. The lighting is artificial, typical of indoor office environments.",
+    "anchor_frame": 1568,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.3,
+    "observed_until_seconds": 52.3,
+    "latest_available_frame": 1568,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1584": {
+    "caption": "The video shows a person in a gray hoodie and dark pants walking across an office space. The individual is carrying a bag and appears to be moving towards the exit. The office has cubicles on both sides, with various items like papers and computers visible on the desks. There are no other people present in the scene.",
+    "anchor_frame": 1584,
+    "video_fps": 30.0,
+    "observed_start_seconds": 50.833333,
+    "observed_until_seconds": 52.833333,
+    "latest_available_frame": 1584,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1600": {
+    "caption": "In the video, there is a person wearing a gray hoodie and dark pants walking towards a counter in an office setting. The person appears to be carrying something in their hand. There are other people in the background, but they are not interacting with the person in the foreground. The person in the foreground walks up to the counter and appears to be speaking to someone behind it.",
+    "anchor_frame": 1600,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.366667,
+    "observed_until_seconds": 53.366667,
+    "latest_available_frame": 1600,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1616": {
+    "caption": "In the video, there is a person wearing a gray hoodie and dark pants walking towards a counter in an office setting. The person appears to be carrying something in their hand. There are other people in the background, but they are not interacting with the person in the foreground. The person in the foreground walks up to the counter and appears to be speaking to someone behind it.",
+    "anchor_frame": 1616,
+    "video_fps": 30.0,
+    "observed_start_seconds": 51.9,
+    "observed_until_seconds": 53.9,
+    "latest_available_frame": 1616,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1632": {
+    "caption": "In the video, there is a person standing in front of a counter. Another person approaches from behind and appears to strike the first person. The person who was struck falls to the ground.",
+    "anchor_frame": 1632,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.433333,
+    "observed_until_seconds": 54.433333,
+    "latest_available_frame": 1632,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1648": {
+    "caption": "A person is walking in an office.",
+    "anchor_frame": 1648,
+    "video_fps": 30.0,
+    "observed_start_seconds": 52.966667,
+    "observed_until_seconds": 54.966667,
+    "latest_available_frame": 1648,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1664": {
+    "caption": "In the video, there is a person standing in front of a counter. The person is wearing a hoodie and appears to be interacting with someone behind the counter. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 1664,
+    "video_fps": 30.0,
+    "observed_start_seconds": 53.5,
+    "observed_until_seconds": 55.5,
+    "latest_available_frame": 1664,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1680": {
+    "caption": "A person is walking in an office.",
+    "anchor_frame": 1680,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.033333,
+    "observed_until_seconds": 56.033333,
+    "latest_available_frame": 1680,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1696": {
+    "caption": "In the video, there is a person standing in front of a counter. The person is wearing a hoodie and appears to be interacting with someone behind the counter. There are no other visible actions or interactions in the scene.",
+    "anchor_frame": 1696,
+    "video_fps": 30.0,
+    "observed_start_seconds": 54.566667,
+    "observed_until_seconds": 56.566667,
+    "latest_available_frame": 1696,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1712": {
+    "caption": "In the video, there is a person standing in an office. The person is wearing a jacket and appears to be looking at something on the desk. There are no other people visible in the office. The person remains stationary throughout the video.",
+    "anchor_frame": 1712,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.1,
+    "observed_until_seconds": 57.1,
+    "latest_available_frame": 1712,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1728": {
+    "caption": "In the video, there is a person standing in an office area. The person is wearing a jacket and appears to be interacting with someone behind a counter. There are various objects on the counter, including papers and a computer monitor. The person seems to be engaged in a conversation or transaction with the individual behind the counter.",
+    "anchor_frame": 1728,
+    "video_fps": 30.0,
+    "observed_start_seconds": 55.633333,
+    "observed_until_seconds": 57.633333,
+    "latest_available_frame": 1728,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1744": {
+    "caption": "The video shows a room with cubicles and a reception desk. There are two people standing at the desk, one behind it and one in front. The person in front appears to be interacting with the person behind the desk. There is no visible motion or interaction between other entities.",
+    "anchor_frame": 1744,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.166667,
+    "observed_until_seconds": 58.166667,
+    "latest_available_frame": 1744,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1760": {
+    "caption": "The video shows a person standing in an office environment. The person is wearing a dark-colored jacket and pants. They are facing a desk with a computer monitor on it. There are papers and other office supplies scattered around the desk. The person appears to be interacting with someone behind the desk, possibly handing over some documents. The office has cubicles on either side of the desk, and there are windows visible in the background.",
+    "anchor_frame": 1760,
+    "video_fps": 30.0,
+    "observed_start_seconds": 56.7,
+    "observed_until_seconds": 58.7,
+    "latest_available_frame": 1760,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1776": {
+    "caption": "The video shows an office setting with cubicles and desks. There is a person standing at the reception desk, interacting with another individual who appears to be an employee or customer. The person at the desk is wearing a light-colored top and dark pants. The individual behind the desk is dressed in darker clothing. The office has a carpeted floor, and there are papers and office supplies scattered on the desks. The lighting is artificial, typical of indoor office environments. No significant motion or interaction is observed between the two individuals.",
+    "anchor_frame": 1776,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.233333,
+    "observed_until_seconds": 59.233333,
+    "latest_available_frame": 1776,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1792": {
+    "caption": "The video shows an office environment with cubicles and desks. There are two individuals visible, one standing behind a counter and the other walking towards it. The person at the counter appears to be interacting with the individual approaching. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 1792,
+    "video_fps": 30.0,
+    "observed_start_seconds": 57.766667,
+    "observed_until_seconds": 59.766667,
+    "latest_available_frame": 1792,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1808": {
+    "caption": "The video shows an office environment with cubicles, desks, and computers. There are two individuals present: one person is seated at a desk in the background, while another individual is standing closer to the foreground, facing away from the camera. The standing individual appears to be interacting with the seated person, possibly handing over or receiving an item. The office has fluorescent lighting, and there are papers and office supplies scattered on the desks. No significant motion or interaction is observed beyond the exchange between the two people.",
+    "anchor_frame": 1808,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.3,
+    "observed_until_seconds": 60.3,
+    "latest_available_frame": 1808,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1824": {
+    "caption": "The video shows an office environment with cubicles and desks. There is a person standing behind a counter, facing away from the camera. Another individual is seen walking towards the counter. The office has fluorescent lighting, and there are papers and office supplies scattered on the desks. No significant motion or interaction is observed between the individuals.",
+    "anchor_frame": 1824,
+    "video_fps": 30.0,
+    "observed_start_seconds": 58.833333,
+    "observed_until_seconds": 60.833333,
+    "latest_available_frame": 1824,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1840": {
+    "caption": "In the video, there is a person standing behind a counter in an office setting. Another person is seen walking towards the counter from the right side of the frame. The person at the counter appears to be interacting with the person approaching. There are no visible signs of any escalation or instability in the scene.",
+    "anchor_frame": 1840,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.366667,
+    "observed_until_seconds": 61.366667,
+    "latest_available_frame": 1840,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1856": {
+    "caption": "The video shows an office space with cubicles and desks. There is a person standing behind a counter, facing away from the camera. Another person is walking towards the counter from the right side of the frame. The person at the counter appears to be interacting with the person approaching.",
+    "anchor_frame": 1856,
+    "video_fps": 30.0,
+    "observed_start_seconds": 59.9,
+    "observed_until_seconds": 61.9,
+    "latest_available_frame": 1856,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1872": {
+    "caption": "In the video, there is a person wearing a gray hoodie who is seen walking towards a counter. The person then turns around and walks back to their original position. There is another person standing behind the counter, but their actions are not visible in the video.",
+    "anchor_frame": 1872,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.433333,
+    "observed_until_seconds": 62.433333,
+    "latest_available_frame": 1872,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1888": {
+    "caption": "A person walks into an office building and approaches the reception desk. They interact with the receptionist for a few moments before walking away.",
+    "anchor_frame": 1888,
+    "video_fps": 30.0,
+    "observed_start_seconds": 60.966667,
+    "observed_until_seconds": 62.966667,
+    "latest_available_frame": 1888,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1904": {
+    "caption": "In the video, there is a person wearing a gray hoodie who is seen walking towards a counter. The person then proceeds to interact with someone behind the counter. There are also other people in the background, but their actions are not clear.",
+    "anchor_frame": 1904,
+    "video_fps": 30.0,
+    "observed_start_seconds": 61.5,
+    "observed_until_seconds": 63.5,
+    "latest_available_frame": 1904,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1920": {
+    "caption": "A person is walking in an office.",
+    "anchor_frame": 1920,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.033333,
+    "observed_until_seconds": 64.033333,
+    "latest_available_frame": 1920,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1936": {
+    "caption": "The video shows an office setting with cubicles and desks. There are people seated at their desks, working on computers. One person is standing near the entrance, facing away from the camera. The office appears to be quiet and orderly.",
+    "anchor_frame": 1936,
+    "video_fps": 30.0,
+    "observed_start_seconds": 62.566667,
+    "observed_until_seconds": 64.566667,
+    "latest_available_frame": 1936,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1952": {
+    "caption": "The video shows a surveillance camera view of an office space. There are several desks with computers and office equipment. People can be seen moving around the office, some walking towards the exit door, while others are standing or sitting at their desks. The camera remains stationary throughout the video.",
+    "anchor_frame": 1952,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.1,
+    "observed_until_seconds": 65.1,
+    "latest_available_frame": 1952,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1968": {
+    "caption": "The video shows a surveillance camera view of an office space. There are desks with computers and office equipment, and several people are visible in the background. One person is standing at a counter, facing away from the camera, while another person is seated at a desk. The room appears to be quiet and there is no significant movement or interaction between the individuals.",
+    "anchor_frame": 1968,
+    "video_fps": 30.0,
+    "observed_start_seconds": 63.633333,
+    "observed_until_seconds": 65.633333,
+    "latest_available_frame": 1968,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "1984": {
+    "caption": "The video shows an office setting with cubicles and desks. There are at least three individuals present, two of whom are standing near a counter or desk in the center of the room, while the third is seated at a desk on the left side. The individuals near the counter appear to be engaged in a conversation or interaction, with one person gesturing towards the other. The person seated at the desk seems to be working on a computer. No significant motion changes or escalations are visible in this segment.",
+    "anchor_frame": 1984,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.166667,
+    "observed_until_seconds": 66.166667,
+    "latest_available_frame": 1984,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2000": {
+    "caption": "In the video, there is a person standing in an office environment. They are wearing a gray hoodie and dark pants. The person is facing away from the camera and appears to be looking at something on a desk or counter. There are other people in the background, but they are not interacting with the person in the foreground. The office has cubicles and desks, and there are papers and other office supplies visible. The person in the foreground does not move or interact with anyone else during the video.",
+    "anchor_frame": 2000,
+    "video_fps": 30.0,
+    "observed_start_seconds": 64.7,
+    "observed_until_seconds": 66.7,
+    "latest_available_frame": 2000,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2016": {
+    "caption": "The video shows a surveillance camera footage of an office space. There are two people visible in the frame, one standing near the entrance and another walking towards the exit. The person at the entrance is wearing a light-colored shirt and dark pants, while the person leaving is wearing a dark jacket and light pants. The office has cubicles on both sides of the room, with computers and other office equipment visible on the desks. The floor is carpeted, and there are several circular objects scattered across it. The lighting in the room is bright, and the walls are painted a light color.",
+    "anchor_frame": 2016,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.233333,
+    "observed_until_seconds": 67.233333,
+    "latest_available_frame": 2016,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2032": {
+    "caption": "The video shows an office space with cubicles and desks. There are two individuals visible in the frame, one standing near a desk and another walking towards the exit door. The person at the desk appears to be working on a computer, while the other individual is moving away from the camera's view. No significant motion changes or interactions are observed between the two people.",
+    "anchor_frame": 2032,
+    "video_fps": 30.0,
+    "observed_start_seconds": 65.766667,
+    "observed_until_seconds": 67.766667,
+    "latest_available_frame": 2032,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2048": {
+    "caption": "The video shows an office space with cubicles and desks. There are at least three people visible in the frame, two of whom are standing near a counter or reception desk, while the third is seated at a desk facing away from the camera. The individuals near the counter appear to be engaged in a conversation or interaction, with one person gesturing towards the other. The person seated at the desk does not seem to be involved in the interaction. No significant motion changes or escalations are observed throughout the segment.",
+    "anchor_frame": 2048,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.3,
+    "observed_until_seconds": 68.3,
+    "latest_available_frame": 2048,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2064": {
+    "caption": "The video shows an office space with cubicles and desks. There are two people visible in the frame, one standing near a desk and another walking towards the door. The person at the desk appears to be working on a computer, while the other person is carrying a bag and seems to be leaving the room. There is no visible interaction between the two individuals.",
+    "anchor_frame": 2064,
+    "video_fps": 30.0,
+    "observed_start_seconds": 66.833333,
+    "observed_until_seconds": 68.833333,
+    "latest_available_frame": 2064,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2080": {
+    "caption": "In the video, there is a person walking in an office environment. The person is wearing a white shirt and dark pants. They are walking towards a desk with a computer on it. There are other people in the background, but they are not interacting with the person in the foreground. The person in the foreground is walking at a normal pace and does not appear to be in any hurry.",
+    "anchor_frame": 2080,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.366667,
+    "observed_until_seconds": 69.366667,
+    "latest_available_frame": 2080,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2096": {
+    "caption": "In the video, there is a person wearing a gray shirt and dark pants walking towards the door of an office space. The office has cubicles on both sides of the room, with computers and other office equipment visible. There are two people standing near the door, one of whom is wearing a white shirt. The person in the gray shirt walks past them and exits the room through the door.",
+    "anchor_frame": 2096,
+    "video_fps": 30.0,
+    "observed_start_seconds": 67.9,
+    "observed_until_seconds": 69.9,
+    "latest_available_frame": 2096,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2112": {
+    "caption": "In the video, there is a man in an office setting. He is seen walking towards a door and opening it. Another person is standing outside the door. The man then proceeds to open the door wider and steps outside.",
+    "anchor_frame": 2112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.433333,
+    "observed_until_seconds": 70.433333,
+    "latest_available_frame": 2112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2128": {
+    "caption": "A person is seen running through an office space. They are wearing a dark-colored jacket and light-colored pants. The person runs from the left side of the frame to the right, passing by desks and cubicles. The person's motion is quick and urgent.",
+    "anchor_frame": 2128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 68.966667,
+    "observed_until_seconds": 70.966667,
+    "latest_available_frame": 2128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2144": {
+    "caption": "In the video, there is an office space with desks and computers. A person is seen walking through the office, passing by a reception desk. The person appears to be in motion, walking at a normal pace. There are no visible interactions or escalations in the scene.",
+    "anchor_frame": 2144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 69.5,
+    "observed_until_seconds": 71.5,
+    "latest_available_frame": 2144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2160": {
+    "caption": "A person is walking through an office. They are wearing a black shirt and khaki pants. They walk past a desk with a computer on it. There are other people in the background.",
+    "anchor_frame": 2160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.033333,
+    "observed_until_seconds": 72.033333,
+    "latest_available_frame": 2160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2176": {
+    "caption": "The video shows a surveillance camera view of an office space. There are desks with computers and office equipment, and the floor is carpeted. The camera remains stationary throughout the video.",
+    "anchor_frame": 2176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 70.566667,
+    "observed_until_seconds": 72.566667,
+    "latest_available_frame": 2176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2192": {
+    "caption": "The video shows a surveillance camera view of an office space. There are desks with computers and office supplies, and the room is well-lit. The camera remains stationary throughout the video.",
+    "anchor_frame": 2192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.1,
+    "observed_until_seconds": 73.1,
+    "latest_available_frame": 2192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2208": {
+    "caption": "The video shows an office space with cubicles and desks. There are two people visible in the background, one standing near a door and another sitting at a desk. The person standing appears to be wearing a light-colored shirt and dark pants, while the seated individual is wearing a dark top. The office has a carpeted floor, and there are papers and other office supplies scattered on the desks. The lighting is artificial, and the overall ambiance of the room is quiet and still.",
+    "anchor_frame": 2208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 71.633333,
+    "observed_until_seconds": 73.633333,
+    "latest_available_frame": 2208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2224": {
+    "caption": "The video shows an office space with cubicles and desks. There are no visible people or movement in the scene. The lighting is consistent, and there are no noticeable changes in the environment.",
+    "anchor_frame": 2224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.166667,
+    "observed_until_seconds": 74.166667,
+    "latest_available_frame": 2224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2240": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There is a person walking in the background, moving from left to right across the frame. The person appears to be wearing a dark-colored jacket and pants. The office is well-lit, and there are no visible signs of any unusual activity or motion changes.",
+    "anchor_frame": 2240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 72.7,
+    "observed_until_seconds": 74.7,
+    "latest_available_frame": 2240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2256": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. There is a person standing in the doorway of the office. The person appears to be stationary throughout the video.",
+    "anchor_frame": 2256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.233333,
+    "observed_until_seconds": 75.233333,
+    "latest_available_frame": 2256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2272": {
+    "caption": "The video shows a static office environment with cubicles, computers, and office supplies. There is no visible movement or interaction between objects or people. The lighting is consistent, and there are no changes in the scene throughout the video.",
+    "anchor_frame": 2272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 73.766667,
+    "observed_until_seconds": 75.766667,
+    "latest_available_frame": 2272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2288": {
+    "caption": "The video shows an office space with cubicles, computers, and office supplies. The walls are adorned with posters and notices. There is a door at the far end of the room. Initially, the office is empty. A person wearing dark clothing enters the frame from the right side, walks towards the center, and then exits to the left.",
+    "anchor_frame": 2288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.3,
+    "observed_until_seconds": 76.3,
+    "latest_available_frame": 2288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2304": {
+    "caption": "The video shows an office space with cubicles and desks. There are two individuals visible in the background, one standing near a door and another seated at a desk. The person standing is wearing a light-colored shirt and dark pants, while the seated individual is not clearly visible. The office has a carpeted floor and fluorescent lighting. No significant motion or interaction between the individuals is observed.",
+    "anchor_frame": 2304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 74.833333,
+    "observed_until_seconds": 76.833333,
+    "latest_available_frame": 2304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2320": {
+    "caption": "In the video, there is a man wearing a black jacket and white shoes walking through an office space. He walks past cubicles and desks with computers on them. There are other people in the background, some sitting at their desks and others standing near the entrance of the room. The man continues to walk across the room, passing by various objects and people.",
+    "anchor_frame": 2320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.366667,
+    "observed_until_seconds": 77.366667,
+    "latest_available_frame": 2320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2336": {
+    "caption": "In the video, a person is seen walking through an office space. They are wearing dark clothing and appear to be moving with purpose. The office has cubicles, computers, and other typical office equipment. There are no visible interactions with other people or objects. The person's movement is steady and does not show any signs of haste or urgency.",
+    "anchor_frame": 2336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 75.9,
+    "observed_until_seconds": 77.9,
+    "latest_available_frame": 2336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2352": {
+    "caption": "In the video, there is a person wearing a black jacket and pants walking through an office space. The office has cubicles with computers on them. There are also some papers scattered around the floor. The person walks from one side of the room to the other, passing by several desks and chairs.",
+    "anchor_frame": 2352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.433333,
+    "observed_until_seconds": 78.433333,
+    "latest_available_frame": 2352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "2368": {
+    "caption": "A person in a dark jacket and pants is walking through an office space. They are carrying a bag and appear to be heading towards the exit. As they walk, another person in a light-colored shirt and dark pants enters the frame from the right side of the screen. The second person walks quickly past the first person and exits the frame on the left side of the screen.",
+    "anchor_frame": 2368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 76.966667,
+    "observed_until_seconds": 78.966667,
+    "latest_available_frame": 2368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

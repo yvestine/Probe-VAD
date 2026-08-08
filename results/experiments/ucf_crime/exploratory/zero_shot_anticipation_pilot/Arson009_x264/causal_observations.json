@@ -1,0 +1,472 @@
+{
+  "0": {
+    "caption": "At 07/18/2014 11:35:42 PM, a white van is parked in a dimly lit area. A person wearing dark clothing approaches the rear of the van and opens the back door. The person reaches inside the van and appears to be retrieving something.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a white van parked in a dimly lit area, possibly a parking lot or garage. The timestamp indicates the footage was captured on July 18, 2014, at 11:35:43 PM. There is no visible movement or interaction with the van, and no other entities are present in the frame.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A white van is parked in a dimly lit area. A person wearing a light-colored hoodie approaches the van from the right side of the frame and appears to interact with the driver's side door. The person then moves away from the van towards the left side of the frame.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A white van is parked in a dimly lit area. A person wearing a light-colored hoodie approaches the van from the right side of the frame, carrying an object that appears to be a bag or package. The person moves towards the back of the van and bends down near the rear door. The video ends abruptly as the screen goes black.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a white van parked in a dimly lit area, possibly a parking lot or a driveway. The timestamp indicates the footage was captured on July 18, 2014, at around 11:36 PM. The van remains stationary throughout the sequence of images. There are no visible people or moving objects interacting with the van. The lighting is consistent with night vision, and there is no discernible change in the environment or the van's position.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored jacket and dark pants approaches the van from the right side of the frame. The individual appears to be carrying something in their hand, which they place on the van's roof. The person then walks away from the van towards the left side of the frame. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a white van parked in a dimly lit area. The timestamp indicates the footage was captured on 07/18/2014 at 11:36:56 PM. A person, whose features are not clearly visible due to the low light and quality of the footage, is seen approaching the van from the right side of the frame. The individual appears to be wearing a light-colored jacket and dark pants. They move towards the rear of the van, open the back door, and seem to interact with something or someone inside the vehicle. The person's actions are deliberate and focused on the task at hand.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows a white van parked in a dimly lit area, possibly a parking lot or driveway. The timestamp indicates the footage was captured on 07/18/2014 at 11:36:58 PM. A person wearing light-colored clothing is seen approaching the van from the right side of the frame. The individual appears to be carrying something, but it's not clear what due to the low resolution and lighting conditions. The person's actions are limited to walking towards the van; no further interaction with the vehicle or any other objects is visible in this segment.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows a white van parked on the side of a road at night. The footage is in black and white, with visible timestamp and channel number (CH4). The van has no distinctive markings or logos. There are no people or other moving objects in the immediate vicinity of the van. The lighting conditions suggest it is nighttime, and the environment appears to be a quiet street or parking area.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows a white van parked in a dimly lit area, possibly a parking lot or driveway. The timestamp indicates the footage was captured on 07/18/2014 at 11:36:59 PM. A person wearing light-colored clothing is seen approaching the van from the right side of the frame. The individual appears to be carrying something in their hand and moves towards the rear door of the van. The person's actions are deliberate and focused on the vehicle. No other significant objects or people are visible in the immediate vicinity.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a white van parked in a dimly lit area. The timestamp indicates the footage was captured on 07/18/2014 at 11:36:59 PM. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. They appear to be reaching inside the van, but no specific actions or interactions with objects are discernible due to the low resolution and darkness.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing is seen approaching the van from the right side of the frame. The individual appears to be carrying something, but it's not clear what due to the low resolution and lighting conditions. The person moves towards the rear of the van, opens the back door, and seems to interact with the contents inside. There are no other visible actions or interactions in the video segment provided.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a surveillance camera capturing a white van parked in a dimly lit area. A person wearing light-colored clothing is seen walking towards the van from the right side of the frame. The individual appears to be carrying something in their hand, but it's not clear what it is due to the low resolution and lighting conditions. The person approaches the rear door of the van, opens it, and seems to interact with the interior briefly before closing the door and walking away. There are no other discernible actions or interactions in the video.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A person wearing a white hoodie is seen walking towards a white van parked in a driveway. The person appears to be carrying something in their hands and is moving with a purposeful stride. They reach the van and open the back door, then proceed to place the object inside. After closing the door, they walk away from the van.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a person wearing a hoodie is seen walking towards a parked van. The individual appears to be carrying something in their hand and seems to be attempting to open the back door of the van.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A person wearing a light-colored hoodie is seen walking towards a white van parked in a dimly lit area. The individual appears to be carrying something in their right hand and moves with a purposeful stride. The scene is captured by a security camera, and the timestamp indicates it is nighttime.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "In the video, a person wearing a white hoodie is seen walking towards a white van parked in a dimly lit area. The individual appears to be carrying something in their hand and moves with a purposeful stride. The surroundings are dark, and the only light source seems to be the camera's night vision. There is no visible interaction with other entities or objects, and the person's actions do not show any signs of escalation or instability.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "A person wearing a white hoodie is seen walking towards a white van parked in a dimly lit area. The individual appears to be carrying something in their hand and moves with a purposeful stride. As they approach the van, they reach out and touch it, possibly opening the door or inspecting the vehicle. The scene is captured by a security camera, and the timestamp indicates that it was recorded on July 18, 2014, at 11:37 PM.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing is seen approaching the van from the left side of the frame. The individual appears to be carrying something in their hand, which they place on the van's door handle. The person then proceeds to open the door and enters the vehicle. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a white van parked in a dimly lit area. A person wearing dark clothing is seen approaching the van from the left side of the frame. The individual appears to be interacting with the van's rear door, possibly attempting to open it or manipulate something near the door handle. The actions are repetitive, with the person moving back and forth between the van and the door. There is no clear indication of any other individuals or significant movement in the surrounding area.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing is seen approaching the van from the left side of the frame. The individual appears to be carrying something, but it's not clear what due to the low resolution and lighting conditions. The person moves towards the rear of the van, opens the back door, and seems to interact with the contents inside. The actions are quick and continuous, suggesting urgency or haste.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a white van parked in a dimly lit area. The footage is grainy and low-resolution, with visible timestamp and channel indicators. A person wearing dark clothing approaches the van from the right side of the frame. The individual appears to interact with the driver's side door, possibly opening it or attempting to do so. The person then moves around the front of the vehicle, walking towards the left side of the frame. The video ends before any further actions are visible.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video begins with a timestamp and channel indicator, followed by a scene of a white van parked in a dimly lit area. The van's rear door is open, and there are visible flames and smoke emanating from the back of the vehicle. A person wearing reflective clothing approaches the van, and as they get closer, sparks or embers fly towards them, suggesting an active fire or explosion. The person appears to be reacting to the situation, possibly attempting to manage the incident.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows a white van parked in a dimly lit area. The timestamp indicates the footage was captured on 07/18/2014 at 11:37:06 PM. A person wearing reflective clothing, likely a firefighter, approaches the van from the right side of the frame. The individual appears to be inspecting or interacting with the van, possibly opening doors or checking inside. The surroundings are dark, and the only light source seems to be the camera's infrared light, which illuminates the scene.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a night scene with a white van parked on the side of the road. Two individuals wearing reflective clothing, likely emergency responders, are seen near the van. One of them is holding a flashlight, which illuminates the area around them. The actions are limited to these two individuals moving around the van and interacting with each other. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a night scene with a white van parked on the side of the road. A person wearing reflective clothing is seen walking towards the van from the left side of the frame. The person appears to be carrying something in their hand, but it's not clear what it is due to the low light conditions. The person then opens the back door of the van and seems to be placing or retrieving an object from inside. There are no other visible actions or interactions in this segment.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a night scene with a white van parked on the side of the road. A person wearing reflective clothing, likely a firefighter, is seen walking towards the van from the left side of the frame. The person's movements are deliberate and purposeful. The surroundings are dark, and the only light source seems to be the vehicle's headlights and the reflective gear worn by the individual.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a nighttime scene with a white van parked on the side of the road. A person wearing reflective clothing, likely a firefighter due to the context, is seen walking towards the van. The individual appears to be inspecting or approaching the vehicle. No other actions or interactions are visible in this segment.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "448": {
+    "caption": "A person in reflective gear is standing next to a white van. The person appears to be inspecting or working on the van. There is no visible motion or interaction with other entities.",
+    "anchor_frame": 448,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.966667,
+    "observed_until_seconds": 14.966667,
+    "latest_available_frame": 448,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "464": {
+    "caption": "The video shows a white van parked in a dimly lit area. The van's headlights are on, illuminating the surroundings. There is no visible movement or interaction with other entities.",
+    "anchor_frame": 464,
+    "video_fps": 30.0,
+    "observed_start_seconds": 13.5,
+    "observed_until_seconds": 15.5,
+    "latest_available_frame": 464,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "480": {
+    "caption": "A white van is parked in a garage. The garage door opens and the van backs out. A person wearing a reflective vest walks towards the van.",
+    "anchor_frame": 480,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.033333,
+    "observed_until_seconds": 16.033333,
+    "latest_available_frame": 480,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "496": {
+    "caption": "The video shows a white van parked in a dimly lit area. Two individuals wearing reflective clothing, likely emergency responders, are seen approaching the van. They appear to be inspecting or working on the vehicle. The scene is captured by a surveillance camera with visible timestamp and channel information.",
+    "anchor_frame": 496,
+    "video_fps": 30.0,
+    "observed_start_seconds": 14.566667,
+    "observed_until_seconds": 16.566667,
+    "latest_available_frame": 496,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "512": {
+    "caption": "A person wearing reflective clothing is seen walking towards a white van. The person appears to be carrying equipment and is illuminated by the vehicle's headlights.",
+    "anchor_frame": 512,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.1,
+    "observed_until_seconds": 17.1,
+    "latest_available_frame": 512,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "528": {
+    "caption": "The video shows a dark scene with a white van parked on the side of the road. Two individuals wearing reflective clothing are seen near the van, one of them appears to be inspecting or working on the vehicle. The surroundings are dimly lit, and the only visible light source is coming from the vehicle's headlights.",
+    "anchor_frame": 528,
+    "video_fps": 30.0,
+    "observed_start_seconds": 15.633333,
+    "observed_until_seconds": 17.633333,
+    "latest_available_frame": 528,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "544": {
+    "caption": "The video shows a night-time scene with a white van parked on the side of the road. A person wearing reflective clothing is seen walking towards the back of the van, carrying an object that reflects light, possibly a tool or equipment. The person's actions are deliberate and focused on the task at hand. There is no visible interaction with other entities, and the motion is steady and purposeful.",
+    "anchor_frame": 544,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.166667,
+    "observed_until_seconds": 18.166667,
+    "latest_available_frame": 544,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "560": {
+    "caption": "The video shows a surveillance camera capturing a nighttime scene. A person wearing reflective clothing is seen walking towards the back of a white van parked on the side of the road. The person appears to be carrying something, but it's not clear what it is due to the low light conditions. The person's actions are deliberate and purposeful as they approach the rear of the vehicle.",
+    "anchor_frame": 560,
+    "video_fps": 30.0,
+    "observed_start_seconds": 16.7,
+    "observed_until_seconds": 18.7,
+    "latest_available_frame": 560,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "576": {
+    "caption": "The video shows a night scene with a white van parked on the side of the road. The area is dimly lit, and there is a person standing next to the van. The person appears to be interacting with the van's door, possibly opening or closing it. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 576,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.233333,
+    "observed_until_seconds": 19.233333,
+    "latest_available_frame": 576,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "592": {
+    "caption": "The video shows a night-time scene with a white van parked on the side of the road. The footage is grainy and black and white, indicating it was captured by a surveillance camera. There are no visible people or moving objects in the frame. The van remains stationary throughout the sequence.",
+    "anchor_frame": 592,
+    "video_fps": 30.0,
+    "observed_start_seconds": 17.766667,
+    "observed_until_seconds": 19.766667,
+    "latest_available_frame": 592,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "608": {
+    "caption": "The video shows a dark scene with a white van parked on the side of the road. The timestamp indicates the footage was captured on July 18, 2014, at 11:52:03 PM. There are two individuals wearing reflective clothing, possibly indicating they are emergency responders or workers. They appear to be engaged in an activity near the rear of the van, but due to the low resolution and darkness, specific actions cannot be determined. No other objects or people are visible in the immediate vicinity.",
+    "anchor_frame": 608,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.3,
+    "observed_until_seconds": 20.3,
+    "latest_available_frame": 608,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "624": {
+    "caption": "The video shows a night-time scene with a white van parked in the center. Two individuals wearing reflective clothing are seen near the van, one of them appears to be using a flashlight or a similar light source. The light source is directed towards the ground and the individuals' actions suggest they are inspecting or working on something near the vehicle. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 624,
+    "video_fps": 30.0,
+    "observed_start_seconds": 18.833333,
+    "observed_until_seconds": 20.833333,
+    "latest_available_frame": 624,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "640": {
+    "caption": "The video shows a dark scene with a vehicle parked. There are two figures wearing reflective clothing, possibly emergency personnel, who appear to be inspecting or working on the vehicle. The figures move around the vehicle, and their actions suggest they are performing some kind of task or investigation. The lighting is dim, and the details are not clear due to the low resolution and darkness.",
+    "anchor_frame": 640,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.366667,
+    "observed_until_seconds": 21.366667,
+    "latest_available_frame": 640,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "656": {
+    "caption": "The video shows a dark scene with two figures wearing reflective clothing, possibly firefighters, moving around a vehicle. The vehicle's headlights are on, illuminating the area. The figures appear to be inspecting or working on the vehicle. There is no visible escalation or instability in the scene.",
+    "anchor_frame": 656,
+    "video_fps": 30.0,
+    "observed_start_seconds": 19.9,
+    "observed_until_seconds": 21.9,
+    "latest_available_frame": 656,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "672": {
+    "caption": "The video shows a dark environment with two figures wearing reflective gear, likely firefighters, moving around. The figures are illuminated by a bright light source, possibly from a flashlight or a camera flash. The figures appear to be in motion, possibly walking or running, and their actions suggest they are responding to an emergency situation.",
+    "anchor_frame": 672,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.433333,
+    "observed_until_seconds": 22.433333,
+    "latest_available_frame": 672,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "688": {
+    "caption": "Two individuals wearing reflective clothing are seen in a dimly lit area. They appear to be engaged in some form of physical activity, possibly a fight or altercation. The person on the left is wearing a dark jacket and pants, while the person on the right is wearing a lighter-colored jacket and pants. The person on the left seems to be pushing or shoving the person on the right, who is resisting. The motion is forceful, and there is a lot of movement as they grapple with each other.",
+    "anchor_frame": 688,
+    "video_fps": 30.0,
+    "observed_start_seconds": 20.966667,
+    "observed_until_seconds": 22.966667,
+    "latest_available_frame": 688,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "704": {
+    "caption": "The video shows a dark scene with two individuals wearing reflective clothing. They are standing close to each other, and their movements are limited to slight shifts in posture. The environment is poorly lit, making it difficult to discern any additional details.",
+    "anchor_frame": 704,
+    "video_fps": 30.0,
+    "observed_start_seconds": 21.5,
+    "observed_until_seconds": 23.5,
+    "latest_available_frame": 704,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "720": {
+    "caption": "A person wearing a reflective jacket is standing in front of a vehicle. The person is holding a flashlight and shining it into the vehicle. The person is moving the flashlight around inside the vehicle.",
+    "anchor_frame": 720,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.033333,
+    "observed_until_seconds": 24.033333,
+    "latest_available_frame": 720,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "736": {
+    "caption": "The video shows a dark scene with a bright light source in the center. The light source appears to be moving slightly, and there is a faint outline of a person or object near the light. The surroundings are not clearly visible due to the darkness.",
+    "anchor_frame": 736,
+    "video_fps": 30.0,
+    "observed_start_seconds": 22.566667,
+    "observed_until_seconds": 24.566667,
+    "latest_available_frame": 736,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

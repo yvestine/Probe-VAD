@@ -1,0 +1,284 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 672,
+      "quality": 0.767742,
+      "support_scales": [
+        2,
+        4,
+        20,
+        16,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 656,
+          "end_frame": 688,
+          "center_frame": 672,
+          "quality": 0.767742
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 656,
+          "end_frame": 720,
+          "center_frame": 688,
+          "quality": 0.743548
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 480,
+          "end_frame": 800,
+          "center_frame": 640,
+          "quality": 0.647984
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 480,
+          "end_frame": 736,
+          "center_frame": 608,
+          "quality": 0.638306
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 656,
+          "end_frame": 784,
+          "center_frame": 720,
+          "quality": 0.637702
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 608,
+      "focus_end_frame": 736
+    },
+    "scales": {
+      "2s": {
+        "caption": "A man is seen walking down a street, and then he suddenly disappears.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "6s": {
+        "caption": "A man is seen standing next to a parked van on a street. He then proceeds to open the back of the van and throws something out of it.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.4,
+        "actual_end_seconds": 25.4
+      },
+      "10s": {
+        "caption": "A man is seen standing next to a parked van on the side of the road. He appears to be interacting with someone inside the vehicle. Suddenly, the man runs away from the van and disappears from view.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 27.4
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 287,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 223,
+      "focus_end_frame": 351
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white van parked on the side of a street. A person walks past the van, and there is no other significant action or event in the video.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.5667,
+        "actual_end_seconds": 10.5667
+      },
+      "6s": {
+        "caption": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then another person approaches from the opposite direction. The two individuals appear to be in conversation.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 12.5667
+      },
+      "10s": {
+        "caption": "The video shows a white van parked on the side of a street. A person is seen walking towards the van, and then another person approaches from the opposite direction. The two individuals appear to be in conversation for a brief moment before one of them walks away.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.5667,
+        "actual_end_seconds": 14.5667
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 575,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 511,
+      "focus_end_frame": 639
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a white van parked on the side of a street. A person is seen walking towards the van from the left side of the frame, and then they open the driver's side door and get inside.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.1667,
+        "actual_end_seconds": 20.1667
+      },
+      "6s": {
+        "caption": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and there is no significant movement or action throughout the video.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 22.1667
+      },
+      "10s": {
+        "caption": "The video shows a white van parked on the side of a street. A person is seen standing next to the van, and then they open the back door of the van. The person appears to be loading or unloading items from the van.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.1667,
+        "actual_end_seconds": 24.1667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 862,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 798,
+      "focus_end_frame": 926
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a street scene at night with parked cars. A bright light source, possibly from a vehicle's headlights, moves along the street, illuminating the area. The light appears to be following a specific path, suggesting the movement of a vehicle or person.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 27.7333,
+        "actual_end_seconds": 29.7333
+      },
+      "6s": {
+        "caption": "The video shows a car driving down a street at night. The car is seen from a distance, and the driver appears to be looking at their phone while driving. The car then collides with another vehicle, causing a bright flash of light. The impact causes the car to spin out of control and come to a stop.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 25.7333,
+        "actual_end_seconds": 31.7333
+      },
+      "10s": {
+        "caption": "The video shows a street scene at night with parked cars on the side. The footage is grainy and low-resolution, suggesting it might be from a security camera. There are no visible people or moving objects in the frames provided.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 23.7333,
+        "actual_end_seconds": 33.7333
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1150,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1086,
+      "focus_end_frame": 1214
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from an older security camera or taken under low light conditions. There is no significant movement or action occurring throughout the sequence of images.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 37.3333,
+        "actual_end_seconds": 39.3333
+      },
+      "6s": {
+        "caption": "The video shows a street lined with parked cars on both sides. The footage is in black and white, suggesting it might be from an older security camera or taken at night. There are no visible people or moving objects, indicating a quiet time of day or a deserted area. The timestamp on the footage reads \"02-14 Wed 04:51:13,\" which could indicate the date and time when the video was recorded.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 35.3333,
+        "actual_end_seconds": 41.3333
+      },
+      "10s": {
+        "caption": "The video shows a street scene at night with parked cars on both sides. The footage is in black and white, suggesting it might be from a security camera. There are no visible people or moving objects, indicating a quiet street. The timestamp on the footage indicates that it was recorded in the early morning hours of June 4, 2014.",
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 33.3333,
+        "actual_end_seconds": 43.3333
+      }
+    }
+  }
+}

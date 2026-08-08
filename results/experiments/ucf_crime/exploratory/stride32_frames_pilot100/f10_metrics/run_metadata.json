@@ -1,0 +1,18 @@
+{
+  "videos_total": 100,
+  "videos_evaluated": 100,
+  "videos_missing": 0,
+  "scored_clips": 13758,
+  "output_clips_at_output_interval": 27466,
+  "scoring_interval": 32,
+  "output_interval": 16,
+  "window_seconds": 10.0,
+  "sample_fps": 2.0,
+  "max_frames": 10,
+  "smoothing_sigma": 10.0,
+  "smoothing_enabled": true,
+  "elapsed_seconds": 0.41239899792708457,
+  "roc_auc": 0.85223047853547,
+  "pr_auc": 0.35452980197976486,
+  "max_f1": 0.4727841955753218
+}

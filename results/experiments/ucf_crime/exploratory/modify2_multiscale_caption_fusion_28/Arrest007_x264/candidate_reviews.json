@@ -1,0 +1,288 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 1856,
+      "quality": 0.775,
+      "support_scales": [
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 1840,
+          "end_frame": 1872,
+          "center_frame": 1856,
+          "quality": 0.775
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 1840,
+          "end_frame": 1968,
+          "center_frame": 1904,
+          "quality": 0.727188
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 1792,
+      "focus_end_frame": 1920
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person being restrained on the floor by two officers in an office setting.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 60.8667,
+        "actual_end_seconds": 62.8667
+      },
+      "6s": {
+        "caption": "The video shows a person in a room with a desk and chairs. The individual is seen kneeling on the floor, appearing to be in distress or engaged in some activity. Another person enters the room and interacts with the kneeling individual. The interaction seems to involve physical contact, possibly restraining or assisting the person on the floor.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 58.8667,
+        "actual_end_seconds": 64.8667
+      },
+      "10s": {
+        "caption": "The video shows a person lying on the floor in an office setting. Two individuals are seen attending to the person, with one of them kneeling beside them. The scene suggests that the person may be injured or unwell, and the two individuals are providing assistance.",
+        "direct_visual_score": 0.9,
+        "direct_visual_response": "[0.9]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 56.8667,
+        "actual_end_seconds": 66.8667
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 2736,
+      "quality": 0.7525,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 2608,
+          "end_frame": 2864,
+          "center_frame": 2736,
+          "quality": 0.7525
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 2576,
+          "end_frame": 2896,
+          "center_frame": 2736,
+          "quality": 0.737083
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 2672,
+      "focus_end_frame": 2800
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a person lying on the ground, partially obscured by a large object. The person's position remains mostly static throughout the sequence of images.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 90.2,
+        "actual_end_seconds": 92.2
+      },
+      "6s": {
+        "caption": "The video shows a person wearing dark clothing and gloves attempting to break into a door. The individual is seen using a tool to pry open the door, which has a visible lock mechanism. The footage is in black and white, and the timestamp indicates it was recorded on August 20, 2016, at 3:51 AM.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 88.2,
+        "actual_end_seconds": 94.2
+      },
+      "10s": {
+        "caption": "The video shows a person entering a room through a door. The footage is in black and white, and the timestamp indicates it was recorded on August 20, 2016, at 3:51 AM. The person appears to be wearing dark clothing and moves quickly into the room.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 86.2,
+        "actual_end_seconds": 96.2
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 2144,
+      "quality": 0.727188,
+      "support_scales": [
+        4
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 2112,
+          "end_frame": 2176,
+          "center_frame": 2144,
+          "quality": 0.727188
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 2080,
+      "focus_end_frame": 2208
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a black shirt and pants walking towards a woman in a white shirt. He then proceeds to punch her in the face, causing her to fall to the ground.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 70.4667,
+        "actual_end_seconds": 72.4667
+      },
+      "6s": {
+        "caption": "The video shows a man and a woman standing in an office break room. The man is wearing a black shirt and the woman is wearing a white shirt. They are engaged in a conversation while standing near a row of lockers.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 68.4667,
+        "actual_end_seconds": 74.4667
+      },
+      "10s": {
+        "caption": "The video shows a man in a black shirt and pants entering a room with a printer. He interacts with another person, who is wearing a white shirt, and they appear to be having a conversation. The man in the black shirt then walks away from the printer area and exits the room.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 66.4667,
+        "actual_end_seconds": 76.4667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 629,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 565,
+      "focus_end_frame": 693
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man kneeling down in front of a printer, repeatedly pressing buttons on the machine.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9667,
+        "actual_end_seconds": 21.9667
+      },
+      "6s": {
+        "caption": "A man is seen standing in front of a washing machine, bending over and putting his hands inside. He then proceeds to take out some clothes from the machine.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.9667,
+        "actual_end_seconds": 23.9667
+      },
+      "10s": {
+        "caption": "The video shows a man in a laundromat. He is seen putting coins into a washing machine, then bending down to pick up something from the floor.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.9667,
+        "actual_end_seconds": 25.9667
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 1258,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 1194,
+      "focus_end_frame": 1322
+    },
+    "scales": {
+      "2s": {
+        "caption": "The video shows a man in a white tank top and dark shorts standing in front of a row of washing machines. He is seen interacting with the machines, possibly loading or unloading them.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 40.9333,
+        "actual_end_seconds": 42.9333
+      },
+      "6s": {
+        "caption": "The video shows a man in a white tank top and dark shorts standing in a laundry room. He is bending over, reaching into a washing machine, and appears to be either loading or unloading laundry. The room has beige walls, a tiled floor, and several washing machines lined up against the wall. There are also lockers and a bench visible in the background.",
+        "direct_visual_score": 0.3,
+        "direct_visual_response": "[0.3]",
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 38.9333,
+        "actual_end_seconds": 44.9333
+      },
+      "10s": {
+        "caption": "The video shows a man in a white tank top and dark shorts standing in a room with a washing machine. He is seen interacting with the machine, possibly loading or unloading clothes. The room has a bench and a door, and there are lockers on the wall.",
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 36.9333,
+        "actual_end_seconds": 46.9333
+      }
+    }
+  }
+}

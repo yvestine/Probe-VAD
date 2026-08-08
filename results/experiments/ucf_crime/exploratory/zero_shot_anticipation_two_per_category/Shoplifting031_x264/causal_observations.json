@@ -1,0 +1,282 @@
+{
+  "0": {
+    "caption": "At 2014-10-28 38:33 PM, the video shows a surveillance camera labeled \"CAM 1\" capturing an indoor scene. A person is seated at a cluttered desk, working on a computer. The desk has various items, including papers and electronic equipment. There are two red chairs in the background, and a black mat is visible on the floor. No significant actions or interactions occur during this segment, and there is no visible escalation or instability.",
+    "anchor_frame": 0,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.033333,
+    "latest_available_frame": 0,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "16": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There is a person sitting at a counter, and another individual is standing nearby. The person at the counter appears to be handling items on the counter, while the standing person seems to be observing or waiting. No significant motion changes or escalations are visible in this segment.",
+    "anchor_frame": 16,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 0.566667,
+    "latest_available_frame": 16,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "32": {
+    "caption": "A person is sitting at a desk in an office, typing on a computer. Another person walks by in the background.",
+    "anchor_frame": 32,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.1,
+    "latest_available_frame": 32,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "48": {
+    "caption": "A person is sitting at a desk in an office. They are typing on a computer keyboard. There are other people in the background, but they are not interacting with the person at the desk. The person at the desk does not move from their position.",
+    "anchor_frame": 48,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.0,
+    "observed_until_seconds": 1.633333,
+    "latest_available_frame": 48,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "64": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The timestamp indicates the footage was captured on October 28, 2014, at 38:33 PM. There is a person seated at a desk with papers and a computer monitor in front of them. Another individual is standing to the left, partially obscured by the desk. The standing person appears to be interacting with the seated individual, possibly handing over an item or document. The environment includes shelves stocked with various items, suggesting a retail or service-oriented space.",
+    "anchor_frame": 64,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.166667,
+    "observed_until_seconds": 2.166667,
+    "latest_available_frame": 64,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "80": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There is a person sitting at a counter, facing away from the camera, and another individual standing behind the counter. The person at the counter appears to be handling items on the counter, while the standing individual seems to be engaged in a transaction or conversation with the seated person. No significant motion changes or escalations are visible in the provided frames.",
+    "anchor_frame": 80,
+    "video_fps": 30.0,
+    "observed_start_seconds": 0.7,
+    "observed_until_seconds": 2.7,
+    "latest_available_frame": 80,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "96": {
+    "caption": "The video shows a surveillance camera's perspective of a retail store's interior. There are two employees visible; one is seated at a counter, and the other is standing nearby. The seated employee is handling items on the counter, while the standing employee appears to be engaged in a conversation or transaction with a customer who is partially visible. The customer seems to be holding an item, possibly making a purchase. The environment is well-lit, and the floor is tiled. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 96,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.233333,
+    "observed_until_seconds": 3.233333,
+    "latest_available_frame": 96,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "112": {
+    "caption": "The video shows an indoor setting, presumably a store or office, with a counter and various items on display. There are at least two individuals visible; one is seated behind the counter, and the other is standing in front of it. The person behind the counter appears to be engaged in some activity, possibly writing or handling documents. The standing individual seems to be interacting with the seated person, potentially making a transaction or inquiry. The environment is well-lit, and the timestamp indicates the footage was captured in the evening.",
+    "anchor_frame": 112,
+    "video_fps": 30.0,
+    "observed_start_seconds": 1.766667,
+    "observed_until_seconds": 3.766667,
+    "latest_available_frame": 112,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "128": {
+    "caption": "The video shows an indoor setting, likely a store or office, with a counter and various items on display. There are at least two individuals present: one seated behind the counter, possibly an employee, and another standing in front of the counter, potentially a customer. The person behind the counter is wearing a dark-colored shirt, while the individual in front is wearing lighter clothing. The environment includes shelving with products, a cash register, and other typical retail or office paraphernalia. The timestamp indicates the footage was recorded on October 28, 2014, at 38 minutes past 3 PM.",
+    "anchor_frame": 128,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.3,
+    "observed_until_seconds": 4.3,
+    "latest_available_frame": 128,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "144": {
+    "caption": "The video shows an indoor setting, likely a store or office, with a counter and various items on display. There are at least two individuals present: one seated behind the counter and another standing in front of it. The person behind the counter appears to be engaged in some activity, possibly writing or handling paperwork. The standing individual seems to be interacting with the seated person, potentially making a transaction or inquiry. The environment is static with no significant motion or changes throughout the sequence.",
+    "anchor_frame": 144,
+    "video_fps": 30.0,
+    "observed_start_seconds": 2.833333,
+    "observed_until_seconds": 4.833333,
+    "latest_available_frame": 144,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "160": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor setting, likely a store or office. The timestamp indicates the footage was captured on October 28, 2014, at around 38:37 PM. The camera is labeled \"CAM 1.\" In the scene, there are several individuals present. One person is seated at a desk, facing away from the camera, and appears to be working on a computer. Another individual is standing nearby, partially obscured by the seated person. There is also a third person who seems to be walking past the desk area. The environment includes shelves with various items, a counter, and what looks like a cash register. The lighting is artificial, typical of indoor settings, and the floor is tiled. No significant motion or interaction between the individuals is discernible in this short clip.",
+    "anchor_frame": 160,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.366667,
+    "observed_until_seconds": 5.366667,
+    "latest_available_frame": 160,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "176": {
+    "caption": "The video shows an indoor setting, likely a store or office, with a counter and various items on display. There are at least two individuals present: one seated behind the counter and another standing in front of it. The person behind the counter appears to be handling paperwork or documents, while the other individual seems to be waiting or interacting with the person behind the counter. No significant motion changes or escalations are visible in this segment.",
+    "anchor_frame": 176,
+    "video_fps": 30.0,
+    "observed_start_seconds": 3.9,
+    "observed_until_seconds": 5.9,
+    "latest_available_frame": 176,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "192": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There are two individuals visible: one person is seated at a counter, facing away from the camera, and another person is standing nearby, facing the seated individual. The standing person appears to be interacting with the seated person, possibly in a transaction or conversation. The environment includes shelves stocked with various items, and there is a green box on the floor near the counter. No significant motion changes or escalations are observed in this segment.",
+    "anchor_frame": 192,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.433333,
+    "observed_until_seconds": 6.433333,
+    "latest_available_frame": 192,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "208": {
+    "caption": "A man is sitting at a desk in an office. He is looking at a computer screen and typing on the keyboard. There are other people in the office, but they are not interacting with him. The man is wearing a blue shirt and has short brown hair. The office is cluttered with papers and other office supplies.",
+    "anchor_frame": 208,
+    "video_fps": 30.0,
+    "observed_start_seconds": 4.966667,
+    "observed_until_seconds": 6.966667,
+    "latest_available_frame": 208,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "224": {
+    "caption": "In the video, a man is seen sitting at a desk in an office. He appears to be working on a computer. There are no other visible actions or interactions in the video.",
+    "anchor_frame": 224,
+    "video_fps": 30.0,
+    "observed_start_seconds": 5.5,
+    "observed_until_seconds": 7.5,
+    "latest_available_frame": 224,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "240": {
+    "caption": "A man is sitting at a desk in an office. He is looking at a computer screen and typing on the keyboard. There are other people in the office, but they are not interacting with him. The man is wearing a blue shirt and has short brown hair. The office is cluttered with papers and other objects.",
+    "anchor_frame": 240,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.033333,
+    "observed_until_seconds": 8.033333,
+    "latest_available_frame": 240,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "256": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There is a person sitting at a counter, seemingly working on a computer. The timestamp indicates the date and time as October 28, 2014, at 38:40 PM. The camera angle is from above, providing a bird's-eye view of the scene. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 256,
+    "video_fps": 30.0,
+    "observed_start_seconds": 6.566667,
+    "observed_until_seconds": 8.566667,
+    "latest_available_frame": 256,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "272": {
+    "caption": "The video shows a surveillance camera footage of a store. There is a man sitting at a desk, working on a computer. A woman is standing next to him, looking at the computer screen. The man is wearing a blue shirt and the woman is wearing a white shirt. The store has a lot of shelves with various items on them. The floor is tiled. The timestamp on the video indicates that it was recorded on October 28, 2014, at 3:41 PM.",
+    "anchor_frame": 272,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.1,
+    "observed_until_seconds": 9.1,
+    "latest_available_frame": 272,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "288": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There is a person sitting at a desk, working on a computer. Another individual is standing nearby, seemingly engaged in a conversation with the seated person. The standing person appears to be gesturing or pointing towards the computer screen. The scene remains static throughout the video, with no significant motion changes or escalations.",
+    "anchor_frame": 288,
+    "video_fps": 30.0,
+    "observed_start_seconds": 7.633333,
+    "observed_until_seconds": 9.633333,
+    "latest_available_frame": 288,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "304": {
+    "caption": "The video shows a surveillance camera's perspective of an indoor space, likely a store or office. The timestamp indicates the footage was captured on October 28, 2014, at 38:42 PM. A person is seated at a desk in the center of the frame, facing away from the camera. They appear to be working on a computer. Another individual is standing to the left side of the frame, partially obscured by the desk and shelves filled with various items. The environment is well-lit, and the floor is tiled. There are no significant actions or interactions between the individuals, and no visible escalation or instability.",
+    "anchor_frame": 304,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.166667,
+    "observed_until_seconds": 10.166667,
+    "latest_available_frame": 304,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "320": {
+    "caption": "The video shows a surveillance camera footage of an indoor setting, possibly a store or office. There is a person seated at a desk with papers and a computer monitor in front of them. Another individual is standing nearby, facing the seated person. The standing person appears to be engaged in a conversation or interaction with the seated individual. The environment is static with no significant motion changes or escalations visible.",
+    "anchor_frame": 320,
+    "video_fps": 30.0,
+    "observed_start_seconds": 8.7,
+    "observed_until_seconds": 10.7,
+    "latest_available_frame": 320,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "336": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There is a counter with various items on it, and a person is seated behind the counter. Another individual approaches the counter from the left side of the frame. The person at the counter appears to be interacting with the approaching individual. No other significant actions or interactions are visible in this segment.",
+    "anchor_frame": 336,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.233333,
+    "observed_until_seconds": 11.233333,
+    "latest_available_frame": 336,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "352": {
+    "caption": "The video shows an indoor setting, likely a store or office, with a person seated at a desk. The individual is wearing a dark-colored shirt and appears to be focused on paperwork or computer work. There are various items on the desk, including papers, a computer monitor, and what seems to be a keyboard. The floor is tiled, and there are shelves with products in the background. The timestamp indicates the footage was captured on October 28, 2014, at 38:41 PM.",
+    "anchor_frame": 352,
+    "video_fps": 30.0,
+    "observed_start_seconds": 9.766667,
+    "observed_until_seconds": 11.766667,
+    "latest_available_frame": 352,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "368": {
+    "caption": "The video shows an indoor setting, likely a retail store, with a counter and various items on display. There are at least two individuals present: one seated behind the counter, presumably an employee, and another standing in front of the counter, likely a customer. The timestamp indicates the footage was captured on October 28, 2014, at 38:41 PM. The camera angle is from above, providing a bird's-eye view of the scene. The employee appears to be engaged in some activity on the counter, possibly handling items or operating a device. The customer stands still, facing the employee. No significant motion or interaction between the two is observed during the short duration of the video.",
+    "anchor_frame": 368,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.3,
+    "observed_until_seconds": 12.3,
+    "latest_available_frame": 368,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "384": {
+    "caption": "The video shows a surveillance camera footage of an indoor setting, possibly a store or office. There are two individuals visible: one seated at a desk and another standing nearby. The seated individual is wearing a dark-colored shirt and appears to be working on a computer. The standing person is dressed in lighter clothing and seems to be interacting with the seated individual, possibly handing over an item or engaging in a conversation. The environment includes office furniture such as desks, chairs, and computers. The timestamp indicates the recording was made on October 28, 2014, at 38:45 PM.",
+    "anchor_frame": 384,
+    "video_fps": 30.0,
+    "observed_start_seconds": 10.833333,
+    "observed_until_seconds": 12.833333,
+    "latest_available_frame": 384,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "400": {
+    "caption": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, interacting with another individual who is standing. The seated person appears to be handling items on the counter, while the standing person seems to be observing or waiting. There are no significant motion changes or escalations visible in this segment.",
+    "anchor_frame": 400,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.366667,
+    "observed_until_seconds": 13.366667,
+    "latest_available_frame": 400,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "416": {
+    "caption": "The video shows a surveillance camera footage of a store interior. A person is seen sitting at a counter, facing away from the camera. Another individual approaches the counter and appears to be interacting with the seated person. The second person then moves around the counter, seemingly searching for something or engaging in a transaction. The actions are quick and fluid, suggesting a routine interaction.",
+    "anchor_frame": 416,
+    "video_fps": 30.0,
+    "observed_start_seconds": 11.9,
+    "observed_until_seconds": 13.9,
+    "latest_available_frame": 416,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  },
+  "432": {
+    "caption": "The video shows a surveillance camera footage of a store interior. There are several people present, including a person in a white shirt and blue jeans who appears to be working behind the counter. Another individual, wearing a dark-colored top and shorts, is seen walking around the store. The person in the white shirt interacts with the customer, possibly assisting them with a purchase or providing information. The customer seems to be examining items on the shelves. The environment is well-lit, and the store has a tiled floor. No significant motion changes or escalations are observed in this segment of the video.",
+    "anchor_frame": 432,
+    "video_fps": 30.0,
+    "observed_start_seconds": 12.433333,
+    "observed_until_seconds": 14.433333,
+    "latest_available_frame": 432,
+    "sample_fps": 2.0,
+    "window_seconds": 2.0
+  }
+}

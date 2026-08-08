@@ -1,0 +1,17 @@
+{
+  "candidate_1/2s": 0.5,
+  "candidate_1/6s": 0.6,
+  "candidate_1/10s": 0.2,
+  "candidate_2/2s": 0.0,
+  "candidate_2/6s": 0.3,
+  "candidate_2/10s": 0.0,
+  "candidate_3/2s": 0.0,
+  "candidate_3/6s": 0.0,
+  "candidate_3/10s": 0.2,
+  "candidate_4/2s": 0.2,
+  "candidate_4/6s": 0.0,
+  "candidate_4/10s": 0.0,
+  "candidate_5/2s": 0.0,
+  "candidate_5/6s": 0.0,
+  "candidate_5/10s": 0.0
+}

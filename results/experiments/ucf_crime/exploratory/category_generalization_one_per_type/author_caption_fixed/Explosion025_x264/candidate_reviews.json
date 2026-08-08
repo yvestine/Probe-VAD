@@ -1,0 +1,316 @@
+{
+  "candidate_1": {
+    "candidate": {
+      "center_frame": 304,
+      "quality": 0.763587,
+      "support_scales": [
+        4,
+        2,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 272,
+          "end_frame": 336,
+          "center_frame": 304,
+          "quality": 0.763587
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 272,
+          "end_frame": 304,
+          "center_frame": 288,
+          "quality": 0.73913
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 224,
+          "end_frame": 352,
+          "center_frame": 288,
+          "quality": 0.630707
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 240,
+      "focus_end_frame": 368
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a person smoking a cigarette and exhaling smoke. The smoke is visible in the air, and it appears to be blowing out of a window.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 304,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "6s": {
+        "direct_visual_score": 0.2,
+        "direct_visual_response": "[0.2]",
+        "caption": "The video shows a person smoking a cigarette and exhaling smoke. The smoke is visible in the air, and it appears to be blowing out of a window.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 304,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1333,
+        "actual_end_seconds": 13.1333
+      },
+      "10s": {
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "caption": "The video shows a person smoking a cigarette and exhaling smoke. The smoke is visible in the air, and it appears to be blowing out of a window.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 304,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    }
+  },
+  "candidate_2": {
+    "candidate": {
+      "center_frame": 192,
+      "quality": 0.495652,
+      "support_scales": [
+        20,
+        16
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 32,
+          "end_frame": 352,
+          "center_frame": 192,
+          "quality": 0.495652
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 64,
+          "end_frame": 320,
+          "center_frame": 192,
+          "quality": 0.463587
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 128,
+      "focus_end_frame": 256
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of still images taken from a window, depicting a street scene with buildings and a parked car. The images are in black and white, and the perspective is from inside a room looking out. There is no movement or action within the video; it is a static view of the environment.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 192,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of still images taken from a window, depicting a street scene with buildings and a parked car. The images are in black and white, and the perspective is from inside a room looking out. There is no movement or action within the video; it is a static view of the environment.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 192,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.4,
+        "actual_end_seconds": 9.4
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of still images taken from a window, depicting a street scene with buildings and a parked car. The images are in black and white, and the perspective is from inside a room looking out. There is no movement or action within the video; it is a static view of the environment.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 192,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    }
+  },
+  "candidate_3": {
+    "candidate": {
+      "center_frame": 101,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 37,
+      "focus_end_frame": 165
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing outside a window, looking in.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3667,
+        "actual_end_seconds": 4.3667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing outside a window, looking in.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.3667,
+        "actual_end_seconds": 6.3667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a man standing outside a window, looking in.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 96,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.3667
+      }
+    }
+  },
+  "candidate_4": {
+    "candidate": {
+      "center_frame": 252,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 188,
+      "focus_end_frame": 316
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of black and white images of a building with a pointed roof, viewed from an interior perspective through a window. The images are static, with no movement or action taking place.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.4,
+        "actual_end_seconds": 9.4
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of black and white images of a building with a pointed roof, viewed from an interior perspective through a window. The images are static, with no movement or action taking place.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 11.4
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video shows a series of black and white images of a building with a pointed roof, viewed from an interior perspective through a window. The images are static, with no movement or action taking place.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 256,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.4,
+        "actual_end_seconds": 13.4
+      }
+    }
+  },
+  "candidate_5": {
+    "candidate": {
+      "center_frame": 404,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 340,
+      "focus_end_frame": 468
+    },
+    "scales": {
+      "2s": {
+        "direct_visual_score": 0.1,
+        "direct_visual_response": "[0.1]",
+        "caption": "The video begins with a view through a window, showing the exterior of a building with a sign that reads \"WINDMILL BAR.\" The scene is in black and white, and the camera remains stationary throughout the sequence. The sky appears overcast, and there are no visible people or moving objects. The video ends abruptly with a transition to a completely black screen.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 400,
+        "review_seconds": 2,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4667,
+        "actual_end_seconds": 14.4667
+      },
+      "6s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video begins with a view through a window, showing the exterior of a building with a sign that reads \"WINDMILL BAR.\" The scene is in black and white, and the camera remains stationary throughout the sequence. The sky appears overcast, and there are no visible people or moving objects. The video ends abruptly with a transition to a completely black screen.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 400,
+        "review_seconds": 6,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "10s": {
+        "direct_visual_score": 0.5,
+        "direct_visual_response": "[0.5]",
+        "caption": "The video begins with a view through a window, showing the exterior of a building with a sign that reads \"WINDMILL BAR.\" The scene is in black and white, and the camera remains stationary throughout the sequence. The sky appears overcast, and there are no visible people or moving objects. The video ends abruptly with a transition to a completely black screen.",
+        "caption_source": "author_precomputed_verbatim",
+        "caption_source_frame": 400,
+        "review_seconds": 10,
+        "video_fps": 30.0,
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.4667,
+        "actual_end_seconds": 16.8333
+      }
+    }
+  }
+}

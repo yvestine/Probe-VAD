@@ -1,0 +1,30 @@
+{
+  "method": "modify2_multiscale_caption_fusion",
+  "frame_interval": 16,
+  "caption_windows": {
+    "2": {
+      "sample_fps": 2.0,
+      "max_frames": 4
+    },
+    "5": {
+      "sample_fps": 2.0,
+      "max_frames": 10
+    },
+    "10": {
+      "sample_fps": 2.0,
+      "max_frames": 20
+    }
+  },
+  "fusion_model": "local Llama-3.1-8B-Instruct",
+  "fusion_is_anomaly_agnostic": true,
+  "direct_visual_window": {
+    "seconds": 2,
+    "sample_fps": 2.0,
+    "max_frames": 10
+  },
+  "downstream_pipeline": "unchanged Modification 2",
+  "inference_does_not_use": [
+    "author outputs",
+    "ground truth"
+  ]
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "candidate_id": "candidate_1",
+    "candidate": {
+      "center_frame": 944,
+      "quality": 0.771429,
+      "support_scales": [
+        2,
+        4,
+        8
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 2,
+          "start_frame": 928,
+          "end_frame": 960,
+          "center_frame": 944,
+          "quality": 0.771429
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 4,
+          "start_frame": 928,
+          "end_frame": 992,
+          "center_frame": 960,
+          "quality": 0.747321
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 8,
+          "start_frame": 928,
+          "end_frame": 1056,
+          "center_frame": 992,
+          "quality": 0.735863
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_1",
+      "focus_start_frame": 880,
+      "focus_end_frame": 1008
+    },
+    "verified_score": 0.9,
+    "evidence_gate": 1.0,
+    "review_coverage": 1.0,
+    "scale_consistency": 1.0,
+    "verified_center_frame": 944,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.9,
+      "6s": 0.9,
+      "10s": 0.9
+    }
+  },
+  {
+    "candidate_id": "candidate_2",
+    "candidate": {
+      "center_frame": 656,
+      "quality": 0.714509,
+      "support_scales": [
+        16,
+        20
+      ],
+      "supporting_proposals": [
+        {
+          "source": "independent_scan",
+          "scale_clips": 16,
+          "start_frame": 528,
+          "end_frame": 784,
+          "center_frame": 656,
+          "quality": 0.714509
+        },
+        {
+          "source": "independent_scan",
+          "scale_clips": 20,
+          "start_frame": 480,
+          "end_frame": 800,
+          "center_frame": 640,
+          "quality": 0.712679
+        }
+      ],
+      "source": "score",
+      "candidate_id": "candidate_2",
+      "focus_start_frame": 592,
+      "focus_end_frame": 720
+    },
+    "verified_score": 0.82,
+    "evidence_gate": 1.0,
+    "review_coverage": 1.0,
+    "scale_consistency": 1.0,
+    "verified_center_frame": 656,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.82,
+      "6s": 0.82,
+      "10s": 0.82
+    }
+  },
+  {
+    "candidate_id": "candidate_3",
+    "candidate": {
+      "center_frame": 221,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_3",
+      "focus_start_frame": 157,
+      "focus_end_frame": 285
+    },
+    "verified_score": 0.088,
+    "evidence_gate": 0.92735,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.92735,
+    "verified_center_frame": 221,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.1,
+      "6s": 0.06,
+      "10s": 0.1
+    }
+  },
+  {
+    "candidate_id": "candidate_4",
+    "candidate": {
+      "center_frame": 442,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_4",
+      "focus_start_frame": 378,
+      "focus_end_frame": 506
+    },
+    "verified_score": 0.156,
+    "evidence_gate": 0.761894,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.761894,
+    "verified_center_frame": 442,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.1,
+      "6s": 0.26,
+      "10s": 0.14
+    }
+  },
+  {
+    "candidate_id": "candidate_5",
+    "candidate": {
+      "center_frame": 552,
+      "quality": 0.0,
+      "support_scales": [],
+      "supporting_proposals": [],
+      "source": "coverage_exploration",
+      "candidate_id": "candidate_5",
+      "focus_start_frame": 488,
+      "focus_end_frame": 616
+    },
+    "verified_score": 0.652,
+    "evidence_gate": 0.670917,
+    "review_coverage": 1.0,
+    "scale_consistency": 0.670917,
+    "verified_center_frame": 552,
+    "center_shift_frames": 0,
+    "per_scale_scores": {
+      "2s": 0.74,
+      "6s": 0.5,
+      "10s": 0.66
+    }
+  }
+]

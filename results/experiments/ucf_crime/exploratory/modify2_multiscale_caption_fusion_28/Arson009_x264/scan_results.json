@@ -1,0 +1,1788 @@
+{
+  "0": {
+    "center_frame": 0,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 2.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.0
+      }
+    },
+    "caption_2s": "A person wearing a white hoodie is seen walking towards a white van parked in a dimly lit area. They appear to be carrying something in their hand and are moving with purpose.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be looking for something inside.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.0
+    },
+    "fused_caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away.",
+    "caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away."
+  },
+  "16": {
+    "center_frame": 16,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 1.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 5.5333
+      }
+    },
+    "caption_2s": "A person wearing a white hoodie approaches a white van parked in a dimly lit area. They open the back door of the van and appear to be searching for something inside. After a brief moment, they close the door and walk away.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a white van parked in a dimly lit area. They open the back door of the van and appear to be searching for something inside.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a white van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.2,
+    "direct_visual_response": "[0.2]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0,
+      "actual_end_seconds": 1.5333
+    },
+    "fused_caption": "A person wearing a white hoodie walks towards a white van parked in a garage, opens the back door, searches inside briefly, then closes the door and walks away.",
+    "caption": "A person wearing a white hoodie walks towards a white van parked in a garage, opens the back door, searches inside briefly, then closes the door and walks away."
+  },
+  "32": {
+    "center_frame": 32,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.0667,
+        "actual_end_seconds": 2.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 3.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.0667
+      }
+    },
+    "caption_2s": "A person wearing a white hoodie is seen walking towards a parked van. They then proceed to open the back door of the van and appear to be searching for something inside.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be looking for something inside.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door and appear to be looking for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.0667,
+      "actual_end_seconds": 2.0667
+    },
+    "fused_caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away.",
+    "caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away."
+  },
+  "48": {
+    "center_frame": 48,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 0.6,
+        "actual_end_seconds": 2.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 6.6
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual then proceeds to enter the van, closing the door behind them.",
+    "caption_5s": "A person wearing a white hoodie approaches a van parked in a garage. They open the back door and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.6,
+    "direct_visual_response": "[0.6]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 0.6,
+      "actual_end_seconds": 2.6
+    },
+    "fused_caption": "A person wearing a white hoodie approaches a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away.",
+    "caption": "A person wearing a white hoodie approaches a van parked in a garage, opens the back door, searches inside, and then closes the door before walking away."
+  },
+  "64": {
+    "center_frame": 64,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.1333,
+        "actual_end_seconds": 3.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 4.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.1333
+      }
+    },
+    "caption_2s": "The video shows a person standing next to a van.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door and appear to be searching for something inside.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.1333,
+      "actual_end_seconds": 3.1333
+    },
+    "fused_caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, closes the door, and walks away.",
+    "caption": "A person wearing a white hoodie walks towards a van parked in a garage, opens the back door, searches inside, closes the door, and walks away."
+  },
+  "80": {
+    "center_frame": 80,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 1.6667,
+        "actual_end_seconds": 3.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.1667,
+        "actual_end_seconds": 5.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 7.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. A person wearing dark clothing is seen approaching the van from the right side of the frame. The individual appears to be carrying something and moves towards the back of the van, then disappears from view behind it.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual appears to be interacting with something or someone inside the van, but the contents are not visible. After a brief interaction, the person closes the door and walks away towards the left side of the frame.",
+    "caption_10s": "A person wearing a hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 1.6667,
+      "actual_end_seconds": 3.6667
+    },
+    "fused_caption": "A person wearing dark clothing approaches a white van from the right side, moves to the back, and disappears from view. A person wearing light-colored clothing opens the rear door, interacts with something or someone inside, and then closes the door and walks away. A person wearing a hoodie opens the back door of the van in a garage, searches inside, and then walks away.",
+    "caption": "A person wearing dark clothing approaches a white van from the right side, moves to the back, and disappears from view. A person wearing light-colored clothing opens the rear door, interacts with something or someone inside, and then closes the door and walks away. A person wearing a hoodie opens the back door of the van in a garage, searches inside, and then walks away."
+  },
+  "96": {
+    "center_frame": 96,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.2,
+        "actual_end_seconds": 4.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 0.7,
+        "actual_end_seconds": 5.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. The footage is grainy and black and white, suggesting it might be from a security camera. There are no visible people or significant movements throughout the sequence of images.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame, opens the rear door, and appears to interact with something or someone inside the vehicle. The person then closes the door and walks away towards the left side of the frame.",
+    "caption_10s": "A person wearing a hoodie is seen walking towards a van parked in a garage. They open the back door and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.2,
+      "actual_end_seconds": 4.2
+    },
+    "fused_caption": "A person wearing a hoodie approaches a white van parked in a dimly lit garage, opens the rear door, and searches inside before closing the door and walking away.",
+    "caption": "A person wearing a hoodie approaches a white van parked in a dimly lit garage, opens the rear door, and searches inside before closing the door and walking away."
+  },
+  "112": {
+    "center_frame": 112,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 2.7333,
+        "actual_end_seconds": 4.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.2333,
+        "actual_end_seconds": 6.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 8.7333
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. The footage is grainy and black and white, suggesting it was taken at night or with low light conditions. A person wearing dark clothing approaches the van from the right side of the frame. They open the rear door of the van and appear to be reaching inside, possibly retrieving or placing an item. The person's actions are deliberate and focused on the task at hand.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored jacket and dark pants approaches the van from the right side of the frame. The individual opens the rear door of the van, leans inside, and appears to interact with something or someone within the vehicle. After a brief moment, the person closes the door and walks away towards the left side of the frame, exiting the scene.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 2.7333,
+      "actual_end_seconds": 4.7333
+    },
+    "fused_caption": "A person wearing dark clothing approaches a white van parked in a dimly lit area, opens the rear door, and appears to interact with something or someone within the vehicle, before closing the door and walking away.",
+    "caption": "A person wearing dark clothing approaches a white van parked in a dimly lit area, opens the rear door, and appears to interact with something or someone within the vehicle, before closing the door and walking away."
+  },
+  "128": {
+    "center_frame": 128,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.2667,
+        "actual_end_seconds": 5.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 1.7667,
+        "actual_end_seconds": 6.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.2667
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. The timestamp indicates the footage was captured on 07/18/2014 at 11:36:59 PM. A person wearing light-colored clothing approaches the van from the right side of the frame, opens the rear door, and appears to interact with something or someone inside the vehicle. The person then closes the door and walks away towards the left side of the frame.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual appears to be interacting with something or someone inside the van, but the contents are not visible. After a brief moment, the person closes the door and walks away towards the left side of the frame, exiting the scene.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They open the back door of the van and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.2667,
+      "actual_end_seconds": 5.2667
+    },
+    "fused_caption": "A person wearing light-colored clothing approaches a white van parked in a dimly lit area, opens the rear door, interacts with something or someone inside, and then closes the door before walking away.",
+    "caption": "A person wearing light-colored clothing approaches a white van parked in a dimly lit area, opens the rear door, interacts with something or someone inside, and then closes the door before walking away."
+  },
+  "144": {
+    "center_frame": 144,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 3.8,
+        "actual_end_seconds": 5.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.3,
+        "actual_end_seconds": 7.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.0,
+        "actual_end_seconds": 9.8
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. A person wearing dark clothing approaches the van from the right side of the frame, opens the rear door, and appears to interact with something or someone inside the vehicle. The person then closes the door and walks away towards the left side of the frame.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. The footage is in black and white, indicating it might be night or the camera is set to grayscale mode. A person wearing light-colored clothing approaches the van from the right side of the frame. They open the rear door of the van and appear to interact with something inside. The person's actions are deliberate and focused on the task at hand.",
+    "caption_10s": "A person wearing a white hoodie is seen walking towards a van parked in a garage. They then proceed to open the back door of the van and start looking inside.",
+    "direct_visual_score": 0.3,
+    "direct_visual_response": "[0.3]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 3.8,
+      "actual_end_seconds": 5.8
+    },
+    "fused_caption": "A person wearing a white hoodie approaches a white van parked in a dimly lit area, opens the rear door, and appears to interact with something inside, before closing the door and walking away.",
+    "caption": "A person wearing a white hoodie approaches a white van parked in a dimly lit area, opens the rear door, and appears to interact with something inside, before closing the door and walking away."
+  },
+  "160": {
+    "center_frame": 160,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.3333,
+        "actual_end_seconds": 6.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 2.8333,
+        "actual_end_seconds": 7.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.3333,
+        "actual_end_seconds": 10.3333
+      }
+    },
+    "caption_2s": "The video shows a sequence of black and white images from a security camera. The images depict a person wearing light-colored clothing, possibly a hoodie, approaching a parked van. The individual appears to be carrying something in their right hand and is seen opening the rear door of the van. The person's actions are deliberate and focused on the task at hand.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame. The individual appears to interact with the van, possibly opening a door or window, and then proceeds to open the rear door of the van. The person's actions are deliberate and focused on the van's rear section.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual appears to be reaching inside the van, possibly retrieving or placing an item. The actions are repetitive, with the person opening and closing the door several times. The video ends abruptly with a bright flash of light obscuring the view.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.3333,
+      "actual_end_seconds": 6.3333
+    },
+    "fused_caption": "A person wearing light-colored clothing approaches a white van from the right side, opens the rear door, and repeatedly interacts with the interior, possibly retrieving or placing an item, before the video ends abruptly with a bright flash of light.",
+    "caption": "A person wearing light-colored clothing approaches a white van from the right side, opens the rear door, and repeatedly interacts with the interior, possibly retrieving or placing an item, before the video ends abruptly with a bright flash of light."
+  },
+  "176": {
+    "center_frame": 176,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 4.8667,
+        "actual_end_seconds": 6.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.3667,
+        "actual_end_seconds": 8.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 0.8667,
+        "actual_end_seconds": 10.8667
+      }
+    },
+    "caption_2s": "The video shows a person wearing a white hooded jacket and dark pants, walking towards a parked van in a dimly lit area. The individual appears to be carrying something in their right hand and is seen approaching the rear of the van.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored hoodie and dark pants approaches the van from the right side of the frame. The individual appears to be carrying something in their right hand, which they use to interact with the van's rear door. The actions suggest that the person is either opening the door or attempting to manipulate it in some way.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual appears to be interacting with something or someone inside the van, but the contents are not visible. After a brief moment, the person closes the door and walks away towards the left side of the frame, leaving the van unattended.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 4.8667,
+      "actual_end_seconds": 6.8667
+    },
+    "fused_caption": "A person wearing a light-colored hoodie and dark pants approaches a white van in a dimly lit area, carrying something in their right hand, and interacts with the rear door before opening it, briefly accessing the interior, and then closing the door to walk away.",
+    "caption": "A person wearing a light-colored hoodie and dark pants approaches a white van in a dimly lit area, carrying something in their right hand, and interacts with the rear door before opening it, briefly accessing the interior, and then closing the door to walk away."
+  },
+  "192": {
+    "center_frame": 192,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.4,
+        "actual_end_seconds": 7.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 3.9,
+        "actual_end_seconds": 8.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.4,
+        "actual_end_seconds": 11.4
+      }
+    },
+    "caption_2s": "The video shows a person in a white hooded jacket approaching a parked van. The individual appears to be attempting to open the rear door of the van, but it remains closed. The person then moves around the vehicle, inspecting it from different angles.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van from the right side of the frame and opens the rear door. The individual appears to be interacting with something or someone inside the van, but the details are not clear due to the low resolution and lighting conditions.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored hoodie and dark pants approaches the van from the right side of the frame. The individual appears to interact with the van, possibly opening a door or window. The person's actions are deliberate and focused on the vehicle.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.4,
+      "actual_end_seconds": 7.4
+    },
+    "fused_caption": "A person in a light-colored hoodie and dark pants approaches a white van from the right side, inspecting it from different angles before interacting with the rear door, which they manage to open, revealing a dimly lit interior.",
+    "caption": "A person in a light-colored hoodie and dark pants approaches a white van from the right side, inspecting it from different angles before interacting with the rear door, which they manage to open, revealing a dimly lit interior."
+  },
+  "208": {
+    "center_frame": 208,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 5.9333,
+        "actual_end_seconds": 7.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.4333,
+        "actual_end_seconds": 9.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 1.9333,
+        "actual_end_seconds": 11.9333
+      }
+    },
+    "caption_2s": "The video shows a person wearing a white hooded jacket and dark pants, standing next to a white van in a dimly lit area. The individual appears to be interacting with the van, possibly opening or closing its door. The scene is captured by a security camera, and the timestamp indicates it's nighttime.",
+    "caption_5s": "The video shows a person in a white hooded jacket approaching a white van parked in a dimly lit area. The individual appears to be attempting to open the rear door of the van, but it seems to be locked or obstructed. The person then proceeds to kick and strike the van's rear door forcefully, causing visible damage.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored hoodie and dark pants is seen approaching the van from the right side of the frame. The individual appears to be carrying something in their hands, which they place on the ground near the rear of the vehicle. After this action, the person walks away from the van towards the left side of the frame. The scene is captured by a security camera, indicated by the timestamp and channel number visible in the upper left corner of the footage.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 5.9333,
+      "actual_end_seconds": 7.9333
+    },
+    "fused_caption": "A person in a white hooded jacket and dark pants approaches a white van parked in a dimly lit area, possibly attempting to open the rear door, which appears to be locked or obstructed, and then kicks and strikes the door forcefully, causing visible damage, before walking away from the van.",
+    "caption": "A person in a white hooded jacket and dark pants approaches a white van parked in a dimly lit area, possibly attempting to open the rear door, which appears to be locked or obstructed, and then kicks and strikes the door forcefully, causing visible damage, before walking away from the van."
+  },
+  "224": {
+    "center_frame": 224,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 6.4667,
+        "actual_end_seconds": 8.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 4.9667,
+        "actual_end_seconds": 9.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 2.4667,
+        "actual_end_seconds": 12.4667
+      }
+    },
+    "caption_2s": "The video shows a person in a white hoodie attempting to break into a van. The individual is seen using a tool to pry open the van's door, and after some effort, they manage to gain entry.",
+    "caption_5s": "A person wearing a hoodie is seen walking towards a van parked in a driveway. They then proceed to open the back door of the van and appear to be searching for something inside.",
+    "caption_10s": "The video shows a person in a white hooded jacket approaching a white van parked on the side of the road. The person appears to be attempting to open the back door of the van, but it seems to be locked. After a few attempts, the person gives up and walks away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 6.4667,
+      "actual_end_seconds": 8.4667
+    },
+    "fused_caption": "A person in a white hoodie approaches a van, attempting to open the back door, which appears to be locked, before eventually walking away.",
+    "caption": "A person in a white hoodie approaches a van, attempting to open the back door, which appears to be locked, before eventually walking away."
+  },
+  "240": {
+    "center_frame": 240,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.0,
+        "actual_end_seconds": 9.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 5.5,
+        "actual_end_seconds": 10.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.0,
+        "actual_end_seconds": 13.0
+      }
+    },
+    "caption_2s": "A person wearing a hoodie is seen walking towards a van. They then open the back door of the van and proceed to get inside.",
+    "caption_5s": "A person wearing a hoodie is seen walking towards a van parked in a driveway. They open the back door of the van and appear to be searching for something inside.",
+    "caption_10s": "A person wearing a white hoodie approaches a van parked in a driveway. They open the back door and appear to be searching for something inside. After a few moments, they close the door and walk away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.0,
+      "actual_end_seconds": 9.0
+    },
+    "fused_caption": "A person wearing a white hoodie approaches a van parked in a driveway, opens the back door, searches inside, and then walks away.",
+    "caption": "A person wearing a white hoodie approaches a van parked in a driveway, opens the back door, searches inside, and then walks away."
+  },
+  "256": {
+    "center_frame": 256,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 7.5333,
+        "actual_end_seconds": 9.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.0333,
+        "actual_end_seconds": 11.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 3.5333,
+        "actual_end_seconds": 13.5333
+      }
+    },
+    "caption_2s": "The video shows a person in a white coat walking towards a van, opening the door, and getting inside.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a van parked outside. They open the back door and appear to be searching for something inside.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored hoodie approaches the van and appears to interact with it, possibly opening a door or window. The scene is captured by a security camera, and the timestamp indicates that the events are taking place at night.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 7.5333,
+      "actual_end_seconds": 9.5333
+    },
+    "fused_caption": "A person in a light-colored hoodie approaches a white van parked in a dimly lit area, possibly interacting with it, and appears to open a door or window.",
+    "caption": "A person in a light-colored hoodie approaches a white van parked in a dimly lit area, possibly interacting with it, and appears to open a door or window."
+  },
+  "272": {
+    "center_frame": 272,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.0667,
+        "actual_end_seconds": 10.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 6.5667,
+        "actual_end_seconds": 11.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.0667,
+        "actual_end_seconds": 14.0667
+      }
+    },
+    "caption_2s": "The video shows a person approaching a white van parked in a dimly lit area. The individual opens the back door of the van and appears to be searching for something inside.",
+    "caption_5s": "The video shows a person in a white hooded jacket approaching a white van parked outside. The individual appears to be attempting to open the van's door, but it seems to be locked. After several attempts, the person manages to open the door and enters the van.",
+    "caption_10s": "A person wearing a hoodie is seen walking towards a van. They open the back door and start throwing items out of the van. The person continues to throw items out of the van until it is empty.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.0667,
+      "actual_end_seconds": 10.0667
+    },
+    "fused_caption": "A person in a white hooded jacket approaches a white van parked outside, attempts to open the locked door, and after several tries, enters the van, where they then throw items out of the back door until the van is empty.",
+    "caption": "A person in a white hooded jacket approaches a white van parked outside, attempts to open the locked door, and after several tries, enters the van, where they then throw items out of the back door until the van is empty."
+  },
+  "288": {
+    "center_frame": 288,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 8.6,
+        "actual_end_seconds": 10.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.1,
+        "actual_end_seconds": 12.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 4.6,
+        "actual_end_seconds": 14.6
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a lot. A person is seen approaching the van and opening the back door. The person appears to be placing something inside the van, but it's not clear what that object is.",
+    "caption_5s": "A person wearing a white hoodie is seen walking towards a van parked in a driveway. They open the back door of the van and appear to be searching for something inside.",
+    "caption_10s": "The video shows a person in a white hooded jacket approaching a white van parked in a dimly lit area. The individual appears to be attempting to open the van's door, but it seems locked. After several attempts, the person manages to open the door and enters the van. Shortly after, a firefighter in reflective gear approaches the van, illuminating the scene with a flashlight.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 8.6,
+      "actual_end_seconds": 10.6
+    },
+    "fused_caption": "A person in a white hooded jacket approaches a white van parked in a dimly lit area, attempting to open the door, which is initially locked. After several attempts, the door is opened and the person enters the van. A firefighter in reflective gear then approaches, shining a flashlight on the scene.",
+    "caption": "A person in a white hooded jacket approaches a white van parked in a dimly lit area, attempting to open the door, which is initially locked. After several attempts, the door is opened and the person enters the van. A firefighter in reflective gear then approaches, shining a flashlight on the scene."
+  },
+  "304": {
+    "center_frame": 304,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.1333,
+        "actual_end_seconds": 11.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 7.6333,
+        "actual_end_seconds": 12.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.1333,
+        "actual_end_seconds": 15.1333
+      }
+    },
+    "caption_2s": "A person is seen opening a door and entering a white van. The van then drives away.",
+    "caption_5s": "The video shows a person in a white hooded jacket approaching a white van parked outside. The person appears to be inspecting the van, possibly looking for something or assessing its condition.",
+    "caption_10s": "A person is seen walking towards a van, opening the door, and getting inside. Later, a fireman approaches the van with a hose and sprays water on it.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.1333,
+      "actual_end_seconds": 11.1333
+    },
+    "fused_caption": "A person in a white hooded jacket approaches a white van parked outside, inspects it, and then enters through the open door. The van drives away. Later, a fireman arrives and sprays water on the van.",
+    "caption": "A person in a white hooded jacket approaches a white van parked outside, inspects it, and then enters through the open door. The van drives away. Later, a fireman arrives and sprays water on the van."
+  },
+  "320": {
+    "center_frame": 320,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 9.6667,
+        "actual_end_seconds": 11.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.1667,
+        "actual_end_seconds": 13.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 5.6667,
+        "actual_end_seconds": 15.6667
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing is seen walking towards the van, then opening the back door and reaching inside. The person appears to be retrieving something from the van.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing approaches the van, opens the rear door, and appears to interact with something inside. The person then closes the door and walks away from the vehicle.",
+    "caption_10s": "The video shows a person in a white hooded jacket approaching a white van parked on the side of the road. The individual appears to be attempting to open the rear door of the van, but it seems locked. After several attempts, the person manages to open the door and enters the vehicle. Shortly after, a firefighter wearing reflective gear approaches the van, illuminating the scene with a flashlight. The firefighter stands by the open door for a moment before the video ends.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 9.6667,
+      "actual_end_seconds": 11.6667
+    },
+    "fused_caption": "A person in a white hooded jacket approaches a white van parked on the side of the road, attempting to open the rear door, which is initially locked. After several attempts, the door is opened and the person enters the vehicle. A firefighter wearing reflective gear then approaches, illuminating the scene with a flashlight, and stands by the open door before the video ends.",
+    "caption": "A person in a white hooded jacket approaches a white van parked on the side of the road, attempting to open the rear door, which is initially locked. After several attempts, the door is opened and the person enters the vehicle. A firefighter wearing reflective gear then approaches, illuminating the scene with a flashlight, and stands by the open door before the video ends."
+  },
+  "336": {
+    "center_frame": 336,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.2,
+        "actual_end_seconds": 12.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 8.7,
+        "actual_end_seconds": 13.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.2,
+        "actual_end_seconds": 16.2
+      }
+    },
+    "caption_2s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing approaches the van and appears to interact with it, possibly opening a door or window. The person then steps back from the vehicle.",
+    "caption_5s": "The video shows a person in reflective clothing approaching a white van parked outside. The individual appears to be inspecting or interacting with the van, possibly opening doors or windows. The scene is captured by a security camera, and the timestamp indicates it's nighttime.",
+    "caption_10s": "The video shows a person in a white hooded jacket approaching a white van parked on the side of the road. The person appears to be inspecting or interacting with the van, possibly opening its doors or windows. Later, a firefighter in reflective gear approaches the van, suggesting an emergency situation.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.2,
+      "actual_end_seconds": 12.2
+    },
+    "fused_caption": "A person in reflective clothing approaches a white van parked outside, possibly interacting with it, and then steps back. The scene is captured by a security camera at night, and later a firefighter in reflective gear arrives, suggesting an emergency situation.",
+    "caption": "A person in reflective clothing approaches a white van parked outside, possibly interacting with it, and then steps back. The scene is captured by a security camera at night, and later a firefighter in reflective gear arrives, suggesting an emergency situation."
+  },
+  "352": {
+    "center_frame": 352,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 10.7333,
+        "actual_end_seconds": 12.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.2333,
+        "actual_end_seconds": 14.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 6.7333,
+        "actual_end_seconds": 16.7333
+      }
+    },
+    "caption_2s": "The video shows a person in reflective clothing standing next to a white van. The person is holding a flashlight and appears to be inspecting the area around the van.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing, likely a firefighter, is seen approaching the van and interacting with it. The individual appears to be inspecting or working on the vehicle.",
+    "caption_10s": "The video shows a person in a white hooded jacket approaching a white van parked on the side of the road. The individual appears to be inspecting or attempting to open the rear door of the van. Shortly after, a firefighter in reflective gear approaches the scene, illuminating the area with a flashlight. The firefighter seems to be investigating the situation, possibly related to the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 10.7333,
+      "actual_end_seconds": 12.7333
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, approaches a white van parked on the side of the road, inspecting or attempting to open the rear door. The area is dimly lit, and the individual is later joined by another person in reflective gear, who illuminates the scene with a flashlight, investigating the situation.",
+    "caption": "A person in reflective clothing, likely a firefighter, approaches a white van parked on the side of the road, inspecting or attempting to open the rear door. The area is dimly lit, and the individual is later joined by another person in reflective gear, who illuminates the scene with a flashlight, investigating the situation."
+  },
+  "368": {
+    "center_frame": 368,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.2667,
+        "actual_end_seconds": 13.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 9.7667,
+        "actual_end_seconds": 14.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.2667,
+        "actual_end_seconds": 17.2667
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:51:56 PM. The footage is in black and white, with the only source of light being the vehicle's headlights and the flashing lights of emergency vehicles. A person wearing reflective clothing, likely a firefighter, is seen walking towards the camera. The individual appears to be carrying equipment or tools, possibly for firefighting or rescue operations. The van remains stationary throughout the sequence, suggesting that the focus of the scene is on the person approaching the camera.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing, likely a firefighter, is seen approaching the van. The individual appears to be inspecting or interacting with the vehicle. The surroundings are dark, and the only light source seems to be the camera's night vision.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing a light-colored hoodie approaches the van and opens the rear door. Shortly after, another individual dressed in reflective firefighter gear with a helmet enters the frame, carrying a bright light source that illuminates the scene. The firefighter appears to be inspecting or working on something near the van's rear.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.2667,
+      "actual_end_seconds": 13.2667
+    },
+    "fused_caption": "A white van is parked in a dimly lit area, with a person wearing a light-colored hoodie approaching and opening the rear door. A firefighter, dressed in reflective gear and carrying a bright light source, enters the scene and inspects or works on something near the van's rear, while another individual, likely a firefighter, is seen walking towards the camera in the background, carrying equipment or tools.",
+    "caption": "A white van is parked in a dimly lit area, with a person wearing a light-colored hoodie approaching and opening the rear door. A firefighter, dressed in reflective gear and carrying a bright light source, enters the scene and inspects or works on something near the van's rear, while another individual, likely a firefighter, is seen walking towards the camera in the background, carrying equipment or tools."
+  },
+  "384": {
+    "center_frame": 384,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 11.8,
+        "actual_end_seconds": 13.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.3,
+        "actual_end_seconds": 15.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 7.8,
+        "actual_end_seconds": 17.8
+      }
+    },
+    "caption_2s": "The video shows a series of images from a night vision security camera. A person wearing reflective clothing, likely a firefighter due to the protective gear and helmet, is seen walking towards a white van parked on the side of the road. The timestamp indicates the footage was captured on July 18, 2014, at 11:51:56 PM. The individual appears to be inspecting or approaching the van, but no further actions are visible in the provided images.",
+    "caption_5s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing, likely a firefighter, approaches the van and appears to interact with it, possibly opening doors or windows. The person's actions are deliberate and focused on the van.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing light-colored clothing approaches the van, opens the rear door, and appears to interact with something or someone inside. Shortly after, a firefighter in reflective gear arrives at the scene, illuminating the area with a flashlight. The firefighter then proceeds to open the rear door of the van, seemingly inspecting or assisting with the situation inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 11.8,
+      "actual_end_seconds": 13.8
+    },
+    "fused_caption": "A person wearing reflective clothing, likely a firefighter, approaches a white van parked on the side of a dimly lit road on July 18, 2014, at 11:51:56 PM. The individual's actions are deliberate and focused on the van, possibly interacting with it, and later a second person, also a firefighter, arrives with a flashlight and assists with the situation inside the van.",
+    "caption": "A person wearing reflective clothing, likely a firefighter, approaches a white van parked on the side of a dimly lit road on July 18, 2014, at 11:51:56 PM. The individual's actions are deliberate and focused on the van, possibly interacting with it, and later a second person, also a firefighter, arrives with a flashlight and assists with the situation inside the van."
+  },
+  "400": {
+    "center_frame": 400,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.3333,
+        "actual_end_seconds": 14.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 10.8333,
+        "actual_end_seconds": 15.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.3333,
+        "actual_end_seconds": 18.3333
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:51:58 PM. It captures a person in reflective gear, likely a firefighter, standing next to a white van. The individual appears to be inspecting or working on the van, possibly assessing damage or preparing for an operation. The surroundings are dark, indicating it is nighttime, and the visibility is low due to the camera's night vision mode.",
+    "caption_5s": "The video shows a series of images from a night vision security camera. The main focus is on a white van parked in a lot. A person wearing reflective clothing, likely a security guard or police officer, is seen walking towards the van and then opening the driver's side door. The guard appears to be inspecting the interior of the vehicle. There are no other discernible actions or events in the video.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. The footage is grainy and black and white, suggesting it was taken at night with a security camera. The van remains stationary throughout the sequence. A person wearing reflective clothing, possibly a uniform, appears to be inspecting or working on the van. The individual's actions are not entirely clear due to the low resolution and lighting conditions.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.3333,
+      "actual_end_seconds": 14.3333
+    },
+    "fused_caption": "A person in reflective gear, likely a firefighter or security personnel, inspects or works on a white van in a dimly lit area, possibly assessing damage or preparing for an operation, with the surroundings dark and visibility low due to night vision mode.",
+    "caption": "A person in reflective gear, likely a firefighter or security personnel, inspects or works on a white van in a dimly lit area, possibly assessing damage or preparing for an operation, with the surroundings dark and visibility low due to night vision mode."
+  },
+  "416": {
+    "center_frame": 416,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 12.8667,
+        "actual_end_seconds": 14.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.3667,
+        "actual_end_seconds": 16.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 8.8667,
+        "actual_end_seconds": 18.8667
+      }
+    },
+    "caption_2s": "The video shows a firefighter in full gear, including a helmet and reflective stripes, standing next to a white van. The scene is captured by a night vision camera, which makes the surroundings appear dark and the firefighter's gear very bright. The firefighter appears to be inspecting or working on the van, but no specific actions are clearly visible due to the low resolution and night vision effect.",
+    "caption_5s": "The video shows a person in reflective clothing, likely a firefighter, standing next to a white van. The person is seen opening the back of the van and appears to be interacting with something inside. The scene takes place at night, as indicated by the darkness and the use of a flashlight or similar light source.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing approaches the van, and there is a brief interaction with someone inside the vehicle. The person then walks away from the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 12.8667,
+      "actual_end_seconds": 14.8667
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, approaches a white van in a dimly lit area at night, opens the back, interacts with something inside, and then walks away.",
+    "caption": "A person in reflective clothing, likely a firefighter, approaches a white van in a dimly lit area at night, opens the back, interacts with something inside, and then walks away."
+  },
+  "432": {
+    "center_frame": 432,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.4,
+        "actual_end_seconds": 15.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 11.9,
+        "actual_end_seconds": 16.9
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.4,
+        "actual_end_seconds": 19.4
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:51:58 PM. It captures a person in reflective clothing, likely a firefighter, walking towards the camera with a bright light source, possibly a flashlight or headlamp, illuminating their path. The individual appears to be inspecting or approaching a white van parked nearby. The environment is dark, and the visibility is limited due to the night setting.",
+    "caption_5s": "The video shows a person in reflective clothing, likely a firefighter, standing next to a white van. The individual is seen opening the rear door of the van and appears to be interacting with something or someone inside. The scene is captured by a security camera, indicated by the timestamp and channel number visible on the footage.",
+    "caption_10s": "The video shows a white van parked in a dimly lit area. A person wearing reflective clothing, likely a firefighter, is seen approaching the van and opening its rear door. The firefighter appears to be inspecting or working on something inside the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.4,
+      "actual_end_seconds": 15.4
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, approaches a white van in a dimly lit area, opens the rear door, and interacts with something or someone inside, illuminated by a bright light source.",
+    "caption": "A person in reflective clothing, likely a firefighter, approaches a white van in a dimly lit area, opens the rear door, and interacts with something or someone inside, illuminated by a bright light source."
+  },
+  "448": {
+    "center_frame": 448,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 13.9333,
+        "actual_end_seconds": 15.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.4333,
+        "actual_end_seconds": 17.4333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 9.9333,
+        "actual_end_seconds": 19.9333
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:51:58 PM. It captures a white van parked in a dimly lit area. The images show the van from different angles, with the camera's perspective remaining stationary throughout.",
+    "caption_5s": "The video shows a person in reflective gear, likely a firefighter, standing next to a white van. The individual is seen opening the rear door of the van and appears to be interacting with something or someone inside. The actions are repetitive, suggesting a focused task being performed.",
+    "caption_10s": "The video shows a white van parked in a lot. A person wearing reflective clothing approaches the van and opens its rear door. The person then proceeds to enter the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 13.9333,
+      "actual_end_seconds": 15.9333
+    },
+    "fused_caption": "A white van is parked in a dimly lit area, with a person in reflective gear standing next to it, opening the rear door and interacting with something or someone inside, before entering the van.",
+    "caption": "A white van is parked in a dimly lit area, with a person in reflective gear standing next to it, opening the rear door and interacting with something or someone inside, before entering the van."
+  },
+  "464": {
+    "center_frame": 464,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 14.4667,
+        "actual_end_seconds": 16.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 12.9667,
+        "actual_end_seconds": 17.9667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 10.4667,
+        "actual_end_seconds": 20.4667
+      }
+    },
+    "caption_2s": "The video shows a fire truck parked in front of a building. Two firefighters are seen walking towards the building, with one of them carrying a hose. They appear to be preparing for an emergency response.",
+    "caption_5s": "A person in a reflective suit is seen walking towards the camera, while another person in a reflective suit is standing next to a van.",
+    "caption_10s": "A man in a reflective suit is seen walking towards a van. He then opens the back of the van and appears to be placing something inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 14.4667,
+      "actual_end_seconds": 16.4667
+    },
+    "fused_caption": "A person in a reflective suit walks towards a van, opens the back, and places something inside, while another person in a reflective suit stands nearby.",
+    "caption": "A person in a reflective suit walks towards a van, opens the back, and places something inside, while another person in a reflective suit stands nearby."
+  },
+  "480": {
+    "center_frame": 480,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.0,
+        "actual_end_seconds": 17.0
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 13.5,
+        "actual_end_seconds": 18.5
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.0,
+        "actual_end_seconds": 21.0
+      }
+    },
+    "caption_2s": "A person in a reflective suit is seen walking towards a van. They open the back of the van and appear to be retrieving something.",
+    "caption_5s": "The video shows a person in a white van, with the door open. The person is seen getting out of the van and walking away.",
+    "caption_10s": "A man in a fireman's suit is seen walking around a van. He opens the back of the van and appears to be putting something inside.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.0,
+      "actual_end_seconds": 17.0
+    },
+    "fused_caption": "A person in a reflective suit is seen walking towards a van, opening the back, and retrieving something. The person then exits the van and walks away. Later, a man in a fireman's suit is seen walking around the van, opening the back, and putting something inside.",
+    "caption": "A person in a reflective suit is seen walking towards a van, opening the back, and retrieving something. The person then exits the van and walks away. Later, a man in a fireman's suit is seen walking around the van, opening the back, and putting something inside."
+  },
+  "496": {
+    "center_frame": 496,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 15.5333,
+        "actual_end_seconds": 17.5333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.0333,
+        "actual_end_seconds": 19.0333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 11.5333,
+        "actual_end_seconds": 21.5333
+      }
+    },
+    "caption_2s": "The video shows a fire truck parked in front of a building. Two firefighters are seen walking towards the building, with one of them carrying a hose. They appear to be preparing for an emergency response.",
+    "caption_5s": "A person in a reflective suit is seen walking towards the camera, while another person in a reflective suit walks away from the camera.",
+    "caption_10s": "The video shows a person in reflective clothing, likely a firefighter, standing next to a van. The scene is captured by a security camera at night. The person appears to be inspecting or working on the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 15.5333,
+      "actual_end_seconds": 17.5333
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, is seen inspecting or working on a van parked in front of a building, with another person in reflective clothing walking away from the scene.",
+    "caption": "A person in reflective clothing, likely a firefighter, is seen inspecting or working on a van parked in front of a building, with another person in reflective clothing walking away from the scene."
+  },
+  "512": {
+    "center_frame": 512,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.0667,
+        "actual_end_seconds": 18.0667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 14.5667,
+        "actual_end_seconds": 19.5667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.0667,
+        "actual_end_seconds": 22.0667
+      }
+    },
+    "caption_2s": "A man in a white shirt is seen walking towards a van. He then proceeds to open the back of the van and appears to be placing something inside.",
+    "caption_5s": "The video shows a person in reflective gear, likely a firefighter, approaching a white van parked on the side of the road. The individual is seen inspecting or working on the van, possibly assessing damage or preparing for a rescue operation.",
+    "caption_10s": "A fireman is seen walking towards a van, then opening the back of the van.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.0667,
+      "actual_end_seconds": 18.0667
+    },
+    "fused_caption": "A firefighter in reflective gear approaches a white van parked on the side of the road, inspects or works on it, then opens the back of the van.",
+    "caption": "A firefighter in reflective gear approaches a white van parked on the side of the road, inspects or works on it, then opens the back of the van."
+  },
+  "528": {
+    "center_frame": 528,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 16.6,
+        "actual_end_seconds": 18.6
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.1,
+        "actual_end_seconds": 20.1
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 12.6,
+        "actual_end_seconds": 22.6
+      }
+    },
+    "caption_2s": "The video shows a person in reflective clothing, likely a firefighter, standing next to a vehicle. The person appears to be inspecting or working on the vehicle, possibly checking for leaks or damage.",
+    "caption_5s": "A man is seen standing in front of a van, and then he walks away.",
+    "caption_10s": "The video shows a series of images from a night vision camera. It captures a person in reflective clothing, likely a firefighter, standing next to a white van. The person appears to be inspecting or working on the van, possibly assessing damage or preparing for a rescue operation. The images are grainy and dark due to the night vision effect, but the reflective stripes on the person's clothing make them stand out against the background.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 16.6,
+      "actual_end_seconds": 18.6
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, stands next to a white van, inspecting or working on it, possibly assessing damage or preparing for a rescue operation, in a dark environment where the reflective stripes on their clothing make them stand out.",
+    "caption": "A person in reflective clothing, likely a firefighter, stands next to a white van, inspecting or working on it, possibly assessing damage or preparing for a rescue operation, in a dark environment where the reflective stripes on their clothing make them stand out."
+  },
+  "544": {
+    "center_frame": 544,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.1333,
+        "actual_end_seconds": 19.1333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 15.6333,
+        "actual_end_seconds": 20.6333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.1333,
+        "actual_end_seconds": 23.1333
+      }
+    },
+    "caption_2s": "A person is seen walking towards a car in the video.",
+    "caption_5s": "The video shows a person in a dark room with a white van. The person is seen opening the back of the van and then closing it.",
+    "caption_10s": "The video shows a fireman in full gear, including a helmet and reflective stripes on his suit. He is seen walking towards the camera with a flashlight in hand. The fireman then turns around and walks away from the camera.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.1333,
+      "actual_end_seconds": 19.1333
+    },
+    "fused_caption": "A person walks towards a car, then a person opens and closes the back of a white van in a dark room, while a fireman in full gear walks towards and then away from the camera.",
+    "caption": "A person walks towards a car, then a person opens and closes the back of a white van in a dark room, while a fireman in full gear walks towards and then away from the camera."
+  },
+  "560": {
+    "center_frame": 560,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 17.6667,
+        "actual_end_seconds": 19.6667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.1667,
+        "actual_end_seconds": 21.1667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 13.6667,
+        "actual_end_seconds": 23.6667
+      }
+    },
+    "caption_2s": "The video shows a series of images from a night vision camera. The main event is the presence of a vehicle, which appears to be a van or a large car, parked in a dimly lit area. The images are grainy and monochromatic due to the night vision effect. There is no clear action or movement within the frames, suggesting that the vehicle is stationary.",
+    "caption_5s": "The video shows a person in reflective gear, likely a firefighter, standing next to a vehicle. The person is seen bending over and interacting with the vehicle's rear area. The scene is captured by a night vision camera, which makes it difficult to discern specific details.",
+    "caption_10s": "The video shows a series of images from a security camera, timestamped and labeled as channel 4. The footage captures a person in reflective clothing, likely a firefighter, moving around a vehicle at night. The individual is seen opening the rear door of the vehicle, possibly an ambulance or van, and appears to be inspecting or working on something inside. The surroundings are dark, and the only light comes from the vehicle's interior and the camera's own illumination.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 17.6667,
+      "actual_end_seconds": 19.6667
+    },
+    "fused_caption": "A person in reflective gear, likely a firefighter, is seen standing next to a vehicle, possibly an ambulance or van, in a dimly lit area. The individual bends over and interacts with the vehicle's rear area, opening the door and inspecting or working on something inside, as captured by a night vision camera.",
+    "caption": "A person in reflective gear, likely a firefighter, is seen standing next to a vehicle, possibly an ambulance or van, in a dimly lit area. The individual bends over and interacts with the vehicle's rear area, opening the door and inspecting or working on something inside, as captured by a night vision camera."
+  },
+  "576": {
+    "center_frame": 576,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.2,
+        "actual_end_seconds": 20.2
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 16.7,
+        "actual_end_seconds": 21.7
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.2,
+        "actual_end_seconds": 24.2
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, capturing a person in reflective clothing approaching and interacting with a white van. The person appears to be inspecting or working on the vehicle, as indicated by their movements around it.",
+    "caption_5s": "The video shows a person in reflective clothing, likely a firefighter, climbing onto the roof of a van. The van is parked in a dark area, and the scene is captured by a security camera. The person appears to be inspecting or working on the van's roof.",
+    "caption_10s": "The video shows a series of images from a security camera. The main event is the presence of a vehicle, which appears to be a van or a truck, parked in front of the camera's view. There are no visible actions or movements, and the images are mostly dark with some areas of light reflecting off the vehicle.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.2,
+      "actual_end_seconds": 20.2
+    },
+    "fused_caption": "A person in reflective clothing, likely a firefighter, is seen inspecting or working on the roof of a white van parked in a dark area, as captured by a security camera.",
+    "caption": "A person in reflective clothing, likely a firefighter, is seen inspecting or working on the roof of a white van parked in a dark area, as captured by a security camera."
+  },
+  "592": {
+    "center_frame": 592,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 18.7333,
+        "actual_end_seconds": 20.7333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.2333,
+        "actual_end_seconds": 22.2333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 14.7333,
+        "actual_end_seconds": 24.7333
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera, capturing a person in reflective clothing approaching and interacting with a white van. The person appears to be inspecting or working on the vehicle, as they move around it and bend down at times. The lighting is dim, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_5s": "The video shows a person in reflective clothing approaching a white van. The person appears to be inspecting or interacting with the van, possibly opening its doors or windows. The scene is dimly lit, suggesting it might be nighttime or in a poorly lit area.",
+    "caption_10s": "The video shows a person in reflective gear, possibly a firefighter, walking towards the camera with a bright light source. The person is seen from behind and appears to be carrying equipment or tools. The surroundings are dark, suggesting it's nighttime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 18.7333,
+      "actual_end_seconds": 20.7333
+    },
+    "fused_caption": "A person in reflective clothing, possibly a firefighter, walks towards a white van, inspecting or interacting with it, possibly opening doors or windows, in a dimly lit area, likely at night.",
+    "caption": "A person in reflective clothing, possibly a firefighter, walks towards a white van, inspecting or interacting with it, possibly opening doors or windows, in a dimly lit area, likely at night."
+  },
+  "608": {
+    "center_frame": 608,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.2667,
+        "actual_end_seconds": 21.2667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 17.7667,
+        "actual_end_seconds": 22.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.2667,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a series of images from a night vision security camera. The timestamp indicates the footage was captured on July 18, 2014, at 11:52:05 PM. The images depict a white van parked in a dimly lit area. There are two individuals wearing reflective clothing, likely emergency responders, who appear to be inspecting or working on the van. Their actions are not clearly visible due to the low resolution and night vision quality.",
+    "caption_5s": "The video shows a series of images from a night vision security camera. The images depict two individuals wearing reflective clothing, likely emergency responders, working near a vehicle. They appear to be inspecting or performing some kind of activity on the vehicle's rear section. The images are grainy and low-resolution due to the night vision quality.",
+    "caption_10s": "The video shows a series of night-vision images depicting two figures in reflective gear, likely emergency responders, approaching and interacting with a vehicle. The figures are seen moving around the vehicle, possibly inspecting or working on it. The environment is dark, and the only light comes from the vehicle's headlights and the reflective stripes on the individuals' clothing.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.2667,
+      "actual_end_seconds": 21.2667
+    },
+    "fused_caption": "On July 18, 2014, at 11:52:05 PM, a night vision security camera captured images of two individuals in reflective clothing, likely emergency responders, inspecting or working on a white van's rear section in a dimly lit area, with their actions visible but grainy due to low resolution and night vision quality.",
+    "caption": "On July 18, 2014, at 11:52:05 PM, a night vision security camera captured images of two individuals in reflective clothing, likely emergency responders, inspecting or working on a white van's rear section in a dimly lit area, with their actions visible but grainy due to low resolution and night vision quality."
+  },
+  "624": {
+    "center_frame": 624,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 19.8,
+        "actual_end_seconds": 21.8
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.3,
+        "actual_end_seconds": 23.3
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 15.8,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a dark scene with two figures wearing reflective clothing, likely firefighters, moving around a vehicle. The figures are illuminated by the vehicle's headlights and their own equipment, which creates bright spots in the footage. The actions are repetitive, with the figures appearing to be engaged in some form of activity around the vehicle, possibly an inspection or preparation for an operation.",
+    "caption_5s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:52:03 PM. The footage is in black and white, with the area illuminated by bright lights, likely from emergency vehicles. There are several individuals wearing reflective gear, possibly firefighters or emergency responders, who appear to be engaged in an activity around a vehicle, which could be a van or a small truck. The actions are not clear due to the low resolution and darkness, but the individuals seem to be moving around the vehicle, possibly inspecting it or performing some kind of operation.",
+    "caption_10s": "The video shows a series of images from a security camera, capturing a person in reflective clothing moving around a vehicle at night. The person appears to be inspecting or working on the vehicle, which is parked and stationary. The images are grainy and low-resolution, with the timestamp visible in the upper left corner.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 19.8,
+      "actual_end_seconds": 21.8
+    },
+    "fused_caption": "A person in reflective clothing is moving around a vehicle at night, illuminated by bright lights and their own equipment, possibly inspecting or working on the vehicle, which is parked and stationary.",
+    "caption": "A person in reflective clothing is moving around a vehicle at night, illuminated by bright lights and their own equipment, possibly inspecting or working on the vehicle, which is parked and stationary."
+  },
+  "640": {
+    "center_frame": 640,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.3333,
+        "actual_end_seconds": 22.3333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 18.8333,
+        "actual_end_seconds": 23.8333
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.3333,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a series of images from a security camera labeled \"CH4\" with the timestamp \"07/18/2014 11:52:06 PM.\" The images depict two individuals wearing reflective clothing, likely firefighters, moving through a dimly lit environment. Their movements are deliberate and coordinated, suggesting they are engaged in an emergency response or training exercise. The reflective stripes on their uniforms are clearly visible due to the camera's infrared capabilities. The background is mostly dark, with occasional bright spots that could be lights or reflections from equipment.",
+    "caption_5s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:52:03 PM. The footage is in black and white, with the camera labeled \"CH4.\" It captures two individuals wearing reflective clothing, likely emergency responders, as they work around a vehicle. The individuals are seen moving around the vehicle, which appears to be a van or a similar type of vehicle. The lighting conditions suggest it is nighttime, and the environment is dimly lit.",
+    "caption_10s": "The video shows a series of images from a security camera, timestamped 07/18/2014 at 11:52:01 PM. The images depict a person wearing reflective clothing, possibly a firefighter, standing next to a vehicle with its headlights on. The person appears to be inspecting or working on the vehicle. The surroundings are dark, indicating it is nighttime.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.3333,
+      "actual_end_seconds": 22.3333
+    },
+    "fused_caption": "A security camera labeled \"CH4\" captures images of a person or individuals wearing reflective clothing, likely emergency responders, standing next to a vehicle with its headlights on in a dimly lit environment at night.",
+    "caption": "A security camera labeled \"CH4\" captures images of a person or individuals wearing reflective clothing, likely emergency responders, standing next to a vehicle with its headlights on in a dimly lit environment at night."
+  },
+  "656": {
+    "center_frame": 656,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 20.8667,
+        "actual_end_seconds": 22.8667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.3667,
+        "actual_end_seconds": 24.3667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 16.8667,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person in a dark room, with only their face visible. The person is wearing a white shirt and has short hair. They are looking at the camera and appear to be talking. The video then cuts to a scene of two people in a car, both wearing reflective clothing. They are driving down a road at night, and the headlights of the car are on. The video ends with a shot of the two people in the car, now stopped on the side of the road.",
+    "caption_5s": "The video shows a series of events where two individuals in reflective gear are seen near a vehicle. They appear to be inspecting or working on the vehicle, with one person using a flashlight to illuminate the area. The actions are repetitive and focused on the vehicle's exterior.",
+    "caption_10s": "The video shows a person in reflective clothing approaching a van, opening the door, and entering the vehicle. The scene is captured by a security camera with timestamp and channel information visible on the screen.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 20.8667,
+      "actual_end_seconds": 22.8667
+    },
+    "fused_caption": "A person in a dark room with a visible face, wearing a white shirt and short hair, appears to be talking to the camera before cutting to two individuals in reflective clothing driving a car at night. The car is later seen stopped on the side of the road, with the two individuals in reflective gear inspecting or working on the vehicle, using a flashlight to illuminate the area. This scene is captured by a security camera, showing a person in reflective clothing approaching a van, opening",
+    "caption": "A person in a dark room with a visible face, wearing a white shirt and short hair, appears to be talking to the camera before cutting to two individuals in reflective clothing driving a car at night. The car is later seen stopped on the side of the road, with the two individuals in reflective gear inspecting or working on the vehicle, using a flashlight to illuminate the area. This scene is captured by a security camera, showing a person in reflective clothing approaching a van, opening"
+  },
+  "672": {
+    "center_frame": 672,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.4,
+        "actual_end_seconds": 23.4
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 19.9,
+        "actual_end_seconds": 24.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.4,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person in a dark room with a light source. The person is moving around, and the light source is changing position.",
+    "caption_5s": "The video shows a dark scene with two individuals wearing reflective clothing. They are seen walking towards the camera, and their movements suggest they are inspecting or working on something. The environment is poorly lit, making it difficult to discern specific details.",
+    "caption_10s": "The video shows a person in reflective clothing approaching a white van. The person appears to be inspecting or working on the van, as they are seen bending over and reaching into the vehicle. The scene is captured by a security camera, and the timestamp indicates it was recorded at night.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.4,
+      "actual_end_seconds": 23.4
+    },
+    "fused_caption": "A person in reflective clothing is seen inspecting or working on a white van in a poorly lit environment, captured by a security camera at night, with the person's movements suggesting they are bending over and reaching into the vehicle.",
+    "caption": "A person in reflective clothing is seen inspecting or working on a white van in a poorly lit environment, captured by a security camera at night, with the person's movements suggesting they are bending over and reaching into the vehicle."
+  },
+  "688": {
+    "center_frame": 688,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 21.9333,
+        "actual_end_seconds": 23.9333
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.4333,
+        "actual_end_seconds": 24.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 17.9333,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person wearing reflective clothing and a helmet, standing in front of a vehicle with its headlights on. The person appears to be inspecting or working on the vehicle.",
+    "caption_5s": "The video shows a fire truck parked in front of a building. Two firefighters are seen walking towards the building, with one of them carrying an axe. They enter the building and begin searching for survivors.",
+    "caption_10s": "The video shows a series of events where individuals in reflective gear are seen near a vehicle. The first event depicts a person standing next to the vehicle, followed by another individual approaching from the right side. In the subsequent events, two people are seen walking away from the vehicle, and finally, one person is shown walking towards the vehicle.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 21.9333,
+      "actual_end_seconds": 23.9333
+    },
+    "fused_caption": "A person in reflective clothing and a helmet stands near a vehicle with its headlights on, inspecting or working on it. Firefighters in reflective gear enter a building, one carrying an axe, to search for survivors. The scene is near a fire truck parked in front of the building, where individuals in reflective gear are seen interacting with a vehicle over several minutes.",
+    "caption": "A person in reflective clothing and a helmet stands near a vehicle with its headlights on, inspecting or working on it. Firefighters in reflective gear enter a building, one carrying an axe, to search for survivors. The scene is near a fire truck parked in front of the building, where individuals in reflective gear are seen interacting with a vehicle over several minutes."
+  },
+  "704": {
+    "center_frame": 704,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 22.4667,
+        "actual_end_seconds": 24.4667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 20.9667,
+        "actual_end_seconds": 24.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 18.4667,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person in a dark room, with the only light source being a flashlight. The person is seen moving around and shining the flashlight on various objects in the room.",
+    "caption_5s": "Two people are seen in the dark, with one of them holding a flashlight. They appear to be searching for something or someone.",
+    "caption_10s": "The video shows a person in a white van, with the door open. The person is seen getting out of the van and walking away.",
+    "direct_visual_score": 0.5,
+    "direct_visual_response": "[0.5]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 22.4667,
+      "actual_end_seconds": 24.4667
+    },
+    "fused_caption": "A person in a dark room shines a flashlight on objects, then two people search together, one holding the flashlight, before a person exits a white van and walks away.",
+    "caption": "A person in a dark room shines a flashlight on objects, then two people search together, one holding the flashlight, before a person exits a white van and walks away."
+  },
+  "720": {
+    "center_frame": 720,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.0,
+        "actual_end_seconds": 24.7667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 21.5,
+        "actual_end_seconds": 24.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.0,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person walking in the dark.",
+    "caption_5s": "The video shows a person in a dark room with a bright light source. The person is moving around, and the camera follows their movements.",
+    "caption_10s": "A group of firefighters is seen working together to extinguish a fire in a building. They are using hoses to spray water on the flames and are moving around the building to access different areas. The firefighters are wearing protective gear and are working quickly and efficiently.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.0,
+      "actual_end_seconds": 24.7667
+    },
+    "fused_caption": "A person in a dark room with a bright light source is moving around, and the camera follows their movements, as a group of firefighters work together to extinguish a fire in a building, using hoses to spray water on the flames and moving around the building to access different areas, wearing protective gear and working quickly and efficiently.",
+    "caption": "A person in a dark room with a bright light source is moving around, and the camera follows their movements, as a group of firefighters work together to extinguish a fire in a building, using hoses to spray water on the flames and moving around the building to access different areas, wearing protective gear and working quickly and efficiently."
+  },
+  "736": {
+    "center_frame": 736,
+    "video_fps": 30.0,
+    "caption_windows": {
+      "2s": {
+        "sample_fps": 2.0,
+        "max_frames": 4,
+        "actual_start_seconds": 23.5333,
+        "actual_end_seconds": 24.7667
+      },
+      "5s": {
+        "sample_fps": 2.0,
+        "max_frames": 10,
+        "actual_start_seconds": 22.0333,
+        "actual_end_seconds": 24.7667
+      },
+      "10s": {
+        "sample_fps": 2.0,
+        "max_frames": 20,
+        "actual_start_seconds": 19.5333,
+        "actual_end_seconds": 24.7667
+      }
+    },
+    "caption_2s": "The video shows a person walking in the dark, with their face obscured by shadows. The footage is grainy and low-resolution, making it difficult to discern specific details.",
+    "caption_5s": "A person is seen walking in the dark, and then they open a door.",
+    "caption_10s": "The video shows a fire truck parked in front of a building. Two firefighters are seen walking towards the building, with one of them carrying an axe. They enter the building and then re-emerge, with one of them holding a large object.",
+    "direct_visual_score": 0.1,
+    "direct_visual_response": "[0.1]",
+    "direct_visual_window": {
+      "seconds": 2,
+      "sample_fps": 2.0,
+      "max_frames": 10,
+      "actual_start_seconds": 23.5333,
+      "actual_end_seconds": 24.7667
+    },
+    "fused_caption": "A person walks in the dark, opens a door, and then firefighters arrive, enter the building, and re-emerge with a large object, as a fire truck is parked nearby.",
+    "caption": "A person walks in the dark, opens a door, and then firefighters arrive, enter the building, and re-emerge with a large object, as a fire truck is parked nearby."
+  }
+}
