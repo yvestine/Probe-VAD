@@ -64,23 +64,23 @@ run_dataset() {
 run_dataset \
   ./data/MSAD \
   ./data/MSAD/scores/videollama3_cumulative_likelihood_optimized \
-  ./VADTree/dataset_info/MSAD/annotations/anomaly_test.txt \
-  ./VADTree/dataset_info/MSAD/annotations/Temporal_Anomaly_Annotation_for_Testing_Videos.txt \
+  ./results/msad/annotations/test.txt \
+  ./results/msad/annotations/temporal_annotations.txt \
   0 \
   MSAD
 
 run_dataset \
   ./data/ucf_crime \
   ./data/ucf_crime/scores/videollama3_cumulative_likelihood \
-  ./VADTree/dataset_info/ucf_crime/annotations/anomaly_test.txt \
-  ./VADTree/dataset_info/ucf_crime/annotations/Temporal_Anomaly_Annotation_for_Testing_Videos.txt \
+  ./results/ucf_crime/annotations/test.txt \
+  ./results/ucf_crime/annotations/temporal_annotations.txt \
   7 \
   UCF-Crime
 
 run_dataset \
   ./data/xd_violence \
   ./data/xd_violence/scores/videollama3_cumulative_likelihood_optimized \
-  ./VADTree/dataset_info/xd_violence/annotations/anomaly_test.txt \
-  ./VADTree/dataset_info/xd_violence/annotations/temporal_anomaly_annotation_for_testing_videos.txt \
+  ./results/xd_violence/annotations/test.txt \
+  ./results/xd_violence/annotations/temporal_annotations.txt \
   4 \
   XD-Violence

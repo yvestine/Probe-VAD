@@ -14,7 +14,7 @@ stty -tostop 2>/dev/null || true
 python -m src.patch_videollama3_timestamp
 
 OUT="${OUTPUT_DIR:-./data/MSAD/scores/videollama3_direct_11class_likelihood_optimized_stride16_promptfix}"
-INDEX_FILE="${INDEX_FILE:-./VADTree/dataset_info/MSAD/annotations/anomaly_test.txt}"
+INDEX_FILE="${INDEX_FILE:-./results/msad/annotations/test.txt}"
 COMMON=(
   --video_dir ./data/MSAD/videos
   --index_file "$INDEX_FILE"

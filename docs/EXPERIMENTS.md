@@ -46,13 +46,29 @@ The corresponding source and launchers are under `research_code/src/`,
 `research_code/legacy_baseline/`. A directory marked `partial`, `pilot`, or
 `diagnostic` must not be reported as a complete test-set result.
 
-## Author comparison
+## URF-HVAA reference
 
-The author-reported URF-HVAA and VADTree values in the comparison tables are
-reference values from the upstream work. This repository does not claim to
-reimplement those methods. See
-[`docs/THREE_DATASET_RESULTS_COMPARISON.md`](THREE_DATASET_RESULTS_COMPARISON.md)
-and `results/EXPERIMENT_MANIFEST.json` for the exact numbers and provenance.
+The URF-HVAA values in the comparison table are reference values from the
+upstream project. This repository does not claim to reimplement URF-HVAA.
+No external VAD method or dataset is part of the COVAS-VAD experiment scope.
+See [`docs/THREE_DATASET_RESULTS_COMPARISON.md`](THREE_DATASET_RESULTS_COMPARISON.md)
+for the exact values and provenance.
+
+## Additional English experiment reports
+
+The current research update adds the following English-only reports:
+
+- [`MSAD_360_EVALUATION.md`](MSAD_360_EVALUATION.md): commands and output
+  conventions for the complete 360-video MSAD protocol.
+- [`MSAD_PROMPT_SENSITIVITY.md`](MSAD_PROMPT_SENSITIVITY.md): controlled
+  threshold-question prompt comparison on MSAD.
+- [`ABLATION_RESULTS.md`](ABLATION_RESULTS.md): consolidated E0, sampling,
+  threshold, likelihood, and temporal-fusion results.
+- [`OFFLINE_E0_ANALYSIS.md`](OFFLINE_E0_ANALYSIS.md): smoothing, PAVA,
+  uncertainty, bootstrap, and selective-verification diagnostics.
+
+These reports contain no UBnormal experiments. UBnormal-specific scripts,
+annotations, checkpoints, and results are intentionally excluded.
 
 ## Reproduction boundaries
 

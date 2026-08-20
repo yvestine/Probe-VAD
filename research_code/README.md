@@ -24,6 +24,6 @@ export PYTHONPATH="$PWD/research_code:$PYTHONPATH"
 
 Scripts keep model, video, annotation, and GPU paths configurable. Model
 weights, videos, caches, and temporary outputs are not bundled. Some historical
-baseline scripts additionally require external VADTree outputs or legacy model
-environments. Experiment paths, metrics, and `complete`/`partial` status are
+baseline scripts additionally require legacy model environments. Experiment
+paths, metrics, and `complete`/`partial` status are
 listed in `results/EXPERIMENT_MANIFEST.json`.

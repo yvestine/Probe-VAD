@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased
+
+- Added English-only documentation for the MSAD 360-video protocol, prompt
+  sensitivity, offline E0 diagnostics, and the complete ablation inventory.
+- Clarified that UBnormal and unrelated exploratory branches are excluded from
+  this release.
+- Removed references to external VAD comparison data from the experiment
+  documentation.
+
 ## 1.0.2 - 2026-08-03
 
 - Added the research-code archive for E0, likelihood/generation comparisons,
@@ -7,8 +16,8 @@
   SDEE pilot code, and legacy baseline entry points.
 - Added preserved experiment score JSON files, metrics, timing/threshold
   metadata, partial-checkpoint records, and `results/EXPERIMENT_MANIFEST.json`.
-- Added a Chinese experiment index with explicit complete/partial status and
-  author-reported URF/VADTree comparison values.
+- Added an experiment index with explicit complete/partial status and
+  author-reported URF comparison values.
 
 ## 1.0.1 - 2026-07-31
 

@@ -4,7 +4,7 @@
   "generated_at": "2026-08-03",
   "metric_order": ["roc_auc", "pr_auc", "max_f1"],
   "metric_units": "percentage",
-  "baseline_source": "URF-HVAA/VADTree author-reported results; no author reimplementation is bundled as a COVAS-VAD baseline",
+  "baseline_source": "URF-HVAA author-reported results; no author reimplementation is bundled as a COVAS-VAD baseline",
   "core_e0": {
     "config": {
       "window_seconds": 10.0,
@@ -22,10 +22,36 @@
       "xd_violence": {"videos": 800, "clips": 146449, "roc_auc": 92.1099, "pr_auc": 75.3590, "max_f1": 73.1337, "result_path": "results/xd_violence"}
     }
   },
+  "msad_360_protocol": {
+    "videos": 360,
+    "annotation_index": "results/msad/annotations/test.txt",
+    "temporal_annotations": "results/msad/annotations/temporal_annotations.txt",
+    "metric_units": "percentage",
+    "complete_experiments": {
+      "e0": [87.5544, 78.4314, 75.6379],
+      "e1_ab": [86.0590, 76.9668, 73.9566],
+      "e2_ab_swap": [86.2121, 77.2350, 73.9013],
+      "e3_yesno_polarity_swap": [87.2652, 78.3948, 75.3290],
+      "e4_center_dense_s4": [87.5983, 78.4507, 75.6963],
+      "e4_center_dense_s2": [87.5364, 78.3752, 75.6678],
+      "threshold5": [87.5135, 78.3168, 75.6624],
+      "stride32_interpolated": [87.4600, 78.2452, 75.7045],
+      "direct_generated": [78.2853, 69.3340, 64.5744],
+      "direct_11class_likelihood": [75.7882, 68.3954, 60.9953],
+      "direct_11class_likelihood_promptfix": [86.7708, 77.5636, 73.7964],
+      "caption_e0_controlled": [86.7912, 78.3240, 74.4712]
+    },
+    "prompt_sensitivity": {
+      "visible_evidence": [87.2998, 78.2773, 75.5576],
+      "reach_level": [86.9473, 78.6185, 74.7221],
+      "no_less_than": [86.9702, 78.4240, 74.9077],
+      "rated_above": [87.7588, 78.9726, 75.2856]
+    }
+  },
   "author_comparison": {
-    "ucf_crime": {"VADTree": [84.74, 41.89, 44.29], "URF-HVAA": [84.36, 36.15, 41.83]},
-    "MSAD": {"VADTree": [89.32, 71.41, 68.80], "URF-HVAA": [93.06, 77.81, 74.82]},
-    "xd_violence": {"VADTree": [90.47, 67.91, 69.17], "URF-HVAA": [91.34, 68.07, 71.93]}
+    "ucf_crime": {"URF-HVAA": [84.36, 36.15, 41.83]},
+    "MSAD": {"URF-HVAA": [93.06, 77.81, 74.82]},
+    "xd_violence": {"URF-HVAA": [91.34, 68.07, 71.93]}
   },
   "experiments": {
     "ucf_crime": {
