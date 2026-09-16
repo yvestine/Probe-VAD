@@ -2,6 +2,8 @@
 
 **Cumulative Ordinal Visual Anomaly Scoring for Video Anomaly Detection**
 
+**Official implementation of [Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection](https://arxiv.org/abs/2609.17211).**
+
 COVAS-VAD is a training-free video anomaly detection pipeline built on
 VideoLLaMA3. It scores raw video clips directly and does not generate captions,
 anomaly tags, or refinement text.
