@@ -46,7 +46,8 @@ p_k=P(S\ge\tau_k\mid V)
 $$
 
 PAVA projects the ten tail probabilities onto
-\(p_1\ge p_2\ge\cdots\ge p_{10}\). The final anomaly score is
+$p_1 \ge p_2 \ge \cdots \ge p_{10}$. 
+The final anomaly score is
 
 $$
 s(V)=0.1\sum_{k=1}^{10}p_k
@@ -287,20 +288,45 @@ covas-eval \
   --no_smoothing
 ```
 
-## Reported E0 results
+## Main results
 
-These numbers were produced by the bundled complete E0 score files using the
-same evaluation interface.
+The following results correspond to the evaluation protocols reported in the
+current Probe-VAD paper.
 
-| Dataset | ROC-AUC | PR-AUC | Max-F1 |
-|---|---:|---:|---:|
-| UCF-Crime | 86.27% | 39.47% | 45.22% |
-| MSAD | 94.36% | 81.20% | 76.27% |
-| XD-Violence | 92.11% | 75.36% | 73.13% |
+| Dataset | ROC-AUC (%) | PR-AUC (%) |
+|---|---:|---:|
+| UCF-Crime | **86.27** | 39.47 |
+| MSAD | **87.55** | **78.43** |
+| XD-Violence | **92.11** | **75.36** |
 
-See [results/README.md](results/README.md) and
-[results/MANIFEST.json](results/MANIFEST.json) for file counts and exact
-floating-point metrics.
+For MSAD, the paper uses the complete 360-video test protocol comprising
+14,372 clips. The earlier 240-video MSAD result included in the original
+repository release is retained only for historical reproducibility and should
+not be interpreted as the paper's main MSAD result.
+
+Exact MSAD-360 metrics and protocol details are available in
+[`results/MSAD_360_METRICS.json`](results/MSAD_360_METRICS.json) and
+[`docs/MSAD_360_EVALUATION.md`](docs/MSAD_360_EVALUATION.md).
+
+
+
+## Supplementary experiments
+
+Additional experiments accompanying the current paper are summarized in
+[`docs/SUPPLEMENTARY_EXPERIMENTS.md`](docs/SUPPLEMENTARY_EXPERIMENTS.md).
+
+The supplementary analyses include:
+
+- sensitivity to the number of ordinal thresholds;
+- uniform and non-uniform severity-threshold placement;
+- threshold-wise and severity-band response analysis;
+- clip-internal frame-sampling sensitivity;
+- temporal-smoothing sensitivity;
+- end-to-end runtime and intermediate-storage efficiency.
+
+These experiments do not change the default Probe-VAD configuration:
+10 uniformly spaced severity thresholds, uniform frame sampling, and
+Gaussian smoothing with `sigma=10`.
 
 ## Scope and limitations
 
