@@ -38,11 +38,11 @@ Is the anomaly severity visible in this video segment at least 0.1?
 Is the anomaly severity visible in this video segment at least 1.0?
 ```
 
-At threshold \(\tau_k=k/10\), the `YES` and `NO` logits define
+At threshold $\tau_k=k/10$, the `YES` and `NO` logits define
 
 $$
 p_k=P(S\ge\tau_k\mid V)
-   =\operatorname{softmax}(\ell_{\mathrm{NO}},\ell_{\mathrm{YES}})_{\mathrm{YES}}.
+   =\mathrm{softmax}(\ell_{\mathrm{NO}},\ell_{\mathrm{YES}})_{\mathrm{YES}}.
 $$
 
 PAVA projects the ten tail probabilities onto
