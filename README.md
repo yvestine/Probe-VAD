@@ -4,16 +4,15 @@
 
 **Official implementation of [Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection](https://arxiv.org/abs/2609.17211).**
 
-COVAS-VAD is a training-free video anomaly detection pipeline built on
-VideoLLaMA3. It scores raw video clips directly and does not generate captions,
-anomaly tags, or refinement text.
+Probe-VAD is a training-free video anomaly detection framework built on
+VideoLLaMA3. It directly scores raw video clips through ordinal likelihood
+probing, without generating captions, anomaly tags, or refinement text.
 
-The repository is the complete standalone release of the E0 method extracted
-from the URF-HVAA experimental codebase. It also preserves the research
-source, launchers, score JSON files, and metrics for the completed ablations
-under `research_code/` and `results/experiments/`. The E0 package remains the
-recommended runnable method; the archived branches are provided for audit and
-reproduction rather than silently changing the main method.
+This repository provides the official implementation of Probe-VAD together
+with the code, evaluation scripts, precomputed scores, and experimental
+results used in the paper. Additional ablations and analysis utilities are
+included under `research_code/` and `results/experiments/` for reproducibility
+and further study.
 
 ## Highlights
 
