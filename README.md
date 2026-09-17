@@ -1,6 +1,6 @@
-# COVAS-VAD
+# Probe-VAD
 
-**Cumulative Ordinal Visual Anomaly Scoring for Video Anomaly Detection**
+**Ordinal Likelihood Probing for Training-Free Video Anomaly Detection**
 
 **Official implementation of [Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection](https://arxiv.org/abs/2609.17211).**
 
