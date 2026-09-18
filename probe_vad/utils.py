@@ -1,4 +1,4 @@
-"""Utilities used exclusively by the COVAS-VAD E0 scoring pipeline."""
+"""Utilities used exclusively by the Probe-VAD E0 scoring pipeline."""
 
 from __future__ import annotations
 

@@ -1,4 +1,4 @@
-"""Frame-level evaluation for COVAS-VAD score JSON files."""
+"""Frame-level evaluation for Probe-VAD score JSON files."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ from scipy.ndimage import gaussian_filter1d
 from sklearn.metrics import auc, precision_recall_curve, roc_curve
 from tqdm import tqdm
 
-from covas_vad.video_record import VideoRecord
+from probe_vad.video_record import VideoRecord
 
 
 def temporal_testing_annotations(path: Path) -> dict[str, list[str]]:

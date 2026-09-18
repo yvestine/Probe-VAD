@@ -10,7 +10,7 @@ export TRANSFORMERS_OFFLINE="${TRANSFORMERS_OFFLINE:-0}"
 DATASET_DIR="${DATASET_DIR:-./data/ucf_crime}"
 VIDEO_DIR="${VIDEO_DIR:-${DATASET_DIR}/videos}"
 INDEX_FILE="${INDEX_FILE:-${DATASET_DIR}/annotations/test.txt}"
-OUTPUT_DIR="${OUTPUT_DIR:-${DATASET_DIR}/scores/covas_vad}"
+OUTPUT_DIR="${OUTPUT_DIR:-${DATASET_DIR}/scores/probe_vad}"
 MODEL_PATH="${MODEL_PATH:-DAMO-NLP-SG/VideoLLaMA3-7B}"
 GPU_IDS="${GPU_IDS:-0,2,3,6}"
 ROOT_PATH="${ROOT_PATH:-${DATASET_DIR}/frames}"
@@ -43,7 +43,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path.cwd()))
-from covas_vad.utils import (
+from probe_vad.utils import (
     get_video_info,
     iter_video_windows,
     output_stem,
@@ -106,7 +106,7 @@ for job, names in enumerate(bins):
 print(f"total: {len(remaining)} unfinished videos, {sum(loads)} remaining clips")
 PY
 
-echo "Starting balanced COVAS-VAD scoring on GPUs: ${GPU_IDS}"
+echo "Starting balanced Probe-VAD scoring on GPUs: ${GPU_IDS}"
 prefix_cache_flag="--prefix_cache"
 if [[ "${PREFIX_CACHE}" == "0" ]]; then
   prefix_cache_flag="--no-prefix_cache"
@@ -127,7 +127,7 @@ for job in "${!GPUS[@]}"; do
     continue
   fi
   echo "Job ${job}: physical GPU ${GPUS[$job]}"
-  CUDA_VISIBLE_DEVICES="${GPUS[$job]}" python -u -m covas_vad.scoring \
+  CUDA_VISIBLE_DEVICES="${GPUS[$job]}" python -u -m probe_vad.scoring \
     --video_dir "${VIDEO_DIR}" \
     --index_file "${shard}" \
     --output_dir "${OUTPUT_DIR}" \
@@ -153,8 +153,8 @@ if ((${#pids[@]})); then
   wait "${pids[@]}"
 fi
 
-echo "Evaluating COVAS-VAD scores"
-python -m covas_vad.evaluation \
+echo "Evaluating Probe-VAD scores"
+python -m probe_vad.evaluation \
   --root_path "${ROOT_PATH}" \
   --annotationfile_path "${EVAL_ANNOTATION_FILE}" \
   --temporal_annotation_file "${TEMPORAL_ANNOTATION_FILE}" \
@@ -164,7 +164,7 @@ python -m covas_vad.evaluation \
   --normal_label "${NORMAL_LABEL}"
 
 echo
-echo "COVAS-VAD metrics"
+echo "Probe-VAD metrics"
 printf 'ROC-AUC: %s\n' "$(tr -d '[:space:]' < "${OUTPUT_DIR}/metrics/roc_auc.txt")"
 printf 'PR-AUC:  %s\n' "$(tr -d '[:space:]' < "${OUTPUT_DIR}/metrics/pr_auc.txt")"
 printf 'Max-F1:  %s\n' "$(tr -d '[:space:]' < "${OUTPUT_DIR}/metrics/max_f1.txt")"

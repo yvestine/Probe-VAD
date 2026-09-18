@@ -4,7 +4,7 @@
 # MSAD has a complete 360-video protocol in data/MSAD. The bundled annotation
 # files are selected implicitly for a full MSAD run.
 
-covas_resolve_msad_paths() {
+probe_resolve_msad_paths() {
   local dataset_dir="${1:-${DATASET_DIR:-}}"
   if [[ "${dataset_dir%/}" == "./data/MSAD" || "${dataset_dir%/}" == "data/MSAD" || "${dataset_dir%/}" == "/workspace/gujiawei/URF-HVAA/data/MSAD" ]]; then
     if [[ -z "${INDEX_FILE:-}" || "${INDEX_FILE}" == *"results/msad/annotations"* ]]; then
@@ -22,7 +22,7 @@ covas_resolve_msad_paths() {
   export INDEX_FILE EVAL_ANNOTATION_FILE TEMPORAL_ANNOTATION_FILE
 }
 
-covas_default_metrics_dir() {
+probe_default_metrics_dir() {
   local output_dir="$1" dataset_dir="${2:-${DATASET_DIR:-}}" index_file="${3:-${INDEX_FILE:-}}"
   if [[ "${dataset_dir%/}" == *"MSAD" && -f "${index_file}" ]] && [[ "$(wc -l < "${index_file}")" -ge 360 ]]; then
     printf '%s/metrics_360\n' "${output_dir%/}"

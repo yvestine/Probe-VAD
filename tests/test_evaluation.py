@@ -1,6 +1,6 @@
 import numpy as np
 
-from covas_vad.evaluation import expand_clip_scores
+from probe_vad.evaluation import expand_clip_scores
 
 
 def test_score_keys_are_sorted_numerically_before_expansion():

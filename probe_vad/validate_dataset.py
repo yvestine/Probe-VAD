@@ -1,4 +1,4 @@
-"""Validate COVAS-VAD video and annotation inputs without using a GPU."""
+"""Validate Probe-VAD video and annotation inputs without using a GPU."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-from covas_vad.utils import (
+from probe_vad.utils import (
     get_video_info,
     iter_video_windows,
     output_stem,

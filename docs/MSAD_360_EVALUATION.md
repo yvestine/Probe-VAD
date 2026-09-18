@@ -19,17 +19,17 @@ From the repository root, run the desired method with the current research
 launcher. The launcher supports checkpoint recovery and multi-GPU execution:
 
 ```bash
-METHODS=e0 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=e1 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=e2 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=e3 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=e4_s4 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=e4_s2 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=threshold5 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=stride32_e0 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=direct_generated GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=direct_promptfix GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
-METHODS=caption_controlled GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_covas.sh
+METHODS=e0 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=e1 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=e2 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=e3 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=e4_s4 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=e4_s2 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=threshold5 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=stride32_e0 GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=direct_generated GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=direct_promptfix GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
+METHODS=caption_controlled GPU_IDS=0,1,2 bash research_code/scripts/run_msad_360_resume_probe.sh
 ```
 
 To evaluate every complete score directory without GPU inference:

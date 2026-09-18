@@ -21,5 +21,5 @@ set -a
 source "${CONFIG_PATH}"
 set +a
 
-exec bash "${PROJECT_ROOT}/scripts/run_covas_vad_rebalanced.sh"
+exec bash "${PROJECT_ROOT}/scripts/run_probe_vad_rebalanced.sh"
 

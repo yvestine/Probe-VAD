@@ -27,7 +27,7 @@
 
 ## 1.0.0 - 2026-07-31
 
-- Initial standalone open-source release of COVAS-VAD E0.
+- Initial standalone open-source release of Probe-VAD E0.
 - Added direct VideoLLaMA3 cumulative ordinal scoring.
 - Added shared visual encoding, threshold batching, and prefix KV caching.
 - Added PAVA monotonic projection and continuous tail-probability scoring.

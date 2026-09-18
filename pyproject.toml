@@ -3,13 +3,13 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "covas-vad"
+name = "probe-vad"
 version = "1.0.2"
-description = "Training-free cumulative ordinal visual anomaly scoring with VideoLLaMA3"
+description = "Ordinal likelihood probing for training-free video anomaly detection with VideoLLaMA3"
 readme = "README.md"
 requires-python = ">=3.10,<3.12"
 license = {file = "LICENSE"}
-authors = [{name = "COVAS-VAD Contributors"}]
+authors = [{name = "Probe-VAD Contributors"}]
 keywords = [
   "video anomaly detection",
   "vision-language model",
@@ -44,15 +44,15 @@ dependencies = [
 dev = ["pytest==8.3.5", "ruff>=0.8"]
 
 [project.scripts]
-covas-score = "covas_vad.scoring:main"
-covas-eval = "covas_vad.evaluation:cli_main"
-covas-validate = "covas_vad.validate_dataset:main"
+probe-score = "probe_vad.scoring:main"
+probe-eval = "probe_vad.evaluation:cli_main"
+probe-validate = "probe_vad.validate_dataset:main"
 
 [project.urls]
-Repository = "https://github.com/Rathgrith/COVAS-VAD"
+Repository = "https://github.com/yvestine/Probe-VAD"
 
 [tool.setuptools.packages.find]
-include = ["covas_vad*"]
+include = ["probe_vad*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

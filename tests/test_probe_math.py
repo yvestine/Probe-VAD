@@ -1,6 +1,6 @@
 import pytest
 
-from covas_vad.utils import (
+from probe_vad.utils import (
     cumulative_score_from_tail_probabilities,
     decreasing_isotonic_projection,
 )

@@ -1,6 +1,6 @@
 # Dataset and annotation preparation
 
-COVAS-VAD does not redistribute dataset media. The release includes copies of
+Probe-VAD does not redistribute dataset media. The release includes copies of
 the exact evaluation index and temporal annotation text used for the bundled
 results; those files remain subject to their upstream licenses. Obtain
 UCF-Crime, MSAD, and XD-Violence videos from their official sources.

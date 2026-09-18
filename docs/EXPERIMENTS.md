@@ -1,13 +1,13 @@
 # Experiments and Reproducibility
 
-This document indexes the experiments bundled with COVAS-VAD. The primary
+This document indexes the experiments bundled with Probe-VAD. The primary
 method is E0; the remaining directories are retained for comparison, audit,
 and reproduction. Experiment status is recorded explicitly in
 `results/EXPERIMENT_MANIFEST.json`.
 
 ## Primary method
 
-COVAS-VAD E0 reads raw video clips and asks ten ordered YES/NO threshold
+Probe-VAD E0 reads raw video clips and asks ten ordered YES/NO threshold
 questions at severities `0.1, ..., 1.0`. It applies PAVA to the tail
 probabilities and averages them into a continuous anomaly score. The default
 configuration uses a 10-second window, a 16-frame center stride, 2 FPS, and at
@@ -50,7 +50,7 @@ The corresponding source and launchers are under `research_code/src/`,
 
 The URF-HVAA values in the comparison table are reference values from the
 upstream project. This repository does not claim to reimplement URF-HVAA.
-No external VAD method or dataset is part of the COVAS-VAD experiment scope.
+No external VAD method or dataset is part of the Probe-VAD experiment scope.
 See [`docs/THREE_DATASET_RESULTS_COMPARISON.md`](THREE_DATASET_RESULTS_COMPARISON.md)
 for the exact values and provenance.
 

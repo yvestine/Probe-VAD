@@ -11,7 +11,7 @@ evaluate_one() {
   local normal_label="$2"
   local frame_root="$3"
   echo "Evaluating bundled ${dataset} scores"
-  python -m covas_vad.evaluation \
+  python -m probe_vad.evaluation \
     --root_path "${frame_root}" \
     --annotationfile_path "./results/${dataset}/annotations/test.txt" \
     --temporal_annotation_file "./results/${dataset}/annotations/temporal_annotations.txt" \

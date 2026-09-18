@@ -1,6 +1,6 @@
 # Bundled E0 results and experiment archive
 
-This directory contains the complete COVAS-VAD E0 score JSON files used for
+This directory contains the complete Probe-VAD E0 score JSON files used for
 the reported results. `experiments/` contains the preserved score JSON and
 metrics from the research ablations; it is intentionally separate from the
 canonical E0 directories.

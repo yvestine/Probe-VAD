@@ -135,7 +135,7 @@ def _prompt_rows(root: Path, expected: set[str]) -> tuple[list[dict[str, Any]], 
 
 
 def _write_markdown(path: Path, rows: list[dict[str, Any]], correlations: dict[str, Any], differences: list[dict[str, Any]]) -> None:
-    lines = ["# COVAS ablation summary", "", "## Backbone", "", "| Dataset | Model | ROC-AUC | PR-AUC | Max-F1 | Status |", "|---|---|---:|---:|---:|---|"]
+    lines = ["# Probe ablation summary", "", "## Backbone", "", "| Dataset | Model | ROC-AUC | PR-AUC | Max-F1 | Status |", "|---|---|---:|---:|---:|---|"]
     for row in rows:
         if row.get("model") in {"Qwen3-VL-8B", "VideoLLaMA3-7B"}:
             lines.append(f"| {row['dataset']} | {row['model']} | {row.get('roc_auc')} | {row.get('pr_auc')} | {row.get('max_f1')} | {row['status']} |")
@@ -167,13 +167,13 @@ def main() -> None:
     rows: list[dict[str, Any]] = []
     for dataset, (dataset_dir, index_file) in DATASET_CONFIG.items():
         expected = _video_names(root / index_file)
-        qwen_root = root / dataset_dir / "scores/covas_qwen3vl_8b_baseline"
+        qwen_root = root / dataset_dir / "scores/probe_qwen3vl_8b_baseline"
         rows.append(_run_row(dataset, "Qwen3-VL-8B", qwen_root, expected))
         if dataset in video_roots:
             rows.append(_run_row(dataset, "VideoLLaMA3-7B", root / video_roots[dataset], expected))
     backbone_rows = list(rows)
     prompt_expected = _video_names(root / DATASET_CONFIG["MSAD"][1])
-    prompt_rows, prompt_stats = _prompt_rows(root / "data/MSAD/scores/covas_prompt_sensitivity", prompt_expected)
+    prompt_rows, prompt_stats = _prompt_rows(root / "data/MSAD/scores/probe_prompt_sensitivity", prompt_expected)
     rows.extend(prompt_rows)
     differences = []
     for dataset in DATASET_CONFIG:

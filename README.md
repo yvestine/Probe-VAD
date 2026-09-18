@@ -27,7 +27,7 @@ and further study.
 
 ## Method
 
-For each video, COVAS-VAD places a fixed 10-second window at center frames
+For each video, Probe-VAD places a fixed 10-second window at center frames
 `0, 16, 32, ...`. The window is sampled at 2 FPS with at most 10 RGB frames.
 VideoLLaMA3 then answers ten ordered questions:
 
@@ -60,8 +60,8 @@ optimized forward path, checkpoint policy, and evaluation protocol.
 
 ```text
 .
-├── covas_vad/
-│   ├── scoring.py          # raw-video E0 scoring
+├── probe_vad/
+│   ├── scoring.py          # raw-video scoring
 │   ├── utils.py            # video, likelihood, PAVA, checkpoint utilities
 │   ├── evaluation.py       # frame-level ROC/PR/F1 evaluation
 │   └── video_record.py
@@ -69,7 +69,7 @@ optimized forward path, checkpoint policy, and evaluation protocol.
 ├── docs/                   # method and dataset documentation
 ├── examples/               # tiny score/evaluation format example
 ├── research_code/          # research sources, ablation launchers, old baseline
-├── results/                # E0 scores plus preserved experiment outputs
+├── results/                # scores plus preserved experiment outputs
 ├── scripts/                # config and balanced multi-GPU launchers
 ├── tests/                  # CPU mathematical and interface tests
 ├── environment.yml
@@ -77,7 +77,7 @@ optimized forward path, checkpoint policy, and evaluation protocol.
 └── requirements.txt
 ```
 
-The release includes all completed E0 score JSON files, metrics, exact
+The release includes all completed score JSON files, metrics, exact
 evaluation annotations, and the selected research score archives. Partial
 checkpoint directories are marked in `results/EXPERIMENT_MANIFEST.json` and
 are not promoted as full-test results. It does not include model weights,
@@ -93,7 +93,7 @@ Python 3.10 is recommended.
 
 ```bash
 conda env create -f environment.yml
-conda activate covas-vad
+conda activate probe-vad
 pip install -e .
 ```
 
@@ -158,7 +158,7 @@ Annotation formats and dataset-specific naming notes are documented in
 Validate paths and metadata before using a GPU:
 
 ```bash
-covas-validate \
+probe-validate \
   --video_dir ./data/MSAD/videos \
   --index_file ./results/msad/annotations/test.txt \
   --temporal_annotation_file ./results/msad/annotations/temporal_annotations.txt
@@ -195,10 +195,10 @@ multiple workers on that GPU, subject to memory capacity.
 After `pip install -e .`:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 covas-score \
+CUDA_VISIBLE_DEVICES=0 probe-score \
   --video_dir ./data/MSAD/videos \
   --index_file ./results/msad/annotations/test.txt \
-  --output_dir ./data/MSAD/scores/covas_vad \
+  --output_dir ./data/MSAD/scores/probe_vad \
   --model_path DAMO-NLP-SG/VideoLLaMA3-7B \
   --device cuda:0 \
   --frame_interval 16 \
@@ -212,7 +212,7 @@ CUDA_VISIBLE_DEVICES=0 covas-score \
   --resume
 ```
 
-Use `covas-score --help` for all arguments.
+Use `probe-score --help` for all arguments.
 
 ## Output and recovery
 
@@ -240,12 +240,12 @@ The multi-GPU launcher evaluates automatically. To evaluate an existing score
 directory:
 
 ```bash
-covas-eval \
+probe-eval \
   --root_path ./data/MSAD/frames \
   --annotationfile_path ./results/msad/annotations/test.txt \
   --temporal_annotation_file ./results/msad/annotations/temporal_annotations.txt \
-  --scores_dir ./data/MSAD/scores/covas_vad \
-  --output_dir ./data/MSAD/scores/covas_vad/metrics \
+  --scores_dir ./data/MSAD/scores/probe_vad \
+  --output_dir ./data/MSAD/scores/probe_vad/metrics \
   --frame_interval 16 \
   --normal_label 0
 ```
@@ -269,19 +269,19 @@ CPU-only checks:
 ```bash
 pip install -e '.[dev]'
 pytest
-bash -n scripts/run_covas_vad_rebalanced.sh
+bash -n scripts/run_probe_vad_rebalanced.sh
 bash -n scripts/run_from_config.sh
 ```
 
 An evaluator smoke test that needs no real video:
 
 ```bash
-covas-eval \
+probe-eval \
   --root_path ./examples/frames \
   --annotationfile_path ./examples/annotations/test.txt \
   --temporal_annotation_file ./examples/annotations/temporal.txt \
   --scores_dir ./examples/scores \
-  --output_dir /tmp/covas_demo_metrics \
+  --output_dir /tmp/probe_demo_metrics \
   --frame_interval 16 \
   --normal_label 0 \
   --no_smoothing
@@ -344,6 +344,6 @@ VideoLLaMA3 and the upstream URF-HVAA work when applicable.
 
 ## License
 
-The COVAS-VAD source in this repository is released under the
+The Probe-VAD source in this repository is released under the
 [MIT License](LICENSE). Third-party models, datasets, and dependencies retain
 their own licenses; see [NOTICE](NOTICE).

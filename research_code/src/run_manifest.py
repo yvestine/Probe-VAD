@@ -1,4 +1,4 @@
-"""Experiment provenance and resume guards for root-level COVAS runs."""
+"""Experiment provenance and resume guards for root-level Probe runs."""
 
 from __future__ import annotations
 

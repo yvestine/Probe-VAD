@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
-  "package": "COVAS-VAD",
+  "package": "Probe-VAD",
   "generated_at": "2026-08-03",
   "metric_order": ["roc_auc", "pr_auc", "max_f1"],
   "metric_units": "percentage",
-  "baseline_source": "URF-HVAA author-reported results; no author reimplementation is bundled as a COVAS-VAD baseline",
+  "baseline_source": "URF-HVAA author-reported results; no author reimplementation is bundled as a Probe-VAD baseline",
   "core_e0": {
     "config": {
       "window_seconds": 10.0,

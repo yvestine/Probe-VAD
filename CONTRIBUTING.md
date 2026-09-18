@@ -6,7 +6,7 @@ Contributions are welcome through issues and pull requests.
 
 ```bash
 conda env create -f environment.yml
-conda activate covas-vad
+conda activate probe-vad
 pip install -e '.[dev]'
 pytest
 ```
@@ -18,9 +18,9 @@ E0 implementation remains reproducible.
 Before submitting a change:
 
 ```bash
-ruff check covas_vad tests
+ruff check probe_vad tests
 pytest
-bash -n scripts/run_covas_vad_rebalanced.sh
+bash -n scripts/run_probe_vad_rebalanced.sh
 bash -n scripts/run_from_config.sh
 ```
 

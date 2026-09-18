@@ -1,5 +1,5 @@
 {
-  "method": "COVAS-VAD E0",
+  "method": "Probe-VAD E0",
   "generated_at": "2026-07-31",
   "frame_interval": 16,
   "window_seconds": 10.0,

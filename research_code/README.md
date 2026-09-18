@@ -1,7 +1,7 @@
 # Research Code Archive
 
 This directory contains the research-stage source code and launchers used to
-evaluate COVAS-VAD and its comparison experiments. It is not a second
+evaluate Probe-VAD and its comparison experiments. It is not a second
 installable package.
 
 - `src/`: E0 and E1/E2/E3/E4 scoring code, stride ablations, direct generation,
@@ -11,14 +11,14 @@ installable package.
   checks, temporal post-processing, and SDEE pilot code.
 - `scripts/`: multi-GPU and resumable experiment launchers.
 - `legacy_baseline/`: historical caption, Llama, scoring, tag, and refinement
-  entry points. These are retained for audit and are not part of the COVAS-VAD
+  entry points. These are retained for audit and are not part of the Probe-VAD
   primary method.
 
 Run research scripts from the repository root and add this directory to the
 Python path:
 
 ```bash
-cd /path/to/COVAS-VAD
+cd /path/to/Probe-VAD
 export PYTHONPATH="$PWD/research_code:$PYTHONPATH"
 ```
 

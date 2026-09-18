@@ -1,4 +1,4 @@
-# COVAS-VAD Ablation Results
+# Probe-VAD Ablation Results
 
 The following results use the complete 360-video MSAD protocol and share the
 same evaluation annotations. Metrics are percentages reported as ROC-AUC /

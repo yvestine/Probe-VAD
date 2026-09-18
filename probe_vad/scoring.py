@@ -12,7 +12,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from covas_vad.utils import (
+from probe_vad.utils import (
     CUMULATIVE_THRESHOLDS,
     DEFAULT_MODEL_PATH,
     atomic_write_json,
@@ -31,7 +31,7 @@ from covas_vad.utils import (
     threshold_yes_no_likelihood,
 )
 
-LOGGER = logging.getLogger("covas_vad.scoring")
+LOGGER = logging.getLogger("probe_vad.scoring")
 CUMULATIVE_PROMPT = (
     "You are a careful video anomaly detector for public surveillance scenes. "
     "Judge only visible evidence in the current video segment. Use an ordered "

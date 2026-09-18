@@ -113,7 +113,7 @@ def get_prompt_spec(
         if not isinstance(value, Mapping):
             raise ValueError("prompt file must contain a JSON object")
         # Accept both a single prompt object and the versioned suite file in
-        # configs/covas_prompt_suite.json.  A suite is still resolved to one
+        # configs/probe_prompt_suite.json.  A suite is still resolved to one
         # immutable PromptSpec so a run manifest records the exact text used.
         if "variants" in value:
             variants = value.get("variants")

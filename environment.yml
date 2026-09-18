@@ -1,4 +1,4 @@
-name: covas-vad
+name: probe-vad
 channels:
   - pytorch
   - nvidia

@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from covas_vad.utils import (
+from probe_vad.utils import (
     VideoInfo,
     is_complete,
     iter_video_windows,

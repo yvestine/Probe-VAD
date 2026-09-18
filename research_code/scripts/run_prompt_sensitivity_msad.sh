@@ -10,9 +10,9 @@ cd "${ROOT_DIR}"
 
 MODEL_PATH="${MODEL_PATH:-DAMO-NLP-SG/VideoLLaMA3-7B}"
 GPU_IDS="${GPU_IDS:-0}"
-PROMPT_FILE="${PROMPT_FILE:-${ROOT_DIR}/configs/covas_prompt_suite.json}"
+PROMPT_FILE="${PROMPT_FILE:-${ROOT_DIR}/configs/probe_prompt_suite.json}"
 MSAD_DIR="${ROOT_DIR}/data/MSAD"
-OUTPUT_ROOT="${OUTPUT_ROOT:-${MSAD_DIR}/scores/covas_prompt_sensitivity}"
+OUTPUT_ROOT="${OUTPUT_ROOT:-${MSAD_DIR}/scores/probe_prompt_sensitivity}"
 THRESHOLD_BATCH_SIZE="${THRESHOLD_BATCH_SIZE:-40}"
 
 if [[ "${GPU_IDS}" == *,* ]]; then

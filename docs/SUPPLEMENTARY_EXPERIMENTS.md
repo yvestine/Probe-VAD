@@ -60,10 +60,10 @@ Efficiency is measured on a fixed balanced subset of 50 MSAD videos (25 anomalou
 
 | Pipeline | Wall-clock time | Effective FPS | Persistent storage |
 |---|---:|---:|---:|
-| COVAS-VAD (10 thresholds) | **1:58:37** | **3.14** | **0.77 MB** |
+| Probe-VAD (10 thresholds) | **1:58:37** | **3.14** | **0.77 MB** |
 | Complete caption pipeline | 4:49:19 | 1.29 | 6.06 MB |
 
-Relative to the complete caption pipeline, COVAS-VAD reduces wall-clock time by 59.0%, increases end-to-end effective throughput by 2.44x, and reduces persistent intermediate storage by 87.3%.
+Relative to the complete caption pipeline, Probe-VAD reduces wall-clock time by 59.0%, increases end-to-end effective throughput by 2.44x, and reduces persistent intermediate storage by 87.3%.
 
 The storage comparison concerns persistent intermediate artifacts rather than the original visual input or transient runtime representations. Both pipelines use the same source videos and temporal sampling protocol, so raw videos are excluded.
 

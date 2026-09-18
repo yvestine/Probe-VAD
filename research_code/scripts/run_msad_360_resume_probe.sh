@@ -223,7 +223,7 @@ run_stage() {
   echo "===== [${CURRENT_STAGE}/${TOTAL_STAGES}] ${name} ====="
   echo "output=${output}"
   local attempt=1 max_attempts=3 status=0
-  local stage_log="/tmp/covas_msad_${CURRENT_STAGE}_${log_name}.log"
+  local stage_log="/tmp/probe_msad_${CURRENT_STAGE}_${log_name}.log"
   while ((attempt <= max_attempts)); do
     if ((attempt > 1)); then
       echo "显存保护重试 ${attempt}/${max_attempts}: batch=${THRESHOLD_BATCH_SIZE}, max_frames=${MAX_FRAMES}（保持不变）, prefix_cache=${PREFIX_CACHE}"
@@ -333,4 +333,4 @@ contains caption_controlled && run_stage "Caption-E0 受控对照" \
   "${DATASET_DIR}/scores/caption_e0_controlled_videollama3_stride16" caption_controlled \
   run_caption_controlled
 
-echo "MSAD 360 COVAS resume stages completed. Run scripts/eval_msad_360_all_existing.sh for the consolidated table."
+echo "MSAD 360 Probe resume stages completed. Run scripts/eval_msad_360_all_existing.sh for the consolidated table."

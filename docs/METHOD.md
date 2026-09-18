@@ -1,8 +1,8 @@
-# COVAS-VAD method specification
+# Probe-VAD method specification
 
 ## 1. Input unit
 
-COVAS-VAD scores fixed-duration clips generated from each original video.
+Probe-VAD scores fixed-duration clips generated from each original video.
 For video metadata `(fps, frame_count)`, center frames are
 
 ```text
@@ -46,7 +46,7 @@ Thresholds are `0.1, 0.2, ..., 1.0`.
 
 ## 3. Cumulative threshold likelihood
 
-For each threshold, COVAS-VAD reads the next-token logits for the single-token
+For each threshold, Probe-VAD reads the next-token logits for the single-token
 candidates `YES` and `NO`. With likelihood temperature `T`,
 
 ```text
@@ -79,7 +79,7 @@ Valid cumulative tail probabilities should satisfy
 P(S >= 0.1) >= ... >= P(S >= 1.0).
 ```
 
-Finite-model estimates can violate this ordering. COVAS-VAD uses the
+Finite-model estimates can violate this ordering. Probe-VAD uses the
 pool-adjacent-violators algorithm to compute the L2 projection onto the
 non-increasing cone. This introduces no learned parameter.
 
@@ -91,7 +91,7 @@ The tail integral identity is
 E[S | V] = integral_0^1 P(S >= tau | V) d tau.
 ```
 
-On the 0.1 grid, COVAS-VAD uses the right Riemann approximation
+On the 0.1 grid, Probe-VAD uses the right Riemann approximation
 
 ```text
 score(V) = 0.1 * sum_{k=1}^{10} p_k
